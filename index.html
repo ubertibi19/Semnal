@@ -1,0 +1,342 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style><title>Semnal News</title><meta name="description" content="Știri din surse de încredere, alese după regiune. News from trusted outlets, picked by region."></head><body>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@75..100,500..800&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: sticky header with region + language switch; main feed column + trending rail (rail becomes a strip on phones). Heat = number of independent sources. */
+:root{
+  --bg:#f3f5f7; --surface:#ffffff; --ink:#14212b; --muted:#5b6b78; --line:#dde3e8;
+  --accent:#0b5d7a; --accent-soft:#e1eef3; --heat:#d9761a; --heat-soft:#fbeedd; --alert-bg:#14212b; --alert-fg:#f3f5f7;
+  --f-display:"Archivo","Arial Narrow",Arial,sans-serif;
+  --f-body:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --f-mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#0e161c; --surface:#16222b; --ink:#e6edf1; --muted:#93a4b0; --line:#26343e;
+  --accent:#5fb6d4; --accent-soft:#17323d; --heat:#f0a052; --heat-soft:#3a2a18; --alert-bg:#e6edf1; --alert-fg:#0e161c; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0e161c; --surface:#16222b; --ink:#e6edf1; --muted:#93a4b0; --line:#26343e;
+  --accent:#5fb6d4; --accent-soft:#17323d; --heat:#f0a052; --heat-soft:#3a2a18; --alert-bg:#e6edf1; --alert-fg:#0e161c; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--f-body);font-size:15px;line-height:1.5}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--surface)}
+a{color:inherit}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:4px}
+.wrap{max-width:1120px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+header{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--surface);border-bottom:1px solid var(--line)}
+.bar{display:flex;align-items:center;gap:12px;flex-wrap:wrap;padding-block:12px}
+.brand{font-family:var(--f-display);font-weight:800;font-stretch:80%;font-size:26px;letter-spacing:-.01em;display:flex;align-items:center;gap:8px;margin-right:auto}
+.brand .dot{width:10px;height:10px;border-radius:50%;background:var(--heat);box-shadow:0 0 0 4px var(--heat-soft)}
+.region{display:flex;align-items:center;gap:8px;font-size:13px;color:var(--muted)}
+select{font:inherit;font-weight:600;color:var(--ink);background:var(--bg);border:1px solid var(--line);border-radius:8px;padding:6px 10px}
+.lang{display:flex;border:1px solid var(--line);border-radius:8px;overflow:hidden}
+.lang button{font:inherit;font-family:var(--f-mono);font-size:12px;font-weight:500;border:none;background:var(--bg);color:var(--muted);padding:6px 10px;cursor:pointer}
+.lang button[aria-pressed="true"]{background:var(--ink);color:var(--bg)}
+.status{font-family:var(--f-mono);font-size:12px;color:var(--muted);display:flex;align-items:center;gap:6px}
+.live{width:8px;height:8px;border-radius:50%;background:#2e9e5b}
+.chips{display:flex;gap:6px;overflow-x:auto;padding-block:0 12px;scrollbar-width:none}
+.chip{flex:none;font:inherit;font-size:13px;font-weight:500;border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:999px;padding:5px 12px;cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.alert{background:var(--alert-bg);color:var(--alert-fg);border-radius:12px;padding:14px 16px;display:grid;grid-template-columns:auto 1fr auto;gap:12px;align-items:start;margin-top:16px}
+.alert .bell{font-family:var(--f-mono);font-size:11px;letter-spacing:.08em;text-transform:uppercase;background:var(--heat);color:#1a1006;border-radius:6px;padding:3px 7px;white-space:nowrap}
+.alert h3{margin:0;font-family:var(--f-display);font-stretch:85%;font-size:18px;line-height:1.25;text-wrap:balance}
+.alert p{margin:4px 0 0;font-size:13px;opacity:.8}
+.alert button{font:inherit;font-size:13px;background:transparent;color:inherit;border:1px solid currentColor;border-radius:8px;padding:4px 10px;cursor:pointer;opacity:.85}
+main{display:grid;grid-template-columns:minmax(0,1fr) 320px;gap:28px;padding-block:20px 48px}
+.sectionlabel{font-family:var(--f-mono);font-size:12px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin:0 0 10px;display:flex;justify-content:space-between;gap:8px}
+.feed{display:flex;flex-direction:column;gap:12px;min-width:0}
+.story{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:16px 18px;display:flex;flex-direction:column;gap:8px;min-width:0}
+.story.lead{padding:22px}
+.meta{display:flex;flex-wrap:wrap;gap:8px;align-items:center;font-size:12px;color:var(--muted)}
+.topic{font-family:var(--f-mono);text-transform:uppercase;letter-spacing:.07em;color:var(--accent);font-weight:500}
+.where{background:var(--accent-soft);color:var(--accent);border-radius:5px;padding:1px 6px;font-weight:500}
+.story h2{margin:0;font-family:var(--f-display);font-weight:700;font-stretch:85%;font-size:21px;line-height:1.2;text-wrap:balance}
+.story.lead h2{font-size:clamp(24px,3.4vw,32px);font-weight:800}
+.story p{margin:0;color:var(--ink);opacity:.86;max-width:65ch}
+.srcs{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.src{font-size:12.5px;text-decoration:none;border:1px solid var(--line);border-radius:6px;padding:3px 8px;color:var(--ink)}
+.src:hover{border-color:var(--accent);color:var(--accent)}
+.count{font-family:var(--f-mono);font-size:12px;font-weight:500;background:var(--heat-soft);color:var(--heat);border-radius:6px;padding:3px 7px}
+.count.one{background:var(--bg);color:var(--muted)}
+aside{min-width:0}
+.rail{position:sticky;top:calc(env(safe-area-inset-top,0px) + 130px);display:flex;flex-direction:column;gap:20px}
+.panel{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:16px}
+.trend{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:14px}
+.trend li{display:grid;grid-template-columns:22px 1fr;gap:8px}
+.rank{font-family:var(--f-display);font-weight:800;font-size:20px;line-height:1;color:var(--heat)}
+.trend a{text-decoration:none;font-weight:600;font-size:14px;line-height:1.3;display:block}
+.trend a:hover{color:var(--accent)}
+.heat{height:4px;background:var(--line);border-radius:2px;margin-top:6px;overflow:hidden}
+.heat i{display:block;height:100%;background:var(--heat);border-radius:2px}
+.trend small{font-family:var(--f-mono);font-size:11px;color:var(--muted)}
+.tabs{display:flex;gap:4px;flex-wrap:wrap;margin-bottom:12px}
+.tabs button{font:inherit;font-size:12px;border:none;background:var(--bg);color:var(--muted);border-radius:6px;padding:4px 9px;cursor:pointer}
+.tabs button[aria-pressed="true"]{background:var(--accent-soft);color:var(--accent);font-weight:600}
+.setting{display:flex;justify-content:space-between;align-items:center;gap:10px;font-size:13.5px;padding-block:6px}
+.setting + .setting{border-top:1px solid var(--line)}
+.note{font-size:12.5px;color:var(--muted);margin:10px 0 0}
+.empty{background:var(--surface);border:1px dashed var(--line);border-radius:12px;padding:28px;color:var(--muted)}
+.empty strong{display:block;color:var(--ink);font-family:var(--f-display);font-size:20px;margin-bottom:4px}
+.changes{padding-block:0 56px;max-width:760px}
+.log{list-style:none;margin:0;padding:0;border-left:2px solid var(--line);display:flex;flex-direction:column;gap:14px}
+.log li{position:relative;padding-left:18px}
+.log li::before{content:"";position:absolute;left:-6px;top:6px;width:10px;height:10px;border-radius:50%;background:var(--surface);border:2px solid var(--accent)}
+.log li:first-child::before{background:var(--accent)}
+.log time{font-family:var(--f-mono);font-size:12px;color:var(--muted);display:block}
+.log b{font-weight:600}
+.log p{margin:2px 0 0;color:var(--ink);opacity:.86;max-width:65ch}
+@media (max-width:860px){
+  main{grid-template-columns:1fr}
+  aside{order:-1}
+  .rail{position:static}
+  .panel.settings{display:none}
+  .trend{flex-direction:row;overflow-x:auto;gap:12px;scrollbar-width:none}
+  .trend li{flex:0 0 230px}
+}
+@media (max-width:520px){.status{width:100%}.alert{grid-template-columns:1fr}}
+@media (prefers-reduced-motion:no-preference){.live{animation:pulse 2s ease-in-out infinite}@keyframes pulse{50%{opacity:.35}}}
+</style>
+
+<header>
+  <div class="wrap">
+    <div class="bar">
+      <div class="brand"><span class="dot" aria-hidden="true"></span>Semnal</div>
+      <label class="region" for="region"><span data-i18n="newsFor">News for</span>
+        <select id="region">
+          <option value="bucharest">Bucharest</option>
+          <option value="romania">Romania</option>
+          <option value="europe">Europe</option>
+          <option value="world">World</option>
+        </select>
+      </label>
+      <div class="lang" role="group" aria-label="Language">
+        <button id="lang-ro" data-l="ro">RO</button><button id="lang-en" data-l="en">EN</button>
+      </div>
+      <div class="status"><span class="live" aria-hidden="true"></span><span id="status">…</span></div>
+    </div>
+    <div class="chips" id="chips" role="group" aria-label="Topics"></div>
+  </div>
+</header>
+
+<div class="wrap">
+  <div id="alert" hidden></div>
+  <main>
+    <section>
+      <h2 class="sectionlabel"><span id="feedlabel"></span><span id="feedcount"></span></h2>
+      <div class="feed" id="feed"></div>
+    </section>
+    <aside>
+      <div class="rail">
+        <div class="panel">
+          <h2 class="sectionlabel"><span data-i18n="trending">Trending</span><span data-i18n="bySources">by sources</span></h2>
+          <div class="tabs" id="trendtabs" role="group" aria-label="Trending region"></div>
+          <ol class="trend" id="trend"></ol>
+        </div>
+        <div class="panel settings">
+          <h2 class="sectionlabel"><span data-i18n="alertsTitle">Alerts</span></h2>
+          <div class="setting"><label for="alerts" data-i18n="alertsToggle">Breaking-news alerts</label><input type="checkbox" id="alerts" checked></div>
+          <div class="setting"><label for="cap" data-i18n="alertsCap">Max alerts per day</label>
+            <select id="cap"><option>1</option><option selected>3</option><option>5</option></select></div>
+          <p class="note" data-i18n="alertsNote">An alert fires only when at least two independent outlets report the same story in your region.</p>
+        </div>
+      </div>
+    </aside>
+  </main>
+  <section class="changes" aria-labelledby="changes-h">
+    <h2 class="sectionlabel" id="changes-h"><span data-i18n="changesTitle">Project updates</span><span data-i18n="changesSub">what's new in Semnal</span></h2>
+    <ol class="log" id="log"></ol>
+  </section>
+</div>
+
+<script id="snapshot" type="application/json">{"lastRun": "2026-10-27T13:35:00Z", "stories": [{"place": "Bucharest", "place_ro": "București", "publishedAt": "2026-10-27T07:00:00Z", "region": "bucharest", "sources": [{"name": "Radio Romania International", "url": "https://www.rri.ro/actualitate/jurnal-romanesc/jurnal-romanesc-27-10-2026-id1075939.html"}], "summary": "Leaders of Romanian organisations from five Balkan countries will meet in Bucharest, where new research volumes will be launched.", "summary_ro": "Lideri ai organizațiilor românești din cinci țări balcanice se reunesc la București, unde vor fi lansate volume noi de cercetare.", "title": "Congress of Balkan Romanian communities set for 4 November", "title_ro": "Congresul românilor din Balcani, programat pe 4 noiembrie", "topic": "culture", "id": "buc-balkan-congress"}, {"place": "Bucharest", "place_ro": "București", "publishedAt": "2026-10-26T10:11:00Z", "region": "bucharest", "sources": [{"name": "Romania Insider", "url": "https://www.romania-insider.com/business/romanian-developer-one-united-properties-surpasses-1-million"}], "summary": "The Bucharest developer reached the milestone across its residential and office projects.", "summary_ro": "Dezvoltatorul bucureștean a atins pragul cu proiectele sale rezidențiale și de birouri.", "title": "One United Properties passes 1 million sqm delivered", "title_ro": "One United Properties depășește 1 milion de metri pătrați livrați", "topic": "economy", "id": "buc-one-united"}, {"place": "Bucharest", "place_ro": "București", "publishedAt": "2026-10-26T08:45:00Z", "region": "bucharest", "sources": [{"name": "Romania Insider", "url": "https://www.romania-insider.com/business/rock-development-invests-eur-32-mln-second-phase"}], "summary": "Rock Development is investing in the next stage of its residential development in the capital.", "summary_ro": "Rock Development investește în următoarea fază a ansamblului său rezidențial din Capitală.", "title": "€32 million second phase for Bucharest housing project", "title_ro": "32 de milioane de euro pentru a doua etapă a unui proiect rezidențial din București", "topic": "economy", "id": "buc-rock-development"}, {"place": "Bucharest", "place_ro": "București", "publishedAt": "2026-10-26T11:55:00Z", "region": "bucharest", "sources": [{"name": "Romania Insider", "url": "https://www.romania-insider.com/life/eu-space-technology-hackathon-comes-bucharest-november"}], "summary": "The capital hosts an EU-backed space tech hackathon in November.", "summary_ro": "Capitala găzduiește în noiembrie un hackathon de tehnologie spațială susținut de UE.", "title": "EU space technology hackathon coming to Bucharest", "title_ro": "Un hackathon european de tehnologie spațială vine la București", "topic": "tech", "id": "buc-space-hackathon"}, {"place": "Europe", "place_ro": "Europa", "publishedAt": "2026-10-27T10:00:00Z", "region": "europe", "sources": [{"name": "Euronews", "url": "https://www.euronews.com/2026/10/27/european-natural-gas-prices-soar-what-it-means-for-your-winter-bills"}], "summary": "A sharp rise in natural gas prices raises the prospect of higher heating bills across Europe.", "summary_ro": "Scumpirea gazelor naturale anunță facturi mai mari la încălzire în toată Europa.", "title": "European gas prices jump ahead of winter", "title_ro": "Prețul gazelor în Europa crește brusc înaintea iernii", "topic": "energy", "id": "eu-gas-prices"}, {"place": "Kyiv", "place_ro": "Kiev", "publishedAt": "2026-10-27T07:30:00Z", "region": "europe", "sources": [{"name": "Euronews", "url": "https://www.euronews.com/video/2026/10/27/ukraine-firefighters-battle-flames-and-rescue-dog-from-kyiv-ruins"}], "summary": "Firefighters in the Ukrainian capital worked through the ruins, rescuing a dog from the rubble.", "summary_ro": "Salvatorii din capitala Ucrainei au lucrat printre ruine și au salvat un câine de sub dărâmături.", "title": "Kyiv rescuers fight fires in strike-hit buildings", "title_ro": "Pompierii din Kiev sting incendii în clădiri lovite de atacuri", "topic": "security", "id": "eu-kyiv-fires"}, {"place": "Germany", "place_ro": "Germania", "publishedAt": "2026-10-27T09:00:00Z", "region": "europe", "sources": [{"name": "Euronews", "url": "https://www.euronews.com/2026/10/27/merz-courts-asian-investors-as-he-insists-europe-remains-a-safe-bet"}], "summary": "The German chancellor argued that Europe remains a safe place to invest.", "summary_ro": "Cancelarul german a susținut că Europa rămâne un loc sigur pentru investiții.", "title": "Merz pitches Europe to Asian investors", "title_ro": "Merz încearcă să atragă investitori asiatici în Europa", "topic": "economy", "id": "eu-merz-asia"}, {"place": "Finland / Norway", "place_ro": "Finlanda / Norvegia", "publishedAt": "2026-10-27T13:05:00Z", "region": "europe", "sources": [{"name": "Știri pe surse", "url": "https://www.stiripesurse.ro/un-pas-catre-dezescaladare-lideri-din-tarile-nordice-au-vorbit-cu-putin-si-zelenski-discutia-a-fost-sincera-si-substantiala_3931701"}], "summary": "Finland's President Alexander Stubb and Norway's Prime Minister Jonas Gahr Støre spoke with Vladimir Putin about the war in Ukraine and then briefed Volodymyr Zelensky.", "summary_ro": "Președintele finlandez Alexander Stubb și premierul norvegian Jonas Gahr Støre au discutat cu Vladimir Putin despre războiul din Ucraina, apoi au vorbit cu Volodimir Zelenski.", "title": "Finnish and Norwegian leaders call Putin, then Zelensky", "title_ro": "Liderii Finlandei și Norvegiei au vorbit cu Putin, apoi cu Zelenski", "topic": "politics", "id": "eu-nordic-putin-call"}, {"place": "Brussels", "place_ro": "Bruxelles", "publishedAt": "2026-10-27T08:30:00Z", "region": "europe", "sources": [{"name": "Euronews", "url": "https://www.euronews.com/2026/10/27/eu-inc-why-the-commissions-perfect-startup-plan-might-be-falling-apart"}], "summary": "The Commission's proposal for a single EU-wide company form for startups faces growing doubts.", "summary_ro": "Propunerea Comisiei pentru o formă unică de companie la nivel european pentru startup-uri stârnește tot mai multe îndoieli.", "title": "EU startup company plan runs into trouble", "title_ro": "Planul UE pentru startup-uri se lovește de probleme", "topic": "economy", "id": "eu-startup-plan"}, {"place": "Bucharest", "place_ro": "București", "publishedAt": "2026-10-27T12:40:00Z", "region": "bucharest", "sources": [{"name": "Știri pe surse", "url": "https://www.stiripesurse.ro/aep-organizeaza-miercuri-si-joi-o-conferinta-internationala-dedicata-protejarii-alegerilor-in-era-digitala_3931737"}], "summary": "Romania's Permanent Electoral Authority holds a two-day international conference on election security in the digital age, starting Wednesday.", "summary_ro": "Autoritatea Electorală Permanentă găzduiește miercuri și joi o conferință internațională despre securitatea alegerilor în era digitală.", "title": "Electoral authority hosts conference on protecting elections online", "title_ro": "AEP organizează o conferință despre protejarea alegerilor în mediul digital", "topic": "politics", "id": "pol-aep-election-conference"}, {"place": "Romania", "place_ro": "România", "publishedAt": "2026-10-26T09:59:00Z", "region": "romania", "sources": [{"name": "Digi24", "url": "https://www.digi24.ro/stiri/actualitate/politica/sorin-grindeanu-ii-aduc-aminte-domnului-bolojan-ca-a-votat-acest-guvern-sa-lase-un-pic-tonul-mai-jos-4009195"}, {"name": "Mediafax", "url": "https://www.mediafax.ro/politic/replica-lui-grindeanu-dupa-ce-bolojan-l-a-acuzat-ca-se-comporta-ca-premier-de-facto-a-stat-sase-luni-lipit-de-scaun-si-nu-a-facut-decat-sa-adanceasca-criza-23831710"}, {"name": "News.ro", "url": "https://www.news.ro/politic-intern/bolojan-observ-domnul-grindeanu-isi-asuma-rolul-unui-premier-facto-anuntand-activitati-stabilind-practic-agenda-domnului-niculescu-asemanari-vede-intre-deficit-etapa-trimestrial-cutiile-pantofi-1922403926002026100922886163"}, {"name": "Capital", "url": "https://www.capital.ro/ilie-bolojan-il-ironizeaza-pe-sorin-grindeanu-isi-asuma-rolul-unui-premier-anuntand-activitati-si-stabilind-practic-agenda-domnului-niculescu.html"}, {"name": "Gândul", "url": "https://www.gandul.ro/politica/grindeanu-replica-pentru-bolojan-dupa-ce-fostul-premier-l-a-acuzat-ca-se-comporta-ca-un-premier-de-facto-a-stat-sase-luni-lipit-de-scaun-dupa-care-s-a-facut-un-fel-de-spe-21045346"}, {"name": "B1 TV", "url": "https://www.b1tv.ro/politica/scantei-intre-grindeanu-si-bolojan-ce-ii-reproseaza-liderului-pnl-1744021.html"}], "summary": "Former prime minister Ilie Bolojan accused PSD leader Sorin Grindeanu of running the government's agenda in place of PM Luca Niculescu. Grindeanu replied that Niculescu is the prime minister and reminded Bolojan that the PNL voted for this government.", "summary_ro": "Fostul premier Ilie Bolojan l-a acuzat pe liderul PSD Sorin Grindeanu că stabilește agenda Guvernului în locul premierului Luca Niculescu. Grindeanu a replicat că premierul este Niculescu și i-a amintit lui Bolojan că PNL a votat acest guvern.", "title": "Bolojan says Grindeanu acts as de facto PM; Grindeanu hits back", "title_ro": "Bolojan: Grindeanu se poartă ca un premier de facto. Grindeanu răspunde", "topic": "politics", "id": "pol-bolojan-grindeanu"}, {"place": "Romania", "place_ro": "România", "publishedAt": "2026-10-27T09:05:00Z", "region": "romania", "sources": [{"name": "Știri pe surse", "url": "https://www.stiripesurse.ro/incepe-procesul-de-coruptie-in-care-e-implicat-si-fostul-premier-ilie-bolojan_3931645"}], "summary": "A corruption trial has begun in a case that also involves former prime minister Ilie Bolojan, according to Știri pe surse.", "summary_ro": "A început un proces de corupție într-un dosar în care apare și fostul premier Ilie Bolojan, potrivit Știri pe surse.", "title": "Corruption trial opens in case naming former PM Bolojan", "title_ro": "Începe procesul de corupție în care este implicat fostul premier Bolojan", "topic": "politics", "id": "pol-bolojan-trial"}, {"place": "Bucharest", "place_ro": "București", "publishedAt": "2026-10-27T10:12:00Z", "region": "romania", "sources": [{"name": "Știri pe surse", "url": "https://www.stiripesurse.ro/ccr-tanasescu-bolojan-ancheta-senat-document_3931669"}], "summary": "Court president Simina Tănăsescu replied publicly to senators investigating her meeting with Ilie Bolojan and released documents.", "summary_ro": "Președinta Curții Constituționale, Simina Tănăsescu, a răspuns public senatorilor care anchetează întâlnirea ei cu Ilie Bolojan și a prezentat documente.", "title": "Constitutional Court head answers Senate inquiry over Bolojan meeting", "title_ro": "Șefa CCR răspunde anchetei Senatului privind întâlnirea cu Bolojan", "topic": "politics", "id": "pol-ccr-senate-inquiry"}, {"place": "Romania", "place_ro": "România", "publishedAt": "2026-10-27T13:11:00Z", "region": "romania", "sources": [{"name": "Știri pe surse", "url": "https://www.stiripesurse.ro/primul-lider-pnl-care-face-praf-planul-de-comasare-voluntara-a-localitatilor-anuntat-de-grindeanu-cine-o-sa-renunte-de-buna-voie-la-scaunul-de-primar_3931666"}, {"name": "Digi24", "url": "https://www.digi24.ro/stiri/actualitate/politica/grindeanu-va-cere-angajarea-raspunderii-guvernului-pentru-doua-reforme-majore-vom-arata-concret-cum-se-face-4008997"}], "summary": "PSD leader Sorin Grindeanu wants the government to pass two major reforms by assuming responsibility in Parliament, including voluntary mergers of small localities. PNL figures called the plan a sham, and UDMR's Kelemen Hunor warned mergers cannot be decided in an office.", "summary_ro": "Liderul PSD, Sorin Grindeanu, vrea ca Guvernul să-și asume răspunderea în Parlament pentru două reforme majore, inclusiv comasarea voluntară a localităților mici. Lideri PNL au numit planul o farsă, iar Kelemen Hunor (UDMR) a avertizat că o comasare nu se decide din birou.", "title": "PSD wants fast-track vote on merging small localities; PNL and UDMR push back", "title_ro": "PSD vrea asumarea răspunderii pentru comasarea localităților; PNL și UDMR obiectează", "topic": "politics", "id": "pol-commune-merger"}, {"place": "Romania / Italy", "place_ro": "România / Italia", "publishedAt": "2026-10-27T08:42:00Z", "region": "romania", "sources": [{"name": "Știri pe surse", "url": "https://www.stiripesurse.ro/dosarul-lui-georgescu-se-complica-diicot-cere-audierea-in-italia-a-afaceristului-massimiliano-arena-la-el-ar-fi-ajuns-un-milion-de-euro_3931646"}], "summary": "DIICOT asked Italian authorities to question a businessman who allegedly received one million euros in the investigation involving Călin Georgescu.", "summary_ro": "Procurorii DIICOT au cerut autorităților italiene audierea unui om de afaceri la care ar fi ajuns un milion de euro, în ancheta privindu-l pe Călin Georgescu.", "title": "Prosecutors seek testimony in Italy in the Georgescu case", "title_ro": "DIICOT cere audierea în Italia a unui om de afaceri în dosarul Georgescu", "topic": "politics", "id": "pol-georgescu-case"}, {"place": "Chișinău", "place_ro": "Chișinău", "publishedAt": "2026-10-27T11:50:00Z", "region": "romania", "sources": [{"name": "Știri pe surse", "url": "https://www.stiripesurse.ro/luca-niculescu-anunta-planurile-noului-guvern-pentru-republica-moldova-de-la-energie-si-poduri-pana-la-investitii-totul-este-prioritar_3931714"}, {"name": "Digi24", "url": "https://www.digi24.ro/stiri/actualitate/politica/luca-niculescu-merge-azi-in-prima-vizita-oficiala-in-calitate-de-premier-cu-cine-se-va-intalni-la-chisinau-4010199"}, {"name": "Realitatea.md", "url": "https://realitatea.md/premierul-romaniei-vine-astazi-la-chisinau-urmareste-pe-rlive-md-si-realitatea-tv-declaratiile-de-presa/"}], "summary": "Prime Minister Luca Niculescu set out joint projects with Moldova covering energy links, bridges, railways and investment, and said he wants to clear obstacles to Moldova's EU accession.", "summary_ro": "Premierul Luca Niculescu a prezentat proiecte comune cu Republica Moldova privind interconectarea energetică, podurile, căile ferate și investițiile, spunând că vrea să elimine blocajele din calea aderării Moldovei la UE.", "title": "Niculescu visits Chișinău with plans for energy, bridges and EU path", "title_ro": "Niculescu, la Chișinău cu planuri pentru energie, poduri și aderarea la UE", "topic": "politics", "id": "pol-niculescu-moldova"}, {"place": "Romania", "place_ro": "România", "publishedAt": "2026-10-27T11:12:00Z", "region": "romania", "sources": [{"name": "Știri pe surse", "url": "https://www.stiripesurse.ro/luca-niculescu-taxe-impozite-guvern_3931699"}], "summary": "Prime Minister Luca Niculescu said his government will cut waste rather than raise taxes. AUR says the government is preparing new tax increases anyway.", "summary_ro": "Premierul Luca Niculescu a spus că Guvernul va reduce risipa în loc să crească taxele. AUR susține că Executivul pregătește totuși noi majorări de impozite.", "title": "PM Niculescu promises spending cuts and no tax rises", "title_ro": "Premierul Niculescu promite reduceri de cheltuieli și fără taxe noi", "topic": "politics", "id": "pol-niculescu-taxes"}, {"place": "Romania", "place_ro": "România", "publishedAt": "2026-10-27T10:42:00Z", "region": "romania", "sources": [{"name": "Știri pe surse", "url": "https://www.stiripesurse.ro/aur-critica-intentia-guvernului-de-a-majora-pensiile-in-doua-transe-sa-se-respecte-legea-si-sa-se-calculeze-si-restantele_3931686"}], "summary": "The government intends to raise pensions in two installments. AUR wants the full increase applied under the law, including back payments.", "summary_ro": "Executivul intenționează să crescă pensiile în două etape. AUR cere aplicarea integrală a legii, inclusiv plata restanțelor.", "title": "Government plans pension rise in two stages; AUR objects", "title_ro": "Guvernul vrea să majoreze pensiile în două tranșe; AUR se opune", "topic": "politics", "id": "pol-pensions-two-steps"}, {"place": "Romania", "place_ro": "România", "publishedAt": "2026-10-27T10:27:00Z", "region": "romania", "sources": [{"name": "Știri pe surse", "url": "https://www.stiripesurse.ro/psd-reforma-de-sus-in-jos_3931689"}], "summary": "According to unnamed sources, the PSD is discussing a broad reform that would change how parliamentary seats are allocated. The party has not confirmed it.", "summary_ro": "Potrivit unor surse neoficiale, PSD discută o reformă amplă care ar schimba modul de împărțire a mandatelor parlamentare. Partidul nu a confirmat.", "title": "PSD weighs winner-takes-all voting system, unnamed sources say", "title_ro": "PSD analizează un sistem electoral „câștigătorul ia tot”, spun surse", "topic": "politics", "id": "pol-psd-electoral-reform"}, {"place": "Romania", "place_ro": "România", "publishedAt": "2026-10-27T11:35:00Z", "region": "romania", "sources": [{"name": "Știri pe surse", "url": "https://www.stiripesurse.ro/sorin-grindeanu-cere-masuri-dupa-dezvaluirile-despre-actele-de-sabotaj-coordonate-din-rusia-securitatea-nationala-trebuie-intarita_3931711"}], "summary": "PSD leader Sorin Grindeanu called for stronger national security, Interior Minister Cătălin Predoiu warned the pressure is likely to grow, and AUR asked President Nicușor Dan to explain how the attack was possible.", "summary_ro": "Liderul PSD, Sorin Grindeanu, a cerut întărirea securității naționale, Cătălin Predoiu a avertizat că presiunile vor crește, iar AUR i-a cerut președintelui Nicușor Dan să explice cum a fost posibil atacul.", "title": "Parties demand answers after Russian sabotage revelations", "title_ro": "Partidele cer răspunsuri după dezvăluirile despre sabotajul rusesc", "topic": "politics", "id": "pol-sabotage-reactions"}, {"place": "Romania", "place_ro": "România", "publishedAt": "2026-10-27T08:00:00Z", "region": "romania", "sources": [{"name": "Digi24", "url": "https://www.digi24.ro/stiri/actualitate/politica/orice-majorare-a-impozitelor-si-taxelor-in-2027-este-o-decizie-sinucigasa-liderul-udmr-pentru-mine-a-fost-experienta-cea-mai-cruda-4009971"}, {"name": "Gândul", "url": "https://www.gandul.ro/politica/psd-nu-sustine-majorarea-impozitelor-prevazuta-de-premierul-demis-boloja-pentru-inceputul-lui-2027-fostul-ministru-al-investitiilor-gata-cu-aberatiile-bolojeniste-21043170"}], "summary": "UDMR leader Kelemen Hunor called any tax increase next year a suicidal decision, and the PSD says it will not back the increases planned under the Bolojan government. Kelemen does not rule out a no-confidence motion but expects the PSD to govern until 2028.", "summary_ro": "Liderul UDMR, Kelemen Hunor, a spus că orice majorare de taxe anul viitor ar fi o decizie sinucigașă, iar PSD anunță că nu susține creșterile plănuite de Guvernul Bolojan. Kelemen nu exclude o moțiune de cenzură, dar crede că PSD va guverna până în 2028.", "title": "Coalition partners rule out tax rises in 2027", "title_ro": "Partenerii de guvernare exclud creșteri de taxe în 2027", "topic": "politics", "id": "pol-tax-2027"}, {"place": "Romania", "place_ro": "România", "publishedAt": "2026-10-27T08:00:00Z", "region": "romania", "sources": [{"name": "SeeNews", "url": "https://seenews.com/news/romanias-bento-signs-mobile-app-deal-with-rompetrol-downstream-1303733"}], "summary": "Romanian software company Bento has signed a mobile app contract with the fuel retailer.", "summary_ro": "Compania românească de software Bento a semnat un contract pentru o aplicație mobilă cu distribuitorul de carburanți.", "title": "Bento to build mobile app for Rompetrol Downstream", "title_ro": "Bento va construi o aplicație mobilă pentru Rompetrol Downstream", "topic": "tech", "id": "ro-bento-rompetrol"}, {"place": "Romania", "place_ro": "România", "publishedAt": "2026-10-26T07:42:00Z", "region": "romania", "sources": [{"name": "Romania Insider", "url": "https://www.romania-insider.com/business/romanias-finance-minister-socdem-leader-clash-budget-execution"}], "summary": "The two disagree publicly over how to read the latest budget execution data.", "summary_ro": "Cei doi se contrazic public privind interpretarea celor mai recente date despre execuția bugetară.", "title": "Finance minister and Social Democrat leader clash over budget figures", "title_ro": "Ministrul Finanțelor și liderul social-democraților, în conflict pe cifrele bugetului", "topic": "politics", "id": "ro-budget-clash"}, {"place": "Romania", "place_ro": "România", "publishedAt": "2026-10-26T07:31:00Z", "region": "romania", "sources": [{"name": "Romania Insider", "url": "https://www.romania-insider.com/business/cfa-romania-current-situation-adverse-expectations-improvement-remain"}], "summary": "A CFA Romania survey finds analysts rate current conditions as poor and expect little improvement.", "summary_ro": "Un sondaj CFA România arată că analiștii consideră situația actuală nefavorabilă și nu se așteaptă la îmbunătățiri.", "title": "Analysts see weak prospects for Romania's economy", "title_ro": "Analiștii văd perspective slabe pentru economia României", "topic": "economy", "id": "ro-cfa-outlook"}, {"place": "Romania", "place_ro": "România", "publishedAt": "2026-10-26T13:27:00Z", "region": "romania", "sources": [{"name": "Romania Insider", "url": "https://www.romania-insider.com/life/romania-dominates-2026-balkan-cyclo-cross-championship-5-gold"}], "summary": "Romanian riders topped the medal table at the 2026 regional championship.", "summary_ro": "Sportivii români au încheiat pe primul loc în clasamentul pe medalii al competiției regionale din 2026.", "title": "Romania wins five golds at Balkan Cyclo-Cross Championship", "title_ro": "România câștigă cinci medalii de aur la Campionatul Balcanic de Ciclocros", "topic": "sport", "id": "ro-cyclocross"}, {"place": "Romania", "place_ro": "România", "publishedAt": "2026-10-26T07:47:00Z", "region": "romania", "sources": [{"name": "Romania Insider", "url": "https://www.romania-insider.com/business/romania-prolongs-state-energy-crisis-cernavoda-nuclear-power"}], "summary": "Romania has prolonged its state of crisis in the energy sector because its only nuclear plant may not restart before November.", "summary_ro": "România a prelungit starea de criză în sectorul energetic, deoarece singura centrală nucleară s-ar putea să nu repornească înainte de noiembrie.", "title": "Energy crisis extended as Cernavodă may stay offline in November", "title_ro": "Criza energetică, prelungită: Cernavodă ar putea rămâne oprită și în noiembrie", "topic": "energy", "id": "ro-energy-crisis"}, {"place": "Tokyo / Romania", "place_ro": "Tokyo / România", "publishedAt": "2026-10-27T07:00:00Z", "region": "romania", "sources": [{"name": "Radio Romania International", "url": "https://www.rri.ro/actualitate/jurnal-romanesc/jurnal-romanesc-27-10-2026-id1075939.html"}, {"name": "Știri pe surse", "url": "https://www.stiripesurse.ro/clara-volintiru-secretar-de-stat-mae-a-condus-delegatia-romana-care-a-participat-la-forumul-de-inovare-romania-japonia-desfasurat-la-tokyo-kyoto-osaka-si-kobe_3931650"}], "summary": "Romania's national informatics institute proposed shared research, AI testing and technology transfer at a forum in Tokyo.", "summary_ro": "Institutul național de cercetare în informatică a propus, la un forum la Tokyo, proiecte comune, testare AI și transfer de tehnologie.", "title": "Romania and Japan explore joint AI research", "title_ro": "România și Japonia discută cercetare comună în inteligență artificială", "topic": "tech", "id": "ro-japan-ai"}, {"place": "Romania", "place_ro": "România", "publishedAt": "2026-10-26T07:52:00Z", "region": "romania", "sources": [{"name": "Romania Insider", "url": "https://www.romania-insider.com/business/ukraines-metinvest-faces-shutdown-recently-acquired-romanian-pipe"}], "summary": "The Ukrainian steel group may have to halt a pipe plant in Romania it acquired recently.", "summary_ro": "Grupul siderurgic ucrainean ar putea fi nevoit să oprească o fabrică de țevi din România achiziționată de curând.", "title": "Metinvest's newly bought Romanian pipe maker faces shutdown", "title_ro": "Fabrica de țevi cumpărată recent de Metinvest riscă oprirea", "topic": "economy", "id": "ro-metinvest-pipe"}, {"place": "Romania", "place_ro": "România", "publishedAt": "2026-10-26T11:31:00Z", "region": "romania", "sources": [{"name": "Romania Insider", "url": "https://www.romania-insider.com/business/romanian-medical-ai-company-rayscape-receives-eur-260000"}], "summary": "The Romanian company raised the funding through the Growceanu investment platform.", "summary_ro": "Compania românească a obținut finanțarea prin platforma de investiții Growceanu.", "title": "Medical AI startup Rayscape raises €260,000", "title_ro": "Startup-ul de AI medical Rayscape atrage 260.000 de euro", "topic": "tech", "id": "ro-rayscape"}, {"place": "Madrid", "place_ro": "Madrid", "publishedAt": "2026-10-26T12:52:00Z", "region": "romania", "sources": [{"name": "Romania Insider", "url": "https://www.romania-insider.com/life/traditional-romanian-rugs-display-madrids-royal-tapestry-factory"}, {"name": "Radio Romania International", "url": "https://www.rri.ro/actualitate/jurnal-romanesc/jurnal-romanesc-27-10-2026-id1075939.html"}], "summary": "More than 60 textiles from the Museum of the Romanian Peasant are exhibited abroad for the first time, marking 145 years of Romania–Spain relations.", "summary_ro": "Peste 60 de textile de la Muzeul Țăranului Român sunt expuse pentru prima dată în străinătate, la 145 de ani de relații româno-spaniole.", "title": "Traditional Romanian rugs go on show in Madrid", "title_ro": "Covoare tradiționale românești expuse la Madrid", "topic": "culture", "id": "ro-rugs-madrid"}, {"place": "Brașov", "place_ro": "Brașov", "publishedAt": "2026-10-27T00:33:00Z", "region": "romania", "sources": [{"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/27/romania-says-russia-run-sabotage-network-set-fire-near-weapons-factory"}, {"name": "SeeNews", "url": "https://seenews.com/news/russian-coordinated-sabotage-network-linked-to-romania-arms-plant-fire-1303721"}, {"name": "The Manila Times (AP)", "url": "https://www.manilatimes.net/2026/10/27/world/americas-emea/romanian-president-calls-alleged-russian-sabotage-plot-a-grave-violation-of-nato-members-security/2455041"}, {"name": "Ukrainska Pravda", "url": "https://www.pravda.com.ua/eng/news/2026/10/27/8059898/"}], "summary": "Romanian intelligence and prosecutors say a network coordinated from Russia set a September fire near a state weapons factory. Three suspects are named; two are held in Germany and one is sought in Poland. The president called it a serious breach of a NATO member's security.", "summary_ro": "Serviciile de informații și procurorii spun că o rețea coordonată din Rusia a provocat în septembrie un incendiu lângă o fabrică de armament de stat. Trei suspecți sunt identificați: doi sunt reținuți în Germania, iar unul este căutat în Polonia. Președintele a numit fapta o încălcare gravă a securității unui stat NATO.", "title": "Romania blames Russian-run sabotage network for fire near Brașov arms plant", "title_ro": "România acuză o rețea de sabotaj condusă de Rusia pentru incendiul de lângă fabrica de armament din Brașov", "topic": "security", "id": "ro-sabotage-brasov"}, {"place": "Israel", "place_ro": "Israel", "publishedAt": "2026-10-27T11:00:00Z", "region": "world", "sources": [{"name": "Euronews", "url": "https://www.euronews.com/2026/10/27/israelis-head-to-polls-in-first-general-election-since-7-october-attacks-with-no-clear-fav"}, {"name": "Știri pe surse", "url": "https://www.stiripesurse.ro/video-netanyahu-face-acuzatii-grave-vor-sa-fure-alegerile-prezenta-la-urne-la-cel-mai-ridicat-nivel-din-incoace_3931724"}], "summary": "Israelis are voting in the first general election since the 7 October attacks, with no clear favourite between Netanyahu and former army chief Gadi Eisenkot. Midday turnout was the highest since 1973; Netanyahu accused Arab opponents of trying to steal the vote.", "summary_ro": "Israelienii votează la primele alegeri generale de după atacurile din 7 octombrie, fără un favorit clar între Netanyahu și fostul șef al armatei Gadi Eisenkot. Prezența de la prânz este cea mai mare din 1973; Netanyahu își acuză adversarii arabi că vor să fure alegerile.", "title": "Israel votes in tight Netanyahu–Eisenkot race", "title_ro": "Israelul votează într-o cursă strânsă Netanyahu–Eisenkot", "topic": "politics", "id": "world-israel-election"}, {"place": "Paris", "place_ro": "Paris", "publishedAt": "2026-10-27T06:30:00Z", "region": "world", "sources": [{"name": "Euronews", "url": "https://www.euronews.com/2026/10/27/harry-kane-is-first-bundesliga-player-since-matthias-sammer-to-win-ballon-dor"}], "summary": "The Bayern Munich striker is the first English winner in 25 years.", "summary_ro": "Atacantul lui Bayern München este primul englez premiat după 25 de ani.", "title": "Harry Kane wins the Ballon d'Or", "title_ro": "Harry Kane câștigă Balonul de Aur", "topic": "sport", "id": "world-kane-ballon"}, {"place": "United States", "place_ro": "Statele Unite", "publishedAt": "2026-10-27T09:30:00Z", "region": "world", "sources": [{"name": "Euronews", "url": "https://www.euronews.com/2026/10/27/star-trek-actor-walter-koenig-who-played-pavel-chekov-dies-aged-90"}], "summary": "Koenig was best known for playing Pavel Chekov in the original series and films.", "summary_ro": "Koenig era cunoscut mai ales pentru rolul lui Pavel Chekov din serialul original și din filme.", "title": "Star Trek actor Walter Koenig dies at 90", "title_ro": "Actorul din Star Trek Walter Koenig a murit la 90 de ani", "topic": "culture", "id": "world-koenig"}, {"place": "South Korea", "place_ro": "Coreea de Sud", "publishedAt": "2026-10-27T06:00:00Z", "region": "world", "sources": [{"name": "Euronews", "url": "https://www.euronews.com/2026/10/27/ai-chip-boom-tripled-south-koreas-economic-growth-in-the-third-quarter"}], "summary": "Strong chip exports tripled the country's economic growth rate in the third quarter.", "summary_ro": "Exporturile puternice de cipuri au triplat ritmul de creștere economică în trimestrul al treilea.", "title": "AI chip demand lifts South Korea's growth", "title_ro": "Cererea de cipuri AI accelerează creșterea Coreei de Sud", "topic": "economy", "id": "world-korea-growth"}, {"place": "France", "place_ro": "Franța", "publishedAt": "2026-10-27T10:30:00Z", "region": "world", "sources": [{"name": "Euronews", "url": "https://www.euronews.com/2026/10/27/scientists-uncover-new-clues-to-the-actual-night-sky-behind-van-goghs-the-starry-night"}], "summary": "New research looks at whether a real astronomical event inspired Van Gogh's painting.", "summary_ro": "Un nou studiu analizează dacă un fenomen astronomic real l-a inspirat pe Van Gogh.", "title": "Scientists trace the real sky behind 'The Starry Night'", "title_ro": "Cercetătorii caută cerul real din „Noaptea înstelată”", "topic": "culture", "id": "world-starry-night"}], "changelog": [{"id": "c1", "at": "2026-10-27T13:23:00Z", "title": "Semnal launched", "title_ro": "Semnal a fost lansat", "text": "News website with a feed chosen by region, trending stories ranked by number of outlets, and breaking-news alerts confirmed by 2+ outlets.", "text_ro": "Site de știri cu flux ales după regiune, știri în tendințe clasate după numărul de publicații și alerte confirmate de minimum 2 surse."}, {"id": "c2", "at": "2026-10-27T13:26:00Z", "title": "Automatic hourly updates", "title_ro": "Actualizare automată în fiecare oră", "text": "New stories are collected from trusted outlets every hour with no manual approval.", "text_ro": "Știrile noi sunt colectate din surse de încredere în fiecare oră, fără aprobare manuală."}, {"id": "c3", "at": "2026-10-27T13:28:00Z", "title": "Romanian language", "title_ro": "Limba română", "text": "RO / EN switch. Every story now has a Romanian title and summary.", "text_ro": "Comutator RO / EN. Fiecare știre are acum titlu și rezumat în română."}, {"id": "c4", "at": "2026-10-27T13:33:00Z", "title": "More politics", "title_ro": "Mai multă politică", "text": "At least half of each update is politics, mostly Romanian. Added Știri pe surse, Digi24, Mediafax, News.ro, Gândul, Capital, B1 TV and CanCan (CanCan never confirms an alert on its own).", "text_ro": "Cel puțin jumătate din fiecare actualizare este politică, mai ales românească. Am adăugat Știri pe surse, Digi24, Mediafax, News.ro, Gândul, Capital, B1 TV și CanCan (CanCan nu confirmă singur o alertă)."}, {"id": "c5", "at": "2026-10-27T13:35:00Z", "title": "New sources", "title_ro": "Surse noi", "text": "Added Recorder, Context, PressOne, Știrile ProTV, Libertatea and Ziarul Financiar; HotNews, Europa Liberă and Agerpres are now checked directly.", "text_ro": "Am adăugat Recorder, Context, PressOne, Știrile ProTV, Libertatea și Ziarul Financiar; HotNews, Europa Liberă și Agerpres sunt verificate direct."}, {"id": "c6", "at": "2026-10-27T13:40:00Z", "title": "Public test link", "title_ro": "Link public de test", "text": "The page now carries a copy of the latest news, so it opens on any phone, even without a Claude account. This list shows what changed.", "text_ro": "Pagina conține acum o copie a ultimelor știri, deci se deschide pe orice telefon, chiar și fără cont Claude. Această listă arată ce s-a schimbat."}, {"id": "c7", "at": "2026-10-27T13:43:00Z", "title": "Trending per region fixed", "title_ro": "Tendințe pe regiuni, reparate", "text": "The Romania, Europe and World tabs now each show only that region's top stories.", "text_ro": "Taburile România, Europa și Lume arată acum doar știrile de top din regiunea respectivă."}]}</script>
+<script>
+(() => {
+  const T = {
+    en: {
+      newsFor:"News for", trending:"Trending", bySources:"by sources", alertsTitle:"Alerts",
+      alertsToggle:"Breaking-news alerts", alertsCap:"Max alerts per day",
+      alertsNote:"An alert fires only when at least two independent outlets report the same story in your region.",
+      regions:{bucharest:"Bucharest",romania:"Romania",europe:"Europe",world:"World"},
+      topics:{all:"All topics",politics:"Politics",security:"Security",economy:"Economy",energy:"Energy",tech:"Tech",culture:"Culture",sport:"Sport",world:"World"},
+      forYou:"For you", stories:n=>`${n} stories`, sources:n=>`${n} source${n===1?"":"s"}`,
+      min:n=>`${n} min ago`, hrs:n=>`${n} h ago`, days:n=>`${n} d ago`,
+      alert:"Alert", confirmed:n=>`Confirmed by ${n} independent outlets`, dismiss:"Dismiss",
+      loadingT:"Loading today's stories", loadingB:"New stories from trusted outlets appear here automatically, picked for the region you choose above.",
+      noTopicT:"Nothing in this topic yet", noTopicB:"Try another topic or region. The feed refreshes on its own every hour.",
+      noneT:"No stories yet", noneB:"The automatic collector fills this feed from trusted outlets every hour.",
+      noTrend:r=>`No trending stories in ${r} right now.`,
+      connecting:"Connecting to the live feed…", unavailable:"Live feed unavailable in this view",
+      disconnected:"Live feed disconnected. Reload to retry.", waiting:"Waiting for the first update", updated:"Updated", locale:"en-GB",
+      changesTitle:"Project updates", changesSub:"what's new in Semnal"
+    },
+    ro: {
+      newsFor:"Știri pentru", trending:"În tendințe", bySources:"după surse", alertsTitle:"Alerte",
+      alertsToggle:"Alerte de ultimă oră", alertsCap:"Maximum de alerte pe zi",
+      alertsNote:"O alertă apare doar când cel puțin două publicații independente relatează aceeași știre din regiunea ta.",
+      regions:{bucharest:"București",romania:"România",europe:"Europa",world:"Lume"},
+      topics:{all:"Toate temele",politics:"Politică",security:"Securitate",economy:"Economie",energy:"Energie",tech:"Tehnologie",culture:"Cultură",sport:"Sport",world:"Lume"},
+      forYou:"Pentru tine", stories:n=>`${n} ${n===1?"știre":"știri"}`, sources:n=>`${n} ${n===1?"sursă":"surse"}`,
+      min:n=>`acum ${n} min`, hrs:n=>`acum ${n} h`, days:n=>`acum ${n} ${n===1?"zi":"zile"}`,
+      alert:"Alertă", confirmed:n=>`Confirmată de ${n} publicații independente`, dismiss:"Închide",
+      loadingT:"Se încarcă știrile zilei", loadingB:"Știrile noi din surse de încredere apar aici automat, alese pentru regiunea selectată mai sus.",
+      noTopicT:"Nicio știre pe această temă încă", noTopicB:"Încearcă altă temă sau regiune. Fluxul se actualizează singur în fiecare oră.",
+      noneT:"Nicio știre încă", noneB:"Colectorul automat adaugă știri din surse de încredere în fiecare oră.",
+      noTrend:r=>`Nicio știre în tendințe pentru ${r} acum.`,
+      connecting:"Conectare la fluxul live…", unavailable:"Fluxul live nu e disponibil aici",
+      disconnected:"Fluxul live s-a deconectat. Reîncarcă pagina.", waiting:"Se așteaptă prima actualizare", updated:"Actualizat", locale:"ro-RO",
+      changesTitle:"Noutăți despre proiect", changesSub:"ce s-a schimbat în Semnal"
+    }
+  };
+  const PARENT = {bucharest:"romania", romania:"europe", europe:"world", world:null};
+  const TOPICS = ["all","politics","security","economy","energy","tech","culture","sport","world"];
+  const store = {
+    get(k){try{return localStorage.getItem(k)}catch(e){return null}},
+    set(k,v){try{localStorage.setItem(k,v)}catch(e){}}
+  };
+  const chain = r => { const out=[]; while(r){out.push(r); r=PARENT[r];} return out; };
+  const inRegion = (s,r) => chain(s.region||"world").includes(r);
+  const visibleFor = (s,r) => chain(r).includes(s.region||"world");
+  // Trending is per region: Romania (incl. Bucharest), Europe and World each show only their own stories.
+  const trendMatch = (s,r) => r==="romania" ? ["bucharest","romania"].includes(s.region) : (s.region||"world")===r;
+
+  let tz=""; try{tz=Intl.DateTimeFormat().resolvedOptions().timeZone||""}catch(e){}
+  function detectRegion(){
+    const saved = store.get("semnal.region"); if (saved && PARENT.hasOwnProperty(saved)) return saved;
+    if (tz==="Europe/Bucharest") return "bucharest";
+    if (tz.startsWith("Europe/")) return "europe";
+    return "world";
+  }
+  function detectLang(){
+    const saved = store.get("semnal.lang"); if (saved==="ro"||saved==="en") return saved;
+    const langs = (navigator.languages||[navigator.language||""]).join(",").toLowerCase();
+    return (langs.startsWith("ro") || tz==="Europe/Bucharest" || tz==="Europe/Chisinau") ? "ro" : "en";
+  }
+  let region = detectRegion(), lang = detectLang(), topic = "all";
+  let trendRegion = region === "bucharest" ? "romania" : region;
+  let stories = [], loaded = false, statusKey = "connecting", lastRun = null, changelog = [];
+  // A copy of the feed is saved inside the page every hour, so visitors who are not signed in still see the news.
+  try {
+    const snap = JSON.parse(document.getElementById("snapshot").textContent);
+    if (Array.isArray(snap.stories) && snap.stories.length){ stories = snap.stories; loaded = true; }
+    if (snap.lastRun) lastRun = snap.lastRun;
+    if (Array.isArray(snap.changelog)) changelog = snap.changelog;
+  } catch(e) {}
+  const t = () => T[lang];
+
+  const $ = id => document.getElementById(id);
+  $("region").value = region;
+  $("region").addEventListener("change", e => { region = e.target.value; store.set("semnal.region", region); trendRegion = region==="bucharest"?"romania":region; render(); });
+  document.querySelector(".lang").addEventListener("click", e => { const b=e.target.closest("button"); if(!b) return; lang=b.dataset.l; store.set("semnal.lang", lang); applyStatic(); render(); });
+  $("chips").addEventListener("click", e => { const b=e.target.closest(".chip"); if(!b) return; topic=b.dataset.t; render(); });
+  $("trendtabs").addEventListener("click", e => { const b=e.target.closest("button"); if(!b) return; trendRegion=b.dataset.r; render(); });
+
+  $("alerts").checked = store.get("semnal.alerts") !== "off";
+  $("alerts").addEventListener("change", e => { store.set("semnal.alerts", e.target.checked?"on":"off"); render(); });
+  const cap = store.get("semnal.cap"); if (cap) $("cap").value = cap;
+  $("cap").addEventListener("change", e => { store.set("semnal.cap", e.target.value); render(); });
+
+  function applyStatic(){
+    document.documentElement.lang = lang;
+    document.querySelectorAll("[data-i18n]").forEach(el => { el.textContent = t()[el.dataset.i18n]; });
+    [...$("region").options].forEach(o => o.textContent = t().regions[o.value]);
+    $("lang-ro").setAttribute("aria-pressed", lang==="ro"); $("lang-en").setAttribute("aria-pressed", lang==="en");
+    renderStatus();
+  }
+  function renderStatus(){
+    if (lastRun){
+      $("status").textContent = t().updated + " " + new Date(lastRun).toLocaleString(t().locale, {day:"numeric",month:"short",hour:"2-digit",minute:"2-digit"});
+    } else $("status").textContent = t()[statusKey];
+  }
+
+  const hoursOld = s => Math.max(0, (Date.now() - Date.parse(s.publishedAt)) / 36e5);
+  const nSources = s => new Set((s.sources||[]).map(x=>x.name)).size;
+  // Tabloid outlets show in the feed but never count toward confirming an alert.
+  const TABLOIDS = ["cancan"];
+  const nConfirming = s => new Set((s.sources||[]).map(x=>x.name).filter(n => !TABLOIDS.some(t => String(n).toLowerCase().includes(t)))).size;
+  const trendScore = s => nSources(s)*10 + Math.max(0, 48 - hoursOld(s))/4;
+  const ago = s => { const h=hoursOld(s); if (h<1) return t().min(Math.max(1,Math.round(h*60))); if (h<24) return t().hrs(Math.round(h)); return t().days(Math.round(h/24)); };
+  const esc = x => String(x??"").replace(/[&<>"']/g, c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+  const safeUrl = u => /^https:\/\//.test(u||"") ? u : "#";
+  const closeness = s => 4 - chain(region).indexOf(s.region||"world");
+  const title = s => (lang==="ro" && s.title_ro) || s.title;
+  const summary = s => (lang==="ro" && s.summary_ro) || s.summary;
+  const placeName = s => (lang==="ro" && s.place_ro) || s.place || t().regions[s.region] || "";
+  const empty = (a,b) => `<div class="empty"><strong>${esc(a)}</strong>${esc(b)}</div>`;
+
+  function card(s, lead){
+    const n = nSources(s);
+    return `<article class="story${lead?" lead":""}">
+      <div class="meta"><span class="topic">${esc(t().topics[s.topic]||s.topic)}</span><span class="where">${esc(placeName(s))}</span><span>${ago(s)}</span></div>
+      <h2>${esc(title(s))}</h2>
+      <p>${esc(summary(s))}</p>
+      <div class="srcs"><span class="count${n<2?" one":""}">${esc(t().sources(n))}</span>
+        ${(s.sources||[]).map(x=>`<a class="src" href="${esc(safeUrl(x.url))}" target="_blank" rel="noopener">${esc(x.name)} ↗</a>`).join("")}</div>
+    </article>`;
+  }
+
+  function renderAlert(){
+    const box = $("alert");
+    if (!$("alerts").checked){ box.hidden = true; return; }
+    const today = new Date().toISOString().slice(0,10);
+    let seen = {}; try{ seen = JSON.parse(store.get("semnal.seen")||"{}") }catch(e){}
+    const shownToday = Object.values(seen).filter(d=>d===today).length;
+    if (shownToday >= +$("cap").value){ box.hidden = true; return; }
+    const pick = stories
+      .filter(s => visibleFor(s,region) || inRegion(s, region==="bucharest"?"romania":region))
+      .filter(s => nConfirming(s) >= 2 && hoursOld(s) < 24 && !seen[s.id])
+      .sort((a,b)=>trendScore(b)-trendScore(a))[0];
+    if (!pick){ box.hidden = true; return; }
+    box.innerHTML = `<div class="alert" role="status"><span class="bell">${esc(t().alert)}</span>
+      <div><h3>${esc(title(pick))}</h3><p>${esc(t().confirmed(nConfirming(pick)))} · ${ago(pick)}</p></div>
+      <button id="dismiss">${esc(t().dismiss)}</button></div>`;
+    box.hidden = false;
+    $("dismiss").onclick = () => { seen[pick.id] = today; store.set("semnal.seen", JSON.stringify(seen)); renderAlert(); };
+  }
+
+  function render(){
+    $("chips").innerHTML = TOPICS.map(x => `<button class="chip" data-t="${x}" aria-pressed="${x===topic}">${esc(t().topics[x])}</button>`).join("");
+    $("trendtabs").innerHTML = ["romania","europe","world"].map(r=>`<button data-r="${r}" aria-pressed="${r===trendRegion}">${esc(t().regions[r])}</button>`).join("");
+    const list = stories
+      .filter(s => visibleFor(s, region) && (topic==="all" || s.topic===topic))
+      .sort((a,b) => (closeness(b)*6 + trendScore(b)) - (closeness(a)*6 + trendScore(a)));
+    $("feedlabel").textContent = `${t().forYou} · ${t().regions[region]}`;
+    $("feedcount").textContent = list.length ? t().stories(list.length) : "";
+    $("feed").innerHTML = list.length ? list.map((s,i)=>card(s,i===0)).join("")
+      : !loaded ? empty(t().loadingT, t().loadingB)
+      : stories.length ? empty(t().noTopicT, t().noTopicB) : empty(t().noneT, t().noneB);
+    const trend = stories.filter(s=>trendMatch(s,trendRegion) && hoursOld(s)<72).sort((a,b)=>trendScore(b)-trendScore(a)).slice(0,6);
+    const max = Math.max(1, ...trend.map(nSources));
+    $("trend").innerHTML = trend.length ? trend.map((s,i)=>`<li><span class="rank">${i+1}</span><div>
+        <a href="${esc(safeUrl(s.sources?.[0]?.url))}" target="_blank" rel="noopener">${esc(title(s))}</a>
+        <div class="heat"><i style="width:${Math.round(nSources(s)/max*100)}%"></i></div>
+        <small>${esc(t().sources(nSources(s)))} · ${ago(s)}</small></div></li>`).join("")
+      : `<li style="display:block;color:var(--muted)">${esc(t().noTrend(t().regions[trendRegion]))}</li>`;
+    renderAlert();
+    $("log").innerHTML = changelog.slice().sort((a,b)=>String(b.at).localeCompare(String(a.at))).map(c => `<li>
+      <time datetime="${esc(c.at)}">${esc(new Date(c.at).toLocaleString(t().locale,{day:"numeric",month:"short",hour:"2-digit",minute:"2-digit"}))}</time>
+      <b>${esc(lang==="ro" ? (c.title_ro||c.title) : c.title)}</b>
+      <p>${esc(lang==="ro" ? (c.text_ro||c.text) : c.text)}</p></li>`).join("");
+  }
+
+  applyStatic();
+  render();
+
+  // Live data: news.json in this repo is rewritten every hour by the automatic collector.
+  async function refresh(){
+    try{
+      const r = await fetch("/news.json?t=" + Date.now(), {cache:"no-store"});
+      if (!r.ok) throw 0;
+      const d = await r.json();
+      if (Array.isArray(d.stories) && d.stories.length){ stories = d.stories; loaded = true; }
+      if (d.lastRun) lastRun = d.lastRun;
+      if (Array.isArray(d.changelog) && d.changelog.length) changelog = d.changelog;
+      render(); renderStatus();
+    }catch(e){ if (!lastRun){ statusKey = "unavailable"; renderStatus(); } }
+  }
+  refresh();
+  setInterval(refresh, 5*60000);
+  setInterval(render, 60000);
+})();
+</script>
+
+</body></html>
