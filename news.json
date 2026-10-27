@@ -1,5 +1,5 @@
 {
- "lastRun": "2026-10-27T13:35:00Z",
+ "lastRun": "2026-10-27T15:01:32Z",
  "stories": [
   {
    "place": "Bucharest",
@@ -18,6 +18,28 @@
    "title_ro": "Congresul românilor din Balcani, programat pe 4 noiembrie",
    "topic": "culture",
    "id": "buc-balkan-congress"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-27T13:08:00Z",
+   "region": "bucharest",
+   "sources": [
+    {
+     "name": "HotNews",
+     "url": "https://hotnews.ro/bucurestiul-s-a-infratit-cu-kievul-peste-generatii-se-va-tine-minte-gestul-nostru-ce-prevede-protocolul-2387762"
+    },
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/administratie/2026/10/27/cgmb-bucurestiul-se-infrateste-cu-kievul--1607364"
+    }
+   ],
+   "summary": "The General Council of Bucharest adopted a twinning agreement with Kyiv covering culture, education, infrastructure, investment and mutual support in crises, after both Romanian ministries involved gave favourable opinions.",
+   "summary_ro": "Consiliul General al Municipiului București a adoptat acordul de înfrățire cu Kievul, care acoperă cultura, educația, infrastructura, investițiile și sprijinul reciproc în situații de criză, după avizele favorabile ale celor două ministere implicate.",
+   "title": "Bucharest council approves twinning with Kyiv",
+   "title_ro": "Consiliul General aprobă înfrățirea Bucureștiului cu Kievul",
+   "topic": "politics",
+   "id": "buc-kyiv-twinning"
   },
   {
    "place": "Bucharest",
@@ -58,6 +80,24 @@
   {
    "place": "Bucharest",
    "place_ro": "București",
+   "publishedAt": "2026-10-27T13:48:00Z",
+   "region": "bucharest",
+   "sources": [
+    {
+     "name": "HotNews",
+     "url": "https://hotnews.ro/reguli-noi-pentru-inchierea-trotinetelor-electrice-in-bucuresti-2387794"
+    }
+   ],
+   "summary": "The city council approved rules backed by Mayor Ciprian Ciucu requiring renters to be 18 (16 with certain licences), banning sidewalk riding and using geofencing to block scooters in the Old Town.",
+   "summary_ro": "Consiliul General a aprobat reguli susținute de primarul Ciprian Ciucu: utilizatorii trebuie să aibă 18 ani (16 cu anumite permise), mersul pe trotuar este interzis, iar trotinetele vor fi blocate prin geofencing în Centrul Vechi.",
+   "title": "Bucharest sets age limits and no-go zones for rental e-scooters",
+   "title_ro": "București: limită de vârstă și zone interzise pentru trotinetele închiriate",
+   "topic": "politics",
+   "id": "buc-scooter-rules"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
    "publishedAt": "2026-10-26T11:55:00Z",
    "region": "bucharest",
    "sources": [
@@ -72,6 +112,24 @@
    "title_ro": "Un hackathon european de tehnologie spațială vine la București",
    "topic": "tech",
    "id": "buc-space-hackathon"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-27T14:00:00Z",
+   "region": "bucharest",
+   "sources": [
+    {
+     "name": "HotNews",
+     "url": "https://hotnews.ro/bucurestiul-are-o-noua-arie-naturala-protejata-valea-saulei-2387826"
+    }
+   ],
+   "summary": "Councillors voted 45 to 0, with one abstention, to protect the 5.2-hectare site in Sector 2, which a local association says holds over 350 wild species.",
+   "summary_ro": "Consilierii generali au votat cu 45 de voturi pentru și o abținere protejarea zonei de 5,2 hectare din Sectorul 2, unde, potrivit unei asociații locale, trăiesc peste 350 de specii sălbatice.",
+   "title": "Valea Saulei becomes Bucharest's newest protected nature area",
+   "title_ro": "Valea Saulei devine arie naturală protejată în București",
+   "topic": "politics",
+   "id": "buc-valea-saulei"
   },
   {
    "place": "Europe",
@@ -162,6 +220,24 @@
    "title_ro": "Planul UE pentru startup-uri se lovește de probleme",
    "topic": "economy",
    "id": "eu-startup-plan"
+  },
+  {
+   "place": "Warsaw",
+   "place_ro": "Varșovia",
+   "publishedAt": "2026-10-27T14:24:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "HotNews",
+     "url": "https://hotnews.ro/londra-avertizeaza-trebuie-sa-fim-pregatiti-pentru-un-scenariu-in-care-nato-se-afla-in-razboi-cu-rusia-2387848"
+    }
+   ],
+   "summary": "Speaking in Warsaw, Wes Streeting accused Russia of hybrid attacks and said the UK and NATO must be ready for a conflict scenario, while stressing the alliance is defensive.",
+   "summary_ro": "La Varșovia, Wes Streeting a acuzat Rusia de atacuri hibride și a spus că Regatul Unit și NATO trebuie să fie pregătite pentru un scenariu de conflict, subliniind că alianța este defensivă.",
+   "title": "UK defence secretary says NATO must prepare for possible war with Russia",
+   "title_ro": "Ministrul britanic al apărării: NATO trebuie să fie pregătit pentru un război cu Rusia",
+   "topic": "security",
+   "id": "eu-uk-nato-warning"
   },
   {
    "place": "Bucharest",
@@ -268,10 +344,14 @@
     {
      "name": "Digi24",
      "url": "https://www.digi24.ro/stiri/actualitate/politica/grindeanu-va-cere-angajarea-raspunderii-guvernului-pentru-doua-reforme-majore-vom-arata-concret-cum-se-face-4008997"
+    },
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/stiri/politic/prepedintele-psd-sorin-grindeanu-vrea-ca-guvernul-niculescu-sa-si-asume-raspunderea-pe-reforma-administrativ-teritoriala.html"
     }
    ],
-   "summary": "PSD leader Sorin Grindeanu wants the government to pass two major reforms by assuming responsibility in Parliament, including voluntary mergers of small localities. PNL figures called the plan a sham, and UDMR's Kelemen Hunor warned mergers cannot be decided in an office.",
-   "summary_ro": "Liderul PSD, Sorin Grindeanu, vrea ca Guvernul să-și asume răspunderea în Parlament pentru două reforme majore, inclusiv comasarea voluntară a localităților mici. Lideri PNL au numit planul o farsă, iar Kelemen Hunor (UDMR) a avertizat că o comasare nu se decide din birou.",
+   "summary": "PSD leader Sorin Grindeanu wants the government to pass two major reforms by assuming responsibility in Parliament, including voluntary mergers of small localities. PNL's Alexandru Muraru called the plan a sham, and UDMR's Kelemen Hunor warned mergers cannot be decided in an office.",
+   "summary_ro": "Liderul PSD, Sorin Grindeanu, vrea ca Guvernul să-și asume răspunderea în Parlament pentru două reforme majore, inclusiv comasarea voluntară a localităților mici. Liberalul Alexandru Muraru a numit planul o farsă, iar Kelemen Hunor (UDMR) a avertizat că o comasare nu se decide din birou.",
    "title": "PSD wants fast-track vote on merging small localities; PNL and UDMR push back",
    "title_ro": "PSD vrea asumarea răspunderii pentru comasarea localităților; PNL și UDMR obiectează",
    "topic": "politics",
@@ -296,6 +376,24 @@
    "id": "pol-georgescu-case"
   },
   {
+   "place": "Covasna",
+   "place_ro": "Covasna",
+   "publishedAt": "2026-10-27T14:32:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/justitie/2026/10/27/covasna-fostul-primar-si-fostul-viceprimar-din-moacsa-trimisi-in-judecata-pentru-fals-in-declaratii--1607354"
+    }
+   ],
+   "summary": "Prosecutors in Târgu Secuiesc sent three former local officials from Moacșa, Covasna County, to trial, alleging they omitted assets and income from their official declarations. They are presumed innocent.",
+   "summary_ro": "Procurorii din Târgu Secuiesc i-au trimis în judecată pe trei foști aleși locali din Moacșa, județul Covasna, acuzați că au omis bunuri și venituri din declarațiile de avere. Aceștia beneficiază de prezumția de nevinovăție.",
+   "title": "Former Moacșa mayor and deputy charged over asset declarations",
+   "title_ro": "Foști aleși din Moacșa, trimiși în judecată pentru declarații false",
+   "topic": "politics",
+   "id": "pol-moacsa-officials-charged"
+  },
+  {
    "place": "Chișinău",
    "place_ro": "Chișinău",
    "publishedAt": "2026-10-27T11:50:00Z",
@@ -310,12 +408,16 @@
      "url": "https://www.digi24.ro/stiri/actualitate/politica/luca-niculescu-merge-azi-in-prima-vizita-oficiala-in-calitate-de-premier-cu-cine-se-va-intalni-la-chisinau-4010199"
     },
     {
-     "name": "Realitatea.md",
-     "url": "https://realitatea.md/premierul-romaniei-vine-astazi-la-chisinau-urmareste-pe-rlive-md-si-realitatea-tv-declaratiile-de-presa/"
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic/2026/10/27/premierul-republicii-moldova-vasile-tofan-romania-ne-a-fost-alaturi-in-momentele-dificile--1607351"
+    },
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/stiri/politic/premierul-luca-niculescu-face-prima-vizita-oficiala-in-strainatate-in-republica-moldova-cu-cine-se-va-intalni-la-chisinau.html"
     }
    ],
-   "summary": "Prime Minister Luca Niculescu set out joint projects with Moldova covering energy links, bridges, railways and investment, and said he wants to clear obstacles to Moldova's EU accession.",
-   "summary_ro": "Premierul Luca Niculescu a prezentat proiecte comune cu Republica Moldova privind interconectarea energetică, podurile, căile ferate și investițiile, spunând că vrea să elimine blocajele din calea aderării Moldovei la UE.",
+   "summary": "On his first foreign trip, PM Luca Niculescu met Moldovan counterpart Vasile Tofan in Chișinău; they discussed speeding up the Ungheni bridge and the Suceava–Bălți power line, defence cooperation and Moldova's EU path. Tofan called Romania Moldova's closest partner.",
+   "summary_ro": "În prima sa vizită externă, premierul Luca Niculescu s-a întâlnit la Chișinău cu omologul său Vasile Tofan; au discutat accelerarea podului de la Ungheni și a liniei electrice Suceava–Bălți, cooperarea în apărare și drumul Moldovei spre UE. Tofan a numit România cel mai apropiat partener al Moldovei.",
    "title": "Niculescu visits Chișinău with plans for energy, bridges and EU path",
    "title_ro": "Niculescu, la Chișinău cu planuri pentru energie, poduri și aderarea la UE",
    "topic": "politics",
@@ -376,6 +478,40 @@
    "id": "pol-psd-electoral-reform"
   },
   {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-27T14:28:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "HotNews",
+     "url": "https://hotnews.ro/romania-acuza-rusia-de-razboi-hibrid-dupa-sabotajul-de-pe-platforma-industriala-carfil-emisarul-lui-putin-a-fost-convocat-la-mae-2387842"
+    },
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic/2026/10/27/ambasadorul-rusiei-la-bucuresti-a-fost-convocat-la-mae-pe-tema-actului-de-sabotaj-din-brasov--1607350"
+    },
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/politic/mae-l-a-convocat-pe-ambasadorul-rusiei-dupa-sabotajul-de-la-carfil-brasov-romania-acuza-moscova-de-razboi-hibrid-23832550"
+    },
+    {
+     "name": "News.ro",
+     "url": "https://www.news.ro/politic-extern/sabotajul-de-carfil-brasov-ambasadorul-federatiei-ruse-la-bucuresti-convocat-la-mae-1922401527002026101622892764"
+    },
+    {
+     "name": "B1 TV",
+     "url": "https://www.b1tv.ro/eveniment/ministerul-afacerilor-externe-l-a-convocat-pe-ambasadorul-rusiei-la-bucuresti-1744543.html"
+    }
+   ],
+   "summary": "Foreign Minister Dan Neculăescu summoned Russia's envoy Vladimir Lipaev to protest what Bucharest calls a Russia-coordinated sabotage behind the 14 September fire at the Carfil site. The ministry described it as hybrid warfare and also condemned Russian attacks on ships in the Black Sea.",
+   "summary_ro": "Ministrul de externe Dan Neculăescu l-a convocat pe ambasadorul rus Vladimir Lipaev pentru a protesta față de sabotajul pe care Bucureștiul îl atribuie Rusiei, aflat în spatele incendiului din 14 septembrie de pe platforma Carfil. MAE a vorbit despre război hibrid și a condamnat și atacurile ruse asupra navelor din Marea Neagră.",
+   "title": "Romania summons Russian ambassador over Brașov sabotage",
+   "title_ro": "România îl convoacă pe ambasadorul Rusiei după sabotajul de la Brașov",
+   "topic": "politics",
+   "id": "pol-russia-envoy-summoned"
+  },
+  {
    "place": "Romania",
    "place_ro": "România",
    "publishedAt": "2026-10-27T11:35:00Z",
@@ -384,10 +520,14 @@
     {
      "name": "Știri pe surse",
      "url": "https://www.stiripesurse.ro/sorin-grindeanu-cere-masuri-dupa-dezvaluirile-despre-actele-de-sabotaj-coordonate-din-rusia-securitatea-nationala-trebuie-intarita_3931711"
+    },
+    {
+     "name": "HotNews",
+     "url": "https://hotnews.ro/luca-niculescu-dupa-cazul-de-sabotaj-de-la-carfil-astfel-de-atacuri-sunt-inacceptabile-am-intarit-paza-am-si-prevenit-multe-alte-incidente-2387852"
     }
    ],
-   "summary": "PSD leader Sorin Grindeanu called for stronger national security, Interior Minister Cătălin Predoiu warned the pressure is likely to grow, and AUR asked President Nicușor Dan to explain how the attack was possible.",
-   "summary_ro": "Liderul PSD, Sorin Grindeanu, a cerut întărirea securității naționale, Cătălin Predoiu a avertizat că presiunile vor crește, iar AUR i-a cerut președintelui Nicușor Dan să explice cum a fost posibil atacul.",
+   "summary": "PSD leader Sorin Grindeanu called for stronger national security, Interior Minister Cătălin Predoiu warned the pressure is likely to grow, and AUR asked President Nicușor Dan to explain how the attack was possible. PM Luca Niculescu called such attacks unacceptable and said security at strategic sites had been tightened.",
+   "summary_ro": "Liderul PSD, Sorin Grindeanu, a cerut întărirea securității naționale, Cătălin Predoiu a avertizat că presiunile vor crește, iar AUR i-a cerut președintelui Nicușor Dan să explice cum a fost posibil atacul. Premierul Luca Niculescu a numit astfel de atacuri inacceptabile și a spus că paza obiectivelor strategice a fost întărită.",
    "title": "Parties demand answers after Russian sabotage revelations",
    "title_ro": "Partidele cer răspunsuri după dezvăluirile despre sabotajul rusesc",
    "topic": "politics",
@@ -414,6 +554,24 @@
    "title_ro": "Partenerii de guvernare exclud creșteri de taxe în 2027",
    "topic": "politics",
    "id": "pol-tax-2027"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-27T13:38:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/economic/2026/10/27/valoarea-apartamentelor-vandute-in-romania-a-crescut-cu-peste-30-in-ultimii-trei-ani-analiza--1607317"
+    }
+   ],
+   "summary": "An analysis reported by Agerpres finds the total value of apartment sales in Romania has risen by more than 30% over the past three years.",
+   "summary_ro": "O analiză citată de Agerpres arată că valoarea totală a apartamentelor vândute în România a crescut cu peste 30% în ultimii trei ani.",
+   "title": "Value of apartments sold in Romania up over 30% in three years",
+   "title_ro": "Valoarea apartamentelor vândute în România, în creștere cu peste 30% în trei ani",
+   "topic": "economy",
+   "id": "ro-apartment-values"
   },
   {
    "place": "Romania",
@@ -530,6 +688,24 @@
   {
    "place": "Romania",
    "place_ro": "România",
+   "publishedAt": "2026-10-27T13:50:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/social/2026/10/27/mapn-cumpara-patru-radare-mobile-de-dirijare-la-apropiere-si-aterizare--1607361"
+    }
+   ],
+   "summary": "Romania's defence ministry is buying four mobile approach-and-landing radar systems worth about 326.5 million lei from Thales Romania, with deliveries starting in 2028.",
+   "summary_ro": "Ministerul Apărării cumpără patru sisteme radar mobile de dirijare la apropiere și aterizare, în valoare de circa 326,5 milioane de lei, de la Thales România, cu livrări începând din 2028.",
+   "title": "Defence ministry orders four mobile landing radars from Thales",
+   "title_ro": "MApN cumpără patru radare mobile de aterizare de la Thales",
+   "topic": "security",
+   "id": "ro-mapn-radars"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
    "publishedAt": "2026-10-26T07:52:00Z",
    "region": "romania",
    "sources": [
@@ -606,6 +782,10 @@
     {
      "name": "Ukrainska Pravda",
      "url": "https://www.pravda.com.ua/eng/news/2026/10/27/8059898/"
+    },
+    {
+     "name": "HotNews",
+     "url": "https://hotnews.ro/directorul-carfil-spune-ca-fabrica-a-fost-avertizata-din-primavara-ca-poate-fi-tinta-unor-acte-de-sabotaj-am-luat-masuri-2387790"
     }
    ],
    "summary": "Romanian intelligence and prosecutors say a network coordinated from Russia set a September fire near a state weapons factory. Three suspects are named; two are held in Germany and one is sought in Poland. The president called it a serious breach of a NATO member's security.",
@@ -614,6 +794,28 @@
    "title_ro": "România acuză o rețea de sabotaj condusă de Rusia pentru incendiul de lângă fabrica de armament din Brașov",
    "topic": "security",
    "id": "ro-sabotage-brasov"
+  },
+  {
+   "place": "Ethiopia",
+   "place_ro": "Etiopia",
+   "publishedAt": "2026-10-27T12:37:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "AP",
+     "url": "https://abcnews.com/International/wireStory/attacks-kill-60-orthodox-christians-ethiopia-church-137600132"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/continua-masacrul-crestinilor-60-de-credinciosi-crestini-ucisi-in-doua-atacuri_3931656"
+    }
+   ],
+   "summary": "Ethiopia's Orthodox Church says two attacks in Oromia's Arsi zone killed at least 60 people. The regional government blamed the Oromo Liberation Army without presenting evidence; the group's leader denies targeting civilians.",
+   "summary_ro": "Biserica Ortodoxă Etiopiană spune că două atacuri din zona Arsi, regiunea Oromia, au ucis cel puțin 60 de oameni. Autoritățile regionale au acuzat Armata de Eliberare Oromo fără a prezenta dovezi; liderul grupării neagă că ar ataca civili.",
+   "title": "At least 60 Orthodox Christians killed in Ethiopia attacks, church says",
+   "title_ro": "Cel puțin 60 de creștini ortodocși uciși în Etiopia, potrivit Bisericii",
+   "topic": "world",
+   "id": "world-ethiopia-attacks"
   },
   {
    "place": "Israel",
@@ -628,6 +830,14 @@
     {
      "name": "Știri pe surse",
      "url": "https://www.stiripesurse.ro/video-netanyahu-face-acuzatii-grave-vor-sa-fure-alegerile-prezenta-la-urne-la-cel-mai-ridicat-nivel-din-incoace_3931724"
+    },
+    {
+     "name": "HotNews",
+     "url": "https://hotnews.ro/alegeri-israel-benjamin-netanyahu-2387417"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-2026-live-netanyahu-faces-tough-test-in-high-stakes-polls"
     }
    ],
    "summary": "Israelis are voting in the first general election since the 7 October attacks, with no clear favourite between Netanyahu and former army chief Gadi Eisenkot. Midday turnout was the highest since 1973; Netanyahu accused Arab opponents of trying to steal the vote.",
@@ -712,60 +922,60 @@
  ],
  "changelog": [
   {
-   "id": "c1",
    "at": "2026-10-27T13:23:00Z",
+   "text": "News website with a feed chosen by region, trending stories ranked by number of outlets, and breaking-news alerts confirmed by 2+ outlets.",
+   "text_ro": "Site de știri cu flux ales după regiune, știri în tendințe clasate după numărul de publicații și alerte confirmate de minimum 2 surse.",
    "title": "Semnal launched",
    "title_ro": "Semnal a fost lansat",
-   "text": "News website with a feed chosen by region, trending stories ranked by number of outlets, and breaking-news alerts confirmed by 2+ outlets.",
-   "text_ro": "Site de știri cu flux ales după regiune, știri în tendințe clasate după numărul de publicații și alerte confirmate de minimum 2 surse."
+   "id": "c1"
   },
   {
-   "id": "c2",
    "at": "2026-10-27T13:26:00Z",
+   "text": "New stories are collected from trusted outlets every hour with no manual approval.",
+   "text_ro": "Știrile noi sunt colectate din surse de încredere în fiecare oră, fără aprobare manuală.",
    "title": "Automatic hourly updates",
    "title_ro": "Actualizare automată în fiecare oră",
-   "text": "New stories are collected from trusted outlets every hour with no manual approval.",
-   "text_ro": "Știrile noi sunt colectate din surse de încredere în fiecare oră, fără aprobare manuală."
+   "id": "c2"
   },
   {
-   "id": "c3",
    "at": "2026-10-27T13:28:00Z",
+   "text": "RO / EN switch. Every story now has a Romanian title and summary.",
+   "text_ro": "Comutator RO / EN. Fiecare știre are acum titlu și rezumat în română.",
    "title": "Romanian language",
    "title_ro": "Limba română",
-   "text": "RO / EN switch. Every story now has a Romanian title and summary.",
-   "text_ro": "Comutator RO / EN. Fiecare știre are acum titlu și rezumat în română."
+   "id": "c3"
   },
   {
-   "id": "c4",
    "at": "2026-10-27T13:33:00Z",
+   "text": "At least half of each update is politics, mostly Romanian. Added Știri pe surse, Digi24, Mediafax, News.ro, Gândul, Capital, B1 TV and CanCan (CanCan never confirms an alert on its own).",
+   "text_ro": "Cel puțin jumătate din fiecare actualizare este politică, mai ales românească. Am adăugat Știri pe surse, Digi24, Mediafax, News.ro, Gândul, Capital, B1 TV și CanCan (CanCan nu confirmă singur o alertă).",
    "title": "More politics",
    "title_ro": "Mai multă politică",
-   "text": "At least half of each update is politics, mostly Romanian. Added Știri pe surse, Digi24, Mediafax, News.ro, Gândul, Capital, B1 TV and CanCan (CanCan never confirms an alert on its own).",
-   "text_ro": "Cel puțin jumătate din fiecare actualizare este politică, mai ales românească. Am adăugat Știri pe surse, Digi24, Mediafax, News.ro, Gândul, Capital, B1 TV și CanCan (CanCan nu confirmă singur o alertă)."
+   "id": "c4"
   },
   {
-   "id": "c5",
    "at": "2026-10-27T13:35:00Z",
+   "text": "Added Recorder, Context, PressOne, Știrile ProTV, Libertatea and Ziarul Financiar; HotNews, Europa Liberă and Agerpres are now checked directly.",
+   "text_ro": "Am adăugat Recorder, Context, PressOne, Știrile ProTV, Libertatea și Ziarul Financiar; HotNews, Europa Liberă și Agerpres sunt verificate direct.",
    "title": "New sources",
    "title_ro": "Surse noi",
-   "text": "Added Recorder, Context, PressOne, Știrile ProTV, Libertatea and Ziarul Financiar; HotNews, Europa Liberă and Agerpres are now checked directly.",
-   "text_ro": "Am adăugat Recorder, Context, PressOne, Știrile ProTV, Libertatea și Ziarul Financiar; HotNews, Europa Liberă și Agerpres sunt verificate direct."
+   "id": "c5"
   },
   {
-   "id": "c6",
    "at": "2026-10-27T13:40:00Z",
+   "text": "The page now carries a copy of the latest news, so it opens on any phone, even without a Claude account. This list shows what changed.",
+   "text_ro": "Pagina conține acum o copie a ultimelor știri, deci se deschide pe orice telefon, chiar și fără cont Claude. Această listă arată ce s-a schimbat.",
    "title": "Public test link",
    "title_ro": "Link public de test",
-   "text": "The page now carries a copy of the latest news, so it opens on any phone, even without a Claude account. This list shows what changed.",
-   "text_ro": "Pagina conține acum o copie a ultimelor știri, deci se deschide pe orice telefon, chiar și fără cont Claude. Această listă arată ce s-a schimbat."
+   "id": "c6"
   },
   {
-   "id": "c7",
    "at": "2026-10-27T13:43:00Z",
+   "text": "The Romania, Europe and World tabs now each show only that region's top stories.",
+   "text_ro": "Taburile România, Europa și Lume arată acum doar știrile de top din regiunea respectivă.",
    "title": "Trending per region fixed",
    "title_ro": "Tendințe pe regiuni, reparate",
-   "text": "The Romania, Europe and World tabs now each show only that region's top stories.",
-   "text_ro": "Taburile România, Europa și Lume arată acum doar știrile de top din regiunea respectivă."
+   "id": "c7"
   }
  ]
 }
