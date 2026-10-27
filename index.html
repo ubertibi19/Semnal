@@ -47,6 +47,8 @@ main{display:grid;grid-template-columns:minmax(0,1fr) 320px;gap:28px;padding-blo
 .feed{display:flex;flex-direction:column;gap:12px;min-width:0}
 .story{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:16px 18px;display:flex;flex-direction:column;gap:8px;min-width:0}
 .story.lead{padding:22px}
+.story.starred{border-color:var(--heat);box-shadow:inset 3px 0 0 var(--heat)}
+.star{color:var(--heat);font-size:15px;line-height:1}
 .meta{display:flex;flex-wrap:wrap;gap:8px;align-items:center;font-size:12px;color:var(--muted)}
 .topic{font-family:var(--f-mono);text-transform:uppercase;letter-spacing:.07em;color:var(--accent);font-weight:500}
 .where{background:var(--accent-soft);color:var(--accent);border-radius:5px;padding:1px 6px;font-weight:500}
@@ -154,7 +156,7 @@ aside{min-width:0}
       alertsNote:"An alert fires only when at least two independent outlets report the same story in your region.",
       regions:{bucharest:"Bucharest",romania:"Romania",europe:"Europe",world:"World"},
       topics:{all:"All topics",politics:"Politics",security:"Security",economy:"Economy",energy:"Energy",tech:"Tech",culture:"Culture",sport:"Sport",world:"World"},
-      forYou:"For you", stories:n=>`${n} stories`, sources:n=>`${n} source${n===1?"":"s"}`,
+      forYou:"For you", important:"Top story", stories:n=>`${n} stories`, sources:n=>`${n} source${n===1?"":"s"}`,
       min:n=>`${n} min ago`, hrs:n=>`${n} h ago`, days:n=>`${n} d ago`,
       alert:"Alert", confirmed:n=>`Confirmed by ${n} independent outlets`, dismiss:"Dismiss",
       loadingT:"Loading today's stories", loadingB:"New stories from trusted outlets appear here automatically, picked for the region you choose above.",
@@ -171,7 +173,7 @@ aside{min-width:0}
       alertsNote:"O alertă apare doar când cel puțin două publicații independente relatează aceeași știre din regiunea ta.",
       regions:{bucharest:"București",romania:"România",europe:"Europa",world:"Lume"},
       topics:{all:"Toate temele",politics:"Politică",security:"Securitate",economy:"Economie",energy:"Energie",tech:"Tehnologie",culture:"Cultură",sport:"Sport",world:"Lume"},
-      forYou:"Pentru tine", stories:n=>`${n} ${n===1?"știre":"știri"}`, sources:n=>`${n} ${n===1?"sursă":"surse"}`,
+      forYou:"Pentru tine", important:"Știre importantă", stories:n=>`${n} ${n===1?"știre":"știri"}`, sources:n=>`${n} ${n===1?"sursă":"surse"}`,
       min:n=>`acum ${n} min`, hrs:n=>`acum ${n} h`, days:n=>`acum ${n} ${n===1?"zi":"zile"}`,
       alert:"Alertă", confirmed:n=>`Confirmată de ${n} publicații independente`, dismiss:"Închide",
       loadingT:"Se încarcă știrile zilei", loadingB:"Știrile noi din surse de încredere apar aici automat, alese pentru regiunea selectată mai sus.",
@@ -259,10 +261,10 @@ aside{min-width:0}
   const placeName = s => (lang==="ro" && s.place_ro) || s.place || t().regions[s.region] || "";
   const empty = (a,b) => `<div class="empty"><strong>${esc(a)}</strong>${esc(b)}</div>`;
 
-  function card(s, lead){
+  function card(s, lead, star){
     const n = nSources(s);
-    return `<article class="story${lead?" lead":""}">
-      <div class="meta"><span class="topic">${esc(t().topics[s.topic]||s.topic)}</span><span class="where">${esc(placeName(s))}</span><span>${ago(s)}</span></div>
+    return `<article class="story${lead?" lead":""}${star?" starred":""}">
+      <div class="meta">${star?`<span class="star" title="${esc(t().important)}" aria-label="${esc(t().important)}">★</span>`:""}<span class="topic">${esc(t().topics[s.topic]||s.topic)}</span><span class="where">${esc(placeName(s))}</span><span>${ago(s)}</span></div>
       <h2>${esc(title(s))}</h2>
       <p>${esc(summary(s))}</p>
       <div class="srcs"><span class="count${n<2?" one":""}">${esc(t().sources(n))}</span>
@@ -294,10 +296,18 @@ aside{min-width:0}
     $("trendtabs").innerHTML = ["romania","europe","world"].map(r=>`<button data-r="${r}" aria-pressed="${r===trendRegion}">${esc(t().regions[r])}</button>`).join("");
     const list = stories
       .filter(s => visibleFor(s, region) && (topic==="all" || s.topic===topic))
-      .sort((a,b) => (closeness(b)*6 + trendScore(b)) - (closeness(a)*6 + trendScore(a)));
+      .sort((a,b) => Date.parse(b.publishedAt) - Date.parse(a.publishedAt));
+    // Top 3: most outlets (closer to your region first) among stories from the last 24 h; pinned on top with a star.
+    const fresh = list.filter(s => hoursOld(s) < 24);
+    const top = (fresh.length >= 3 ? fresh : list).slice()
+      .sort((a,b) => (nSources(b)*10 + closeness(b)) - (nSources(a)*10 + closeness(a)) || Date.parse(b.publishedAt) - Date.parse(a.publishedAt))
+      .slice(0,3);
+    const topIds = new Set(top.map(s=>s.id));
+    top.sort((a,b) => Date.parse(b.publishedAt) - Date.parse(a.publishedAt));
+    const ordered = top.concat(list.filter(s => !topIds.has(s.id)));
     $("feedlabel").textContent = `${t().forYou} · ${t().regions[region]}`;
     $("feedcount").textContent = list.length ? t().stories(list.length) : "";
-    $("feed").innerHTML = list.length ? list.map((s,i)=>card(s,i===0)).join("")
+    $("feed").innerHTML = list.length ? ordered.map((s,i)=>card(s,i===0,topIds.has(s.id))).join("")
       : !loaded ? empty(t().loadingT, t().loadingB)
       : stories.length ? empty(t().noTopicT, t().noTopicB) : empty(t().noneT, t().noneB);
     const trend = stories.filter(s=>trendMatch(s,trendRegion) && hoursOld(s)<72).sort((a,b)=>trendScore(b)-trendScore(a)).slice(0,6);
