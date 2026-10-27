@@ -6,17 +6,17 @@
 /* Layout: sticky header with region + language switch; main feed column + trending rail (rail becomes a strip on phones). Heat = number of independent sources. */
 :root{
   --bg:#f3f5f7; --surface:#ffffff; --ink:#14212b; --muted:#5b6b78; --line:#dde3e8;
-  --accent:#0b5d7a; --accent-soft:#e1eef3; --heat:#d9761a; --heat-soft:#fbeedd; --alert-bg:#14212b; --alert-fg:#f3f5f7;
+  --accent:#0b5d7a; --accent-soft:#e1eef3; --heat:#d9761a; --heat-soft:#fbeedd; --alert-bg:#14212b; --alert-fg:#f3f5f7; --ok:#1d7a45; --ok-soft:#dff3e6;
   --f-display:"Archivo","Arial Narrow",Arial,sans-serif;
   --f-body:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
   --f-mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
 }
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
   --bg:#0e161c; --surface:#16222b; --ink:#e6edf1; --muted:#93a4b0; --line:#26343e;
-  --accent:#5fb6d4; --accent-soft:#17323d; --heat:#f0a052; --heat-soft:#3a2a18; --alert-bg:#e6edf1; --alert-fg:#0e161c; color-scheme:dark}}
+  --accent:#5fb6d4; --accent-soft:#17323d; --heat:#f0a052; --heat-soft:#3a2a18; --alert-bg:#e6edf1; --alert-fg:#0e161c; --ok:#5fd18f; --ok-soft:#163626; color-scheme:dark}}
 :root[data-theme="dark"]{
   --bg:#0e161c; --surface:#16222b; --ink:#e6edf1; --muted:#93a4b0; --line:#26343e;
-  --accent:#5fb6d4; --accent-soft:#17323d; --heat:#f0a052; --heat-soft:#3a2a18; --alert-bg:#e6edf1; --alert-fg:#0e161c; color-scheme:dark}
+  --accent:#5fb6d4; --accent-soft:#17323d; --heat:#f0a052; --heat-soft:#3a2a18; --alert-bg:#e6edf1; --alert-fg:#0e161c; --ok:#5fd18f; --ok-soft:#163626; color-scheme:dark}
 *{box-sizing:border-box}
 body{background:var(--bg);color:var(--ink);font-family:var(--f-body);font-size:15px;line-height:1.5}
 body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--surface)}
@@ -61,6 +61,7 @@ main{display:grid;grid-template-columns:minmax(0,1fr) 320px;gap:28px;padding-blo
 .src{font-size:12.5px;text-decoration:none;border:1px solid var(--line);border-radius:6px;padding:3px 8px;color:var(--ink)}
 .src:hover{border-color:var(--accent);color:var(--accent)}
 .count{font-family:var(--f-mono);font-size:12px;font-weight:500;background:var(--heat-soft);color:var(--heat);border-radius:6px;padding:3px 7px}
+.count.ok{background:var(--ok-soft);color:var(--ok)}
 .count.one{background:var(--bg);color:var(--muted)}
 aside{min-width:0}
 .rail{position:sticky;top:calc(env(safe-area-inset-top,0px) + 130px);display:flex;flex-direction:column;gap:20px}
@@ -158,7 +159,7 @@ aside{min-width:0}
       alertsNote:"An alert fires only when at least two independent outlets report the same story in your region.",
       regions:{bucharest:"Bucharest",romania:"Romania",europe:"Europe",world:"World"},
       topics:{all:"All topics",politics:"Politics",security:"Security",economy:"Economy",energy:"Energy",tech:"Tech",culture:"Culture",sport:"Sport",world:"World"},
-      forYou:"For you", important:"Top story", stories:n=>`${n} stories`, sources:n=>`${n} source${n===1?"":"s"}`,
+      forYou:"For you", important:"Top story", trusted:"Confirmed by 3 or more outlets", stories:n=>`${n} stories`, sources:n=>`${n} source${n===1?"":"s"}`,
       min:n=>`${n} min ago`, hrs:n=>`${n} h ago`, days:n=>`${n} d ago`,
       alert:"Alert", confirmed:n=>`Confirmed by ${n} independent outlets`, dismiss:"Dismiss",
       loadingT:"Loading today's stories", loadingB:"New stories from trusted outlets appear here automatically, picked for the region you choose above.",
@@ -175,7 +176,7 @@ aside{min-width:0}
       alertsNote:"O alertă apare doar când cel puțin două publicații independente relatează aceeași știre din regiunea ta.",
       regions:{bucharest:"București",romania:"România",europe:"Europa",world:"Lume"},
       topics:{all:"Toate temele",politics:"Politică",security:"Securitate",economy:"Economie",energy:"Energie",tech:"Tehnologie",culture:"Cultură",sport:"Sport",world:"Lume"},
-      forYou:"Pentru tine", important:"Știre importantă", stories:n=>`${n} ${n===1?"știre":"știri"}`, sources:n=>`${n} ${n===1?"sursă":"surse"}`,
+      forYou:"Pentru tine", important:"Știre importantă", trusted:"Confirmată de cel puțin 3 publicații", stories:n=>`${n} ${n===1?"știre":"știri"}`, sources:n=>`${n} ${n===1?"sursă":"surse"}`,
       min:n=>`acum ${n} min`, hrs:n=>`acum ${n} h`, days:n=>`acum ${n} ${n===1?"zi":"zile"}`,
       alert:"Alertă", confirmed:n=>`Confirmată de ${n} publicații independente`, dismiss:"Închide",
       loadingT:"Se încarcă știrile zilei", loadingB:"Știrile noi din surse de încredere apar aici automat, alese pentru regiunea selectată mai sus.",
@@ -273,7 +274,7 @@ aside{min-width:0}
       <div class="meta">${star?`<span class="star" title="${esc(t().important)}" aria-label="${esc(t().important)}">★</span>`:""}<span class="topic">${esc(t().topics[s.topic]||s.topic)}</span><span class="where">${esc(placeName(s))}</span><span>${ago(s)}</span></div>
       <h2>${(b=>b?`<a class="hl" href="${esc(b.url)}" target="_blank" rel="noopener" title="${esc(b.name)}">${esc(title(s))}</a>`:esc(title(s)))(bestSource(s))}</h2>
       <p>${esc(summary(s))}</p>
-      <div class="srcs"><span class="count${n<2?" one":""}">${esc(t().sources(n))}</span>
+      <div class="srcs"><span class="count${n<2?" one":n>=3?" ok":""}"${n>=3?` title="${esc(t().trusted)}"`:""}>${n>=3?"✓ ":""}${esc(t().sources(n))}</span>
         ${(s.sources||[]).map(x=>`<a class="src" href="${esc(safeUrl(x.url))}" target="_blank" rel="noopener">${esc(x.name)} ↗</a>`).join("")}</div>
     </article>`;
   }
