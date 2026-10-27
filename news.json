@@ -1,5 +1,5 @@
 {
- "lastRun": "2026-10-27T15:12:00Z",
+ "lastRun": "2026-10-27T15:50:41Z",
  "stories": [
   {
    "place": "Bucharest",
@@ -58,6 +58,42 @@
    "title_ro": "One United Properties depășește 1 milion de metri pătrați livrați",
    "topic": "economy",
    "id": "buc-one-united"
+  },
+  {
+   "place": "Otopeni",
+   "place_ro": "Otopeni",
+   "publishedAt": "2026-10-26T14:06:00Z",
+   "region": "bucharest",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/700000-de-euro-bani-confiscati-au-disparut-de-la-biroul-vamal-de-frontiera-aeroport-otopeni-calatori-s-a-deschis-o-ancheta_3931459"
+    }
+   ],
+   "summary": "Close to €700,000 seized in January from a traveller arriving from Dubai disappeared from the customs office at Henri Coandă Airport; the bag was found holding paper. Customs notified police and opened an internal inquiry.",
+   "summary_ro": "Aproape 700.000 de euro confiscați în ianuarie de la un pasager sosit din Dubai au dispărut din biroul vamal al Aeroportului Henri Coandă, geanta fiind găsită cu hârtii. Autoritatea Vamală a sesizat Poliția și a deschis un control intern.",
+   "title": "Nearly €700,000 in seized cash vanishes from Otopeni customs office",
+   "title_ro": "Aproape 700.000 de euro confiscați au dispărut de la vama Aeroportului Otopeni",
+   "topic": "security",
+   "id": "buc-otopeni-cash"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-26T15:00:00Z",
+   "region": "bucharest",
+   "sources": [
+    {
+     "name": "Capital",
+     "url": "https://www.capital.ro/primaria-capitalei-anunta-deblocarea-a-12-proiecte-de-investitii-cand-vor-fi-gata-pasajul-basarab-si-prelungirea-ghencea.html"
+    }
+   ],
+   "summary": "Bucharest City Hall says works on Basarab overpass, Ghencea extension, tram lines and heating pipes are moving, with Basarab due by end-2026.",
+   "summary_ro": "Primăria Capitalei spune că lucrările la Pasajul Basarab, Prelungirea Ghencea, liniile de tramvai și rețeaua de termoficare avansează, iar Basarab ar trebui gata până la finalul lui 2026.",
+   "title": "City Hall lists deadlines for 12 unblocked Bucharest projects",
+   "title_ro": "Primăria Capitalei anunță termenele pentru 12 proiecte deblocate",
+   "topic": "politics",
+   "id": "buc-pmb-12-projects"
   },
   {
    "place": "Bucharest",
@@ -154,6 +190,42 @@
    "id": "buc-valea-saulei"
   },
   {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-27T07:59:00Z",
+   "region": "bucharest",
+   "sources": [
+    {
+     "name": "Ziarul Financiar",
+     "url": "https://www.zf.ro/eveniment/cod-galben-de-ploi-puternice-in-bucuresti-si-sapte-judete-anm-anunta-peste-40-l-mp-vant-de-70-km-h-si-ninsori-la-munte-23268747"
+    }
+   ],
+   "summary": "Forecasters issued a yellow code for heavy rain over 40 l/sqm, winds up to 70 km/h and mountain snow.",
+   "summary_ro": "Meteorologii au emis cod galben pentru ploi de peste 40 l/mp, vânt de până la 70 km/h și ninsori la munte.",
+   "title": "Yellow warning for heavy rain in Bucharest and seven counties",
+   "title_ro": "Cod galben de ploi în București și șapte județe",
+   "topic": "security",
+   "id": "buc-yellow-code-rain"
+  },
+  {
+   "place": "Netherlands",
+   "place_ro": "Țările de Jos",
+   "publishedAt": "2026-10-27T12:00:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/27/eurovision-in-crisis-netherlands-make-u-turn-and-pull-out-of-eurovision-2027"
+    }
+   ],
+   "summary": "The Netherlands reversed course and withdrew from the 2027 Eurovision Song Contest.",
+   "summary_ro": "Țările de Jos și-au schimbat decizia și s-au retras de la concursul Eurovision 2027.",
+   "title": "Netherlands pulls out of Eurovision 2027",
+   "title_ro": "Țările de Jos se retrag de la Eurovision 2027",
+   "topic": "culture",
+   "id": "eu-eurovision-netherlands"
+  },
+  {
    "place": "France",
    "place_ro": "Franța",
    "publishedAt": "2026-10-27T14:19:00Z",
@@ -170,6 +242,24 @@
    "title_ro": "Franța mobilizează un dispozitiv masiv de poliție pentru protestele de la final de săptămână",
    "topic": "politics",
    "id": "eu-france-protest-police"
+  },
+  {
+   "place": "Brussels",
+   "place_ro": "Bruxelles",
+   "publishedAt": "2026-10-27T08:00:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/frontex-ar-putea-deveni-o-agentie-europeana-de-deportare-apropiata-de-modelul-ice-din-sua-dar-fara-atributii-de-arestare-si-detentie.html"
+    }
+   ],
+   "summary": "G4Media reports plans that could turn Frontex into a European deportation agency, without powers of arrest or detention.",
+   "summary_ro": "G4Media relatează planuri prin care Frontex ar putea deveni o agenție europeană de deportare, fără atribuții de arestare sau detenție.",
+   "title": "Frontex could become EU deportation agency, report says",
+   "title_ro": "Frontex ar putea deveni agenție europeană de deportare",
+   "topic": "politics",
+   "id": "eu-frontex-deportation"
   },
   {
    "place": "Europe",
@@ -198,6 +288,10 @@
     {
      "name": "Euronews",
      "url": "https://www.euronews.com/video/2026/10/27/ukraine-firefighters-battle-flames-and-rescue-dog-from-kyiv-ruins"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/27/russia-targets-kyiv-as-finnish-norwegian-leaders-hold-rare-call-with-putin"
     }
    ],
    "summary": "Firefighters in the Ukrainian capital worked through the ruins, rescuing a dog from the rubble.",
@@ -226,6 +320,24 @@
    "id": "eu-merz-asia"
   },
   {
+   "place": "Moldova",
+   "place_ro": "Republica Moldova",
+   "publishedAt": "2026-10-27T08:00:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/ucraina-si-moldova-au-semnat-un-acord-de-cooperare-militara-chisinaul-vrea-sa-preia-experienta-kievului-in-apararea-antiaeriana.html"
+    }
+   ],
+   "summary": "Kyiv and Chișinău signed a military cooperation agreement, with Moldova seeking to learn from Ukraine's air defence experience.",
+   "summary_ro": "Kievul și Chișinăul au semnat un acord de cooperare militară, Moldova dorind să preia experiența Ucrainei în apărarea antiaeriană.",
+   "title": "Ukraine and Moldova sign air-defence cooperation deal",
+   "title_ro": "Ucraina și Moldova semnează un acord de cooperare militară",
+   "topic": "security",
+   "id": "eu-moldova-ukraine-defence"
+  },
+  {
    "place": "Finland / Norway",
    "place_ro": "Finlanda / Norvegia",
    "publishedAt": "2026-10-27T13:05:00Z",
@@ -234,6 +346,14 @@
     {
      "name": "Știri pe surse",
      "url": "https://www.stiripesurse.ro/un-pas-catre-dezescaladare-lideri-din-tarile-nordice-au-vorbit-cu-putin-si-zelenski-discutia-a-fost-sincera-si-substantiala_3931701"
+    },
+    {
+     "name": "HotNews",
+     "url": "https://hotnews.ro/doi-lideri-europeni-si-vladimir-putin-tocmai-au-vorbit-la-telefon-o-discutie-rara-pe-fondul-reluarii-negocierilor-privind-ucraina-2387607"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/27/russia-targets-kyiv-as-finnish-norwegian-leaders-hold-rare-call-with-putin"
     }
    ],
    "summary": "Finland's President Alexander Stubb and Norway's Prime Minister Jonas Gahr Støre spoke with Vladimir Putin about the war in Ukraine and then briefed Volodymyr Zelensky.",
@@ -262,6 +382,72 @@
    "id": "eu-norway-meta-lawsuit"
   },
   {
+   "place": "Ukraine",
+   "place_ro": "Ucraina",
+   "publishedAt": "2026-10-27T11:59:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/27/russia-targets-kyiv-as-finnish-norwegian-leaders-hold-rare-call-with-putin"
+    }
+   ],
+   "summary": "A localised truce took effect in Russian-held Oleshky to allow humanitarian aid, as Kyiv and Moscow agreed to US-mediated technical meetings in Abu Dhabi in early November, Al Jazeera reports.",
+   "summary_ro": "Un armistițiu local a intrat în vigoare în Oleșki, oraș controlat de Rusia, pentru livrarea de ajutoare, iar Kievul și Moscova au convenit întâlniri tehnice mediate de SUA la Abu Dhabi la începutul lui noiembrie, relatează Al Jazeera.",
+   "title": "Local ceasefire lets aid into Oleshky; talks set for Abu Dhabi",
+   "title_ro": "Armistițiu local în Oleșki pentru ajutoare; discuții la Abu Dhabi",
+   "topic": "world",
+   "id": "eu-oleshky-ceasefire"
+  },
+  {
+   "place": "Bulgaria",
+   "place_ro": "Bulgaria",
+   "publishedAt": "2026-10-27T11:12:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "HotNews",
+     "url": "https://hotnews.ro/premierul-bulgariei-leaga-noile-atacuri-din-marea-neagra-de-acuzatiile-romaniei-la-adresa-rusiei-cand-acuz-trebuie-sa-am-dovezi-clare-2387528"
+    },
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/premierul-bulgar-pro-rus-rumen-radev-sustine-ca-romania-a-mentionat-rusia-drept-responsabila-pentru-atacurile-cu-drone-si-din-acest-motiv-ar-fi-urmat-noi-atacuri-in-marea-neagra.html"
+    }
+   ],
+   "summary": "Rumen Radev said new drone strikes on ships followed Romania's blaming of Russia, and argued accusations need clear evidence. Eight vessels were hit off Bulgaria and Romania in October.",
+   "summary_ro": "Rumen Radev a spus că noile atacuri cu drone asupra navelor au urmat acuzațiilor României la adresa Rusiei și că acuzațiile cer dovezi clare. Opt nave au fost lovite în octombrie în largul Bulgariei și României.",
+   "title": "Bulgarian PM links Black Sea ship attacks to Romania's accusations",
+   "title_ro": "Premierul bulgar leagă atacurile din Marea Neagră de acuzațiile României",
+   "topic": "security",
+   "id": "eu-radev-black-sea"
+  },
+  {
+   "place": "Serbia",
+   "place_ro": "Serbia",
+   "publishedAt": "2026-10-25T19:00:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/25/vucic-concedes-defeat-in-pivotal-serbian-elections-says-student-movement-has-won"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader"
+    },
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/stiri/politic/prima-reactie-a-presedintelui-nicusor-dan-dupa-victoria-surprinzatoare-a-studentilor-in-serbia-romania-este-pregatita.html"
+    }
+   ],
+   "summary": "Serbia's Aleksandar Vučić admitted defeat after a student-led movement won the parliamentary vote on record turnout. President Nicușor Dan said Romania is prepared for the change.",
+   "summary_ro": "Aleksandar Vučić și-a recunoscut înfrângerea după ce mișcarea condusă de studenți a câștigat alegerile parlamentare, la o prezență record. Președintele Nicușor Dan a spus că România este pregătită pentru schimbare.",
+   "title": "Vučić concedes as student-led list wins Serbian election",
+   "title_ro": "Vučić recunoaște înfrângerea: lista studenților câștigă alegerile din Serbia",
+   "topic": "politics",
+   "id": "eu-serbia-election"
+  },
+  {
    "place": "Brussels",
    "place_ro": "Bruxelles",
    "publishedAt": "2026-10-27T08:30:00Z",
@@ -278,6 +464,42 @@
    "title_ro": "Planul UE pentru startup-uri se lovește de probleme",
    "topic": "economy",
    "id": "eu-startup-plan"
+  },
+  {
+   "place": "Transnistria",
+   "place_ro": "Transnistria",
+   "publishedAt": "2026-10-27T10:16:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "HotNews",
+     "url": "https://hotnews.ro/in-timp-ce-republica-moldova-avanseaza-pe-calea-integrarii-in-ue-manualele-scolare-din-transnistria-prezinta-invazia-rusiei-in-ucraina-drept-reunificare-2387622"
+    }
+   ],
+   "summary": "Ukrainian-language schools in Transnistria will from 2027 use textbooks that call the war a 'special military operation' and justify Russia's occupation of Ukrainian land, according to the group Promo-LEX.",
+   "summary_ro": "Școlile cu predare în ucraineană din Transnistria vor folosi din 2027 manuale care numesc războiul „operațiune militară specială” și justifică ocuparea de către Rusia a teritoriilor ucrainene, potrivit organizației Promo-LEX.",
+   "title": "Transnistria textbooks to justify Russia's war, rights group says",
+   "title_ro": "Manualele din Transnistria vor justifica războiul Rusiei, spune Promo-LEX",
+   "topic": "politics",
+   "id": "eu-transnistria-textbooks"
+  },
+  {
+   "place": "United Kingdom",
+   "place_ro": "Marea Britanie",
+   "publishedAt": "2026-10-27T10:07:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/breaking-marea-britanie-poarta-discutii-cu-ue-privind-o-posibila-revenire-la-libera-circulatie-the-times.html"
+    }
+   ],
+   "summary": "UK and EU officials are working on options that could include a return to free movement of people, to be presented before a 20 November summit, according to The Times as relayed by G4Media.",
+   "summary_ro": "Oficiali britanici și europeni lucrează la opțiuni care ar putea include revenirea la libera circulație a persoanelor, ce ar urma prezentate înaintea summitului din 20 noiembrie, potrivit The Times, citat de G4Media.",
+   "title": "UK and EU discuss possible return of free movement, Times reports",
+   "title_ro": "Marea Britanie și UE discută o posibilă revenire la libera circulație, scrie The Times",
+   "topic": "world",
+   "id": "eu-uk-free-movement"
   },
   {
    "place": "Warsaw",
@@ -298,6 +520,46 @@
    "id": "eu-uk-nato-warning"
   },
   {
+   "place": "Ukraine",
+   "place_ro": "Ucraina",
+   "publishedAt": "2026-10-27T09:14:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/ucraina-cere-regatului-unit-frantei-germaniei-italiei-si-poloniei-sa-ii-ofere-10-din-stocurile-de-rachete-interceptoare-pentru-sistemele-patriot-pentru-a-proteja-tara-de-atacurile-rusesti.html"
+    }
+   ],
+   "summary": "Ukraine's defence minister asked the UK, France, Germany, Italy and Poland to hand over 10% of their Patriot and IRIS-T interceptor stocks, offering later deliveries in return.",
+   "summary_ro": "Ministrul ucrainean al Apărării a cerut Marii Britanii, Franței, Germaniei, Italiei și Poloniei să cedeze 10% din stocurile de interceptoare Patriot și IRIS-T, în schimbul unor livrări ulterioare.",
+   "title": "Ukraine asks five European allies for share of interceptor stocks",
+   "title_ro": "Ucraina cere cinci aliați europeni o parte din stocurile de rachete interceptoare",
+   "topic": "security",
+   "id": "eu-ukraine-patriot-request"
+  },
+  {
+   "place": "Europe",
+   "place_ro": "Europa",
+   "publishedAt": "2026-10-27T07:00:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "PressOne",
+     "url": "https://pressone.ro/juliette-lassman-oecd-criza-apei-este-deja-aici-cum-se-pregateste-europa-pentru-perioadele-in-care-apa-nu-mai-ajunge-pentru-toata-lumea"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/peste-jumatate-dintre-liderii-industriei-europene-avertizeaza-ca-deficitul-de-apa-va-ameninta-cresterea-afacerilor-in-urmatorii-cinci-ani_3931740"
+    }
+   ],
+   "summary": "More than half of European industry leaders surveyed expect water scarcity to threaten business growth within five years. An OECD expert told PressOne the water crisis is already under way.",
+   "summary_ro": "Peste jumătate dintre liderii industriei europene chestionați se așteaptă ca deficitul de apă să le amenințe creșterea în următorii cinci ani. O expertă OCDE a declarat pentru PressOne că criza apei a început deja.",
+   "title": "European industry leaders warn of water shortages",
+   "title_ro": "Liderii industriei europene avertizează asupra lipsei de apă",
+   "topic": "economy",
+   "id": "eu-water-shortage-warning"
+  },
+  {
    "place": "Bucharest",
    "place_ro": "București",
    "publishedAt": "2026-10-27T12:40:00Z",
@@ -314,6 +576,60 @@
    "title_ro": "AEP organizează o conferință despre protejarea alegerilor în mediul digital",
    "topic": "politics",
    "id": "pol-aep-election-conference"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-27T09:34:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/petrisor-peiu-aur-psd-a-trecut-de-la-indignare-la-complicitate-guvernul-niculescu-ascunde-deficitul-real-dupa-reteta-bolojan-ciolacu-ciuca_3931672"
+    }
+   ],
+   "summary": "AUR Senate leader Petrișor Peiu says the Niculescu government gave a deficit figure without the EU-standard ESA number, and AUR MP Andrei Ohaci says new tax increases are being prepared. The government says it will not raise taxes.",
+   "summary_ro": "Liderul senatorilor AUR, Petrișor Peiu, susține că Guvernul Niculescu a anunțat deficitul fără cifra calculată după standardul ESA, iar deputatul AUR Andrei Ohaci afirmă că se pregătesc noi creșteri de taxe. Guvernul spune că nu va majora taxele.",
+   "title": "AUR accuses government of hiding true deficit and planning tax rises",
+   "title_ro": "AUR acuză Guvernul că ascunde deficitul real și pregătește taxe noi",
+   "topic": "politics",
+   "id": "pol-aur-deficit-claims"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-26T22:30:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/actualitate/politica/aur-cere-ancheta-parlamentara-privind-migratia-ilegala-de-la-infractiunile-comise-de-straini-la-exploatarea-muncitorilor-din-afara-ue-4009083"
+    }
+   ],
+   "summary": "AUR wants a parliamentary committee to look into illegal migration, including crimes by foreigners and exploitation of non-EU workers.",
+   "summary_ro": "AUR solicită o comisie parlamentară care să analizeze migrația ilegală, inclusiv infracțiunile comise de străini și exploatarea muncitorilor din afara UE.",
+   "title": "AUR asks for parliamentary inquiry into illegal migration",
+   "title_ro": "AUR cere anchetă parlamentară privind migrația ilegală",
+   "topic": "politics",
+   "id": "pol-aur-migration-inquiry"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-27T03:30:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/bns-critica-intalnirea-lui-luca-nicolescu-cu-mediul-de-afaceri-sindicalistii-sunt-nemultumiti-ca-guvernul-nu-i-a-chemat-la-discutii-4009683"
+    }
+   ],
+   "summary": "The BNS trade union bloc objected that Prime Minister Niculescu met business groups without inviting unions to talks.",
+   "summary_ro": "Blocul Național Sindical a reproșat că premierul Niculescu s-a întâlnit cu mediul de afaceri fără să invite sindicatele la discuții.",
+   "title": "Unions criticise PM for meeting employers without them",
+   "title_ro": "BNS critică întâlnirea premierului cu patronatele fără sindicate",
+   "topic": "politics",
+   "id": "pol-bns-niculescu"
   },
   {
    "place": "Romania",
@@ -380,6 +696,10 @@
     {
      "name": "Știri pe surse",
      "url": "https://www.stiripesurse.ro/ccr-tanasescu-bolojan-ancheta-senat-document_3931669"
+    },
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/viata-parlamentara/2026/10/27/senat-comisia-de-constitutionalitate-a-primit-un-document-din-partea-presedintei-ccr-tanasescu-si-bo--1607260"
     }
    ],
    "summary": "Court president Simina Tănăsescu replied publicly to senators investigating her meeting with Ilie Bolojan and released documents.",
@@ -406,6 +726,10 @@
     {
      "name": "Știrile ProTV",
      "url": "https://stirileprotv.ro/stiri/politic/prepedintele-psd-sorin-grindeanu-vrea-ca-guvernul-niculescu-sa-si-asume-raspunderea-pe-reforma-administrativ-teritoriala.html"
+    },
+    {
+     "name": "HotNews",
+     "url": "https://hotnews.ro/interviu-de-ce-comasarea-localitatilor-mici-propusa-de-psd-nu-va-aduce-bani-la-buget-expert-din-fostul-guvern-bolojan-stiti-cum-e-cu-diavolul-si-cu-detaliile-2387212"
     }
    ],
    "summary": "PSD leader Sorin Grindeanu wants the government to pass two major reforms by assuming responsibility in Parliament, including voluntary mergers of small localities. PNL's Alexandru Muraru called the plan a sham, and UDMR's Kelemen Hunor warned mergers cannot be decided in an office.",
@@ -414,6 +738,42 @@
    "title_ro": "PSD vrea asumarea răspunderii pentru comasarea localităților; PNL și UDMR obiectează",
    "topic": "politics",
    "id": "pol-commune-merger"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-26T12:31:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/stiri/politic/nicusor-dan-mesaj-de-felicitare-pentru-lula-da-silva-romania-si-brazilia-au-inca-multe-de-realizat-impreuna.html"
+    }
+   ],
+   "summary": "President Nicușor Dan sent congratulations to Luiz Inácio Lula da Silva, saying Romania and Brazil have much more to achieve together.",
+   "summary_ro": "Președintele Nicușor Dan i-a transmis felicitări lui Luiz Inácio Lula da Silva, spunând că România și Brazilia mai au multe de realizat împreună.",
+   "title": "President Dan congratulates Lula on Brazil election win",
+   "title_ro": "Nicușor Dan îl felicită pe Lula pentru victoria din Brazilia",
+   "topic": "politics",
+   "id": "pol-dan-lula"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-27T05:30:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/actualitate/politica/radu-marinescu-anunta-deblocarea-unui-proiect-care-priveste-legea-femicidului-4009783"
+    }
+   ],
+   "summary": "Justice Minister Radu Marinescu says a joint ministerial order required to implement the femicide law has been unblocked.",
+   "summary_ro": "Ministrul Justiției, Radu Marinescu, anunță deblocarea ordinului comun necesar aplicării legii femicidului.",
+   "title": "Justice minister unblocks order needed to apply femicide law",
+   "title_ro": "Ministrul Justiției deblochează ordinul pentru legea femicidului",
+   "topic": "politics",
+   "id": "pol-femicide-order"
   },
   {
    "place": "Romania / Italy",
@@ -436,6 +796,50 @@
   {
    "place": "Bucharest",
    "place_ro": "București",
+   "publishedAt": "2026-10-26T11:39:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/actualitate/justitie/tribunalul-bucuresti-dezbate-cererea-diicot-de-prelungire-a-arestului-pentru-calin-georgescu-4008715"
+    },
+    {
+     "name": "HotNews",
+     "url": "https://hotnews.ro/calin-georgescu-afla-astazi-daca-ramane-in-arest-preventiv-in-dosarul-de-inselaciune-de-11-milioane-de-euro-2386469"
+    },
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/justitie/2026/10/26/tribunalul-bucuresti-dezbate-cererea-diicot-de-prelungire-a-arestului-pentru-calin-georgescu--1606684"
+    }
+   ],
+   "summary": "The Bucharest Tribunal turned down DIICOT's request to extend Călin Georgescu's pretrial detention in the €1.1 million fraud case and ordered judicial control instead. The ruling is not final; DIICOT says it will challenge it at the Court of Appeal.",
+   "summary_ro": "Tribunalul București a respins cererea DIICOT de prelungire a arestului preventiv al lui Călin Georgescu în dosarul de înșelăciune de 1,1 milioane de euro și a dispus control judiciar. Decizia nu este definitivă, iar DIICOT a anunțat că o va contesta la Curtea de Apel.",
+   "title": "Court rejects longer arrest for Georgescu; prosecutors appeal",
+   "title_ro": "Tribunalul refuză prelungirea arestului lui Georgescu; DIICOT contestă",
+   "topic": "politics",
+   "id": "pol-georgescu-control"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-27T07:10:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/justitie/termen-in-procesul-in-care-calin-georgescu-si-gruparea-sa-sunt-judecati-pentru-tentativa-de-lovitura-de-stat.html"
+    }
+   ],
+   "summary": "The Bucharest Court of Appeal held a new hearing on Tuesday in the case in which Călin Georgescu, Horațiu Potra and 20 others are tried over an alleged attempt against the constitutional order, after several postponements.",
+   "summary_ro": "Curtea de Apel București a avut marți un nou termen în procesul în care Călin Georgescu, Horațiu Potra și alți 20 de inculpați sunt judecați pentru acțiuni împotriva ordinii constituționale, după mai multe amânări.",
+   "title": "Appeals court hears coup-attempt case against Georgescu and Potra",
+   "title_ro": "Curtea de Apel judecă dosarul tentativei de lovitură de stat al lui Georgescu și Potra",
+   "topic": "politics",
+   "id": "pol-georgescu-coup-trial"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
    "publishedAt": "2026-10-26T20:02:00Z",
    "region": "romania",
    "sources": [
@@ -450,6 +854,64 @@
    "title_ro": "Senatul votează casca obligatorie pentru toți utilizatorii de trotinete și biciclete electrice",
    "topic": "politics",
    "id": "pol-helmet-bill"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-26T19:54:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/actualitate/politica/kelemen-hunor-nu-exclude-o-motiune-de-cenzura-daca-lucrurile-se-vor-complica-dar-crede-ca-psd-va-guverna-pana-in-2028-4009933"
+    }
+   ],
+   "summary": "UDMR leader Kelemen Hunor told Digi24 his party could support a censure motion if the coalition deal is not respected, but said he expects PSD to govern until 2028. He also urged the government to protect the Neptun Deep gas infrastructure.",
+   "summary_ro": "Liderul UDMR, Kelemen Hunor, a declarat la Digi24 că partidul său ar putea susține o moțiune de cenzură dacă acordul de guvernare nu este respectat, dar că se așteaptă ca PSD să guverneze până în 2028. El a cerut și protejarea infrastructurii Neptun Deep.",
+   "title": "Kelemen Hunor does not rule out backing a censure motion",
+   "title_ro": "Kelemen Hunor nu exclude susținerea unei moțiuni de cenzură",
+   "topic": "politics",
+   "id": "pol-kelemen-censure"
+  },
+  {
+   "place": "Luxembourg",
+   "place_ro": "Luxemburg",
+   "publishedAt": "2026-10-27T08:21:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/madr-ajutoarele-nationale-tranzitorii-vor-fi-acordate-si-dupa-2027-romania-a-cerut-ce-ca-plafonarea-si-reducerea-progresiva-a-platilor-pe-suprafata-sa-ramana-optionale_3931648"
+    }
+   ],
+   "summary": "Romania's agriculture ministry says the EU Council presidency agreed to keep national transitional aid after 2027 in the draft Common Agricultural Policy text. Romania also asked that capping of area payments stay optional.",
+   "summary_ro": "Ministerul Agriculturii spune că Președinția Consiliului UE a acceptat menținerea ajutoarelor naționale tranzitorii după 2027 în textul de compromis al viitoarei Politici Agricole Comune. România a cerut și ca plafonarea plăților pe suprafață să rămână opțională.",
+   "title": "Romania secures transitional farm aid in post-2027 EU farm policy draft",
+   "title_ro": "Ajutoarele naționale tranzitorii rămân în proiectul PAC după 2027",
+   "topic": "economy",
+   "id": "pol-madr-transitional-aid"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-26T14:40:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/stiri/politic/peste-27-000-de-pensionari-militari-ar-putea-primi-banii-inapoi-pentru-impozitul-progresiv-ce-prevede-proiectul-de-restituire-a-sumelor-retinute.html"
+    },
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/actualitate/politica/proiect-de-lege-care-vizeaza-pensionarii-militari-depus-de-fostul-ministru-al-apararii-radu-miruta-4009325"
+    }
+   ],
+   "summary": "Former defence minister Radu Miruță filed a bill to return sums withheld from over 27,000 military pensioners under the progressive tax.",
+   "summary_ro": "Fostul ministru al Apărării Radu Miruță a depus un proiect prin care peste 27.000 de pensionari militari ar primi înapoi sumele reținute prin impozitul progresiv.",
+   "title": "Bill seeks refunds for military pensioners hit by progressive tax",
+   "title_ro": "Proiect pentru restituirea impozitului progresiv reținut pensionarilor militari",
+   "topic": "politics",
+   "id": "pol-military-pensions-bill"
   },
   {
    "place": "Covasna",
@@ -486,6 +948,24 @@
    "title_ro": "USR și PNL cer din nou o comisie de anchetă pentru zborurile „Mykonos-Nordis”",
    "topic": "politics",
    "id": "pol-mykonos-inquiry"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-26T11:31:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/stiri/politic/prioritatile-prezentate-de-premierul-luca-niculescu-lui-mugur-isarescu-guvernatorul-bnr.html"
+    }
+   ],
+   "summary": "Prime Minister Luca Niculescu presented his government's priorities to National Bank governor Mugur Isărescu ahead of the budget rectification.",
+   "summary_ro": "Premierul Luca Niculescu i-a prezentat guvernatorului BNR, Mugur Isărescu, prioritățile guvernului înaintea rectificării bugetare.",
+   "title": "PM Niculescu meets central bank governor before budget revision",
+   "title_ro": "Niculescu s-a întâlnit cu Isărescu înainte de rectificarea bugetară",
+   "topic": "politics",
+   "id": "pol-niculescu-isarescu"
   },
   {
    "place": "Chișinău",
@@ -554,6 +1034,24 @@
    "id": "pol-pensions-two-steps"
   },
   {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-26T22:30:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/actualitate/politica/grindeanu-spune-ca-nu-vor-fi-schimbari-in-perioada-urmatoare-la-pilonul-ii-de-pensii-nu-e-pe-agenda-psd-4009081"
+    }
+   ],
+   "summary": "PSD leader Sorin Grindeanu says changes to the Pillar II pension system are not on the party's agenda in the coming period.",
+   "summary_ro": "Liderul PSD, Sorin Grindeanu, spune că modificarea Pilonului II de pensii nu se află pe agenda partidului în perioada următoare.",
+   "title": "Grindeanu: no changes to private Pillar II pensions planned",
+   "title_ro": "Grindeanu: nu sunt planificate schimbări la Pilonul II de pensii",
+   "topic": "politics",
+   "id": "pol-pillar2-pensions"
+  },
+  {
    "place": "Romania",
    "place_ro": "România",
    "publishedAt": "2026-10-27T10:27:00Z",
@@ -570,6 +1068,24 @@
    "title_ro": "PSD analizează un sistem electoral „câștigătorul ia tot”, spun surse",
    "topic": "politics",
    "id": "pol-psd-electoral-reform"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-27T06:40:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/alexandru-rogobete-le-atrage-atentia-medicilor-la-3-abateri-se-poate-desface-contractul-de-munca_3931601"
+    }
+   ],
+   "summary": "Health Minister Alexandru Rogobete said on TVR that doctors who leave public hospital duty for private work could lose their contract after three such violations.",
+   "summary_ro": "Ministrul Sănătății, Alexandru Rogobete, a spus la TVR că medicii care părăsesc programul din spitalul public pentru activitate în privat ar putea pierde contractul de muncă după trei abateri.",
+   "title": "Health minister proposes dismissal for doctors who skip public shifts",
+   "title_ro": "Ministrul Sănătății propune desfacerea contractului medicilor care lipsesc din gărzi",
+   "topic": "politics",
+   "id": "pol-rogobete-doctors"
   },
   {
    "place": "Bucharest",
@@ -618,14 +1134,72 @@
     {
      "name": "HotNews",
      "url": "https://hotnews.ro/luca-niculescu-dupa-cazul-de-sabotaj-de-la-carfil-astfel-de-atacuri-sunt-inacceptabile-am-intarit-paza-am-si-prevenit-multe-alte-incidente-2387852"
+    },
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/dominic-fritz-tineti-va-bine-aur-condamna-ferm-orice-actiune-de-sabotaj-coordonata-din-federatia-rusa-impotriva-obiectivelor-strategice-ale-romaniei-acelasi-aur-care-cand-o-drona.html"
     }
    ],
-   "summary": "PSD leader Sorin Grindeanu called for stronger national security, Interior Minister Cătălin Predoiu warned the pressure is likely to grow, and AUR asked President Nicușor Dan to explain how the attack was possible. PM Luca Niculescu called such attacks unacceptable and said security at strategic sites had been tightened.",
-   "summary_ro": "Liderul PSD, Sorin Grindeanu, a cerut întărirea securității naționale, Cătălin Predoiu a avertizat că presiunile vor crește, iar AUR i-a cerut președintelui Nicușor Dan să explice cum a fost posibil atacul. Premierul Luca Niculescu a numit astfel de atacuri inacceptabile și a spus că paza obiectivelor strategice a fost întărită.",
+   "summary": "PSD leader Sorin Grindeanu called for stronger national security, Interior Minister Cătălin Predoiu warned the pressure is likely to grow, and AUR asked President Nicușor Dan to explain how the attack was possible. PM Luca Niculescu called such attacks unacceptable and said security at strategic sites had been tightened. USR leader Dominic Fritz questioned AUR's condemnation of Russia, citing the party's past positions.",
+   "summary_ro": "Liderul PSD, Sorin Grindeanu, a cerut întărirea securității naționale, Cătălin Predoiu a avertizat că presiunile vor crește, iar AUR i-a cerut președintelui Nicușor Dan să explice cum a fost posibil atacul. Premierul Luca Niculescu a numit astfel de atacuri inacceptabile și a spus că paza obiectivelor strategice a fost întărită. Liderul USR, Dominic Fritz, a pus sub semnul întrebării condamnarea Rusiei de către AUR, invocând pozițiile anterioare ale partidului.",
    "title": "Parties demand answers after Russian sabotage revelations",
    "title_ro": "Partidele cer răspunsuri după dezvăluirile despre sabotajul rusesc",
    "topic": "politics",
    "id": "pol-sabotage-reactions"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-27T14:39:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/lege-senat-venituri-cas-pensii-stimulent-guvern-niculescu_3931757"
+    }
+   ],
+   "summary": "Știri pe surse reports that PSD, PNL and USR groups postponed or rejected bills on pensions, lower VAT on first homes and lower dividend tax in the Senate. Unnamed Senate sources say the government first wants a full budget review.",
+   "summary_ro": "Știri pe surse relatează că grupurile PSD, PNL și USR au amânat sau respins în Senat proiecte privind pensiile, TVA redus la prima locuință și impozitul pe dividende. Surse anonime din Senat spun că guvernul vrea întâi o evaluare completă a bugetului.",
+   "title": "Senate shelves bills raising incomes or cutting taxes, report says",
+   "title_ro": "Senatul amână proiectele care cresc veniturile sau reduc taxele",
+   "topic": "politics",
+   "id": "pol-senate-freeze"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-27T13:20:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/george-simion-anunta-infiintarea-unui-grup-de-lucru-pentru-modificarea-legislatiei-farmaceutice_3931750"
+    }
+   ],
+   "summary": "AUR leader George Simion says the party is setting up a working group to propose changes to pharmaceutical legislation.",
+   "summary_ro": "Liderul AUR, George Simion, spune că partidul înființează un grup de lucru care să propună modificări ale legislației farmaceutice.",
+   "title": "Simion announces working group on pharmaceutical law changes",
+   "title_ro": "Simion anunță un grup de lucru pentru legislația farmaceutică",
+   "topic": "politics",
+   "id": "pol-simion-pharma"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-26T16:10:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/actualitate/politica/nou-derapaj-xenofob-al-deputatului-aur-dan-tanasa-in-parlament-ati-readus-lepra-ati-adus-traficanti-de-droguri-4009653"
+    }
+   ],
+   "summary": "Speaking in the Chamber of Deputies, AUR MP Dan Tanasă linked Asian workers brought to Romania to leprosy and drug trafficking and addressed USR MPs. Prosecutors sent him to trial on 22 October in a separate incitement case.",
+   "summary_ro": "De la tribuna Camerei Deputaților, deputatul AUR Dan Tanasă a asociat muncitorii asiatici aduși în România cu lepra și traficul de droguri, adresându-se parlamentarilor USR. Procurorii l-au trimis în judecată pe 22 octombrie, într-un dosar separat de incitare.",
+   "title": "AUR MP Dan Tanasă's remarks on migrant workers spark criticism",
+   "title_ro": "Declarațiile deputatului AUR Dan Tanasă despre muncitorii străini, criticate",
+   "topic": "politics",
+   "id": "pol-tanasa-remarks"
   },
   {
    "place": "Romania",
@@ -650,6 +1224,24 @@
    "id": "pol-tax-2027"
   },
   {
+   "place": "Transylvania",
+   "place_ro": "Transilvania",
+   "publishedAt": "2026-10-27T06:40:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/premierul-peter-magyar-a-oprit-finantarea-pentru-o-fundatie-a-udmr-care-ajuta-etnicii-maghiari-din-romania-sa-isi-ia-cetatenia-ungariei.html"
+    }
+   ],
+   "summary": "The UDMR-founded Eurotrans Foundation will stop handling simplified Hungarian citizenship files after Budapest ended funding; consulates will take over, the foundation says.",
+   "summary_ro": "Fundația Eurotrans, înființată de UDMR, nu va mai gestiona dosarele de cetățenie maghiară simplificată după ce Budapesta a oprit finanțarea; preiau consulatele, potrivit fundației.",
+   "title": "Hungary ends UDMR foundation's role in citizenship applications",
+   "title_ro": "Ungaria oprește rolul fundației UDMR în dosarele de cetățenie",
+   "topic": "politics",
+   "id": "pol-udmr-eurotrans"
+  },
+  {
    "place": "Bucharest",
    "place_ro": "București",
    "publishedAt": "2026-10-26T18:52:00Z",
@@ -670,6 +1262,28 @@
    "title_ro": "Fostul consul de la Lyon, numit șef al Cancelariei Premierului",
    "topic": "politics",
    "id": "pol-ungureanu-chancellery"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-27T09:16:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "HotNews",
+     "url": "https://hotnews.ro/soferita-care-a-lovit-o-mortal-pe-anastasia-a-fost-condamnata-la-inchisoare-cu-executare-dupa-patru-ani-de-procese-2387563"
+    },
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/condamnare-la-inchisoare-pentru-soferita-care-a-ucis-o-pe-anastasia-d-dupa-patru-ani-de-procese-cazul-a-dus-la-adoptarea-legii-anastasia-femeia-vinovata-de-accident-a-fost-condamnata-la-ci.html"
+    }
+   ],
+   "summary": "The driver who fatally struck a child named Anastasia was sentenced to five and a half years; the ruling is not final. The case led to the 'Anastasia law'.",
+   "summary_ro": "Șoferița care a lovit mortal o fetiță pe nume Anastasia a primit cinci ani și jumătate de închisoare; decizia nu este definitivă. Cazul a dus la adoptarea „legii Anastasia”.",
+   "title": "Driver in Anastasia case gets prison term after four-year trial",
+   "title_ro": "Șoferița din cazul Anastasia, condamnată la închisoare după patru ani",
+   "topic": "security",
+   "id": "ro-anastasia-sentence"
   },
   {
    "place": "Romania",
@@ -716,6 +1330,18 @@
     {
      "name": "Romania Insider",
      "url": "https://www.romania-insider.com/business/romanias-finance-minister-socdem-leader-clash-budget-execution"
+    },
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/stiri/politic/grindeanu-ii-cere-lui-nazare-sa-prezinte-situatia-reala-a-bugetului-pe-care-tot-el-l-a-administrat-in-guvernul-bolojan.html"
+    },
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/grindeanu-anunta-ca-i-a-cerut-ministrului-finantelor-sa-prezinte-public-situatia-economica-reala-a-tarii-vrem-sa-stim-pe-ce-ne-putem-baza.html"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/video-sorin-grindeanu-i-a-cerut-lui-alexandru-nazare-un-raport-detaliat-romanii-au-dreptul-sa-stie-de-ce-au-fost-chinuiti-cu-austeritate-09_3931635"
     }
    ],
    "summary": "The two disagree publicly over how to read the latest budget execution data.",
@@ -724,6 +1350,24 @@
    "title_ro": "Ministrul Finanțelor și liderul social-democraților, în conflict pe cifrele bugetului",
    "topic": "politics",
    "id": "ro-budget-clash"
+  },
+  {
+   "place": "Brașov",
+   "place_ro": "Brașov",
+   "publishedAt": "2026-10-27T13:39:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "HotNews",
+     "url": "https://hotnews.ro/directorul-carfil-spune-ca-fabrica-a-fost-avertizata-din-primavara-ca-poate-fi-tinta-unor-acte-de-sabotaj-am-luat-masuri-2387790"
+    }
+   ],
+   "summary": "The head of the Carfil plant near Brașov says the factory was told in the spring it could be a sabotage target and that measures were taken.",
+   "summary_ro": "Directorul fabricii Carfil de lângă Brașov spune că unitatea fusese avertizată încă din primăvară că ar putea fi ținta unui sabotaj și că s-au luat măsuri.",
+   "title": "Carfil director says plant was warned of sabotage risk in spring",
+   "title_ro": "Directorul Carfil: fabrica fusese avertizată din primăvară",
+   "topic": "security",
+   "id": "ro-carfil-warning"
   },
   {
    "place": "Romania",
@@ -780,6 +1424,118 @@
    "id": "ro-energy-crisis"
   },
   {
+   "place": "Dâmbovița",
+   "place_ro": "Dâmbovița",
+   "publishedAt": "2026-10-27T10:50:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/stiri/actualitate/frauda-de-3-5-milioane-de-euro-cu-fonduri-ue-descoperita-de-procurorii-lui-kovesi-trei-persoane-au-fost-trimise-in-judecata.html"
+    }
+   ],
+   "summary": "The European Public Prosecutor's Office in Bucharest sent three people to trial over 237 allegedly falsified applications for EU rural funds; 30 others seek plea deals.",
+   "summary_ro": "Parchetul European de la București a trimis în judecată trei persoane pentru 237 de cereri de finanțare din fonduri rurale UE presupus falsificate; alte 30 de persoane cer acorduri de recunoaștere.",
+   "title": "EU prosecutors indict three over €3.5m farm-fund fraud",
+   "title_ro": "Parchetul European trimite în judecată trei persoane pentru fraudă de 3,5 mil. euro",
+   "topic": "security",
+   "id": "ro-eppo-farm-fraud"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-27T05:11:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "HotNews",
+     "url": "https://hotnews.ro/surpriza-din-contractul-semnat-de-romania-pentru-32-de-avioane-f-16-din-norvegia-care-s-au-facut-35-2381266"
+    }
+   ],
+   "summary": "Romania will receive 35 F-16s from Norway instead of the 32 ordered, the extra three compensating for delivery delays, HotNews reports. Romania's fleet is set to reach 67 F-16s.",
+   "summary_ro": "România va primi din Norvegia 35 de avioane F-16 în loc de cele 32 comandate, cele trei suplimentare compensând întârzierile livrărilor, relatează HotNews. Flota României ar urma să ajungă la 67 de F-16.",
+   "title": "Norway to add three F-16s to Romania's order as delay compensation",
+   "title_ro": "Norvegia adaugă trei F-16 la comanda României, drept compensație pentru întârzieri",
+   "topic": "security",
+   "id": "ro-f16-norway"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-27T07:49:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Ziarul Financiar",
+     "url": "https://www.zf.ro/zf-24/consiliul-investitorilor-straini-romania-aleaga-intre-consolidarea-fiscala-cresterea-economica-nevoie-ambele-prioritate-economica-majora-ar-trebui-stabilite-institutie-responsabila-termen-realizare-23268741"
+    }
+   ],
+   "summary": "The Foreign Investors Council says Romania needs both fiscal consolidation and growth, with a clear institution and deadline for each priority.",
+   "summary_ro": "Consiliul Investitorilor Străini spune că România are nevoie de consolidare fiscală și de creștere, cu o instituție responsabilă și un termen pentru fiecare prioritate.",
+   "title": "Foreign investors urge Romania to pursue consolidation and growth together",
+   "title_ro": "Investitorii străini cer consolidare fiscală și creștere economică",
+   "topic": "economy",
+   "id": "ro-fic-fiscal"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-27T11:51:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "HotNews",
+     "url": "https://hotnews.ro/dupa-criza-de-vaccin-antigripal-370-000-de-doze-ajung-in-farmacii-in-perioada-urmatoare-cate-persoane-s-au-vaccinat-deja-2387701"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/vesti-bune-pentru-romanii-care-vor-sa-se-vaccineze-antigripal-cand-este-estimata-o-noua-livrare-si-cate-doze-vor-fi-disponibile_3931720"
+    }
+   ],
+   "summary": "A new delivery of about 370,000 flu vaccine doses is expected in pharmacies following a shortage.",
+   "summary_ro": "O nouă livrare de aproximativ 370.000 de doze de vaccin antigripal este așteptată în farmacii, după o perioadă de lipsă.",
+   "title": "370,000 flu vaccine doses headed to pharmacies after shortage",
+   "title_ro": "370.000 de doze de vaccin antigripal ajung în farmacii după criză",
+   "topic": "economy",
+   "id": "ro-flu-vaccine"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-27T07:30:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/actualitate/politica/sistemul-de-sanatate-mai-are-nevoie-de-11-miliarde-de-lei-pana-la-sfarsitul-anului-rogobete-sub-nicio-forma-nu-se-inchid-spitale-4009951"
+    }
+   ],
+   "summary": "Health Minister Alexandru Rogobete says the system needs 10.5–11 billion lei more until the end of the year and that no hospitals will be closed.",
+   "summary_ro": "Ministrul Sănătății, Alexandru Rogobete, spune că sistemul mai are nevoie de 10,5–11 miliarde de lei până la final de an și că nu se vor închide spitale.",
+   "title": "Health system needs about 11 billion lei by year-end",
+   "title_ro": "Sistemul de sănătate mai are nevoie de 11 miliarde de lei",
+   "topic": "economy",
+   "id": "ro-health-funding"
+  },
+  {
+   "place": "Prahova",
+   "place_ro": "Prahova",
+   "publishedAt": "2026-10-27T05:30:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/actualitate/politica/intotero-a-vizitat-barajele-paltinu-si-maneciu-problemele-nu-se-rezolva-prin-cautarea-vinovatilor-ci-prin-asumarea-unor-solutii-4009825"
+    }
+   ],
+   "summary": "Environment Minister Natalia Intotero visited the two Prahova dams and said solutions matter more than finding culprits.",
+   "summary_ro": "Ministrul Mediului, Natalia Intotero, a vizitat cele două baraje din Prahova și a spus că soluțiile contează mai mult decât găsirea vinovaților.",
+   "title": "Environment minister inspects Paltinu and Măneciu dams",
+   "title_ro": "Ministrul Mediului a inspectat barajele Paltinu și Măneciu",
+   "topic": "energy",
+   "id": "ro-intotero-dams"
+  },
+  {
    "place": "Tokyo / Romania",
    "place_ro": "Tokyo / România",
    "publishedAt": "2026-10-27T07:00:00Z",
@@ -800,6 +1556,24 @@
    "title_ro": "România și Japonia discută cercetare comună în inteligență artificială",
    "topic": "tech",
    "id": "ro-japan-ai"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-26T17:41:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "HotNews",
+     "url": "https://hotnews.ro/cum-si-a-anuntat-seful-kanal-d-angajatii-ca-postul-tv-tocmai-a-fost-vandut-surpriza-din-email-2387206"
+    }
+   ],
+   "summary": "Turkey's Doğan Holding signed the sale of 100% of Doğan Media International, owner of Kanal D, Kanal D2 and Radio Impuls, to the Clever Media group.",
+   "summary_ro": "Doğan Holding a semnat vânzarea integrală a Doğan Media International, care deține Kanal D, Kanal D2 și Radio Impuls, către grupul Clever Media.",
+   "title": "Doğan Holding sells Kanal D Romania to Clever Media",
+   "title_ro": "Doğan Holding vinde Kanal D România către Clever Media",
+   "topic": "economy",
+   "id": "ro-kanal-d-sale"
   },
   {
    "place": "Romania",
@@ -840,6 +1614,24 @@
   {
    "place": "Romania",
    "place_ro": "România",
+   "publishedAt": "2026-10-27T00:30:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/economie/ministrul-fondurilor-europene-romania-are-la-dispozitie-doua-saptamani-pentru-a-inchide-procedurile-administrative-restante-din-pnrr-4009233"
+    }
+   ],
+   "summary": "The EU funds minister says Romania has two weeks to finish outstanding administrative steps under the recovery plan (PNRR).",
+   "summary_ro": "Ministrul fondurilor europene spune că România are două săptămâni pentru a încheia procedurile administrative restante din PNRR.",
+   "title": "Romania has until 6 November to close pending recovery-plan procedures",
+   "title_ro": "România are termen 6 noiembrie pentru procedurile restante din PNRR",
+   "topic": "economy",
+   "id": "ro-pnrr-deadline"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
    "publishedAt": "2026-10-26T11:31:00Z",
    "region": "romania",
    "sources": [
@@ -854,6 +1646,24 @@
    "title_ro": "Startup-ul de AI medical Rayscape atrage 260.000 de euro",
    "topic": "tech",
    "id": "ro-rayscape"
+  },
+  {
+   "place": "Reșița",
+   "place_ro": "Reșița",
+   "publishedAt": "2026-10-27T06:40:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/incendiu-la-sectia-de-psihiatrie-a-spitalului-judetean-resita-16-pacienti-evacuati-si-o-femeie-ranita-focul-ar-fi-pornit-de-la-o-tigara.html"
+    }
+   ],
+   "summary": "A fire broke out early on Tuesday in the psychiatry ward of Reșița County Hospital. Sixteen patients were evacuated and one woman was burned; a cigarette is the suspected cause.",
+   "summary_ro": "Un incendiu a izbucnit marți dimineață la secția de psihiatrie a Spitalului Județean Reșița. 16 pacienți au fost evacuați, iar o femeie a suferit arsuri; cauza probabilă este o țigară.",
+   "title": "Fire in Reșița psychiatric ward; 16 patients evacuated",
+   "title_ro": "Incendiu la secția de psihiatrie din Reșița; 16 pacienți evacuați",
+   "topic": "security",
+   "id": "ro-resita-hospital-fire"
   },
   {
    "place": "Madrid",
@@ -902,6 +1712,14 @@
     {
      "name": "HotNews",
      "url": "https://hotnews.ro/directorul-carfil-spune-ca-fabrica-a-fost-avertizata-din-primavara-ca-poate-fi-tinta-unor-acte-de-sabotaj-am-luat-masuri-2387790"
+    },
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/surse-cei-trei-sabotori-platiti-de-rusia-prinsi-in-germania-si-polonia-ei-sunt-acuzati-ca-au-vrut-sa-incendieze-o-fabrica-de-armament-din-romania.html"
+    },
+    {
+     "name": "B1 TV",
+     "url": "https://www.b1tv.ro/eveniment/nicusor-dan-rusia-sabotaj-carfil-razboi-hibrid-1744377.html"
     }
    ],
    "summary": "Romanian intelligence and prosecutors say a network coordinated from Russia set a September fire near a state weapons factory. Three suspects are named; two are held in Germany and one is sought in Poland. The president called it a serious breach of a NATO member's security.",
@@ -910,6 +1728,78 @@
    "title_ro": "România acuză o rețea de sabotaj condusă de Rusia pentru incendiul de lângă fabrica de armament din Brașov",
    "topic": "security",
    "id": "ro-sabotage-brasov"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-27T07:00:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Ziarul Financiar",
+     "url": "https://www.zf.ro/eveniment/romania-inceput-cheltuiasca-primii-bani-safe-6-miliarde-lei-luna-septembrie-spre-deosebire-pnrr-safe-stricit-program-imprumuturi-luate-numele-ue-dobanda-2-3-termen-foarte-lung-maturitatea-maxima-23268405"
+    }
+   ],
+   "summary": "Romania spent its first 6 billion lei from the EU-backed SAFE defence loan programme in September, Ziarul Financiar reports.",
+   "summary_ro": "România a cheltuit în septembrie primele 6 miliarde de lei din programul de împrumuturi SAFE garantat de UE, relatează Ziarul Financiar.",
+   "title": "Romania starts spending EU SAFE defence loans",
+   "title_ro": "România a început să cheltuiască banii din SAFE",
+   "topic": "economy",
+   "id": "ro-safe-funds"
+  },
+  {
+   "place": "Făgăraș Mountains",
+   "place_ro": "Munții Făgăraș",
+   "publishedAt": "2026-10-27T09:00:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/video-ninsori-abundente-pe-transfagarasan-soferii-sunt-avertizati-sa-nu-circule-fara-masini-echipate-pentru-iarna.html"
+    }
+   ],
+   "summary": "Heavy snowfall hit the Transfăgărășan road and drivers are warned not to travel without winter-equipped vehicles.",
+   "summary_ro": "Pe Transfăgărășan ninge abundent, iar șoferii sunt avertizați să nu circule fără mașini echipate de iarnă.",
+   "title": "Heavy snow on Transfăgărășan; drivers told to use winter gear",
+   "title_ro": "Ninsori abundente pe Transfăgărășan",
+   "topic": "security",
+   "id": "ro-transfagarasan-snow"
+  },
+  {
+   "place": "Vrancea",
+   "place_ro": "Vrancea",
+   "publishedAt": "2026-10-27T03:42:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "HotNews",
+     "url": "https://hotnews.ro/cutremur-marti-dimineata-in-romania-2387449"
+    }
+   ],
+   "summary": "A 3.1 magnitude earthquake struck the Vrancea seismic zone at 05:42 local time on Tuesday, at a depth of about 80 km.",
+   "summary_ro": "Un cutremur cu magnitudinea 3,1 s-a produs marți, la ora 05:42, în zona seismică Vrancea, la o adâncime de circa 80 de kilometri.",
+   "title": "Magnitude 3.1 earthquake in Vrancea",
+   "title_ro": "Cutremur de 3,1 în Vrancea",
+   "topic": "security",
+   "id": "ro-vrancea-quake"
+  },
+  {
+   "place": "Brazil",
+   "place_ro": "Brazilia",
+   "publishedAt": "2026-10-27T08:00:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Ziarul Financiar",
+     "url": "https://www.zf.ro/burse-fonduri-mutuale/cutremur-pe-pietele-financiare-din-brazilia-dupa-victoria-lui-lula-moneda-s-a-prabusit-cu-8-cea-mai-mare-scadere-din-1999-iar-bursa-a-pierdut-aproape-14-intr-o-singura-zi-23268746"
+    }
+   ],
+   "summary": "Brazil's real fell about 8% and the stock market lost nearly 14% in a day after Lula's re-election, Ziarul Financiar reports.",
+   "summary_ro": "Realul brazilian a scăzut cu aproximativ 8%, iar bursa a pierdut aproape 14% într-o zi după realegerea lui Lula, relatează Ziarul Financiar.",
+   "title": "Brazil's currency and stocks tumble after Lula win",
+   "title_ro": "Moneda și bursa Braziliei se prăbușesc după victoria lui Lula",
+   "topic": "economy",
+   "id": "world-brazil-markets"
   },
   {
    "place": "Ethiopia",
@@ -934,6 +1824,24 @@
    "id": "world-ethiopia-attacks"
   },
   {
+   "place": "India",
+   "place_ro": "India",
+   "publishedAt": "2026-10-27T14:33:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/economic-extern/2026/10/27/india-se-pregateste-sa-exporte-mai-multa-motorina-odata-cu-extinderea-capacitatilor-de-rafinare--1607348"
+    }
+   ],
+   "summary": "India is preparing to increase diesel exports as new refining capacity comes online, Agerpres reports.",
+   "summary_ro": "India se pregătește să își mărească exporturile de motorină pe măsură ce intră în funcțiune noi capacități de rafinare, relatează Agerpres.",
+   "title": "India set to export more diesel as refining capacity grows",
+   "title_ro": "India se pregătește să exporte mai multă motorină",
+   "topic": "energy",
+   "id": "world-india-diesel"
+  },
+  {
    "place": "Iran",
    "place_ro": "Iran",
    "publishedAt": "2026-10-27T14:12:00Z",
@@ -950,6 +1858,24 @@
    "title_ro": "Liderul suprem al Iranului cere îndeplinirea condițiilor Teheranului pentru încheierea războiului",
    "topic": "politics",
    "id": "world-iran-khamenei-conditions"
+  },
+  {
+   "place": "Iraq",
+   "place_ro": "Irak",
+   "publishedAt": "2026-10-27T10:24:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/sase-cetateni-francezi-condamnati-la-inchisoare-pe-viata-de-un-tribunal-irakian-pentru-apartenenta-la-statul-islamic.html"
+    }
+   ],
+   "summary": "An Iraqi court sentenced six French citizens to life in prison and a seventh to 15 years for belonging to the Islamic State group. They had been transferred from Syria last year.",
+   "summary_ro": "Un tribunal irakian a condamnat șase cetățeni francezi la închisoare pe viață și un al șaptelea la 15 ani pentru apartenență la Statul Islamic. Aceștia fuseseră transferați din Siria anul trecut.",
+   "title": "Iraqi court gives six French nationals life terms for IS membership",
+   "title_ro": "Șase francezi, condamnați pe viață în Irak pentru apartenență la Statul Islamic",
+   "topic": "security",
+   "id": "world-iraq-french-is"
   },
   {
    "place": "Israel",
@@ -1070,6 +1996,24 @@
    "title_ro": "Cercetătorii caută cerul real din „Noaptea înstelată”",
    "topic": "culture",
    "id": "world-starry-night"
+  },
+  {
+   "place": "United States",
+   "place_ro": "SUA",
+   "publishedAt": "2026-10-27T05:45:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/trump-promite-un-milion-de-dolari-celor-care-denunta-fraude-electorale-in-sua-iar-informatiile-duc-la-arestarea-si-condamnarea-celor-implicati.html"
+    }
+   ],
+   "summary": "US President Donald Trump announced a $1 million reward for information leading to convictions for election fraud, including in the 3 November midterms. No official process or funding source has been detailed.",
+   "summary_ro": "Președintele SUA, Donald Trump, a anunțat o recompensă de un milion de dolari pentru informații care duc la condamnări pentru fraudă electorală, inclusiv la alegerile din 3 noiembrie. Nu a fost prezentat un mecanism oficial sau o sursă de finanțare.",
+   "title": "Trump offers $1 million reward over election fraud tips",
+   "title_ro": "Trump oferă o recompensă de un milion de dolari pentru denunțarea fraudei electorale",
+   "topic": "politics",
+   "id": "world-trump-fraud-reward"
   }
  ],
  "changelog": [
