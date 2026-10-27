@@ -1,5 +1,5 @@
 {
- "lastRun": "2026-10-27T15:01:32Z",
+ "lastRun": "2026-10-27T15:12:00Z",
  "stories": [
   {
    "place": "Bucharest",
@@ -58,6 +58,28 @@
    "title_ro": "One United Properties depășește 1 milion de metri pătrați livrați",
    "topic": "economy",
    "id": "buc-one-united"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-27T12:33:00Z",
+   "region": "bucharest",
+   "sources": [
+    {
+     "name": "HotNews",
+     "url": "https://hotnews.ro/momentul-in-care-blocul-din-rahova-este-demolat-partial-ultimele-patru-etaje-distruse-2387716"
+    },
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/administratie/2026/10/27/municipalitatea-intra-in-ultima-etapa-a-lucrarilor-programate-la-blocul-din-rahova--1607337"
+    }
+   ],
+   "summary": "City authorities carried out a controlled demolition of floors five to eight of the Rahova apartment block damaged by an explosion. Once the fourth floor is checked, residents are to be allowed to retrieve belongings under supervision.",
+   "summary_ro": "Municipalitatea a demolat controlat etajele cinci-opt ale blocului din Rahova afectat de explozie. După verificarea etajului patru, locatarii urmează să își poată recupera bunurile sub supraveghere.",
+   "title": "Top floors of explosion-damaged Rahova block demolished",
+   "title_ro": "Etajele superioare ale blocului din Rahova, afectat de explozie, au fost demolate",
+   "topic": "security",
+   "id": "buc-rahova-demolition"
   },
   {
    "place": "Bucharest",
@@ -132,6 +154,24 @@
    "id": "buc-valea-saulei"
   },
   {
+   "place": "France",
+   "place_ro": "Franța",
+   "publishedAt": "2026-10-27T14:19:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic-extern/2026/10/27/franta-politia-va-desfasura-un-dispozitiv-masiv-in-timpul-protestelor-prevazute-pentru-finalul-acest--1607344"
+    }
+   ],
+   "summary": "Interior Minister Laurent Nuñez says France will again mobilise a major police presence for protests planned at the end of the week, aiming to avoid a repeat of violence at earlier demonstrations.",
+   "summary_ro": "Ministrul de interne Laurent Nuñez spune că Franța va mobiliza din nou un număr mare de polițiști pentru protestele anunțate la finalul săptămânii, pentru a evita repetarea violențelor de la manifestațiile anterioare.",
+   "title": "France to deploy large police force for weekend protests",
+   "title_ro": "Franța mobilizează un dispozitiv masiv de poliție pentru protestele de la final de săptămână",
+   "topic": "politics",
+   "id": "eu-france-protest-police"
+  },
+  {
    "place": "Europe",
    "place_ro": "Europa",
    "publishedAt": "2026-10-27T10:00:00Z",
@@ -202,6 +242,24 @@
    "title_ro": "Liderii Finlandei și Norvegiei au vorbit cu Putin, apoi cu Zelenski",
    "topic": "politics",
    "id": "eu-nordic-putin-call"
+  },
+  {
+   "place": "Norway",
+   "place_ro": "Norvegia",
+   "publishedAt": "2026-10-27T14:30:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/zigzag/2026/10/27/institutii-media-norvegiene-au-apelat-la-justitie-pentru-a-impiedica-meta-sa-le-exploateze-continutu--1607347"
+    }
+   ],
+   "summary": "Major Norwegian media groups have asked a court for an interim measure blocking Meta from enforcing new terms they say threaten their copyright over journalism.",
+   "summary_ro": "Mari grupuri media din Norvegia au cerut instanței o măsură provizorie care să împiedice Meta să aplice noi condiții despre care spun că le amenință drepturile de autor asupra conținutului jurnalistic.",
+   "title": "Norwegian media sue to stop Meta's new content terms",
+   "title_ro": "Presa norvegiană dă în judecată Meta pentru noile condiții privind conținutul",
+   "topic": "tech",
+   "id": "eu-norway-meta-lawsuit"
   },
   {
    "place": "Brussels",
@@ -376,6 +434,24 @@
    "id": "pol-georgescu-case"
   },
   {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-26T20:02:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/stiri/politic/casca-de-protectie-ar-putea-deveni-obligatorie-pentru-toti-cei-care-merg-pe-trotinete-si-biciclete-electrice-proiectul-adoptat-de-senat.html"
+    }
+   ],
+   "summary": "The Senate voted 98–0 for an AUR-sponsored bill requiring helmets for all electric scooter and e-bike riders, not just those under 16. The measure still has further legislative steps before it can take effect.",
+   "summary_ro": "Senatul a adoptat cu 98 de voturi la zero un proiect inițiat de AUR care impune casca pentru toți cei care folosesc trotinete și biciclete electrice, nu doar pentru cei sub 16 ani. Proiectul mai are pași legislativi de parcurs până să intre în vigoare.",
+   "title": "Senate backs mandatory helmets for all e-scooter and e-bike riders",
+   "title_ro": "Senatul votează casca obligatorie pentru toți utilizatorii de trotinete și biciclete electrice",
+   "topic": "politics",
+   "id": "pol-helmet-bill"
+  },
+  {
    "place": "Covasna",
    "place_ro": "Covasna",
    "publishedAt": "2026-10-27T14:32:00Z",
@@ -392,6 +468,24 @@
    "title_ro": "Foști aleși din Moacșa, trimiși în judecată pentru declarații false",
    "topic": "politics",
    "id": "pol-moacsa-officials-charged"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-26T12:47:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/actualitate/politica/usr-si-pnl-cer-din-nou-o-comisie-de-ancheta-pentru-zborurile-mykonos-nordis-psd-este-acuzat-ca-blocheaza-demersul-4009199"
+    }
+   ],
+   "summary": "USR and PNL filed a new request for a parliamentary committee to examine private trips to Mykonos and Nice by politicians, magistrates and businesspeople linked to the Nordis firm. USR accuses PSD of blocking an earlier attempt and wants a plenary vote in the Chamber of Deputies.",
+   "summary_ro": "USR și PNL au depus o nouă cerere pentru o comisie parlamentară care să investigheze călătoriile private la Mykonos și Nisa ale unor politicieni, magistrați și oameni de afaceri legați de firma Nordis. USR acuză PSD că a blocat o încercare anterioară și cere un vot în plenul Camerei Deputaților.",
+   "title": "USR and PNL renew push for inquiry into 'Mykonos-Nordis' trips",
+   "title_ro": "USR și PNL cer din nou o comisie de anchetă pentru zborurile „Mykonos-Nordis”",
+   "topic": "politics",
+   "id": "pol-mykonos-inquiry"
   },
   {
    "place": "Chișinău",
@@ -554,6 +648,28 @@
    "title_ro": "Partenerii de guvernare exclud creșteri de taxe în 2027",
    "topic": "politics",
    "id": "pol-tax-2027"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-26T18:52:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/stiri/politic/oleg-ungureanu-fost-consul-general-al-romaniei-la-lyon-numit-sef-al-cancelariei-premierului-cu-rang-de-ministru.html"
+    },
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/actualitate/politica/oleg-ungureanu-numit-in-functia-de-sef-al-cancelariei-prim-ministrului-4009753"
+    }
+   ],
+   "summary": "PM Luca Niculescu appointed diplomat Oleg Ungureanu, previously consul general in Lyon, as head of the Prime Minister's Chancellery with ministerial rank. It is the second senior post in the PM's office filled from the Foreign Ministry.",
+   "summary_ro": "Premierul Luca Niculescu l-a numit pe diplomatul Oleg Ungureanu, până acum consul general la Lyon, șef al Cancelariei Prim-Ministrului, cu rang de ministru. Este a doua funcție importantă din cabinetul premierului ocupată de cineva venit din MAE.",
+   "title": "Former Lyon consul named head of PM's Chancellery",
+   "title_ro": "Fostul consul de la Lyon, numit șef al Cancelariei Premierului",
+   "topic": "politics",
+   "id": "pol-ungureanu-chancellery"
   },
   {
    "place": "Romania",
@@ -818,6 +934,24 @@
    "id": "world-ethiopia-attacks"
   },
   {
+   "place": "Iran",
+   "place_ro": "Iran",
+   "publishedAt": "2026-10-27T14:12:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic-extern/2026/10/27/liderul-suprem-al-iranului-cere-indeplinirea-conditiilor-teheranului-pentru-a-pune-capat-razboiului--1607335"
+    }
+   ],
+   "summary": "Ayatollah Mojtaba Khamenei said in a statement on his website that ending the war requires meeting Tehran's conditions and securing the rights of Iran and its allied 'resistance front'.",
+   "summary_ro": "Ayatollahul Mojtaba Khamenei a declarat, într-un mesaj publicat pe site-ul său, că încheierea războiului presupune îndeplinirea condițiilor Teheranului și garantarea drepturilor Iranului și ale „frontului de rezistență” aliat.",
+   "title": "Iran's supreme leader insists Tehran's terms be met to end war",
+   "title_ro": "Liderul suprem al Iranului cere îndeplinirea condițiilor Teheranului pentru încheierea războiului",
+   "topic": "politics",
+   "id": "world-iran-khamenei-conditions"
+  },
+  {
    "place": "Israel",
    "place_ro": "Israel",
    "publishedAt": "2026-10-27T11:00:00Z",
@@ -900,6 +1034,24 @@
    "title_ro": "Cererea de cipuri AI accelerează creșterea Coreei de Sud",
    "topic": "economy",
    "id": "world-korea-growth"
+  },
+  {
+   "place": "Russia",
+   "place_ro": "Rusia",
+   "publishedAt": "2026-10-27T14:40:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "HotNews",
+     "url": "https://hotnews.ro/moscova-a-anuntat-cate-petroliere-incarcate-cu-sute-de-mii-de-barili-de-motorina-ruseasca-se-indreapta-acum-spre-sua-2387853"
+    }
+   ],
+   "summary": "Russian Deputy PM Alexander Novak says three tankers of Russian diesel are en route to the US, with a fourth leaving Wednesday, under a sanctions-easing deal between Trump and Putin. Ukraine's President Zelensky has criticised the arrangement.",
+   "summary_ro": "Vicepremierul rus Aleksandr Novak spune că trei petroliere cu motorină rusească sunt pe drum spre SUA, iar al patrulea pleacă miercuri, în baza unei înțelegeri Trump–Putin de relaxare a sancțiunilor. Președintele ucrainean Zelenski a criticat acordul.",
+   "title": "Russia says diesel tankers are heading to the United States",
+   "title_ro": "Rusia anunță că petroliere cu motorină se îndreaptă spre SUA",
+   "topic": "energy",
+   "id": "world-russian-diesel-us"
   },
   {
    "place": "France",
