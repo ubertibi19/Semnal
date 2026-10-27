@@ -196,7 +196,9 @@ aside{min-width:0}
   };
   const chain = r => { const out=[]; while(r){out.push(r); r=PARENT[r];} return out; };
   const inRegion = (s,r) => chain(s.region||"world").includes(r);
-  const visibleFor = (s,r) => chain(r).includes(s.region||"world");
+  // Each region shows only its own news; Bucharest and Romania also show each other's.
+  const SHOWS = {bucharest:["bucharest","romania"], romania:["romania","bucharest"], europe:["europe"], world:["world"]};
+  const visibleFor = (s,r) => (SHOWS[r]||[r]).includes(s.region||"world");
   // Trending is per region: Romania (incl. Bucharest), Europe and World each show only their own stories.
   const trendMatch = (s,r) => r==="romania" ? ["bucharest","romania"].includes(s.region) : (s.region||"world")===r;
 
