@@ -1,5 +1,5 @@
 {
- "lastRun": "2026-10-28T09:49:47Z",
+ "lastRun": "2026-10-28T11:20:00Z",
  "stories": [
   {
    "place": "Bucharest",
@@ -1468,10 +1468,18 @@
     {
      "name": "Știri pe surse",
      "url": "https://www.stiripesurse.ro/accident-feroviar-grav-in-spania-doua-trenuri-de-mare-viteza-s-au-ciocnit-iar-vagoanele-au-sarit-de-pe-sine-numerosi-raniti-potrivit-martorilor_3931980"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/28/injuries-reported-after-two-trains-collide-in-spain"
+    },
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/externe/accident-feroviar-grav-in-spania-cel-putin-10-oameni-au-murit-dupa-ce-doua-trenuri-de-mare-viteza-s-au-ciocnit-4011809"
     }
    ],
-   "summary": "Two high-speed trains collided in Spain and carriages left the tracks, Euronews reports, with at least 10 dead and many injured; other reports citing unnamed sources put the toll higher. The cause is under investigation.",
-   "summary_ro": "Două trenuri de mare viteză s-au ciocnit în Spania, iar mai multe vagoane au deraiat; Euronews relatează cel puțin 10 morți și numeroși răniți, iar alte relatări bazate pe surse nenumite indică un bilanț mai mare. Cauza este investigată.",
+   "summary": "A Renfe AVE high-speed train hit an Iryo train near Urda in Toledo province on the Madrid–Andalusia line, derailing carriages; regional officials say at least 10 people died and the toll will rise, Al Jazeera and Digi24 report. High-speed services between Madrid and Andalusia were suspended and the cause is under investigation.",
+   "summary_ro": "Un tren de mare viteză AVE al Renfe a lovit un tren Iryo lângă Urda, în provincia Toledo, pe linia Madrid–Andaluzia, iar mai multe vagoane au deraiat; autoritățile regionale anunță cel puțin 10 morți și spun că bilanțul va crește, relatează Al Jazeera și Digi24. Circulația trenurilor de mare viteză între Madrid și Andaluzia a fost suspendată, iar cauza este investigată.",
    "title": "Two high-speed trains collide in Spain, killing at least 10",
    "title_ro": "Două trenuri de mare viteză s-au ciocnit în Spania; cel puțin 10 morți",
    "topic": "security",
@@ -3028,6 +3036,28 @@
    "id": "pol-kelemen-neptun-deep"
   },
   {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-28T09:56:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/kelemen-hunor-despre-reforma-administrativa-nu-poti-sa-sari-peste-comunitati-trebuie-referendum.html"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/kelemen-gaura-bugetara-reclamata-grindeanu_3932006"
+    }
+   ],
+   "summary": "UDMR leader Kelemen Hunor said the administrative reform cannot be pushed through by the government assuming responsibility, as PSD wants, and that affected communities must be consulted by referendum. Speaking in Parliament, he said he did not know whether the 40-billion-lei gap cited by Sorin Grindeanu exists, though some bills were likely left unpaid, and repeated that UDMR will not back tax rises.",
+   "summary_ro": "Liderul UDMR, Kelemen Hunor, a declarat că reforma administrativă nu poate fi trecută prin asumarea răspunderii Guvernului, cum vrea PSD, și că localitățile vizate trebuie consultate prin referendum. În Parlament, el a spus că nu știe dacă există deficitul de 40 de miliarde de lei invocat de Sorin Grindeanu, deși probabil au rămas plăți neachitate, și a reafirmat că UDMR nu va susține creșteri de taxe.",
+   "title": "Kelemen: locality mergers need referendums; unsure of PSD's budget-gap figure",
+   "title_ro": "Kelemen: comasarea localităților cere referendum; nu știe dacă „gaura” bugetară invocată de PSD există",
+   "topic": "politics",
+   "id": "pol-kelemen-referendum-budget-gap"
+  },
+  {
    "place": "Bucharest",
    "place_ro": "București",
    "publishedAt": "2026-10-26T20:21:00Z",
@@ -3452,6 +3482,24 @@
    "title_ro": "Un articol pune sub semnul întrebării deplasările lui Pîslaru la Bruxelles",
    "topic": "politics",
    "id": "pol-pislaru-travel"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-28T10:21:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/actualitate/politica/pnl-ii-cere-premierului-luca-niculescu-sa-adopte-urgent-rectificarea-bugetara-psd-nu-poate-tine-romania-ostatica-4011981"
+    }
+   ],
+   "summary": "The National Liberal Party asked Prime Minister Luca Niculescu to adopt the budget rectification urgently, accusing PSD of holding back money for hospitals, emergency services and ongoing projects. PNL also says PSD's deficit figures mix existing payment obligations with estimates and extra ministry requests.",
+   "summary_ro": "Partidul Național Liberal i-a cerut premierului Luca Niculescu să adopte de urgență rectificarea bugetară, acuzând PSD că amână bani pentru spitale, servicii de urgență și proiecte în derulare. PNL susține și că cifrele PSD privind deficitul amestecă obligații de plată existente cu estimări și solicitări suplimentare ale ministerelor.",
+   "title": "PNL urges PM Niculescu to adopt budget revision without delay",
+   "title_ro": "PNL îi cere premierului Niculescu să adopte urgent rectificarea bugetară",
+   "topic": "politics",
+   "id": "pol-pnl-urges-rectification"
   },
   {
    "place": "Bucharest",
@@ -6312,6 +6360,10 @@
     {
      "name": "Mediafax",
      "url": "https://www.mediafax.ro/externe/in-1999-un-ciclon-similar-a-ucis-10-000-de-oameni-cum-s-a-pregatit-india-pentru-ciclonul-arnab-23832785"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/28/cyclone-arnab-makes-landfall-in-indias-andhra-pradesh"
     }
    ],
    "summary": "Cyclone Arnab struck India's east coast on Wednesday morning, hitting Andhra Pradesh and Odisha after authorities evacuated more than 180,000 people, Mediafax reports, citing Reuters.",
