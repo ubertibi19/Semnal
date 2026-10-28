@@ -1,5 +1,5 @@
 {
- "lastRun": "2026-10-28T11:20:00Z",
+ "lastRun": "2026-10-28T11:53:00Z",
  "stories": [
   {
    "place": "Bucharest",
@@ -292,6 +292,24 @@
   {
    "place": "Bucharest",
    "place_ro": "București",
+   "publishedAt": "2026-10-28T11:32:00Z",
+   "region": "bucharest",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/perchezitii-in-bucuresti-ilfov-si-giurgiu-pentru-furt-de-combustibil-din-autobuzele-stb_3932027"
+    }
+   ],
+   "summary": "Bucharest transport police, backed by gendarmes, searched ten homes in Bucharest, Ilfov and Giurgiu and took ten people in for questioning. According to the report, eight drivers and two guards are suspected of stealing fuel from buses at the Ferentari depot between June and September.",
+   "summary_ro": "Polițiștii de transporturi din București, sprijiniți de jandarmi, au făcut zece percheziții în București, Ilfov și Giurgiu și au dus zece persoane la audieri. Potrivit relatării, opt șoferi și doi paznici sunt bănuiți că au furat combustibil din autobuzele de la autobaza Ferentari între iunie și septembrie.",
+   "title": "Police search ten homes over fuel theft from Bucharest buses",
+   "title_ro": "Percheziții la zece locuințe pentru furt de combustibil din autobuzele STB",
+   "topic": "security",
+   "id": "buc-stb-fuel-theft"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
    "publishedAt": "2026-10-27T14:00:00Z",
    "region": "bucharest",
    "sources": [
@@ -360,6 +378,24 @@
    "id": "eu-arsenal-fleetwood"
   },
   {
+   "place": "Europe",
+   "place_ro": "Europa",
+   "publishedAt": "2026-10-28T07:22:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Ziarul Financiar",
+     "url": "https://www.zf.ro/banci-si-asigurari/trimestru-fantastic-marile-banci-europene-raporteaza-profituri-miliarde-euro-hsbc-8-6-mld-euro-bnp-paribas-3-5-mld-euro-ubs-2-4-mld-euro-deutsche-bank-1-9-mld-euro-depasesc-asteptarile-analistilor-23269415"
+    }
+   ],
+   "summary": "HSBC, BNP Paribas, UBS and Deutsche Bank reported quarterly profits above analysts' expectations despite market turbulence, Ziarul Financiar reports.",
+   "summary_ro": "HSBC, BNP Paribas, UBS și Deutsche Bank au raportat profituri trimestriale peste estimările analiștilor, în ciuda turbulențelor de pe piețe, relatează Ziarul Financiar.",
+   "title": "Big European banks beat profit forecasts for third quarter",
+   "title_ro": "Marile bănci europene depășesc așteptările de profit în trimestrul III",
+   "topic": "economy",
+   "id": "eu-banks-q3-profits"
+  },
+  {
    "place": "Serbia",
    "place_ro": "Serbia",
    "publishedAt": "2026-10-28T06:58:00Z",
@@ -380,6 +416,10 @@
     {
      "name": "Știri pe surse",
      "url": "https://www.stiripesurse.ro/video-atac-armat-ambasada-israelului-in-serbia_3931946"
+    },
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic-extern/2026/10/28/israelul-confirma-o-tentativa-de-atentat-terorist-in-apropierea-ambasadei-sale-la-belgrad--1607598"
     }
    ],
    "summary": "Serbian police shot dead an attacker who wounded a guard with knives outside the Israeli embassy in Belgrade early on Wednesday. Interior Minister Ivica Dačić called it a suspected terrorist attack by a minor who backed the Islamic State group, and Serbia raised its terror alert to the highest level.",
@@ -800,6 +840,24 @@
    "title_ro": "O mașină a intrat într-un grup de oameni lângă Hanovra",
    "topic": "security",
    "id": "eu-hanover-car-crowd"
+  },
+  {
+   "place": "Hungary",
+   "place_ro": "Ungaria",
+   "publishedAt": "2026-10-28T11:25:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/noul-guvern-de-la-budapesta-verifica-achizitiile-lui-viktor-orban-din-vremea-pandemei-arestari-in-cadrul-unei-anchete-privind-achizitia-de-masti-medicale-si-ventilatoare_3932024"
+    }
+   ],
+   "summary": "Hungary's tax authority detained two people and had a third arrested in Austria on a European warrant in a probe of suspected fraud in the Foreign Ministry's 2020 purchases of ventilators and masks, Reuters reported. An international warrant was issued for an alleged ringleader believed to be in Indonesia.",
+   "summary_ro": "Autoritatea fiscală ungară a reținut două persoane, iar o a treia a fost arestată în Austria pe baza unui mandat european, într-o anchetă privind posibile fraude la achizițiile de ventilatoare și măști făcute în 2020 de Ministerul de Externe, a relatat Reuters. A fost emis un mandat internațional pentru presupusul lider, despre care se crede că se află în Indonezia.",
+   "title": "Hungary arrests suspects in probe of Orbán-era pandemic purchases",
+   "title_ro": "Ungaria: arestări în ancheta privind achizițiile din pandemie ale guvernului Orbán",
+   "topic": "politics",
+   "id": "eu-hungary-covid-procurement-probe"
   },
   {
    "place": "Brussels",
@@ -1476,12 +1534,24 @@
     {
      "name": "Digi24",
      "url": "https://www.digi24.ro/stiri/externe/accident-feroviar-grav-in-spania-cel-putin-10-oameni-au-murit-dupa-ce-doua-trenuri-de-mare-viteza-s-au-ciocnit-4011809"
+    },
+    {
+     "name": "HotNews",
+     "url": "https://hotnews.ro/doua-trenuri-de-mare-viteza-s-au-ciocnit-in-spania-sunt-multi-raniti-potrivit-primelor-informatii-2388538"
+    },
+    {
+     "name": "Ziarul Financiar",
+     "url": "https://www.zf.ro/eveniment/breaking-accident-feroviar-grav-in-spania-doua-trenuri-de-mare-viteza-s-au-ciocnit-cel-putin-10-morti-dar-bilanturile-neoficiale-vorbesc-de-peste-46-de-morti-circulatia-a-fost-oprita-23269514"
+    },
+    {
+     "name": "News.ro",
+     "url": "https://www.news.ro/politic-intern/ministrul-externe-profund-indurerati-tragica-coliziune-feroviara-provincia-toledo-spania-misiunile-diplomatice-consulare-afla-stransa-legatura-autoritatile-spaniole-pregatite-ofere-asistenta-1922403328022026101222897064"
     }
    ],
-   "summary": "A Renfe AVE high-speed train hit an Iryo train near Urda in Toledo province on the Madrid–Andalusia line, derailing carriages; regional officials say at least 10 people died and the toll will rise, Al Jazeera and Digi24 report. High-speed services between Madrid and Andalusia were suspended and the cause is under investigation.",
-   "summary_ro": "Un tren de mare viteză AVE al Renfe a lovit un tren Iryo lângă Urda, în provincia Toledo, pe linia Madrid–Andaluzia, iar mai multe vagoane au deraiat; autoritățile regionale anunță cel puțin 10 morți și spun că bilanțul va crește, relatează Al Jazeera și Digi24. Circulația trenurilor de mare viteză între Madrid și Andaluzia a fost suspendată, iar cauza este investigată.",
-   "title": "Two high-speed trains collide in Spain, killing at least 10",
-   "title_ro": "Două trenuri de mare viteză s-au ciocnit în Spania; cel puțin 10 morți",
+   "summary": "A Renfe AVE train from Madrid to Seville collided with an Iryo train between Los Yébenes and Urda in Toledo province, and two carriages fell down an embankment; Castilla-La Mancha emergency services put the early death toll at 39, with many injured. Romania's foreign ministry said its missions are in contact with Spanish authorities and ready to help.",
+   "summary_ro": "Un tren AVE al Renfe, pe ruta Madrid–Sevilla, s-a ciocnit cu un tren Iryo între Los Yébenes și Urda, în provincia Toledo, iar două vagoane au căzut într-o râpă; serviciile de urgență din Castilia-La Mancha au anunțat un bilanț provizoriu de 39 de morți și numeroși răniți. MAE a transmis că misiunile României sunt în legătură cu autoritățile spaniole și pregătite să ofere asistență.",
+   "title": "High-speed train collision in Spain kills at least 39",
+   "title_ro": "Coliziune între două trenuri de mare viteză în Spania: cel puțin 39 de morți",
    "topic": "security",
    "id": "eu-spain-train-crash"
   },
@@ -1520,6 +1590,24 @@
    "title_ro": "Guvernul suedez blochează ChatGPT și Claude",
    "topic": "tech",
    "id": "eu-sweden-blocks-ai"
+  },
+  {
+   "place": "Ukraine",
+   "place_ro": "Ucraina",
+   "publishedAt": "2026-10-28T10:16:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic-extern/2026/10/28/ministrul-ucrainean-de-externe-nu-putem-pierde-timpul-in-dezbateri-despre-cine-in-europa-ar-trebui-s--1607603"
+    }
+   ],
+   "summary": "Ukrainian Foreign Minister Andrii Sybiha said the Finnish and Norwegian leaders' call with Vladimir Putin could have been better coordinated but was a step towards peace. He said Europe should not lose time debating who talks to Moscow and should speak with a single voice.",
+   "summary_ro": "Ministrul ucrainean de externe, Andrii Sîbiha, a spus că discuția liderilor Finlandei și Norvegiei cu Vladimir Putin ar fi putut fi mai bine coordonată, dar a numit-o un pas spre pace. El a declarat că Europa nu trebuie să piardă timp dezbătând cine discută cu Moscova și că trebuie să vorbească cu o singură voce.",
+   "title": "Ukraine's foreign minister urges Europe to speak with one voice on Russia",
+   "title_ro": "Ministrul ucrainean de externe cere Europei să vorbească cu o singură voce despre Rusia",
+   "topic": "world",
+   "id": "eu-sybiha-europe-one-voice"
   },
   {
    "place": "Brussels",
@@ -1886,6 +1974,24 @@
    "id": "eu-zelensky-refinery-offer"
   },
   {
+   "place": "Ukraine",
+   "place_ro": "Ucraina",
+   "publishedAt": "2026-10-28T09:38:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic-extern/2026/10/28/ucraina-zelenski-afirma-ca-se-teme-de-o-reimpartire-a-sferelor-de-influenta-intre-sua-rusia-si-china--1607577"
+    }
+   ],
+   "summary": "Ukrainian President Volodymyr Zelensky said a possible November meeting between Donald Trump, Vladimir Putin and Xi Jinping could lead to a new division of spheres of influence among the great powers, AFP reported.",
+   "summary_ro": "Președintele ucrainean Volodimir Zelenski a declarat că o posibilă întâlnire în noiembrie între Donald Trump, Vladimir Putin și Xi Jinping ar putea duce la o nouă împărțire a sferelor de influență între marile puteri, a relatat AFP.",
+   "title": "Zelensky warns of US–Russia–China carve-up of spheres of influence",
+   "title_ro": "Zelenski avertizează asupra unei reîmpărțiri a sferelor de influență între SUA, Rusia și China",
+   "topic": "world",
+   "id": "eu-zelensky-spheres-influence"
+  },
+  {
    "place": "Bucharest",
    "place_ro": "București",
    "publishedAt": "2026-10-27T15:59:00Z",
@@ -1904,6 +2010,28 @@
    "id": "pol-abrudean-legacy"
   },
   {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-28T10:57:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/adrian-tutuianu-la-momentul-acesta-avem-o-lista-cu-35-de-unitati-administrativ-teritoriale-unde-ar-trebui-organizate-alegeri_3932016"
+    },
+    {
+     "name": "News.ro",
+     "url": "https://www.news.ro/politic-intern/presedintele-aep-avem-lista-35-unitati-administrativ-teritoriale-unde-ar-trebui-organizate-alegeri-sase-sapte-uat-uri-unde-probabil-vor-trebui-organizate-alegeri-dupa-solutionarea-contestatiilor-1922401528082026101322897347"
+    }
+   ],
+   "summary": "Permanent Electoral Authority head Adrian Țuțuianu said elections should be held in 35 administrative units where mayors' mandates ended early by law. He said six or seven more may follow once courts rule on appeals by mayors removed over conflicts of interest or incompatibility; no dates were given.",
+   "summary_ro": "Președintele Autorității Electorale Permanente, Adrian Țuțuianu, a declarat că ar trebui organizate alegeri în 35 de unități administrativ-teritoriale în care mandatele primarilor au încetat de drept. El a spus că s-ar putea adăuga încă șase sau șapte, după ce instanțele vor soluționa contestațiile primarilor revocați pentru conflict de interese sau incompatibilitate; nu au fost anunțate date.",
+   "title": "Electoral authority says 35 localities need new mayoral elections",
+   "title_ro": "AEP: alegeri pentru primar necesare în 35 de localități",
+   "topic": "politics",
+   "id": "pol-aep-35-local-elections"
+  },
+  {
    "place": "Bucharest",
    "place_ro": "București",
    "publishedAt": "2026-10-27T12:40:00Z",
@@ -1916,6 +2044,10 @@
     {
      "name": "Agerpres",
      "url": "https://agerpres.ro/politic/2026/10/28/aep-organizeaza-miercuri-si-joi-o-conferinta-internationala-dedicata-protejarii-alegerilor-in-era-di--1607269"
+    },
+    {
+     "name": "News.ro",
+     "url": "https://www.news.ro/politic-intern/presedintele-aep-procesele-electorale-romania-2024-2025-au-pus-incercare-administratia-electorala-capacitatea-institutilor-raspunde-unor-situatii-complexe-intr-climat-tensionat-marcat-presiune-1922403528002026101122896805"
     }
    ],
    "summary": "Romania's Permanent Electoral Authority holds a two-day international conference on election security in the digital age, starting Wednesday.",
@@ -2018,6 +2150,10 @@
     {
      "name": "Digi24",
      "url": "https://www.digi24.ro/stiri/actualitate/politica/aur-cere-ancheta-parlamentara-privind-migratia-ilegala-de-la-infractiunile-comise-de-straini-la-exploatarea-muncitorilor-din-afara-ue-4009083"
+    },
+    {
+     "name": "News.ro",
+     "url": "https://www.news.ro/politic-intern/george-simion-vedem-multi-muncitori-tari-terte-lucru-nefiresc-avand-vedere-avem-peste-sase-milioane-romani-lucreaza-vestul-europei-liderul-aur-cere-comisie-ancheta-parlament-1922401828002026101322897344"
     }
    ],
    "summary": "AUR wants a parliamentary committee to look into illegal migration, including crimes by foreigners and exploitation of non-EU workers.",
@@ -2104,6 +2240,10 @@
     {
      "name": "Știri pe surse",
      "url": "https://www.stiripesurse.ro/aur-propune-a-doua-unire-a-romanilor-un-plan-strategic-pentru-dezvoltarea-romaniei-pana-in-2040_3931945"
+    },
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic/2026/10/28/aur-pregateste-un-plan-strategic-de-dezvoltare-a-romaniei-peiu-intentionam-sa-il-prezentam-pe-1-dece--1607536"
     }
    ],
    "summary": "AUR Senate leader Petrișor Peiu said the party will present a policy document called 'The Second Union' in Alba Iulia on 1 December, aimed at narrowing regional gaps and improving transport, energy, education and connectivity, Mediafax reports.",
@@ -2248,6 +2388,24 @@
    "title_ro": "Începe procesul în dosarul Bogos, în care fostul premier Bolojan este martor",
    "topic": "politics",
    "id": "pol-bolojan-trial"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-28T11:02:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/fostul-deputat-cristian-boureanu-sustine-ca-nu-i-s-au-confiscat-14-milioane-de-euro-despre-ce-suma-este-vorba_3931934"
+    }
+   ],
+   "summary": "Former deputy Cristian Boureanu says only about 50,000 euros was taken from him in the UK and the rest came from a British company. In August the Justice Ministry said UK authorities had confiscated about 1.4 million pounds from him under a Romanian court order linked to a bribery conviction later annulled as time-barred.",
+   "summary_ro": "Fostul deputat Cristian Boureanu susține că în Marea Britanie i s-au luat doar aproximativ 50.000 de euro, restul provenind de la o companie britanică. În august, Ministerul Justiției anunțase că autoritățile britanice i-au confiscat circa 1,4 milioane de lire sterline, în baza unei hotărâri românești legate de o condamnare pentru luare de mită anulată ulterior pentru prescripție.",
+   "title": "Ex-MP Boureanu disputes size of sum confiscated in the UK",
+   "title_ro": "Fostul deputat Boureanu contestă suma confiscată în Marea Britanie",
+   "topic": "politics",
+   "id": "pol-boureanu-uk-confiscation"
   },
   {
    "place": "Bucharest",
@@ -2558,6 +2716,24 @@
   {
    "place": "Bucharest",
    "place_ro": "București",
+   "publishedAt": "2026-10-28T11:25:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/deputata-nasca-voteze-de-acasa_3932022"
+    }
+   ],
+   "summary": "Deputy Aurora Tasica Simu, due to give birth in late November, asked the Chamber of Deputies to let her take part and vote through its electronic platform during pregnancy and after birth. The Permanent Bureau sent the request to the rules committee and asked the technical department for an opinion.",
+   "summary_ro": "Deputata Aurora Tasica Simu, care urmează să nască la sfârșitul lui noiembrie, a cerut Camerei Deputaților să poată participa și vota prin platforma electronică în timpul sarcinii și după naștere. Biroul permanent a trimis solicitarea la Comisia pentru regulament și a cerut un punct de vedere departamentului tehnic.",
+   "title": "Pregnant MP asks to work and vote remotely from the Chamber",
+   "title_ro": "O deputată însărcinată cere să lucreze și să voteze de la distanță",
+   "topic": "politics",
+   "id": "pol-deputy-remote-vote"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
    "publishedAt": "2026-10-27T11:47:00Z",
    "region": "bucharest",
    "sources": [
@@ -2800,6 +2976,10 @@
     {
      "name": "Știri pe surse",
      "url": "https://www.stiripesurse.ro/protest-la-curtea-de-apel-bucuresti-magistratii-judeca-cererea-diicot-de-prelungire-a-arestului-lui-calin-georgescu-mandatul-actual-expira-la-miezul-noptii_3931964"
+    },
+    {
+     "name": "HotNews",
+     "url": "https://hotnews.ro/calin-georgescu-afla-astazi-daca-va-fi-eliberat-din-arest-dupa-ce-tribunalul-bucuresti-a-respins-cererea-de-prelungire-2388470"
     }
    ],
    "summary": "The Bucharest Court of Appeal is ruling on DIICOT’s challenge to a lower court’s refusal to extend Călin Georgescu’s pre-trial arrest; the decision is final. Hundreds of his supporters gathered outside the court.",
@@ -3038,6 +3218,28 @@
   {
    "place": "Romania",
    "place_ro": "România",
+   "publishedAt": "2026-10-28T11:00:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "News.ro",
+     "url": "https://www.news.ro/politic-intern/kelemen-hunor-guvernul-gaseasca-acei-bani-crescute-pensiile-conform-legii-salariile-sistemul-bugetar-au-inghetate-doreste-asumare-fie-legea-salarizarii-scoti-dezechilibrele-1922400128002026101322897247"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/kelemen-hunor-cere-guvernului-niculescu-sa-creasca-pensiile-conform-legii-si-salariile-bugetarilor-care-au-fost-inghetate_3932028"
+    }
+   ],
+   "summary": "UDMR leader Kelemen Hunor said the Niculescu government must find the money to index pensions in line with the law and to raise frozen public-sector salaries. He said that if the cabinet wants to assume responsibility in Parliament, it should do so on a new public pay law, which he put at 10–12 billion lei; he also said UDMR will not back any tax rise.",
+   "summary_ro": "Liderul UDMR, Kelemen Hunor, a declarat că Guvernul Niculescu trebuie să găsească bani pentru indexarea pensiilor conform legii și pentru creșterea salariilor înghețate din sectorul public. El a spus că, dacă Executivul vrea să-și asume răspunderea, ar trebui s-o facă pe o nouă lege a salarizării, estimată de el la 10–12 miliarde de lei, și că UDMR nu va susține nicio creștere de taxe.",
+   "title": "Kelemen says government must raise pensions and unfreeze public wages",
+   "title_ro": "Kelemen: Guvernul trebuie să crească pensiile și să deblocheze salariile bugetarilor",
+   "topic": "politics",
+   "id": "pol-kelemen-pensions-salaries"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
    "publishedAt": "2026-10-28T09:56:00Z",
    "region": "romania",
    "sources": [
@@ -3048,6 +3250,14 @@
     {
      "name": "Știri pe surse",
      "url": "https://www.stiripesurse.ro/kelemen-gaura-bugetara-reclamata-grindeanu_3932006"
+    },
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic/2026/10/28/kelemen-hunor-romania-are-nevoie-de-o-reforma-administrativa-dar-trebuie-facuta-extrem-de-bine-gandi--1607569"
+    },
+    {
+     "name": "News.ro",
+     "url": "https://www.news.ro/politic-intern/kelemen-hunor-spune-discutat-psd-luca-niculescu-reforma-administratiei-locale-romania-nevoie-reforma-administrativa-facuta-extrem-bine-gandit-poti-sari-peste-comunitati-referendum-1922404528542026101222897165"
     }
    ],
    "summary": "UDMR leader Kelemen Hunor said the administrative reform cannot be pushed through by the government assuming responsibility, as PSD wants, and that affected communities must be consulted by referendum. Speaking in Parliament, he said he did not know whether the 40-billion-lei gap cited by Sorin Grindeanu exists, though some bills were likely left unpaid, and repeated that UDMR will not back tax rises.",
@@ -3492,6 +3702,22 @@
     {
      "name": "Digi24",
      "url": "https://www.digi24.ro/stiri/actualitate/politica/pnl-ii-cere-premierului-luca-niculescu-sa-adopte-urgent-rectificarea-bugetara-psd-nu-poate-tine-romania-ostatica-4011981"
+    },
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic/2026/10/28/pnl-ii-cerem-premierului-sa-adopte-urgent-rectificarea-bugetara-guvernarea-psd-nu-poate-tine-romania--1607604"
+    },
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/liberalii-ii-cer-premierului-luca-niculescu-sa-adopte-urgent-rectificarea-bugetara-guvernarea-psd-nu-poate-tine-romania-ostatica-pana-cand-ministerul-finantelor-ii-valideaza-propaganda-minci.html"
+    },
+    {
+     "name": "News.ro",
+     "url": "https://www.news.ro/politic-intern/pnl-ii-cere-premierului-luca-niculescu-sa-adopte-urgent-rectificarea-bugetara-guvernarea-psd-nu-poate-tine-romania-ostatica-1922400628482026101222896950"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/pnl-ii-cere-premierului-luca-niculescu-sa-adopte-urgent-rectificarea-bugetara-guvernarea-psd-nu-poate-tine-romania-ostatica_3931996"
     }
    ],
    "summary": "The National Liberal Party asked Prime Minister Luca Niculescu to adopt the budget rectification urgently, accusing PSD of holding back money for hospitals, emergency services and ongoing projects. PNL also says PSD's deficit figures mix existing payment obligations with estimates and extra ministry requests.",
@@ -3544,6 +3770,24 @@
    "title_ro": "Ponta îi transmite lui Vučić, după înfrângere, că îi rămâne prieten",
    "topic": "politics",
    "id": "pol-ponta-vucic"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-28T10:46:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/politic/ce-a-gasit-noul-ministru-al-transporturilor-in-institutia-pe-care-o-conduce-critici-dure-la-adresa-usr-23833040"
+    }
+   ],
+   "summary": "Transport Minister Ștefan-Ovidiu Popa (PSD) said he unblocked several stalled projects in his first week and criticised former interim minister Radu Miruță (USR) over an order requiring ministry sign-off for closing roads, rail lines or runways. Popa said he will cancel the order so agencies can start repairs without it.",
+   "summary_ro": "Ministrul Transporturilor, Ștefan-Ovidiu Popa (PSD), a spus că în prima săptămână a deblocat mai multe proiecte și l-a criticat pe fostul ministru interimar Radu Miruță (USR) pentru un ordin care cerea avizul ministerului la închiderea drumurilor, căilor ferate sau pistelor. Popa a anunțat că va anula ordinul, astfel încât instituțiile să poată începe reparațiile fără acest aviz.",
+   "title": "Transport minister to scrap predecessor's order on road and rail closures",
+   "title_ro": "Ministrul Transporturilor anulează un ordin al predecesorului privind închiderea drumurilor",
+   "topic": "politics",
+   "id": "pol-popa-miruta-order"
   },
   {
    "place": "Bucharest",
@@ -3656,6 +3900,10 @@
     {
      "name": "Digi24",
      "url": "https://www.digi24.ro/stiri/actualitate/politica/psd-reclama-o-gaura-de-40-de-miliarde-de-lei-si-ameninta-ca-blocheaza-rectificarea-bugetara-surse-4011399"
+    },
+    {
+     "name": "Romania Insider",
+     "url": "https://www.romania-insider.com/business/romanias-ruling-party-conditions-budget-revision-finmin-reporting"
     }
    ],
    "summary": "Citing unnamed sources, Știri pe surse and Digi24 report that PSD will not back the budget revision until Finance Minister Alexandru Nazare publishes the figures left by the previous government; PSD puts the total funding need at about 40 billion lei. Former government spokesperson Ioana Dogioiu accused PSD of pressuring the minister.",
@@ -3776,6 +4024,24 @@
    "title_ro": "Ministrul Sănătății propune desfacerea contractului medicilor care lipsesc din gărzi",
    "topic": "politics",
    "id": "pol-rogobete-doctors"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-28T09:05:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/politic/ministrul-sanatatii-anunta-un-necesar-de-pana-la-72-miliarde-de-lei-unde-vor-ajunge-banii-ceruti-la-rectificare-23832948"
+    }
+   ],
+   "summary": "Health Minister Alexandru Rogobete told Digi24 the ministry and the national health insurance fund need up to 7.2 billion lei more, including about 1.2 billion for the ministry, mainly for emergency care, national programmes and hospital payments. He said flu vaccine deliveries were delayed by customs checks and a new order is planned for mid-November.",
+   "summary_ro": "Ministrul Sănătății, Alexandru Rogobete, a declarat la Digi24 că ministerul și CNAS au nevoie de până la 7,2 miliarde de lei în plus, dintre care circa 1,2 miliarde pentru minister, în principal pentru urgențe, programe naționale și plăți către spitale. El a spus că livrările de vaccin antigripal au întârziat din cauza verificărilor vamale și că o nouă comandă e plănuită la jumătatea lui noiembrie.",
+   "title": "Health minister seeks up to 7.2 billion lei in budget revision",
+   "title_ro": "Ministrul Sănătății cere până la 7,2 miliarde de lei la rectificare",
+   "topic": "politics",
+   "id": "pol-rogobete-health-rectification"
   },
   {
    "place": "Bucharest",
@@ -4428,6 +4694,24 @@
    "id": "ro-bvb-cautious-trading"
   },
   {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-28T07:00:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Ziarul Financiar",
+     "url": "https://www.zf.ro/burse-fonduri-mutuale/bursa-numarul-investitorilor-de-la-bursa-de-valori-bucuresti-a-urcat-de-cinci-ori-in-cinci-ani-ajungand-la-final-de-septembrie-la-345-000-23269183"
+    }
+   ],
+   "summary": "The number of investors on the Bucharest Stock Exchange rose to about 345,000 at the end of September, five times the level of five years earlier, Ziarul Financiar reports. Separately, asset managers say Romanian fund investors now exceed 1.5 million.",
+   "summary_ro": "Numărul investitorilor la Bursa de Valori București a urcat la circa 345.000 la finalul lui septembrie, de cinci ori mai mult decât acum cinci ani, relatează Ziarul Financiar. Separat, administratorii de fonduri spun că numărul investitorilor români în fonduri depășește 1,5 milioane.",
+   "title": "Bucharest Stock Exchange investor count reaches 345,000",
+   "title_ro": "Numărul investitorilor la Bursa de Valori București a ajuns la 345.000",
+   "topic": "economy",
+   "id": "ro-bvb-investors-345k"
+  },
+  {
    "place": "Brașov",
    "place_ro": "Brașov",
    "publishedAt": "2026-10-27T13:39:00Z",
@@ -5030,6 +5314,24 @@
    "id": "ro-health-funding"
   },
   {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-27T22:05:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Ziarul Financiar",
+     "url": "https://www.zf.ro/zf-real-estate/alexandru-pricop-svn-romania-residentialist-tranzactiile-cu-locuinte-au-scazut-cu-peste-30-in-trimestrul-al-iii-lea-dar-o-corectie-generalizata-a-preturilor-nu-se-contureaza-23269057"
+    }
+   ],
+   "summary": "Residential transactions dropped by more than 30% in the third quarter, but a broad price correction is not taking shape, SVN Romania's Alexandru Pricop told Ziarul Financiar. Another analyst said median apartment prices stagnated in the first half.",
+   "summary_ro": "Tranzacțiile cu locuințe au scăzut cu peste 30% în trimestrul al treilea, dar nu se conturează o corecție generalizată a prețurilor, a declarat Alexandru Pricop (SVN Romania) pentru Ziarul Financiar. Un alt analist a spus că prețurile mediane ale apartamentelor au stagnat în primul semestru.",
+   "title": "Home sales in Romania fell over 30% in third quarter, consultant says",
+   "title_ro": "Tranzacțiile cu locuințe au scăzut cu peste 30% în trimestrul III",
+   "topic": "economy",
+   "id": "ro-housing-q3-transactions"
+  },
+  {
    "place": "Iași",
    "place_ro": "Iași",
    "publishedAt": "2026-10-27T21:30:00Z",
@@ -5262,6 +5564,24 @@
    "title_ro": "Ministerul Culturii sprijină campania la Oscar a filmului „Fjord”",
    "topic": "culture",
    "id": "ro-mungiu-fjord-oscars"
+  },
+  {
+   "place": "Constanța",
+   "place_ro": "Constanța",
+   "publishedAt": "2026-10-28T09:04:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Ziarul Financiar",
+     "url": "https://www.zf.ro/zf-24/oil-terminal-alatura-raliului-actiunilor-petroliere-bursa-dupa-rompetrol-rafinare-rompetrol-well-services-actiunile-operatorului-terminalului-portul-constanta-apreciau-miercuri-aproape-15-rulaj-23269486"
+    }
+   ],
+   "summary": "Shares in Constanța port terminal operator Oil Terminal rose almost 15% on heavy volume on Wednesday, following gains in Rompetrol Rafinare and Rompetrol Well Services, Ziarul Financiar reports.",
+   "summary_ro": "Acțiunile operatorului de terminal din portul Constanța, Oil Terminal, au crescut miercuri cu aproape 15%, pe rulaj mare, după aprecierile Rompetrol Rafinare și Rompetrol Well Services, relatează Ziarul Financiar.",
+   "title": "Oil Terminal shares jump nearly 15% as oil stocks rally",
+   "title_ro": "Acțiunile Oil Terminal cresc cu aproape 15%, pe fondul raliului petrolier",
+   "topic": "economy",
+   "id": "ro-oil-terminal-shares"
   },
   {
    "place": "Constanța",
@@ -6288,12 +6608,16 @@
     {
      "name": "Știrile ProTV",
      "url": "https://stirileprotv.ro/stiri/international/flavio-bolsonaro-ar-fi-fugit-din-brazilia-dupa-ce-a-pierdut-alegerile-prezidentiale-si-ar-intentiona-sa-ceara-azil-in-sua.html"
+    },
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic-extern/2026/10/28/flavio-bolsonaro-se-indreapta-spre-ecuador-din-argentina-dupa-ce-a-parasit-brazilia-autoritati--1607492"
     }
    ],
-   "summary": "Flávio Bolsonaro, who lost Brazil's presidential runoff, is reported to have reached the United States after police cancelled his passports over a court order to surrender them; the US State Department says visas will be issued to him and his family. Argentine officials deny he passed through Puerto Iguazú, and Brazil's Federal Police has asked Argentina for information, HotNews reports.",
-   "summary_ro": "Flávio Bolsonaro, învins în turul doi al alegerilor prezidențiale din Brazilia, ar fi ajuns în Statele Unite după ce poliția i-a anulat pașapoartele, pe care instanța îi ceruse să le predea; Departamentul de Stat al SUA spune că el și familia sa vor primi vize. Oficialii argentinieni neagă că ar fi trecut prin Puerto Iguazú, iar Poliția Federală braziliană a cerut informații Argentinei, relatează HotNews.",
-   "title": "Flávio Bolsonaro reportedly reaches US after Brazil cancels his passports",
-   "title_ro": "Flávio Bolsonaro ar fi ajuns în SUA după ce Brazilia i-a anulat pașapoartele",
+   "summary": "Flávio Bolsonaro, who lost Brazil's presidential runoff, left the country after police cancelled his passports over a court order in a corruption and money-laundering probe. Agerpres, citing Argentine authorities, reports he flew with his family from Puerto Iguazú to Guayaquil, Ecuador; earlier reports had placed him in the US, whose State Department said visas would be issued to the family.",
+   "summary_ro": "Flávio Bolsonaro, învins în turul doi al prezidențialelor din Brazilia, a părăsit țara după ce poliția i-a anulat pașapoartele, în baza unui ordin judecătoresc dintr-o anchetă de corupție și spălare de bani. Agerpres relatează, citând autoritățile argentiniene, că acesta a zburat cu familia din Puerto Iguazú spre Guayaquil, Ecuador; relatări anterioare îl plasau în SUA, al cărei Departament de Stat a anunțat că familia va primi vize.",
+   "title": "Reports conflict on Flávio Bolsonaro's whereabouts after he left Brazil",
+   "title_ro": "Relatări contradictorii despre locul în care se află Flávio Bolsonaro",
    "topic": "politics",
    "id": "world-flavio-bolsonaro-passports"
   },
@@ -6342,6 +6666,10 @@
     {
      "name": "Digi24",
      "url": "https://www.digi24.ro/stiri/externe/sua/pete-hegseth-propune-un-cadru-ambitios-in-domeniul-apararii-intre-asean-si-sua-urmatorii-ani-vor-fi-de-o-importanta-cruciala-4011803"
+    },
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic-extern/2026/10/28/ministrul-american-al-apararii-pete-hegseth-propune-un-cadru-ambitios-in-domeniul-apararii-intre-ase--1607572"
     }
    ],
    "summary": "US Defence Secretary Pete Hegseth proposed what he called an ambitious defence cooperation framework between the US and ASEAN countries, saying the coming years will be crucial.",
@@ -6582,10 +6910,14 @@
     {
      "name": "Bloomberg",
      "url": "https://www.bloomberg.com/news/articles/2026-10-28/israeli-vote-too-close-to-call-between-netanyahu-and-eisenkot"
+    },
+    {
+     "name": "Ziarul Financiar",
+     "url": "https://www.zf.ro/eveniment/alegeri-extrem-de-stranse-in-israel-coalitia-de-partide-a-lui-netanyahu-este-la-egalitate-cu-opozitia-la-iesirea-de-la-urne-dar-nu-are-suficiente-locuri-sa-formeze-majoritatea-23269413"
     }
    ],
-   "summary": "Updated exit-poll projections cited by Al Jazeera show Benjamin Netanyahu's bloc and Gadi Eisenkot's opposition tied at about 51 seats each on Channel 13, both short of the 61 needed, with Likud the largest party and Arab parties projected at about 18–19 seats. Bloomberg calls the vote too close to call; turnout was 77.7%, preliminary official results are expected Wednesday and final results on 4 November.",
-   "summary_ro": "Proiecțiile actualizate ale exit-poll-urilor citate de Al Jazeera arată blocul lui Benjamin Netanyahu și opoziția lui Gadi Eisenkot la egalitate, cu circa 51 de mandate fiecare pe Canal 13, ambele sub pragul de 61, Likud fiind cel mai mare partid, iar partidele arabe estimate la 18–19 mandate. Bloomberg descrie votul ca fiind prea strâns pentru a desemna un câștigător; prezența a fost de 77,7%, rezultatele oficiale preliminare sunt așteptate miercuri, iar cele finale pe 4 noiembrie.",
+   "summary": "With more than three-quarters of votes counted, Benjamin Netanyahu's bloc is on course for about 54 seats, Gadi Eisenkot's opposition alliance 47 and Arab parties a record 19, Al Jazeera reports, leaving no camp with the 61 seats needed for a majority.",
+   "summary_ro": "După numărarea a peste trei sferturi din voturi, blocul lui Benjamin Netanyahu se îndreaptă spre circa 54 de mandate, alianța de opoziție condusă de Gadi Eisenkot spre 47, iar partidele arabe spre un record de 19, relatează Al Jazeera; nicio tabără nu are cele 61 de mandate necesare pentru majoritate.",
    "title": "Israel election ends in deadlock as counting continues",
    "title_ro": "Alegerile din Israel se încheie fără majoritate clară; numărarea continuă",
    "topic": "politics",
@@ -7190,6 +7522,10 @@
     {
      "name": "Digi24",
      "url": "https://www.digi24.ro/stiri/externe/sua/trump-spune-ca-va-accepta-rezultatul-alegerilor-de-la-jumatatea-mandatului-daca-este-corect-4011661"
+    },
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic-extern/2026/10/28/trump-spune-ca-va-accepta-rezultatul-alegerilor-de-la-jumatatea-mandatului-daca-acestea-sunt-corecte--1607489"
     }
    ],
    "summary": "US President Donald Trump said he would accept the outcome of next week’s midterm elections provided the vote is fair.",
