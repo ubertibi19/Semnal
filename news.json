@@ -1,5 +1,5 @@
 {
- "lastRun": "2026-10-28T18:58:34Z",
+ "lastRun": "2026-10-28T19:51:31Z",
  "stories": [
   {
    "place": "Bucharest",
@@ -36,6 +36,36 @@
    "title_ro": "Deschiderea unui tronson din A0 Nord, amânată spre finalul anului",
    "topic": "economy",
    "id": "buc-a0-nord-delay"
+  },
+  {
+   "place": "Balotești, Ilfov",
+   "place_ro": "Balotești, Ilfov",
+   "publishedAt": "2026-10-28T15:00:00Z",
+   "region": "bucharest",
+   "sources": [
+    {
+     "name": "Gândul",
+     "url": "https://www.gandul.ro/stiri/spital-nou-balotesti-agrippa-ionescu-pnrr-sri-21047892"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/noul-spital-prof-dr-agrippa-ionescu-de-la-balotesti-a-fost-dat-in-folosinta-investitia-de-960-de-milioane-de-lei-include-520-de-paturi-si-14-sali-de-operatie_3932082"
+    },
+    {
+     "name": "News.ro",
+     "url": "https://www.news.ro/social/noul-spital-prof-dr-agrippa-ionescu-de-la-balotesti-a-fost-dat-in-folosinta-investitia-s-a-ridicat-la-960-de-milioane-de-lei-unitatea-medicala-are-520-de-paturi-si-14-sali-de-operatie-video-1922404928002026101622898265"
+    },
+    {
+     "name": "Ziarul Financiar",
+     "url": "https://www.zf.ro/profesii/cum-arata-o-investitie-de-aproape-1-mld-lei-intr-un-spital-de-stat-ca-afara-spitalul-agrippa-ionescu-si-a-deschis-portile-in-balotesti-langa-capitala-video-cu-interiorul-spitalului-23269941"
+    }
+   ],
+   "summary": "The new \"Prof. Dr. Agrippa Ionescu\" hospital at Balotești, built with about 960 million lei in EU funds, has been put into use with 520 beds and 14 operating theatres; its Bucharest activity will move there.",
+   "summary_ro": "Noul spital „Prof. Dr. Agrippa Ionescu” de la Balotești, construit cu circa 960 de milioane de lei din fonduri europene, a fost dat în folosință, cu 520 de paturi și 14 săli de operație; activitatea din București se mută aici.",
+   "title": "New Agrippa Ionescu hospital opens at Balotești near Bucharest",
+   "title_ro": "Noul spital Agrippa Ionescu de la Balotești a fost dat în folosință",
+   "topic": "economy",
+   "id": "buc-agrippa-hospital-balotesti"
   },
   {
    "place": "Bucharest",
@@ -394,6 +424,10 @@
     {
      "name": "TVR Info",
      "url": "https://tvrinfo.ro/ancheta-la-stb-unde-10-angajati-sunt-suspectati-ca-au-furat-o-tona-si-jumatate-de-motorina-din-autobuze/"
+    },
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/stiri/actualitate/angajati-ai-unei-firme-de-transport-din-bucuresti-suspectati-ca-furau-combustibil-din-autobuze-zece-persoane-vizate-de-perchezitii.html"
     }
    ],
    "summary": "Bucharest transport police, backed by gendarmes, searched ten homes in Bucharest, Ilfov and Giurgiu and took ten people in for questioning. According to the report, eight drivers and two guards are suspected of stealing fuel from buses at the Ferentari depot between June and September.",
@@ -616,6 +650,10 @@
     {
      "name": "Știri pe surse",
      "url": "https://www.stiripesurse.ro/planul-ursulei-von-der-leyen-a-divizat-ue-tensiuni-pe-tema-canadei-inaintea-summitului-de-la-montreal_3931824"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/27/von-der-leyens-canada-associate-membership-spurs-battle-of-words-with-eu-capitals"
     }
    ],
    "summary": "Germany, Italy and Greece objected to wording in a draft EU–Canada declaration referring to Ursula von der Leyen's offer of associate membership for Canada, and the EU is now preparing to drop the idea from the final text, Digi24 reports.",
@@ -684,6 +722,10 @@
     {
      "name": "CanCan",
      "url": "https://www.cancan.ro/o-nava-care-se-indrepta-spre-romania-lovita-de-trei-drone-in-marea-neagra-echipajul-a-intrat-in-alerta-21538017"
+    },
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/stiri/actualitate/nava-comerciala-care-venea-spre-constanta-lovita-de-3-drone-in-apele-bulgariei-este-a-cincea-atacata-luna-aceasta.html"
     }
    ],
    "summary": "The container ship Contship Jet, sailing from Haifa to Constanța, was struck by three drones about 21 nautical miles off Bulgaria's coast, Bulgarian Defence Minister Dimitar Stoyanov said; witnesses reported a fire on board and the crew was evacuated. Romanian Defence Minister Radu Oprea condemned the repeated drone attacks on merchant ships in the Black Sea.",
@@ -798,6 +840,24 @@
    "title_ro": "UE pregătește o delegație pentru posibilele discuții cu Rusia de la Abu Dhabi",
    "topic": "world",
    "id": "eu-eu-russia-talks-team"
+  },
+  {
+   "place": "EU",
+   "place_ro": "UE",
+   "publishedAt": "2026-10-28T13:56:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/actualitate/social/tinerii-europeni-tot-mai-implicati-in-societate-ce-isi-doresc-de-la-ue-si-cum-vor-sa-si-faca-vocea-auzita-eurobarometru-4012469"
+    }
+   ],
+   "summary": "A new Eurobarometer survey finds young Europeans are more involved in civic life and sets out what they expect from the EU and how they want to be heard.",
+   "summary_ro": "Un nou sondaj Eurobarometru arată că tinerii europeni sunt tot mai implicați în viața civică și ce așteptări au de la UE, inclusiv cum vor să își facă vocea auzită.",
+   "title": "Eurobarometer: young Europeans increasingly engaged in society",
+   "title_ro": "Eurobarometru: tinerii europeni, tot mai implicați în societate",
+   "topic": "politics",
+   "id": "eu-eurobarometer-youth"
   },
   {
    "place": "Netherlands",
@@ -1192,6 +1252,28 @@
    "title_ro": "Ungaria blochează din nou avansarea clusterelor de aderare ale Ucrainei",
    "topic": "politics",
    "id": "eu-hungary-ukraine-clusters"
+  },
+  {
+   "place": "Italy",
+   "place_ro": "Italia",
+   "publishedAt": "2026-10-28T18:40:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/actualitate/atentionare-de-calatorie-de-la-mae-pentru-romanii-care-merg-in-italia-greva-nationala-pe-30-octombrie-4012983"
+    },
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/social/greva-nationala-in-italia-pe-30-octombrie-mae-a-transmis-un-avertisment-pentru-romani-23833336"
+    }
+   ],
+   "summary": "Romania's foreign ministry issued a travel alert for Italy, where a national general strike on 30 October is expected to disrupt air, rail and public transport.",
+   "summary_ro": "Ministerul Afacerilor Externe a emis o atenționare de călătorie pentru Italia, unde o grevă generală națională pe 30 octombrie va afecta transportul aerian, feroviar și public.",
+   "title": "Romanian foreign ministry warns of Italian general strike on 30 October",
+   "title_ro": "MAE avertizează românii privind greva generală din Italia de pe 30 octombrie",
+   "topic": "economy",
+   "id": "eu-italy-strike-mae-warning"
   },
   {
    "place": "Kharkiv",
@@ -2494,6 +2576,24 @@
    "title_ro": "Zelenski: situația de pe front este cea mai favorabilă de mult timp",
    "topic": "security",
    "id": "eu-zelensky-front-operations"
+  },
+  {
+   "place": "Kyiv",
+   "place_ro": "Kiev",
+   "publishedAt": "2026-10-28T14:27:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/externe/ue/zelenski-schimbare-radicala-de-pozitie-in-negocierile-de-pace-anuntul-liderului-de-la-kiev-4012523"
+    }
+   ],
+   "summary": "Ukrainian President Volodymyr Zelensky said for the first time that security guarantees in a future settlement could extend to Russia as well, Digi24 reports, setting out conditions from Kyiv.",
+   "summary_ro": "Președintele ucrainean Volodimir Zelenski a afirmat pentru prima dată că garanțiile de securitate dintr-un viitor acord ar putea viza și Rusia, relatează Digi24, Kievul punând totodată condiții.",
+   "title": "Zelensky signals security guarantees could also cover Russia after the war",
+   "title_ro": "Zelenski spune că garanțiile de securitate ar putea include și Rusia după război",
+   "topic": "security",
+   "id": "eu-zelensky-guarantees-russia"
   },
   {
    "place": "Ukraine",
@@ -3808,6 +3908,28 @@
    "id": "pol-georgescu-coup-trial"
   },
   {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-28T18:37:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/actualitate/politica/george-simion-dupa-prelungirea-arestului-preventiv-pentru-calin-georgescu-dictaturile-niciodata-nu-au-sfarsit-bine-4012943"
+    },
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/politic/cristela-georgescu-acuza-incalcarea-drepturilor-fundamentale-dupa-prelungirea-arestului-lui-calin-georgescu-23833338"
+    }
+   ],
+   "summary": "AUR leader George Simion reacted to the appeals court's decision to extend Călin Georgescu's pretrial detention by 30 days, saying dictatorships never end well. Georgescu's wife, Cristela, said the ruling breaches fundamental rights.",
+   "summary_ro": "Liderul AUR, George Simion, a reacționat la decizia Curții de Apel de a prelungi cu 30 de zile arestul preventiv al lui Călin Georgescu, spunând că dictaturile nu s-au sfârșit niciodată bine. Soția acestuia, Cristela Georgescu, a afirmat că decizia încalcă drepturi fundamentale.",
+   "title": "Simion and Cristela Georgescu criticise ruling keeping Georgescu in custody",
+   "title_ro": "Simion și Cristela Georgescu critică decizia de menținere în arest a lui Georgescu",
+   "topic": "politics",
+   "id": "pol-georgescu-ruling-reactions"
+  },
+  {
    "place": "Brussels",
    "place_ro": "Bruxelles",
    "publishedAt": "2026-10-28T15:39:00Z",
@@ -4148,6 +4270,24 @@
    "title_ro": "Foști aleși din Moacșa, trimiși în judecată pentru declarații false",
    "topic": "politics",
    "id": "pol-moacsa-officials-charged"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-28T15:31:00Z",
+   "region": "bucharest",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/actualitate/politica/blatul-psd-aur-pentru-bucuresti-alexandru-muraru-sustine-ca-propunerea-lui-piperea-pentru-pmb-este-inca-un-pas-catre-o-coalitie-4012619"
+    }
+   ],
+   "summary": "PNL MP Alexandru Muraru said AUR's choice of Gheorghe Piperea as its Bucharest mayoral candidate is another step towards a PSD–AUR coalition. He did not cite evidence of a formal agreement.",
+   "summary_ro": "Deputatul PNL Alexandru Muraru a afirmat că propunerea lui Gheorghe Piperea drept candidat AUR la Primăria Capitalei este încă un pas spre o coaliție PSD–AUR. El nu a prezentat dovezi ale unui acord formal.",
+   "title": "PNL's Muraru says Piperea bid signals PSD–AUR deal in Bucharest",
+   "title_ro": "Muraru (PNL): candidatura lui Piperea arată o înțelegere PSD–AUR la București",
+   "topic": "politics",
+   "id": "pol-muraru-piperea-psd-aur"
   },
   {
    "place": "Bucharest",
@@ -5970,6 +6110,24 @@
    "id": "ro-bnr-neagu-risks"
   },
   {
+   "place": "Botoșani",
+   "place_ro": "Botoșani",
+   "publishedAt": "2026-10-28T18:00:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/social/2026/10/28/botosani-o-bomba-de-aruncator-descoperita-in-timpul-lucrarilor-la-soseaua-de-centura--1607836"
+    }
+   ],
+   "summary": "Workers building the Botoșani ring road found a mortar bomb, Agerpres reports; specialist teams were called to remove it.",
+   "summary_ro": "Muncitorii de pe șantierul centurii Botoșani au descoperit o bombă de aruncător, relatează Agerpres; au fost chemate echipele de specialitate pentru ridicarea ei.",
+   "title": "Mortar bomb found during ring-road works in Botoșani",
+   "title_ro": "Bombă de aruncător descoperită la lucrările centurii din Botoșani",
+   "topic": "security",
+   "id": "ro-botosani-mortar-bomb"
+  },
+  {
    "place": "Calafat",
    "place_ro": "Calafat",
    "publishedAt": "2026-10-28T11:15:00Z",
@@ -5996,6 +6154,10 @@
     {
      "name": "Digi24",
      "url": "https://www.digi24.ro/stiri/actualitate/evenimente/accident-in-brasov-o-ambulanta-care-transporta-o-femeie-insarcinata-implicata-intr-o-coliziune-cu-un-autocar-si-un-autoturism-4012897"
+    },
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/stiri/actualitate/accident-in-brasov-cu-un-autocar-o-ambulanta-care-transporta-un-pacient-si-un-autoturism-o-persoana-a-fost-ranita.html"
     }
    ],
    "summary": "An ambulance transporting a pregnant woman was involved in a collision with a coach and a car in Brașov, Digi24 reports.",
@@ -6078,6 +6240,24 @@
    "title_ro": "Volume reduse la Bursă: investitorii așteaptă bugetul și rezultatele pe T3",
    "topic": "economy",
    "id": "ro-bvb-cautious-trading"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-28T16:16:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Ziarul Financiar",
+     "url": "https://www.zf.ro/burse-fonduri-mutuale/companiile-de-energie-de-la-bursa-de-valori-cap-de-afis-in-sedinta-de-miercuri-hidroelectrica-si-omv-petrom-se-apreciaza-cu-2-si-5-cresteri-de-15-pentru-cele-doua-rompetrol-si-oil-terminal-23269821"
+    }
+   ],
+   "summary": "Hidroelectrica and OMV Petrom rose between 2% and 5% on Wednesday, while Rompetrol Rafinare and Oil Terminal gained about 15%, Ziarul Financiar reports.",
+   "summary_ro": "Hidroelectrica și OMV Petrom s-au apreciat cu 2–5% miercuri, iar Rompetrol Rafinare și Oil Terminal au crescut cu circa 15%, relatează Ziarul Financiar.",
+   "title": "Energy shares lead Bucharest Stock Exchange gains",
+   "title_ro": "Acțiunile companiilor de energie conduc creșterile la Bursa de la București",
+   "topic": "economy",
+   "id": "ro-bvb-energy-stocks-rally"
   },
   {
    "place": "Romania",
@@ -6268,6 +6448,14 @@
     {
      "name": "B1 TV",
      "url": "https://www.b1tv.ro/eveniment/un-sarcofag-roman-de-copil-gasit-intact-la-constanta-1744629.html"
+    },
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/2026/10/28/constanta-sarcofag-roman-al-unui-copil-gasit-intact-descoperire-de-exceptie-pentru-patrimoniul-arheo--1607597"
+    },
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/foto-video-sarcofag-roman-de-copil-descoperit-in-constanta-lemnul-sicriului-e-aproape-intact-se-pastreaza-la-fel-de-bine-si-ghirlandele-de-flori-langa-copil-i-au-fost-puse-si-j.html"
     }
    ],
    "summary": "Archaeologists in Constanța uncovered an intact Roman-era sarcophagus containing the grave of a child.",
@@ -6810,6 +6998,10 @@
     {
      "name": "Digi24",
      "url": "https://www.digi24.ro/stiri/actualitate/perchezitii-intr-o-zona-turistica-dupa-ce-un-cuplu-a-reclamat-ca-a-descoperit-o-camera-ascunsa-in-camera-in-care-era-cazat-4012867"
+    },
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/stiri/actualitate/nunta-transformata-in-ancheta-penala-mirele-ar-fi-ascuns-camere-video-in-dormitoarele-invitatilor-pentru-a-i-filma-in-momente-intime.html"
     }
    ],
    "summary": "Police carried out searches in a tourist area after a couple reported finding a hidden camera in the room where they were staying, Digi24 reports.",
@@ -7194,6 +7386,24 @@
   {
    "place": "Romania",
    "place_ro": "România",
+   "publishedAt": "2026-10-28T16:54:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/actualitate/social/cel-mai-in-varsta-roman-a-implinit-astazi-111-ani-generalul-iosif-rus-e-al-doilea-cel-mai-longeviv-veteran-de-razboi-din-lume-4012795"
+    }
+   ],
+   "summary": "Retired brigadier general Iosif Rus, considered the oldest Romanian, turned 111; he is described as the second-longest-lived war veteran in the world.",
+   "summary_ro": "Generalul de brigadă în retragere Iosif Rus, considerat cel mai vârstnic român, a împlinit 111 ani; el este descris drept al doilea cel mai longeviv veteran de război din lume.",
+   "title": "Romania's oldest citizen, war veteran Iosif Rus, turns 111",
+   "title_ro": "Cel mai vârstnic român, veteranul de război Iosif Rus, a împlinit 111 ani",
+   "topic": "culture",
+   "id": "ro-oldest-man-111"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
    "publishedAt": "2026-10-28T08:12:00Z",
    "region": "romania",
    "sources": [
@@ -7288,6 +7498,24 @@
    "title_ro": "România are termen 6 noiembrie pentru procedurile restante din PNRR",
    "topic": "economy",
    "id": "ro-pnrr-deadline"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-28T16:12:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/virale/fost-director-adjunct-al-postei-romane-arestat-pentru-viol-ar-fi-lasat-insarcinata-o-fata-de-15-ani.html"
+    }
+   ],
+   "summary": "A former deputy director of the Romanian Post has been placed under arrest on suspicion of raping a 15-year-old girl, Știrile ProTV reports.",
+   "summary_ro": "Un fost director adjunct al Poștei Române a fost arestat, fiind suspectat că a violat o adolescentă de 15 ani, relatează Știrile ProTV.",
+   "title": "Former Romanian Post deputy director arrested in rape case",
+   "title_ro": "Fost director adjunct al Poștei Române, arestat într-un dosar de viol",
+   "topic": "security",
+   "id": "ro-posta-exdirector-rape-arrest"
   },
   {
    "place": "Vrancea",
@@ -7570,6 +7798,10 @@
     {
      "name": "Digi24",
      "url": "https://www.digi24.ro/stiri/economie/transporturi/gafa-a-ministrului-transporturilor-in-vizita-pe-santierul-autostrazii-sibiu-pitesti-am-fost-si-in-tunelul-momoa-4012749"
+    },
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/video-ministrul-transporturilor-a-confundat-tunelul-momaia-de-pe-sibiu-pitesti-cu-numele-actorului-jason-momoa-in-luna-noiembrie-se-va-circula-pe-lotul-4-al-autostrazii-a1.html"
     }
    ],
    "summary": "The new transport minister toured the Sibiu–Pitești motorway works, where the expected opening date of Section 4 and remaining works were discussed; a slip in naming the Momaia tunnel drew attention.",
@@ -7638,6 +7870,24 @@
    "id": "ro-sri-recruitment-warning"
   },
   {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-28T12:19:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/stiri/actualitate/peste-36-000-de-studenti-vor-primi-burse-sociale-de-925-de-lei-printr-o-cofinantare-de-la-bugetul-de-stat-si-din-fonduri-europene.html"
+    }
+   ],
+   "summary": "More than 36,000 students will get social scholarships of 925 lei, co-financed from the state budget and EU funds.",
+   "summary_ro": "Peste 36.000 de studenți vor primi burse sociale de 925 de lei, cofinanțate din bugetul de stat și din fonduri europene.",
+   "title": "Over 36,000 students to receive 925-lei social scholarships",
+   "title_ro": "Peste 36.000 de studenți vor primi burse sociale de 925 de lei",
+   "topic": "economy",
+   "id": "ro-student-social-scholarships"
+  },
+  {
    "place": "Timiș",
    "place_ro": "Timiș",
    "publishedAt": "2026-10-27T12:52:00Z",
@@ -7694,6 +7944,28 @@
    "title_ro": "Polițist din Timișoara trimis în judecată pentru ponturi date unui hoț",
    "topic": "security",
    "id": "ro-timisoara-police-trial"
+  },
+  {
+   "place": "Iași",
+   "place_ro": "Iași",
+   "publishedAt": "2026-10-28T15:10:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/actualitate/alexandru-toader-fiul-fostului-ministru-al-justitiei-tudorel-toader-a-contestat-arestul-preventiv-pentru-viol-la-instanta-suprema-4012601"
+    },
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/justitie/fiul-lui-tudorel-toader-a-contestat-arestarea-preventiva-la-inalta-curte-termenul-stabilit-de-instanta-suprema.html"
+    }
+   ],
+   "summary": "Alexandru Toader, son of former justice minister Tudorel Toader, has challenged his pretrial detention in a rape case before the High Court of Cassation and Justice, which has set a hearing date.",
+   "summary_ro": "Alexandru Toader, fiul fostului ministru al Justiției Tudorel Toader, a contestat la Înalta Curte de Casație și Justiție arestarea preventivă dispusă într-un dosar de viol; instanța supremă a stabilit un termen.",
+   "title": "Alexandru Toader appeals his pretrial detention at the High Court",
+   "title_ro": "Alexandru Toader contestă arestarea preventivă la Înalta Curte",
+   "topic": "security",
+   "id": "ro-toader-appeal-iccj"
   },
   {
    "place": "Iași",
@@ -7890,6 +8162,24 @@
    "title_ro": "Miercuri răcoroasă și înnorată, cu ploi slabe și lapoviță la munte",
    "topic": "security",
    "id": "ro-weather-oct28"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-28T14:00:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/sport/2026/10/28/cosr-a-prezentat-lotul-de-16-sportivi-care-va-reprezenta-romania-la-jocurile-olimpice-de-tineret-dak--1607759"
+    }
+   ],
+   "summary": "Romania's Olympic and Sports Committee presented the 16 athletes who will represent the country at the Youth Olympic Games in Dakar.",
+   "summary_ro": "Comitetul Olimpic și Sportiv Român a prezentat lotul de 16 sportivi care va reprezenta România la Jocurile Olimpice de Tineret de la Dakar.",
+   "title": "Romania names 16 athletes for Dakar 2026 Youth Olympic Games",
+   "title_ro": "România trimite 16 sportivi la Jocurile Olimpice de Tineret Dakar 2026",
+   "topic": "sport",
+   "id": "ro-youth-olympics-team"
   },
   {
    "place": "Bucharest",
@@ -8344,6 +8634,28 @@
    "id": "world-fec-cyberattack"
   },
   {
+   "place": "Washington",
+   "place_ro": "Washington",
+   "publishedAt": "2026-10-28T18:00:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-28/fed-holds-rates-says-more-data-will-help-next-decision"
+    },
+    {
+     "name": "Ziarul Financiar",
+     "url": "https://www.zf.ro/banci-si-asigurari/rezerva-federala-a-sua-cea-mai-puternica-banca-centrala-din-lume-a-mentinut-dobanda-in-intervalul-3-75-4-desi-inflatia-americana-accelereaza-pe-fondul-scumpirii-carburantilor-23269952"
+    }
+   ],
+   "summary": "The Federal Reserve kept its benchmark rate unchanged in the 3.75–4% range, saying more data would guide its next decision, even as US inflation picks up on higher fuel prices, Bloomberg and Ziarul Financiar report.",
+   "summary_ro": "Rezerva Federală a lăsat dobânda de referință neschimbată, în intervalul 3,75–4%, spunând că mai multe date vor ghida următoarea decizie, deși inflația americană accelerează pe fondul scumpirii carburanților, relatează Bloomberg și Ziarul Financiar.",
+   "title": "US Federal Reserve holds interest rates at 3.75–4%",
+   "title_ro": "Rezerva Federală a SUA menține dobânda la 3,75–4%",
+   "topic": "economy",
+   "id": "world-fed-holds-rates"
+  },
+  {
    "place": "Brazil",
    "place_ro": "Brazilia",
    "publishedAt": "2026-10-27T17:50:00Z",
@@ -8384,6 +8696,10 @@
     {
      "name": "Agerpres",
      "url": "https://agerpres.ro/politic-extern/2026/10/28/flavio-bolsonaro-se-indreapta-spre-ecuador-din-argentina-dupa-ce-a-parasit-brazilia-autoritati--1607492"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/27/brazilian-police-probe-claims-flavio-bolsonaro-fled-to-argentina-after-election-defeat"
     }
    ],
    "summary": "Flávio Bolsonaro, who lost Brazil's presidential runoff, left the country after police cancelled his passports under a court order in a corruption and money-laundering probe. After conflicting reports placed him in Argentina and Ecuador, Digi24 reports he has arrived in the United States by a roundabout route; the US State Department had said visas would be issued to the family.",
@@ -9164,6 +9480,28 @@
   {
    "place": "Moscow",
    "place_ro": "Moscova",
+   "publishedAt": "2026-10-28T14:36:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/stiri/international/vladimir-putin-l-a-descris-intr-un-singur-cuvant-pe-elon-musk-liderul-rusiei-declaratie-surprinzatoare.html"
+    },
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/externe/rusia/vladimir-putin-musk-este-un-geniu-un-geniu-adevarat-4012685"
+    }
+   ],
+   "summary": "Russian President Vladimir Putin described Elon Musk as a genuine genius and said Moscow keeps close contact with Washington on space cooperation.",
+   "summary_ro": "Președintele rus Vladimir Putin l-a descris pe Elon Musk drept un adevărat geniu și a spus că Moscova menține un contact strâns cu Washingtonul în domeniul spațial.",
+   "title": "Putin calls Elon Musk a genius, cites space contacts with US",
+   "title_ro": "Putin îl numește pe Elon Musk un geniu și invocă contactele spațiale cu SUA",
+   "topic": "tech",
+   "id": "world-putin-musk"
+  },
+  {
+   "place": "Moscow",
+   "place_ro": "Moscova",
    "publishedAt": "2026-10-27T13:26:00Z",
    "region": "world",
    "sources": [
@@ -9228,6 +9566,10 @@
     {
      "name": "Agerpres",
      "url": "https://agerpres.ro/politic-extern/2026/10/28/rusia-livreaza-etiopiei-primele-12-aeronave-de-lupta-de-generatia-a-patra-sukhoi-su-35--1607688"
+    },
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/externe/mapamond/rusia-a-livrat-etiopiei-12-avioane-su-35-cu-un-an-inainte-de-termen-tara-africana-va-primi-si-sisteme-antiaeriene-s-400-4012405"
     }
    ],
    "summary": "Russia has delivered the first 12 fourth-generation Sukhoi Su-35 combat aircraft to Ethiopia, Agerpres reports.",
