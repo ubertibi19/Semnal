@@ -1,5 +1,5 @@
 {
- "lastRun": "2026-10-28T08:51:43Z",
+ "lastRun": "2026-10-28T09:49:47Z",
  "stories": [
   {
    "place": "Bucharest",
@@ -376,6 +376,10 @@
     {
      "name": "Bloomberg",
      "url": "https://bloomberg.com/news/articles/2026-10-28/serbia-police-says-teenager-killed-in-attack-on-israeli-embassy"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/video-atac-armat-ambasada-israelului-in-serbia_3931946"
     }
    ],
    "summary": "Serbian police shot dead an attacker who wounded a guard with knives outside the Israeli embassy in Belgrade early on Wednesday. Interior Minister Ivica Dačić called it a suspected terrorist attack by a minor who backed the Islamic State group, and Serbia raised its terror alert to the highest level.",
@@ -394,6 +398,10 @@
     {
      "name": "Mediafax",
      "url": "https://www.mediafax.ro/externe/crima-cu-miza-de-500-000-de-euro-in-bulgaria-un-fost-europarlamentar-impuscat-in-cap-in-propria-casa-23832821"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/fimul-asasinarii-unui-fost-europarlamentar-bulgar-o-sotie-furioasa-si-500000-de-euro_3931965"
     }
    ],
    "summary": "Former Bulgarian MEP Slavi Binev was shot dead at his home in Sofia; Turkish businessman Eyup Temiz has been charged with murder and remanded in custody. Media reports link the case to a dispute over about €500,000, a motive prosecutors have not confirmed.",
@@ -500,6 +508,10 @@
     {
      "name": "Știrile ProTV",
      "url": "https://stirileprotv.ro/stiri/international/dialogul-va-prevala-spune-rusia-care-a-invadat-ucraina-putin-transmite-ca-danemarca-merita-sa-piarda-groenlanda.html"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/omul-lui-putin-ataca-guvernul-de-la-copenhaga-merita-sa-piarda-groenlanda_3931931"
     }
    ],
    "summary": "Kirill Dmitriev, Vladimir Putin's special envoy, wrote on X that Denmark deserves to lose Greenland, responding to Danish PM Mette Frederiksen's criticism of the Finnish and Norwegian leaders' calls with Putin, Știrile ProTV reports, citing TASS and News.ro.",
@@ -594,12 +606,20 @@
     {
      "name": "HotNews",
      "url": "https://hotnews.ro/proiectul-guvernului-francez-impotriva-protestatarilor-violenti-criticat-de-ong-uri-si-avocati-submineaza-dreptul-de-a-protesta-2387909"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/28/french-senate-backs-bill-making-protesters-pay-up-to-10000-for-unrest-damage"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/urmarile-protestelor-din-franta-senatul-francez-aproba-o-lege-mai-dura-impotriva-tulburarii-ordinii-publice_3931983"
     }
    ],
-   "summary": "A French government bill would make protesters liable for damage of up to €10,000 and allow benefits to be withheld from those convicted. Human rights groups and lawyers say it threatens the right to protest; the government defends it.",
-   "summary_ro": "Un proiect al guvernului francez i-ar face pe protestatari răspunzători pentru pagube de până la 10.000 de euro și ar permite suspendarea unor ajutoare sociale pentru cei condamnați. ONG-urile pentru drepturile omului și avocații spun că este afectat dreptul la protest, iar guvernul își apără proiectul.",
-   "title": "French bill on violent protesters draws criticism from rights groups",
-   "title_ro": "Proiectul francez împotriva protestatarilor violenți, criticat de ONG-uri",
+   "summary": "The French Senate has approved a government bill that would make protesters liable for damage of up to €10,000 and allow some benefits to be withheld from those convicted. Rights groups and lawyers say it threatens the right to protest; the government defends it.",
+   "summary_ro": "Senatul francez a aprobat proiectul guvernului care i-ar face pe protestatari răspunzători pentru pagube de până la 10.000 de euro și ar permite suspendarea unor ajutoare pentru cei condamnați. ONG-urile și avocații spun că este afectat dreptul la protest, iar guvernul își apără proiectul.",
+   "title": "French Senate backs bill making protesters pay for unrest damage",
+   "title_ro": "Senatul francez aprobă legea care îi obligă pe protestatari să plătească pagubele",
    "topic": "politics",
    "id": "eu-france-protest-bill"
   },
@@ -800,6 +820,24 @@
    "id": "eu-hungary-ukraine-clusters"
   },
   {
+   "place": "Kharkiv",
+   "place_ro": "Harkov",
+   "publishedAt": "2026-10-28T05:30:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/video/2026/10/28/ukraine-massive-fire-engulfs-buildings-after-russian-strike-on-kharkiv"
+    }
+   ],
+   "summary": "A Russian strike on Kharkiv caused a large fire in residential buildings, with five people, including a child, reported injured.",
+   "summary_ro": "Un atac rusesc asupra Harkovului a provocat un incendiu puternic în clădiri de locuințe; cinci persoane, între care un copil, au fost rănite.",
+   "title": "Russian strike on Kharkiv sets buildings ablaze, injures five",
+   "title_ro": "Atac rusesc asupra Harkovului: clădiri în flăcări, cinci răniți",
+   "topic": "security",
+   "id": "eu-kharkiv-strike-oct28"
+  },
+  {
    "place": "Kherson",
    "place_ro": "Herson",
    "publishedAt": "2026-10-27T12:59:00Z",
@@ -816,6 +854,36 @@
    "title_ro": "Rusia oferă bani coloniștilor care se mută în Hersonul ocupat, potrivit unei relatări",
    "topic": "world",
    "id": "eu-kherson-relocation"
+  },
+  {
+   "place": "Luxembourg",
+   "place_ro": "Luxemburg",
+   "publishedAt": "2026-10-28T08:10:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/justitie/politico-laura-codruta-kovesi-avertisment-la-final-de-mandat-parchetul-european-risca-sa-fie-distrus-incet-tocmai-pentru-ca-isi-face-treaba-23832954"
+    },
+    {
+     "name": "TVR Info",
+     "url": "https://tvrinfo.ro/laura-codruta-kovesi-interviu-in-politico-parchetul-european-va-fi-distrus-treptat-tocmai-pentru-ca-isi-face-treaba/"
+    },
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/externe/ue/pfizergate-procurorii-europeni-au-inca-intrebari-pentru-ursula-von-der-leyen-ce-spune-kovesi-despre-politicienii-anchetati-de-eppo-4011779"
+    },
+    {
+     "name": "Gândul",
+     "url": "https://www.gandul.ro/international/ancheta-pfizergate-bate-pasul-pe-loc-ursula-von-der-leyen-inca-nu-a-fost-audiata-in-scandalul-vaccinurilor-anti-covid-19-kovesi-avertizeaza-ca-parchetul-european-risca-sa-fie-submi-21047454"
+    }
+   ],
+   "summary": "In a Politico interview near the end of her term, EU chief prosecutor Laura Codruța Kövesi says the EPPO risks being slowly dismantled through underfunding, legislative blocks and political pressure. She also says questions for Ursula von der Leyen in the Pfizer vaccine probe remain open.",
+   "summary_ro": "Într-un interviu pentru Politico, la final de mandat, procurorul-șef european Laura Codruța Kövesi spune că EPPO riscă să fie desființat treptat prin subfinanțare, blocaje legislative și presiuni politice. Ea afirmă și că procurorii au încă întrebări pentru Ursula von der Leyen în dosarul vaccinurilor Pfizer.",
+   "title": "Kövesi warns European Public Prosecutor’s Office is being undermined",
+   "title_ro": "Kövesi avertizează că Parchetul European este subminat",
+   "topic": "politics",
+   "id": "eu-kovesi-eppo-warning"
   },
   {
    "place": "Kyiv",
@@ -1388,6 +1456,28 @@
    "id": "eu-spain-ceuta-deportations"
   },
   {
+   "place": "Spain",
+   "place_ro": "Spania",
+   "publishedAt": "2026-10-28T08:40:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/28/at-least-10-dead-in-collision-of-two-high-speed-trains-in-spain"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/accident-feroviar-grav-in-spania-doua-trenuri-de-mare-viteza-s-au-ciocnit-iar-vagoanele-au-sarit-de-pe-sine-numerosi-raniti-potrivit-martorilor_3931980"
+    }
+   ],
+   "summary": "Two high-speed trains collided in Spain and carriages left the tracks, Euronews reports, with at least 10 dead and many injured; other reports citing unnamed sources put the toll higher. The cause is under investigation.",
+   "summary_ro": "Două trenuri de mare viteză s-au ciocnit în Spania, iar mai multe vagoane au deraiat; Euronews relatează cel puțin 10 morți și numeroși răniți, iar alte relatări bazate pe surse nenumite indică un bilanț mai mare. Cauza este investigată.",
+   "title": "Two high-speed trains collide in Spain, killing at least 10",
+   "title_ro": "Două trenuri de mare viteză s-au ciocnit în Spania; cel puțin 10 morți",
+   "topic": "security",
+   "id": "eu-spain-train-crash"
+  },
+  {
    "place": "Brussels",
    "place_ro": "Bruxelles",
    "publishedAt": "2026-10-27T08:30:00Z",
@@ -1508,6 +1598,10 @@
     {
      "name": "Euronews",
      "url": "https://www.euronews.com/2026/10/28/after-months-dithering-europe-shows-its-ready-for-talks-with-russia"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/trump-anunta-o-intalnire-intre-putin-si-zelenski-cred-ca-am-putea-inregistra-progrese-importante_3931927"
     }
    ],
    "summary": "Donald Trump said on Wednesday that a meeting between Vladimir Putin and Volodymyr Zelensky will take place soon and that he expects major progress, Digi24 reports. Euronews reports the European Commission and Council are preparing a joint delegation for multilateral talks expected in Abu Dhabi in early November.",
@@ -1928,6 +2022,28 @@
   {
    "place": "Bucharest",
    "place_ro": "București",
+   "publishedAt": "2026-10-28T09:05:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/primul-hop-aur-il-cheama-pe-luca-niculescu-in-parlament-sa-explice-situatia-economica-reala-a-romaniei_3931976"
+    },
+    {
+     "name": "Gândul",
+     "url": "https://www.gandul.ro/politica/aur-il-cheama-pe-luca-niculescu-in-parlament-pentru-explicatii-despre-deficitul-bugetar-ce-vrea-sa-afle-de-la-premier-21047470"
+    }
+   ],
+   "summary": "AUR has asked Prime Minister Luca Niculescu to appear in Parliament to explain the real state of the budget deficit and the government’s plans on taxes.",
+   "summary_ro": "AUR i-a cerut premierului Luca Niculescu să se prezinte în Parlament pentru a explica situația reală a deficitului bugetar și planurile Guvernului privind taxele.",
+   "title": "AUR calls PM Niculescu to Parliament over budget deficit",
+   "title_ro": "AUR îl cheamă pe premierul Niculescu în Parlament pentru deficit",
+   "topic": "politics",
+   "id": "pol-aur-niculescu-parliament"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
    "publishedAt": "2026-10-27T18:40:00Z",
    "region": "bucharest",
    "sources": [
@@ -1976,6 +2092,10 @@
     {
      "name": "Mediafax",
      "url": "https://www.mediafax.ro/politic/cea-de-a-doua-unire-proiect-propus-de-aur-ce-va-fi-prezentat-la-alba-iulia-in-1-decembrie-23832716"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/aur-propune-a-doua-unire-a-romanilor-un-plan-strategic-pentru-dezvoltarea-romaniei-pana-in-2040_3931945"
     }
    ],
    "summary": "AUR Senate leader Petrișor Peiu said the party will present a policy document called 'The Second Union' in Alba Iulia on 1 December, aimed at narrowing regional gaps and improving transport, energy, education and connectivity, Mediafax reports.",
@@ -2240,6 +2360,24 @@
    "title_ro": "Noua ministră a Culturii spune că bugetul de 0,07% din PIB e un obstacol major",
    "topic": "politics",
    "id": "pol-ciocan-culture-budget"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-28T07:00:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/ioana-ciocan-vrea-sa-semneze-ordine-de-ministra-demersul-facut-de-sefa-culturii-pentru-schimbarea-titulaturilor-oficiale-cred-ca-sunt-atat-de-putine-femei-in-politica-incat-e-necesar-sa-fie-clar-ca-sunt-femei_3931912"
+    }
+   ],
+   "summary": "Culture Minister Ioana Ciocan wants to sign orders as “ministra” and is seeking a change to official titles, saying there are so few women in politics that it should be clear they are women.",
+   "summary_ro": "Ministra Culturii, Ioana Ciocan, vrea să semneze ordinele ca „ministră” și cere schimbarea titulaturilor oficiale, spunând că sunt atât de puține femei în politică încât trebuie să fie clar că sunt femei.",
+   "title": "Culture minister Ciocan seeks feminine forms for official titles",
+   "title_ro": "Ministra Culturii, Ioana Ciocan, vrea titulaturi oficiale la feminin",
+   "topic": "politics",
+   "id": "pol-ciocan-feminine-titles"
   },
   {
    "place": "Romania",
@@ -2632,6 +2770,36 @@
    "title_ro": "USR și-a angajat liderul, pe Dominic Fritz, relatează B1 TV",
    "topic": "politics",
    "id": "pol-fritz-usr-job"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-28T07:30:00Z",
+   "region": "bucharest",
+   "sources": [
+    {
+     "name": "Capital",
+     "url": "https://www.capital.ro/calin-georgescu-afla-astazi-daca-scapa-de-arest-decizia-curtii-de-apel-bucuresti-va-fi-definitiva.html"
+    },
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/social/curtea-de-apel-bucuresti-decide-azi-soarta-lui-calin-georgescu-ramane-in-arest-preventiv-sau-pleaca-acasa-23832914"
+    },
+    {
+     "name": "Gândul",
+     "url": "https://www.gandul.ro/politica/sute-de-sustinatori-ai-lui-calin-georgescu-protesteaza-in-fata-curtii-de-apel-bucuresti-oamenii-cer-eliberarea-fostului-prezidentiabil-si-scandeaza-nu-cedam-21047438"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/protest-la-curtea-de-apel-bucuresti-magistratii-judeca-cererea-diicot-de-prelungire-a-arestului-lui-calin-georgescu-mandatul-actual-expira-la-miezul-noptii_3931964"
+    }
+   ],
+   "summary": "The Bucharest Court of Appeal is ruling on DIICOT’s challenge to a lower court’s refusal to extend Călin Georgescu’s pre-trial arrest; the decision is final. Hundreds of his supporters gathered outside the court.",
+   "summary_ro": "Curtea de Apel București judecă contestația DIICOT împotriva refuzului primei instanțe de a prelungi arestul preventiv al lui Călin Georgescu; decizia este definitivă. Sute de susținători ai săi s-au strâns în fața instanței.",
+   "title": "Appeals court weighs prosecutors’ bid to keep Georgescu in custody",
+   "title_ro": "Curtea de Apel decide dacă Georgescu rămâne în arest preventiv",
+   "topic": "politics",
+   "id": "pol-georgescu-appeal-hearing"
   },
   {
    "place": "Romania / Italy",
@@ -3824,6 +3992,28 @@
   {
    "place": "Bucharest",
    "place_ro": "București",
+   "publishedAt": "2026-10-28T08:42:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/usr-stefanache-senat-pnl_3931970"
+    },
+    {
+     "name": "Gândul",
+     "url": "https://www.gandul.ro/stiri/senator-gheorghe-stefanache-pnl-21047505"
+    }
+   ],
+   "summary": "Senator Gheorghe Ștefănache, who recently resigned from USR, has joined the National Liberal Party’s group in the Senate.",
+   "summary_ro": "Senatorul Gheorghe Ștefănache, care a demisionat recent din USR, s-a înscris în grupul parlamentar al PNL din Senat.",
+   "title": "Ex-USR senator Gheorghe Ștefănache joins PNL Senate group",
+   "title_ro": "Senatorul Gheorghe Ștefănache, fost USR, intră în grupul PNL din Senat",
+   "topic": "politics",
+   "id": "pol-stefanache-pnl"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
    "publishedAt": "2026-10-26T16:10:00Z",
    "region": "romania",
    "sources": [
@@ -3946,6 +4136,28 @@
    "title_ro": "Un articol listează numiți ai USR din consiliile companiilor de stat care ar putea fi înlocuiți",
    "topic": "politics",
    "id": "pol-usr-appointees-report"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-28T08:20:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/actualitate/politica/usr-cere-explicatii-despre-bugetul-romaniei-alexandru-nazare-chemat-la-ora-guvernului-pe-2-noiembrie-4011729"
+    },
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/politic/ministrul-finantelor-chemat-de-usr-la-ora-guvernului-discutia-despre-buget-nu-se-poate-purta-pe-facebook-23832895"
+    }
+   ],
+   "summary": "USR has invited Finance Minister Alexandru Nazare to the Chamber of Deputies’ “Government Hour” on 2 November to explain differences between official budget data and figures cited by PSD. Nazare said the budget debate should not take place on Facebook.",
+   "summary_ro": "USR l-a invitat pe ministrul Finanțelor, Alexandru Nazare, la „Ora Guvernului” din Camera Deputaților pe 2 noiembrie, pentru a explica diferențele dintre datele bugetare oficiale și cifrele invocate de PSD. Nazare a spus că discuția despre buget nu se poate purta pe Facebook.",
+   "title": "USR summons finance minister Nazare to explain budget figures",
+   "title_ro": "USR îl cheamă pe ministrul Nazare la Ora Guvernului pe tema bugetului",
+   "topic": "politics",
+   "id": "pol-usr-nazare-ora-guvernului"
   },
   {
    "place": "Bucharest",
@@ -4148,6 +4360,24 @@
    "title_ro": "Ministrul Finanțelor și liderul social-democraților, în conflict pe cifrele bugetului",
    "topic": "politics",
    "id": "ro-budget-clash"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-28T06:30:00Z",
+   "region": "bucharest",
+   "sources": [
+    {
+     "name": "Ziarul Financiar",
+     "url": "https://www.zf.ro/zf-deschiderea-de-astazi/volume-reduse-prudenta-bursa-valori-lucian-isac-estinvest-investitorii-asteapta-conturarea-bugetului-rezultatele-t3-multe-detalii-emisiunea-zf-deschiderea-astazi-28-octombrie-23269093"
+    }
+   ],
+   "summary": "Trading volumes on the Bucharest Stock Exchange are low as investors wait for the budget outlook and third-quarter company results, a broker told Ziarul Financiar.",
+   "summary_ro": "Volumele de tranzacționare la Bursa de Valori București sunt reduse, investitorii așteptând conturarea bugetului și rezultatele companiilor pe trimestrul al treilea, a declarat un broker pentru Ziarul Financiar.",
+   "title": "Bucharest stock exchange trades cautiously ahead of budget and Q3 results",
+   "title_ro": "Volume reduse la Bursă: investitorii așteaptă bugetul și rezultatele pe T3",
+   "topic": "economy",
+   "id": "ro-bvb-cautious-trading"
   },
   {
    "place": "Brașov",
@@ -5006,6 +5236,32 @@
   {
    "place": "Romania",
    "place_ro": "România",
+   "publishedAt": "2026-10-28T07:20:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/sci-tech/lumea-digitala/aproape-17-500-de-institutii-din-romania-au-fost-notificate-cu-privire-la-vulnerabilitatea-informatica-php2shell-reactia-guvernului-4011669"
+    },
+    {
+     "name": "News.ro",
+     "url": "https://www.news.ro/economic/aproape-17-500-de-institutii-din-sectorul-public-au-fost-notificate-cu-privire-la-vulnerabilitatea-informatica-php2shell-si-la-masurile-care-privesc-rezolvarea-ei-reactia-guvernului-1922400028002026100922896044"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/alerta-mondiala-de-securitate-cibernetica-a-produs-panica-in-romania-17500-de-institutii-publice-au-fost-notificate-reactia-guvernului_3931953"
+    }
+   ],
+   "summary": "Close to 17,500 public-sector institutions in Romania were notified about the PHP2Shell software vulnerability and the steps needed to fix it, after a global security alert; some authority websites went offline. The government outlined its response.",
+   "summary_ro": "Aproape 17.500 de instituții din sectorul public au fost notificate cu privire la vulnerabilitatea informatică PHP2Shell și la măsurile de remediere, după o alertă globală de securitate; unele site-uri ale autorităților au devenit indisponibile. Guvernul și-a prezentat reacția.",
+   "title": "Nearly 17,500 Romanian public bodies warned over PHP2Shell flaw",
+   "title_ro": "Aproape 17.500 de instituții publice, avertizate privind vulnerabilitatea PHP2Shell",
+   "topic": "tech",
+   "id": "ro-php2shell-alert"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
    "publishedAt": "2026-10-27T00:30:00Z",
    "region": "romania",
    "sources": [
@@ -5236,6 +5492,24 @@
    "id": "ro-sibiu-pitesti-delays"
   },
   {
+   "place": "Argeș",
+   "place_ro": "Argeș",
+   "publishedAt": "2026-10-28T08:20:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/video-gafa-noului-ministru-al-transporturilor-pe-santierul-autostrazii-sibiu-pitesti-a-botezat-tunelul-momaia-cu-numele-unui-actor-celebru_3931969"
+    }
+   ],
+   "summary": "The new transport minister toured the Sibiu–Pitești motorway works, where the expected opening date of Section 4 and remaining works were discussed; a slip in naming the Momaia tunnel drew attention.",
+   "summary_ro": "Noul ministru al Transporturilor a vizitat lucrările de pe autostrada Sibiu–Pitești, unde s-a discutat termenul de deschidere a Secțiunii 4 și lucrările rămase; o gafă privind numele tunelului Momaia a atras atenția.",
+   "title": "New transport minister visits Sibiu–Pitești site; Section 4 timeline discussed",
+   "title_ro": "Noul ministru al Transporturilor, pe șantierul Sibiu–Pitești",
+   "topic": "politics",
+   "id": "ro-sibiu-pitesti-minister-visit"
+  },
+  {
    "place": "Sighișoara",
    "place_ro": "Sighișoara",
    "publishedAt": "2026-10-27T17:23:00Z",
@@ -5364,6 +5638,14 @@
     {
      "name": "TVR Info",
      "url": "https://tvrinfo.ro/imagini-cu-alexandru-toader-in-catuse-la-perchezitiile-de-la-cabinetul-notarial/"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/video-alexandru-toader-scos-din-arestul-politiei-iasi-si-dus-la-cabinetul-sau-notarial-pentru-a-asista-la-perchezitii-in-dosarul-in-care-este-acuzat-de-viol-verificari-si-la-universitatea-alexandru-ioan-cuza_3931987"
+    },
+    {
+     "name": "Gândul",
+     "url": "https://gandul.ro/justitie/alexandru-toader-fiul-fostului-ministru-al-justitiei-tudorel-toader-scos-din-arest-pentru-a-participa-la-perchezitiile-informatice-21047474"
     }
    ],
    "summary": "Alexandru Toader, the Iași law lecturer held in pretrial detention since 24 October on rape and sexual assault charges, was brought from police custody to searches at his notary office and at a university office he shares with his father, former justice minister Tudorel Toader, HotNews and G4Media report. He has declined to give a statement.",
@@ -5588,6 +5870,10 @@
     {
      "name": "Mediafax",
      "url": "https://www.mediafax.ro/economic/cererea-pentru-cipurile-ai-este-de-doua-ori-mai-mare-decat-oferta-toate-cipurile-pentru-inteligenta-artificiala-sunt-deja-rezervate-pana-in-2029-23832778"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/28/tech-stocks-soar-as-sk-hynix-adds-to-rising-ai-confidence"
     }
    ],
    "summary": "South Korea's Kospi rose sharply, up 5.8% according to Al Jazeera, after SK Hynix reported a more than seven-fold rise in quarterly operating profit and said, per Mediafax, that its memory chip output is booked through 2029. Investors await a US Federal Reserve decision later on Wednesday, widely expected to leave rates unchanged.",
@@ -5624,6 +5910,10 @@
     {
      "name": "Mediafax",
      "url": "https://www.mediafax.ro/economic/actiunile-boeing-s-au-prabusit-cu-aproape-10-compania-rateaza-tintele-de-productie-si-livrare-a-avioanelor-23832822"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/28/boeing-shares-tumble-after-it-releases-cautious-growth-forecast"
     }
    ],
    "summary": "Boeing shares fell 9.6% on Tuesday after the company said it will miss its 2026 production and delivery targets and pushed back its 737 output increase to early 2027; it also reported a wider-than-expected quarterly loss.",
@@ -5994,6 +6284,24 @@
    "title_ro": "Gazele cu efect de seră au atins un nou record în 2025, potrivit ONU",
    "topic": "world",
    "id": "world-greenhouse-record"
+  },
+  {
+   "place": "Southeast Asia",
+   "place_ro": "Asia de Sud-Est",
+   "publishedAt": "2026-10-28T09:10:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/externe/sua/pete-hegseth-propune-un-cadru-ambitios-in-domeniul-apararii-intre-asean-si-sua-urmatorii-ani-vor-fi-de-o-importanta-cruciala-4011803"
+    }
+   ],
+   "summary": "US Defence Secretary Pete Hegseth proposed what he called an ambitious defence cooperation framework between the US and ASEAN countries, saying the coming years will be crucial.",
+   "summary_ro": "Secretarul american al Apărării, Pete Hegseth, a propus un cadru de cooperare în apărare între SUA și statele ASEAN, pe care l-a numit ambițios, spunând că următorii ani vor fi cruciali.",
+   "title": "Hegseth proposes new ASEAN–US defence framework",
+   "title_ro": "Hegseth propune un nou cadru de apărare între ASEAN și SUA",
+   "topic": "security",
+   "id": "world-hegseth-asean"
   },
   {
    "place": "India",
@@ -6378,6 +6686,14 @@
     {
      "name": "TVR Info",
      "url": "https://tvrinfo.ro/mbappe-rade-ca-e-comparat-cu-mao-china-riposteaza-dur-fotbalistul-revine-si-isi-cere-scuze-ce-scrie-ziarul-lequipe/"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/china-nu-rade-kylian-mbappe-pierde-7000000-de-euro-dupa-gluma-despre-mao-zedong-seful-fotbalului-spaniol-intalnire-cu-ambasadorul_3931967"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/video/2026/10/28/maos-meme-comments-wont-cause-serious-economic-problems-for-mbappe-says-expert"
     }
    ],
    "summary": "China's state broadcaster reportedly suspended La Liga matches and games featuring Kylian Mbappé after he joked about Mao Zedong; he has apologised.",
@@ -6774,6 +7090,24 @@
    "id": "world-trump-fraud-reward"
   },
   {
+   "place": "Iran",
+   "place_ro": "Iran",
+   "publishedAt": "2026-10-28T09:00:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/externe/sua/trump-pregateste-noi-bombardamente-asupra-iranului-dupa-alegerile-din-congres-avertismentul-trimis-tarilor-din-golful-persic-4011787"
+    }
+   ],
+   "summary": "Digi24, citing international reports, says US President Donald Trump is preparing new strikes on Iran after the congressional elections and has warned Gulf states.",
+   "summary_ro": "Digi24, citând relatări internaționale, scrie că președintele SUA, Donald Trump, pregătește noi lovituri asupra Iranului după alegerile pentru Congres și a avertizat statele din Golf.",
+   "title": "Trump reportedly readies new Iran strikes after US midterms",
+   "title_ro": "Trump ar pregăti noi bombardamente asupra Iranului după alegerile din SUA",
+   "topic": "security",
+   "id": "world-trump-iran-strikes-plan"
+  },
+  {
    "place": "Mongolia",
    "place_ro": "Mongolia",
    "publishedAt": "2026-10-27T05:00:00Z",
@@ -6794,6 +7128,50 @@
    "title_ro": "FT: Donald Trump Jr. s-a întâlnit cu un om de afaceri rus apropiat de Kremlin",
    "topic": "world",
    "id": "world-trump-jr-ft"
+  },
+  {
+   "place": "United States",
+   "place_ro": "SUA",
+   "publishedAt": "2026-10-28T07:00:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/externe/sua/trump-spune-ca-va-accepta-rezultatul-alegerilor-de-la-jumatatea-mandatului-daca-este-corect-4011661"
+    }
+   ],
+   "summary": "US President Donald Trump said he would accept the outcome of next week’s midterm elections provided the vote is fair.",
+   "summary_ro": "Președintele SUA, Donald Trump, a declarat că va accepta rezultatul alegerilor de la jumătatea mandatului, cu condiția ca votul să fie corect.",
+   "title": "Trump says he will accept midterm results if they are “fair”",
+   "title_ro": "Trump spune că va accepta rezultatul alegerilor intermediare dacă sunt „corecte”",
+   "topic": "politics",
+   "id": "world-trump-midterms-accept"
+  },
+  {
+   "place": "Israel",
+   "place_ro": "Israel",
+   "publishedAt": "2026-10-28T07:30:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/externe/trump-isi-asuma-meritul-pentru-rezultatul-lui-netanyahu-la-alegeri-mesajul-transmis-dupa-scrutinul-strans-din-israel-4011693"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/trump-revendica-victoria-lui-netanyahu-din-alegeri-totul-s-a-intamplat-dupa-sustinerea-presedintelui-trump_3931933"
+    },
+    {
+     "name": "Gândul",
+     "url": "https://www.gandul.ro/international/prima-reactie-a-lui-donald-trump-dupa-alegerile-parlamentare-din-israel-mesajul-bizar-despre-revenirea-spectaculoasa-a-unui-mare-prim-ministru-21047293"
+    }
+   ],
+   "summary": "US President Donald Trump said Benjamin Netanyahu’s gains in Israel’s election came after his endorsement, as counting continued without a clear majority.",
+   "summary_ro": "Președintele SUA, Donald Trump, a afirmat că progresul lui Benjamin Netanyahu în alegerile din Israel a venit după sprijinul său, în timp ce numărătoarea continuă fără o majoritate clară.",
+   "title": "Trump claims credit for Netanyahu’s election showing",
+   "title_ro": "Trump își asumă meritul pentru rezultatul lui Netanyahu la alegeri",
+   "topic": "world",
+   "id": "world-trump-netanyahu-credit"
   },
   {
    "place": "Eastern Pacific",
