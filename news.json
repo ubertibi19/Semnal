@@ -1,6 +1,24 @@
 {
- "lastRun": "2026-10-28T07:42:25Z",
+ "lastRun": "2026-10-28T08:51:43Z",
  "stories": [
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-28T05:58:00Z",
+   "region": "bucharest",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/social/trafic-modificat-pe-autostrada-bucurestiului-restrictii-pentru-soferii-care-circula-spre-constanta-23832802"
+    }
+   ],
+   "summary": "The slip road linking the Bucharest ring motorway A0 to the A2 toward Constanța is closed from 09:00 on 28 October to 12:00 on 29 October for resurfacing, with traffic diverted through the nearby cloverleaf junction, Mediafax reports.",
+   "summary_ro": "Bretea care leagă Autostrada de Centură A0 de A2 spre Constanța este închisă de pe 28 octombrie, ora 09:00, până pe 29 octombrie, ora 12:00, pentru asfaltare, traficul fiind deviat prin nodul rutier din apropiere, relatează Mediafax.",
+   "title": "A0–A2 link ramp toward Constanța closed for 27 hours",
+   "title_ro": "Bretea de legătură A0–A2 spre Constanța, închisă timp de 27 de ore",
+   "topic": "economy",
+   "id": "buc-a0-a2-ramp-closure"
+  },
   {
    "place": "Ilfov",
    "place_ro": "Ilfov",
@@ -472,6 +490,24 @@
    "title_ro": "Danemarca, sceptică după convorbirile Finlandei și Norvegiei cu Putin",
    "topic": "politics",
    "id": "eu-denmark-putin-calls"
+  },
+  {
+   "place": "Denmark",
+   "place_ro": "Danemarca",
+   "publishedAt": "2026-10-28T06:23:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/stiri/international/dialogul-va-prevala-spune-rusia-care-a-invadat-ucraina-putin-transmite-ca-danemarca-merita-sa-piarda-groenlanda.html"
+    }
+   ],
+   "summary": "Kirill Dmitriev, Vladimir Putin's special envoy, wrote on X that Denmark deserves to lose Greenland, responding to Danish PM Mette Frederiksen's criticism of the Finnish and Norwegian leaders' calls with Putin, Știrile ProTV reports, citing TASS and News.ro.",
+   "summary_ro": "Kirill Dmitriev, emisarul special al lui Vladimir Putin, a scris pe X că Danemarca merită să piardă Groenlanda, ca reacție la criticile premierului danez Mette Frederiksen privind convorbirile liderilor finlandez și norvegian cu Putin, relatează Știrile ProTV, citând TASS și News.ro.",
+   "title": "Putin envoy Dmitriev says Denmark 'deserves to lose Greenland'",
+   "title_ro": "Emisarul lui Putin, Dmitriev: Danemarca „merită să piardă Groenlanda”",
+   "topic": "world",
+   "id": "eu-dmitriev-greenland"
   },
   {
    "place": "Paris",
@@ -1460,6 +1496,28 @@
    "id": "eu-trump-norway-nobel"
   },
   {
+   "place": "Ukraine",
+   "place_ro": "Ucraina",
+   "publishedAt": "2026-10-28T06:35:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/externe/trump-anunta-ca-o-intalnire-putin-zelenski-va-fi-organizata-foarte-curand-cred-ca-vom-face-progrese-mari-4011623"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/28/after-months-dithering-europe-shows-its-ready-for-talks-with-russia"
+    }
+   ],
+   "summary": "Donald Trump said on Wednesday that a meeting between Vladimir Putin and Volodymyr Zelensky will take place soon and that he expects major progress, Digi24 reports. Euronews reports the European Commission and Council are preparing a joint delegation for multilateral talks expected in Abu Dhabi in early November.",
+   "summary_ro": "Donald Trump a declarat miercuri că o întâlnire între Vladimir Putin și Volodimir Zelenski va avea loc în curând și că se așteaptă la progrese mari, relatează Digi24. Euronews scrie că Comisia și Consiliul European pregătesc o delegație comună pentru negocierile multilaterale așteptate la Abu Dhabi la începutul lui noiembrie.",
+   "title": "Trump says Putin–Zelensky meeting will happen very soon",
+   "title_ro": "Trump spune că o întâlnire Putin–Zelenski va avea loc foarte curând",
+   "topic": "world",
+   "id": "eu-trump-putin-zelensky-meeting"
+  },
+  {
    "place": "United Kingdom",
    "place_ro": "Marea Britanie",
    "publishedAt": "2026-10-27T21:10:00Z",
@@ -1676,6 +1734,10 @@
     {
      "name": "Știri pe surse",
      "url": "https://www.stiripesurse.ro/zelenski-armata-ucraineana-recupereaza-teritorii-operatiuni-veles-vivaldi_3931899"
+    },
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/externe/zelenski-afirma-ca-ucraina-a-recucerit-teritorii-si-ca-fortele-sale-sunt-in-ofensiva-23832735"
     }
    ],
    "summary": "Volodymyr Zelensky said in an evening address that Ukraine's position on the front is the most favourable in a long time and could improve further if partners quickly send air defence, Reuters reports via Știri pe surse. He described operations near Kupiansk and in the north aimed at stopping Russian advances.",
@@ -1906,6 +1968,24 @@
    "id": "pol-aur-piperea-bucharest"
   },
   {
+   "place": "Alba Iulia",
+   "place_ro": "Alba Iulia",
+   "publishedAt": "2026-10-27T23:26:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/politic/cea-de-a-doua-unire-proiect-propus-de-aur-ce-va-fi-prezentat-la-alba-iulia-in-1-decembrie-23832716"
+    }
+   ],
+   "summary": "AUR Senate leader Petrișor Peiu said the party will present a policy document called 'The Second Union' in Alba Iulia on 1 December, aimed at narrowing regional gaps and improving transport, energy, education and connectivity, Mediafax reports.",
+   "summary_ro": "Liderul senatorilor AUR, Petrișor Peiu, a anunțat că partidul va prezenta la Alba Iulia, pe 1 Decembrie, un document programatic intitulat „Cea de-a doua Unire”, care vizează reducerea decalajelor regionale și îmbunătățirea transportului, energiei, educației și conectivității, relatează Mediafax.",
+   "title": "AUR to present 'Second Union' regional development plan on 1 December",
+   "title_ro": "AUR va prezenta pe 1 Decembrie proiectul „A doua Unire” pentru dezvoltare regională",
+   "topic": "politics",
+   "id": "pol-aur-second-union"
+  },
+  {
    "place": "Romania",
    "place_ro": "România",
    "publishedAt": "2026-10-27T06:00:00Z",
@@ -1922,6 +2002,24 @@
    "title_ro": "Băsescu avertizează că o măsură fiscală pe locuințe poate aduce proteste",
    "topic": "politics",
    "id": "pol-basescu-property-tax"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-28T05:41:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/economic/plata-rovinietei-ar-putea-fi-eliminata-pentru-o-categorie-de-vehicule-ce-schimbari-sunt-propuse-23832771"
+    }
+   ],
+   "summary": "A group of 31 UDMR, PSD, PNL and USR lawmakers proposed exempting from the road vignette vehicles used only to move beehives, if approved for that purpose by the Romanian Auto Registry, Mediafax reports. The Economic and Social Council gave a negative advisory opinion because the bill amends a repealed ordinance.",
+   "summary_ro": "Un grup de 31 de parlamentari UDMR, PSD, PNL și USR propune scutirea de rovinietă a vehiculelor folosite exclusiv pentru transportul stupilor, dacă sunt omologate în acest scop de RAR, relatează Mediafax. Consiliul Economic și Social a dat aviz consultativ negativ, deoarece proiectul modifică o ordonanță abrogată.",
+   "title": "Cross-party MPs propose vignette exemption for beehive transport vehicles",
+   "title_ro": "Parlamentari din mai multe partide propun scutirea de rovinietă pentru vehiculele care transportă stupi",
+   "topic": "politics",
+   "id": "pol-beekeepers-vignette"
   },
   {
    "place": "Romania",
@@ -2590,10 +2688,14 @@
     {
      "name": "G4Media",
      "url": "https://www.g4media.ro/curtea-de-apel-bucuresti-ar-urma-sa-judece-contestatia-diicot-pentru-prelungirea-arestului-preventiv-al-lui-calin-georgescu-cele-30-de-zile-expira-la-miezul-noptii.html"
+    },
+    {
+     "name": "Capital",
+     "url": "https://www.capital.ro/calin-georgescu-afla-astazi-daca-scapa-de-arest-decizia-curtii-de-apel-bucuresti-va-fi-definitiva.html"
     }
    ],
-   "summary": "The Bucharest Tribunal refused DIICOT's request to extend Călin Georgescu's pretrial detention in the fraud case and ordered judicial control; DIICOT appealed. G4Media reports the Bucharest Court of Appeal was expected to rule on Wednesday, before the current 30-day arrest warrant expires at midnight, though the file had not reached the court by Wednesday morning.",
-   "summary_ro": "Tribunalul București a respins cererea DIICOT de prelungire a arestului preventiv al lui Călin Georgescu în dosarul de înșelăciune și a dispus control judiciar; DIICOT a făcut contestație. G4Media relatează că Curtea de Apel București ar urma să decidă miercuri, înainte ca actualul mandat de 30 de zile să expire la miezul nopții, deși dosarul nu ajunsese la instanță miercuri dimineață.",
+   "summary": "The Bucharest Tribunal refused DIICOT's request to extend Călin Georgescu's pretrial detention in the fraud case and ordered 60 days of judicial control; DIICOT appealed. Capital and G4Media report the Bucharest Court of Appeal is due to give a final ruling on Wednesday, before the current 30-day arrest warrant expires at midnight.",
+   "summary_ro": "Tribunalul București a respins cererea DIICOT de prelungire a arestului preventiv al lui Călin Georgescu în dosarul de fraudă și a dispus control judiciar pentru 60 de zile; DIICOT a contestat. Potrivit Capital și G4Media, Curtea de Apel București urmează să pronunțe miercuri o decizie definitivă, înainte ca mandatul de arestare de 30 de zile să expire la miezul nopții.",
    "title": "Court rejects longer arrest for Georgescu; prosecutors appeal",
    "title_ro": "Tribunalul refuză prelungirea arestului lui Georgescu; DIICOT contestă",
    "topic": "politics",
@@ -3060,8 +3162,8 @@
      "url": "https://www.gandul.ro/actualitate/luca-niculescu-promite-din-nou-ca-nu-vor-creste-taxele-si-lauda-investitiile-romanesti-din-republica-moldova-21046256"
     }
    ],
-   "summary": "Prime Minister Luca Niculescu said his government will cut waste rather than raise taxes. AUR says the government is preparing new tax increases anyway.",
-   "summary_ro": "Premierul Luca Niculescu a spus că Guvernul va reduce risipa în loc să crească taxele. AUR susține că Executivul pregătește totuși noi majorări de impozite.",
+   "summary": "Prime Minister Luca Niculescu said his government will cut waste rather than raise taxes; asked late Tuesday about 2027, he told Gândul the strong wish is not to burden Romanians with new taxes but that he would give a precise answer once budget execution data and 2027 figures are available. AUR says the government is preparing new tax increases anyway.",
+   "summary_ro": "Premierul Luca Niculescu a spus că guvernul va reduce risipa în loc să crească taxele; întrebat marți seară despre 2027, a declarat pentru Gândul că dorința fermă este să nu împovăreze românii cu noi taxe, dar că va da un răspuns precis după ce va avea datele de execuție bugetară și cifrele pentru 2027. AUR susține că guvernul pregătește oricum noi creșteri de taxe.",
    "title": "PM Niculescu promises spending cuts and no tax rises",
    "title_ro": "Premierul Niculescu promite reduceri de cheltuieli și fără taxe noi",
    "topic": "politics",
@@ -3266,6 +3368,24 @@
    "title_ro": "Analiză: bilanțul primelor șase luni ale noilor procurori-șefi",
    "topic": "politics",
    "id": "pol-prosecutors-six-months"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-28T06:04:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/social/pensii-provizorii-pentru-romanii-care-au-lucrat-in-strainatate-in-ce-conditii-ar-putea-fi-acordate-23832795"
+    }
+   ],
+   "summary": "A bill submitted to the Senate would require pension offices to issue provisional pension decisions when available documents prove entitlement, and to decide within 45 days of receiving data from foreign institutions, Mediafax reports. The Economic and Social Council backed it with observations; public consultation runs until 6 November.",
+   "summary_ro": "Un proiect depus la Senat ar obliga casele de pensii să emită decizii provizorii atunci când documentele disponibile dovedesc dreptul la pensie și să decidă în 45 de zile de la primirea datelor de la instituțiile străine, relatează Mediafax. Consiliul Economic și Social l-a avizat favorabil, cu observații; consultarea publică durează până pe 6 noiembrie.",
+   "title": "Senate bill would grant provisional pensions to those who worked abroad",
+   "title_ro": "Un proiect din Senat ar acorda pensii provizorii celor care au lucrat în străinătate",
+   "topic": "politics",
+   "id": "pol-provisional-pensions-abroad"
   },
   {
    "place": "Bucharest",
@@ -3666,6 +3786,10 @@
     {
      "name": "B1 TV",
      "url": "https://www.b1tv.ro/politica/george-simion-il-considera-pe-calin-georgescu-detinut-politic-1744689.html"
+    },
+    {
+     "name": "HotNews",
+     "url": "https://hotnews.ro/george-simion-despre-calin-georgescu-este-detinut-politic-liderul-aur-spune-cum-i-a-internationalizat-situatia-2388335"
     }
    ],
    "summary": "AUR leader George Simion said at a briefing that he considers Călin Georgescu a political prisoner and that AUR has travelled abroad to raise the case internationally. He also said he faces a campaign against him on TikTok.",
@@ -5224,6 +5348,32 @@
    "id": "ro-timisoara-police-trial"
   },
   {
+   "place": "Iași",
+   "place_ro": "Iași",
+   "publishedAt": "2026-10-28T06:59:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "HotNews",
+     "url": "https://hotnews.ro/alexandru-toader-a-fost-scos-din-arestul-ipj-iasi-si-dus-la-cabinetul-sau-notarial-2388390"
+    },
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/video-alexandru-toader-scos-din-arestul-ipj-iasi-pentru-a-participa-la-perchezitii-la-cabinetul-notarial-si-biroul-de-la-universitate.html"
+    },
+    {
+     "name": "TVR Info",
+     "url": "https://tvrinfo.ro/imagini-cu-alexandru-toader-in-catuse-la-perchezitiile-de-la-cabinetul-notarial/"
+    }
+   ],
+   "summary": "Alexandru Toader, the Iași law lecturer held in pretrial detention since 24 October on rape and sexual assault charges, was brought from police custody to searches at his notary office and at a university office he shares with his father, former justice minister Tudorel Toader, HotNews and G4Media report. He has declined to give a statement.",
+   "summary_ro": "Alexandru Toader, lectorul de la Drept Iași aflat în arest preventiv din 24 octombrie pentru viol și agresiune sexuală, a fost adus din arestul poliției la percheziții la biroul său notarial și la un birou din universitate pe care îl împarte cu tatăl său, fostul ministru al Justiției Tudorel Toader, relatează HotNews și G4Media. El a refuzat să dea declarații.",
+   "title": "Arrested Iași lecturer Alexandru Toader taken to searches at his notary office",
+   "title_ro": "Lectorul ieșean arestat Alexandru Toader, dus la percheziții la biroul notarial",
+   "topic": "politics",
+   "id": "ro-toader-searches"
+  },
+  {
    "place": "Făgăraș Mountains",
    "place_ro": "Munții Făgăraș",
    "publishedAt": "2026-10-27T09:00:00Z",
@@ -5430,10 +5580,18 @@
     {
      "name": "Reuters",
      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-ai-lift-dollar-holds-014425181.html"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/28/global-stock-markets-rise-as-investors-continue-to-bet-on-ai"
+    },
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/economic/cererea-pentru-cipurile-ai-este-de-doua-ori-mai-mare-decat-oferta-toate-cipurile-pentru-inteligenta-artificiala-sunt-deja-rezervate-pana-in-2029-23832778"
     }
    ],
-   "summary": "South Korea's Kospi jumped more than 3% after SK Hynix reported a more than seven-fold rise in quarterly operating profit, Reuters reports. Investors await a US Federal Reserve decision later on Wednesday, widely expected to leave rates unchanged, while the dollar held near a two-week high.",
-   "summary_ro": "Indicele Kospi din Coreea de Sud a urcat cu peste 3% după ce SK Hynix a raportat un profit operațional trimestrial de peste șapte ori mai mare, relatează Reuters. Investitorii așteaptă decizia Rezervei Federale americane de miercuri, care ar urma să mențină dobânzile, iar dolarul a rămas aproape de un maxim de două săptămâni.",
+   "summary": "South Korea's Kospi rose sharply, up 5.8% according to Al Jazeera, after SK Hynix reported a more than seven-fold rise in quarterly operating profit and said, per Mediafax, that its memory chip output is booked through 2029. Investors await a US Federal Reserve decision later on Wednesday, widely expected to leave rates unchanged.",
+   "summary_ro": "Bursa sud-coreeană Kospi a crescut puternic, cu 5,8% potrivit Al Jazeera, după ce SK Hynix a raportat un profit operațional trimestrial de peste șapte ori mai mare și a anunțat, potrivit Mediafax, că producția sa de cipuri de memorie este rezervată până în 2029. Investitorii așteaptă decizia Rezervei Federale a SUA de miercuri, care ar urma să lase dobânzile neschimbate.",
    "title": "Asian stocks rise on AI hopes as SK Hynix profit soars before Fed",
    "title_ro": "Bursele asiatice cresc pe fondul AI, după profitul record al SK Hynix",
    "topic": "economy",
@@ -5576,6 +5734,28 @@
    "title_ro": "Fostul director FBI James Comey, pus sub acuzare pentru a treia oară",
    "topic": "world",
    "id": "world-comey-charges"
+  },
+  {
+   "place": "New York",
+   "place_ro": "New York",
+   "publishedAt": "2026-10-28T06:42:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/life-inedit/473-milioane-de-dolari-pentru-un-schelet-de-dinozaur-jodi-a-devenit-al-doilea-cel-mai-scump-exemplar-din-lume-23832827"
+    },
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/stiri/international/un-schelet-rar-de-nanotyrannus-s-a-vandut-cu-47-3-milioane-de-dolari-la-o-licita-ie-din-new-york-video.html"
+    }
+   ],
+   "summary": "A rare Nanotyrannus skeleton sold for $47.3 million at a New York auction, the second-highest price ever paid for a dinosaur specimen, Mediafax and Știrile ProTV report.",
+   "summary_ro": "Un schelet rar de Nanotyrannus a fost vândut cu 47,3 milioane de dolari la o licitație din New York, al doilea cel mai mare preț plătit vreodată pentru un dinozaur, relatează Mediafax și Știrile ProTV.",
+   "title": "Rare Nanotyrannus skeleton sells for $47.3 million in New York",
+   "title_ro": "Un schelet rar de Nanotyrannus, vândut cu 47,3 milioane de dolari la New York",
+   "topic": "culture",
+   "id": "world-dinosaur-auction"
   },
   {
    "place": "DR Congo",
@@ -5762,14 +5942,40 @@
     {
      "name": "Știri pe surse",
      "url": "https://www.stiripesurse.ro/flavio-bolsonaro-candidatul-invins-la-prezidentiale-din-brazilia-a-parasit-de-urgenta-tara-si-a-aterizat-in-florida_3931907"
+    },
+    {
+     "name": "HotNews",
+     "url": "https://hotnews.ro/flavio-bolsonaro-a-ajuns-in-sua-dupa-ce-brazilia-i-a-anulat-pasapoartele-2388290"
+    },
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/stiri/international/flavio-bolsonaro-ar-fi-fugit-din-brazilia-dupa-ce-a-pierdut-alegerile-prezidentiale-si-ar-intentiona-sa-ceara-azil-in-sua.html"
     }
    ],
-   "summary": "Flávio Bolsonaro, who lost Brazil's presidential runoff, is reported to have left for the United States after a court ordered him to hand over his passport; a US State Department official said visas will be granted to him and his family.",
-   "summary_ro": "Flávio Bolsonaro, învins în turul doi al alegerilor prezidențiale din Brazilia, ar fi plecat în SUA după ce o instanță i-a cerut să-și predea pașaportul; un oficial al Departamentului de Stat a spus că el și familia sa vor primi vize.",
-   "title": "Brazil cancels Flávio Bolsonaro's passports; he may have left",
-   "title_ro": "Brazilia anulează pașapoartele lui Flávio Bolsonaro, care ar fi plecat din țară",
+   "summary": "Flávio Bolsonaro, who lost Brazil's presidential runoff, is reported to have reached the United States after police cancelled his passports over a court order to surrender them; the US State Department says visas will be issued to him and his family. Argentine officials deny he passed through Puerto Iguazú, and Brazil's Federal Police has asked Argentina for information, HotNews reports.",
+   "summary_ro": "Flávio Bolsonaro, învins în turul doi al alegerilor prezidențiale din Brazilia, ar fi ajuns în Statele Unite după ce poliția i-a anulat pașapoartele, pe care instanța îi ceruse să le predea; Departamentul de Stat al SUA spune că el și familia sa vor primi vize. Oficialii argentinieni neagă că ar fi trecut prin Puerto Iguazú, iar Poliția Federală braziliană a cerut informații Argentinei, relatează HotNews.",
+   "title": "Flávio Bolsonaro reportedly reaches US after Brazil cancels his passports",
+   "title_ro": "Flávio Bolsonaro ar fi ajuns în SUA după ce Brazilia i-a anulat pașapoartele",
    "topic": "politics",
    "id": "world-flavio-bolsonaro-passports"
+  },
+  {
+   "place": "Gaza",
+   "place_ro": "Gaza",
+   "publishedAt": "2026-10-28T05:22:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/externe/doi-morti-si-cinci-raniti-dupa-atacuri-israeliene-in-gaza-peste-74-000-de-palestinieni-morti-in-razboiul-inceput-in-urma-cu-3-ani-23832776"
+    }
+   ],
+   "summary": "Israeli attacks in Jabalia, al-Mawasi and Khan Younis killed two Palestinians and wounded five on Tuesday, Mediafax reports, citing medical sources and Anadolu. More than 74,000 Palestinians have been killed since the war began in October 2023, according to the same sources.",
+   "summary_ro": "Atacuri israeliene în Jabalia, al-Mawasi și Khan Younis au ucis doi palestinieni și au rănit cinci marți, relatează Mediafax, citând surse medicale și Anadolu. Peste 74.000 de palestinieni au fost uciși de la începutul războiului, în octombrie 2023, potrivit acelorași surse.",
+   "title": "Israeli strikes kill two and wound five across Gaza",
+   "title_ro": "Atacuri israeliene în Gaza soldate cu doi morți și cinci răniți",
+   "topic": "security",
+   "id": "world-gaza-strikes-oct27"
   },
   {
    "place": "Geneva",
@@ -5788,6 +5994,24 @@
    "title_ro": "Gazele cu efect de seră au atins un nou record în 2025, potrivit ONU",
    "topic": "world",
    "id": "world-greenhouse-record"
+  },
+  {
+   "place": "India",
+   "place_ro": "India",
+   "publishedAt": "2026-10-28T05:38:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/externe/in-1999-un-ciclon-similar-a-ucis-10-000-de-oameni-cum-s-a-pregatit-india-pentru-ciclonul-arnab-23832785"
+    }
+   ],
+   "summary": "Cyclone Arnab struck India's east coast on Wednesday morning, hitting Andhra Pradesh and Odisha after authorities evacuated more than 180,000 people, Mediafax reports, citing Reuters.",
+   "summary_ro": "Ciclonul Arnab a ajuns miercuri dimineață pe coasta de est a Indiei, afectând Andhra Pradesh și Odisha, după ce autoritățile au evacuat peste 180.000 de oameni, relatează Mediafax, citând Reuters.",
+   "title": "Cyclone Arnab makes landfall in India after 180,000 evacuated",
+   "title_ro": "Ciclonul Arnab a lovit India după evacuarea a 180.000 de oameni",
+   "topic": "world",
+   "id": "world-india-cyclone-arnab"
   },
   {
    "place": "India",
@@ -5878,6 +6102,24 @@
    "title_ro": "Iranul spune că SUA nu sunt serioase în privința negocierilor",
    "topic": "world",
    "id": "world-iran-us-talks"
+  },
+  {
+   "place": "United States",
+   "place_ro": "Statele Unite",
+   "publishedAt": "2026-10-28T04:24:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/externe/razboiul-cu-iranul-a-costat-sua-peste-47-de-miliarde-de-dolari-pentagonul-estimeaza-pierderi-uriase-iar-nota-de-plata-ar-putea-creste-23832755"
+    }
+   ],
+   "summary": "Internal Pentagon data puts the cost of the US war with Iran at more than $47 billion, over a quarter above the July estimate of $37.5 billion, Mediafax reports, citing Reuters. The figure may not include repairs to bases damaged by Iranian strikes.",
+   "summary_ro": "Date interne ale Pentagonului arată că războiul SUA cu Iranul a costat peste 47 de miliarde de dolari, cu peste un sfert mai mult decât estimarea din iulie, de 37,5 miliarde, relatează Mediafax, citând Reuters. Suma s-ar putea să nu includă reparațiile bazelor lovite de Iran.",
+   "title": "Pentagon data puts US cost of Iran war above $47 billion",
+   "title_ro": "Date ale Pentagonului: războiul cu Iranul a costat SUA peste 47 de miliarde de dolari",
+   "topic": "security",
+   "id": "world-iran-war-cost"
   },
   {
    "place": "Iraq",
@@ -5976,10 +6218,14 @@
     {
      "name": "G4Media",
      "url": "https://www.g4media.ro/alegeri-cruciale-in-israel-record-de-participare-in-ultimii-53-de-ani-scrutinul-e-centrat-pe-persoana-lui-netanyahu-blocul-yashar-al-lui-eisenkot-acuza-o-incercare-sistematica-d.html"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-28/israeli-vote-too-close-to-call-between-netanyahu-and-eisenkot"
     }
    ],
-   "summary": "Exit polls cited by Al Jazeera and HotNews give neither Benjamin Netanyahu's bloc nor Gadi Eisenkot's opposition the 61 seats needed, with Likud the largest party and Arab parties set for a record of about 17–19 seats. Turnout was 77.7%, the highest since 1999; preliminary official results were expected Wednesday and final results on 4 November.",
-   "summary_ro": "Exit-poll-urile citate de Al Jazeera și HotNews nu dau nici blocului lui Benjamin Netanyahu, nici opoziției lui Gadi Eisenkot cele 61 de mandate necesare; Likud rămâne cel mai mare partid, iar partidele arabe ar obține un record de circa 17–19 mandate. Prezența a fost de 77,7%, cea mai mare din 1999; rezultatele oficiale preliminare erau așteptate miercuri, iar cele finale pe 4 noiembrie.",
+   "summary": "Updated exit-poll projections cited by Al Jazeera show Benjamin Netanyahu's bloc and Gadi Eisenkot's opposition tied at about 51 seats each on Channel 13, both short of the 61 needed, with Likud the largest party and Arab parties projected at about 18–19 seats. Bloomberg calls the vote too close to call; turnout was 77.7%, preliminary official results are expected Wednesday and final results on 4 November.",
+   "summary_ro": "Proiecțiile actualizate ale exit-poll-urilor citate de Al Jazeera arată blocul lui Benjamin Netanyahu și opoziția lui Gadi Eisenkot la egalitate, cu circa 51 de mandate fiecare pe Canal 13, ambele sub pragul de 61, Likud fiind cel mai mare partid, iar partidele arabe estimate la 18–19 mandate. Bloomberg descrie votul ca fiind prea strâns pentru a desemna un câștigător; prezența a fost de 77,7%, rezultatele oficiale preliminare sunt așteptate miercuri, iar cele finale pe 4 noiembrie.",
    "title": "Israel election ends in deadlock as counting continues",
    "title_ro": "Alegerile din Israel se încheie fără majoritate clară; numărarea continuă",
    "topic": "politics",
@@ -5993,13 +6239,13 @@
    "sources": [
     {
      "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/26/jordan-launches-air-strikes-in-syria-in-response-to-a-fatal-church-shooting"
+     "url": "https://www.aljazeera.com/news/2026/10/28/syria-jordan-border-reopens-amid-probe-into-deadly-airstrikes"
     }
    ],
-   "summary": "Jordan launched air strikes in Syria in response to a fatal shooting at a church, killing at least seven people, Al Jazeera reports.",
-   "summary_ro": "Iordania a lansat atacuri aeriene în Siria ca răspuns la un atac armat mortal la o biserică, iar cel puțin șapte persoane au fost ucise, relatează Al Jazeera.",
-   "title": "Jordan strikes Syria after deadly church attack",
-   "title_ro": "Iordania lovește Siria după un atac mortal la o biserică",
+   "summary": "Syria reopened the Nassib crossing with Jordan on Wednesday after a brief closure following Jordanian air strikes on suspected ISIL sites that killed at least seven people, Al Jazeera reports. Jordan said the strikes answered a deadly church shooting in Karak; the two countries agreed to set up a joint security committee.",
+   "summary_ro": "Siria a redeschis miercuri punctul de trecere Nassib cu Iordania, după o scurtă închidere ce a urmat loviturilor aeriene iordaniene asupra unor presupuse ținte ISIL, în care au murit cel puțin șapte oameni, relatează Al Jazeera. Iordania a spus că loviturile au fost un răspuns la atacul armat mortal de la o biserică din Karak; cele două țări au convenit să formeze un comitet comun de securitate.",
+   "title": "Syria-Jordan border reopens after deadly Jordanian air strikes",
+   "title_ro": "Granița Siria–Iordania se redeschide după loviturile aeriene iordaniene soldate cu morți",
    "topic": "world",
    "id": "world-jordan-syria-strikes"
   },
@@ -6180,6 +6426,24 @@
    "title_ro": "Un membru al familiei princiare din Monaco, găsit mort; un bărbat reținut",
    "topic": "world",
    "id": "world-monaco-de-massy"
+  },
+  {
+   "place": "United States",
+   "place_ro": "Statele Unite",
+   "publishedAt": "2026-10-28T06:20:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/life-inedit/nasa-schimba-planul-pentru-intoarcerea-oamenilor-pe-luna-in-2028-elon-musk-si-jeff-bezos-pregatesc-doua-solutii-diferite-23832799"
+    }
+   ],
+   "summary": "NASA has revised its plan for returning astronauts to the Moon in 2028, with SpaceX and Blue Origin preparing different lander approaches, Mediafax reports.",
+   "summary_ro": "NASA și-a revizuit planul pentru întoarcerea astronauților pe Lună în 2028, iar SpaceX și Blue Origin pregătesc soluții diferite de aselenizare, relatează Mediafax.",
+   "title": "NASA changes plan for 2028 crewed return to the Moon",
+   "title_ro": "NASA își schimbă planul pentru întoarcerea oamenilor pe Lună în 2028",
+   "topic": "tech",
+   "id": "world-nasa-moon-plan"
   },
   {
    "place": "Nigeria",
@@ -6402,6 +6666,24 @@
    "title_ro": "Un atac cu dronă asupra unei piețe din Nyala, Sudan, ucide cel puțin 21 de oameni",
    "topic": "security",
    "id": "world-sudan-nyala-drone"
+  },
+  {
+   "place": "Australia",
+   "place_ro": "Australia",
+   "publishedAt": "2026-10-28T07:11:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/stirile-zilei/amenda-de-260-de-milioane-de-dolari-pentru-un-cazino-dupa-ce-ar-fi-inchis-ochii-la-o-posibila-spalare-de-bani-compania-sustine-ca-amenda-o-va-trimite-in-lichidare-23832850"
+    }
+   ],
+   "summary": "Australia's Federal Court fined a listed Sydney casino operator 260 million dollars, four years after the country's financial intelligence agency sued it over failures to guard against possible money laundering, Mediafax reports. The company says the penalty would push it into liquidation.",
+   "summary_ro": "Curtea Federală a Australiei a amendat cu 260 de milioane de dolari un operator de cazinou listat din Sydney, la patru ani după ce agenția de informații financiare l-a dat în judecată pentru lipsa măsurilor împotriva unei posibile spălări de bani, relatează Mediafax. Compania spune că amenda o va împinge în lichidare.",
+   "title": "Australian court fines Sydney casino operator $260 million over money laundering",
+   "title_ro": "Un tribunal australian amendează cu 260 de milioane de dolari un operator de cazinou din Sydney",
+   "topic": "economy",
+   "id": "world-sydney-casino-fine"
   },
   {
    "place": "Tanzania",
