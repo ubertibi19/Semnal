@@ -1,5 +1,5 @@
 {
- "lastRun": "2026-10-28T17:12:13Z",
+ "lastRun": "2026-10-28T18:07:10Z",
  "stories": [
   {
    "place": "Bucharest",
@@ -532,6 +532,10 @@
     {
      "name": "Agerpres",
      "url": "https://agerpres.ro/politic/2026/10/28/radu-oprea-condamn-cu-fermitate-atacurile-repetate-cu-drone-asupra-navelor-comerciale-din-marea-neag--1607727"
+    },
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/stiri/actualitate/romania-bulgaria-si-turcia-condamna-atacurile-cu-drone-asupra-navelor-comerciale-din-marea-neagra.html"
     }
    ],
    "summary": "Meeting in Sofia, the defence ministers of Romania, Bulgaria and Turkey agreed to deepen maritime information sharing and coordinate their naval forces within national mandates. Romania's Ștefan-Radu Oprea condemned the drone attacks on merchant ships as a serious escalation and called for stronger NATO support for drone surveillance.",
@@ -540,6 +544,24 @@
    "title_ro": "România, Bulgaria și Turcia convin o coordonare mai strânsă la Marea Neagră după atacurile cu drone",
    "topic": "security",
    "id": "eu-black-sea-trilateral-sofia"
+  },
+  {
+   "place": "Bulgaria",
+   "place_ro": "Bulgaria",
+   "publishedAt": "2026-10-28T17:26:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/stiri/international/accident-grav-in-bulgaria-doi-soferi-de-camion-au-murit-iar-un-autocar-cu-36-de-turisti-romani-a-luat-foc.html"
+    }
+   ],
+   "summary": "Two truck drivers died in a head-on collision on the Ruse–Sofia road, and a bus carrying 36 Romanian tourists from Bucharest to Thessaloniki hit the burning trucks and caught fire. Passengers escaped by breaking windows; the report did not say whether any were hurt.",
+   "summary_ro": "Doi șoferi de camion au murit într-o coliziune frontală pe drumul Ruse–Sofia, iar un autocar cu 36 de turiști români care mergeau de la București la Salonic a lovit camioanele în flăcări și a luat foc. Pasagerii au ieșit spărgând geamurile; relatarea nu precizează dacă au fost răniți.",
+   "title": "Bus with 36 Romanian tourists catches fire after truck crash in Bulgaria",
+   "title_ro": "Autocar cu 36 de turiști români, cuprins de flăcări după un accident în Bulgaria",
+   "topic": "security",
+   "id": "eu-bulgaria-bus-romanian-tourists"
   },
   {
    "place": "Brussels",
@@ -780,6 +802,28 @@
    "title_ro": "Cererea de credite ipotecare din zona euro a scăzut puternic, arată un sondaj BCE",
    "topic": "economy",
    "id": "eu-eurozone-mortgages"
+  },
+  {
+   "place": "France",
+   "place_ro": "Franța",
+   "publishedAt": "2026-10-28T14:29:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic-extern/2026/10/28/franta-guvernul-respinge-cererile-de-schimbare-a-datei-alegerilor-prezidentiale-din-2027-din-cauza-p--1607768"
+    },
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/guvernul-francez-respinge-cererile-de-schimbare-a-datei-alegerilor-prezidentiale-din-2027-din-cauza-protestelor.html"
+    }
+   ],
+   "summary": "Government spokesperson Maud Bregeon said there is no reason to change the 18 April and 2 May 2027 voting dates, rejecting requests from Republicans leader Bruno Retailleau and some National Rally figures who cited the risk of unrest around 1 May.",
+   "summary_ro": "Purtătoarea de cuvânt a guvernului, Maud Bregeon, a spus că nu există motive pentru schimbarea datelor de vot din 18 aprilie și 2 mai 2027, respingând cererile liderului Republicanilor, Bruno Retailleau, și ale unor lideri ai Adunării Naționale, care invocau riscul de violențe în jurul zilei de 1 Mai.",
+   "title": "France refuses to move 2027 presidential election dates over protests",
+   "title_ro": "Franța refuză să mute datele alegerilor prezidențiale din 2027 din cauza protestelor",
+   "topic": "politics",
+   "id": "eu-france-election-dates"
   },
   {
    "place": "France",
@@ -2114,6 +2158,28 @@
    "id": "eu-uk-free-movement"
   },
   {
+   "place": "United Kingdom",
+   "place_ro": "Regatul Unit",
+   "publishedAt": "2026-10-28T12:30:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-28/uk-to-raise-bank-surcharge-to-6-from-existing-3"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/28/burnhams-government-unveils-its-first-uk-budget-what-to-expect"
+    }
+   ],
+   "summary": "Chancellor John Healey presented the Burnham government's first budget, raising the bank profit surcharge to 6% from 3%, Bloomberg reports. Al Jazeera said the budget was expected to fund defence plans, target VAT avoidance by overseas online sellers and help households with energy bills.",
+   "summary_ro": "Ministrul de Finanțe John Healey a prezentat primul buget al guvernului Burnham, care majorează suprataxa pe profiturile băncilor de la 3% la 6%, relatează Bloomberg. Al Jazeera a scris că bugetul urma să finanțeze planurile de apărare, să vizeze evitarea TVA de către vânzătorii online străini și să ajute gospodăriile la facturile la energie.",
+   "title": "UK raises bank surcharge in Healey's first budget",
+   "title_ro": "Marea Britanie majorează suprataxa pe bănci în primul buget al lui Healey",
+   "topic": "economy",
+   "id": "eu-uk-healey-budget"
+  },
+  {
    "place": "Warsaw",
    "place_ro": "Varșovia",
    "publishedAt": "2026-10-27T14:24:00Z",
@@ -2178,6 +2244,44 @@
    "title_ro": "Ucraina cere cinci aliați europeni o parte din stocurile de rachete interceptoare",
    "topic": "security",
    "id": "eu-ukraine-patriot-request"
+  },
+  {
+   "place": "Ukraine",
+   "place_ro": "Ucraina",
+   "publishedAt": "2026-10-28T16:19:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/externe/cand-ar-putea-avea-loc-trilaterala-ucraina-sua-rusia-zelenski-speram-ca-escaladarea-din-orientul-mijlociu-sa-nu-o-impiedice-4012737"
+    },
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/stiri/international/zelenski-spera-ca-negocierile-trilaterale-ucraina-sua-rusia-sa-aiba-loc-la-abu-dhabi-pana-pe-10-noiembrie-kremlinul-exclude-europenii-de-la-discutii.html"
+    },
+    {
+     "name": "News.ro",
+     "url": "https://www.news.ro/externe/zelenski-ne-asteptam-ca-intalnirea-trilaterala-cu-sua-si-rusia-sa-aiba-loc-in-jur-de-10-noiembrie-kremlinul-transmite-ca-europenii-nu-sunt-invitati-1922401028282026101822898483"
+    },
+    {
+     "name": "HotNews",
+     "url": "https://hotnews.ro/kremlinul-exclude-participarea-europenilor-la-negocierile-cu-ucraina-pot-participa-daca-isi-cumpara-bilete-2389167"
+    },
+    {
+     "name": "TVR Info",
+     "url": "https://tvrinfo.ro/kremlinul-exclude-o-prezenta-europeana-in-negocierile-cu-ucraina-si-sua-de-la-abu-dhabi/"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/28/after-months-dithering-europe-shows-its-ready-for-talks-with-russia"
+    }
+   ],
+   "summary": "Volodymyr Zelensky said Ukraine hopes a trilateral meeting with the US and Russia will take place in Abu Dhabi by 10 November, covering an energy ceasefire, maritime issues and prisoner exchanges. Kremlin adviser Yuri Ushakov said European participation was not agreed and did not confirm the date.",
+   "summary_ro": "Volodimir Zelenski a spus că Ucraina speră ca o întâlnire trilaterală cu SUA și Rusia să aibă loc la Abu Dhabi până pe 10 noiembrie, cu teme precum armistițiul energetic, chestiunile maritime și schimburile de prizonieri. Consilierul Kremlinului Iuri Ușakov a spus că participarea europenilor nu a fost convenită și nu a confirmat data.",
+   "title": "Zelensky hopes for Ukraine–US–Russia talks in Abu Dhabi by 10 November",
+   "title_ro": "Zelenski speră la negocieri Ucraina–SUA–Rusia la Abu Dhabi până pe 10 noiembrie",
+   "topic": "world",
+   "id": "eu-ukraine-trilateral-abu-dhabi"
   },
   {
    "place": "Ukraine",
@@ -2352,6 +2456,14 @@
     {
      "name": "Agerpres",
      "url": "https://agerpres.ro/politic/2026/10/28/adrian-tutuianu-aep-alegerile-partiale-ar-trebui-sa-fie-organizate-o-data-pe-an--1607707"
+    },
+    {
+     "name": "HotNews",
+     "url": "https://hotnews.ro/alegeri-o-data-pe-an-tipul-de-scrutin-pe-care-aep-vrea-sa-l-organizeze-la-o-data-fixa-2388889"
+    },
+    {
+     "name": "TVR Info",
+     "url": "https://tvrinfo.ro/alegerile-partiale-ar-putea-fi-organizate-o-data-pe-an-in-martie-aprilie/"
     }
    ],
    "summary": "Permanent Electoral Authority head Adrian Țuțuianu said elections should be held in 35 administrative units where mayors' mandates ended early by law, and that six or seven more may follow once courts rule on appeals. He said he will propose holding such partial elections once a year in a fixed spring window, and that AEP plans to sign a cooperation protocol with the tax agency ANAF next week.",
@@ -3066,6 +3178,10 @@
     {
      "name": "TVR Info",
      "url": "https://tvrinfo.ro/consiliul-superior-al-magistraturii-face-publice-indemnizatiile-judecatorilor-din-romania/"
+    },
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/stiri/actualitate/indemnizatiile-judecatorilor-din-romania-publicate-de-csm-care-sunt-salariile-judecatorilor.html"
     }
    ],
    "summary": "The Superior Council of Magistracy said net monthly pay for judges ranges from 6,990 to 20,346 lei depending on rank and seniority, and that an entry-level judge earns 1.26 times the national average gross wage, below the EU average ratio of about 2.13.",
@@ -3178,6 +3294,14 @@
     {
      "name": "G4Media",
      "url": "https://www.g4media.ro/primarul-orasului-slanic-moldova-psd-retinut-pentru-luare-de-mita-prins-in-flagrant-de-procurorii-anticoruptie-cand-primea-6-000-de-euro.html"
+    },
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/justitie/primarul-din-slanic-moldova-ar-fi-luat-mita-in-doua-transe-ce-au-spus-procurorii.html"
+    },
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/justitie/primarul-din-slanic-moldova-prins-in-flagrant-de-dna-cand-ar-fi-primit-6-000-de-euro-mita-in-total-ar-fi-incasat-21-000-de-euro-23833085"
     }
    ],
    "summary": "Anticorruption prosecutors detained Benone Moraru, the PSD mayor of Slănic Moldova, saying he took €15,000 in July and €6,000 on 27 October from a firm with a water-network repair contract; they sought 30 days of pretrial arrest. The allegations have not been tested in court.",
@@ -3454,8 +3578,8 @@
      "url": "https://agerpres.ro/justitie/2026/10/28/dosarul-lui-calin-georgescu-se-judeca-la-ora-17-00--1607627"
     }
    ],
-   "summary": "The Bucharest Court of Appeal began hearing at 17:00 local time DIICOT's challenge to a lower court's refusal to extend Călin Georgescu's pre-trial arrest; the ruling, which is final, must come before his warrant expires at midnight. Hundreds of his supporters gathered outside the court.",
-   "summary_ro": "Curtea de Apel București a început la ora 17:00 judecarea contestației DIICOT împotriva refuzului primei instanțe de a prelungi arestul preventiv al lui Călin Georgescu; decizia, definitivă, trebuie dată înainte ca mandatul să expire la miezul nopții. Sute de susținători ai săi s-au strâns în fața instanței.",
+   "summary": "The Bucharest Court of Appeal began hearing at 17:00 local time DIICOT's challenge to a lower court's refusal to extend Călin Georgescu's pre-trial arrest; the ruling, which is final, must come before his warrant expires at midnight. More than 100 supporters entered the court building and over 200 gathered outside, with gendarmes urging calm; no ruling had been reported by early evening, Gândul says.",
+   "summary_ro": "Curtea de Apel București a început la ora 17:00 judecarea contestației DIICOT împotriva refuzului primei instanțe de a prelungi arestul preventiv al lui Călin Georgescu; decizia, definitivă, trebuie dată înainte ca mandatul să expire la miezul nopții. Peste 100 de susținători au intrat în clădirea instanței și peste 200 s-au adunat afară, iar jandarmii au făcut apel la calm; până seara devreme nu fusese anunțată nicio soluție, potrivit Gândul.",
    "title": "Appeals court weighs prosecutors’ bid to keep Georgescu in custody",
    "title_ro": "Curtea de Apel decide dacă Georgescu rămâne în arest preventiv",
    "topic": "politics",
@@ -3586,10 +3710,14 @@
     {
      "name": "Digi24",
      "url": "https://www.digi24.ro/stiri/actualitate/politica/sorin-grindeanu-si-marian-neacsu-au-ajuns-la-guvern-cei-doi-ar-urma-sa-discute-cu-luca-niculescu-4012477"
+    },
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic/2026/10/28/niculescu-si-grindeanu-discuta-la-guvern-despre-situatia-deficitului-bugetar-surse--1607749"
     }
    ],
-   "summary": "PSD president Sorin Grindeanu and secretary-general Marian Neacșu arrived at Victoria Palace for talks with Prime Minister Luca Niculescu, amid coalition disputes over the budget revision. Grindeanu has said he intends to meet the prime minister weekly.",
-   "summary_ro": "Președintele PSD, Sorin Grindeanu, și secretarul general Marian Neacșu au venit la Palatul Victoria pentru discuții cu premierul Luca Niculescu, pe fondul disputelor din coaliție privind rectificarea bugetară. Grindeanu a spus că intenționează să se întâlnească săptămânal cu premierul.",
+   "summary": "PSD president Sorin Grindeanu and secretary-general Marian Neacșu met Prime Minister Luca Niculescu at Victoria Palace; unnamed sources quoted by Agerpres said the talks focused on the budget deficit, amid coalition disputes over the budget revision. Grindeanu has said he intends to meet the prime minister weekly.",
+   "summary_ro": "Președintele PSD, Sorin Grindeanu, și secretarul general Marian Neacșu s-au întâlnit cu premierul Luca Niculescu la Palatul Victoria; surse citate de Agerpres au spus că discuțiile au vizat deficitul bugetar, pe fondul disputelor din coaliție privind rectificarea. Grindeanu a spus că intenționează să se întâlnească săptămânal cu premierul.",
    "title": "PSD leaders Grindeanu and Neacșu meet PM Niculescu at government",
    "title_ro": "Liderii PSD Grindeanu și Neacșu, discuții cu premierul Niculescu la Guvern",
    "topic": "politics",
@@ -3966,6 +4094,24 @@
    "id": "pol-nazare-spending"
   },
   {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-28T16:26:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic/2026/10/28/neculaescu-problematica-inteligentei-artificiale-a-devenit-o-prioritate-de-politica-externa-si-de-se--1607806"
+    }
+   ],
+   "summary": "Foreign Minister Dan Neculăescu told an online meeting on controlling frontier AI models, convened by Finland and Norway, that AI progress needs human oversight and clear rules against misuse, and offered Romanian expertise in drafting common international standards.",
+   "summary_ro": "Ministrul de Externe Dan Neculăescu a spus, la o reuniune online despre controlul modelelor AI de frontieră organizată de Finlanda și Norvegia, că progresul inteligenței artificiale are nevoie de supraveghere umană și reguli clare împotriva abuzurilor, oferind expertiză românească pentru standarde internaționale comune.",
+   "title": "Foreign minister Neculăescu calls AI a foreign and security policy priority",
+   "title_ro": "Ministrul de Externe Neculăescu: inteligența artificială, prioritate de politică externă și securitate",
+   "topic": "politics",
+   "id": "pol-neculaescu-ai-security"
+  },
+  {
    "place": "Bucharest",
    "place_ro": "București",
    "publishedAt": "2026-10-27T14:33:00Z",
@@ -4026,10 +4172,22 @@
     {
      "name": "TVR Info",
      "url": "https://tvrinfo.ro/premierul-luca-niculescu-intalnire-cu-presedintii-consiliilor-judetene-discutii-privind-bugetul-pentru-2027/"
+    },
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic/2026/10/28/niculescu---intalnire-cu-reprezentantii-uncjr-am-incredere-ca-administratia-locala-va-fi-partener-so--1607810"
+    },
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/politic/premierul-luca-niculescu-dar-si-o-parte-din-ministri-intalnire-cu-reprezentantii-consiliilor-judetene-23833282"
+    },
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/stiri/politic/niculescu-romania-este-foarte-aproape-de-aderarea-la-ocde-tehnic-vorbind-suntem-gata-mai-e-un-mic-detaliu-de-rezolvat.html"
     }
    ],
-   "summary": "Prime Minister Luca Niculescu met the presidents of Romania's county councils to discuss local funding and the preparation of the 2027 budget.",
-   "summary_ro": "Premierul Luca Niculescu a avut o întâlnire cu președinții consiliilor județene, în care s-a discutat despre finanțarea locală și pregătirea bugetului pe 2027.",
+   "summary": "Prime Minister Luca Niculescu met county council leaders on funding, PNRR projects, winter preparations and the 2027 budget, saying the budget revision must cover urgent needs in social services, hospitals and county roads. UNCJR head Alfred Simonis asked for extra money; Niculescu also said Romania is very close to joining the OECD.",
+   "summary_ro": "Premierul Luca Niculescu s-a întâlnit cu șefii consiliilor județene pentru a discuta finanțarea, proiectele PNRR, pregătirea pentru iarnă și bugetul pe 2027, spunând că rectificarea trebuie să acopere nevoile urgente din asistența socială, spitale și drumurile județene. Șeful UNCJR, Alfred Simonis, a cerut fonduri suplimentare; Niculescu a mai spus că România este foarte aproape de aderarea la OCDE.",
    "title": "PM Niculescu meets county council heads on 2027 budget",
    "title_ro": "Premierul Niculescu s-a întâlnit cu președinții consiliilor județene pe tema bugetului pe 2027",
    "topic": "politics",
@@ -4194,6 +4352,24 @@
    "title_ro": "Gabriel Oprea cere o reacție de securitate mai amplă după cazul de sabotaj",
    "topic": "politics",
    "id": "pol-oprea-security"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-28T12:55:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Gândul",
+     "url": "https://www.gandul.ro/actualitate/psd-pnl-si-aur-au-iesit-la-racolat-de-parlamentari-cei-mai-curtati-deputati-si-senatori-sunt-neafiliatii-21047653"
+    }
+   ],
+   "summary": "Gândul reports PSD now has 127 MPs, AUR 92 and PNL 81 after defections, and that all three are negotiating with about 28 unaffiliated deputies and senators; senators Cristian Rusu, Cosmina Cerva and Rodica Cușnir are said to be in talks with AUR and PSD.",
+   "summary_ro": "Gândul relatează că PSD are acum 127 de parlamentari, AUR 92, iar PNL 81 după migrările recente și că toate trei negociază cu circa 28 de deputați și senatori neafiliați; senatorii Cristian Rusu, Cosmina Cerva și Rodica Cușnir ar purta discuții cu AUR și PSD.",
+   "title": "PSD, PNL and AUR compete to recruit unaffiliated MPs, Gândul reports",
+   "title_ro": "PSD, PNL și AUR își dispută parlamentarii neafiliați, relatează Gândul",
+   "topic": "politics",
+   "id": "pol-parties-court-unaffiliated"
   },
   {
    "place": "Romania",
@@ -4732,6 +4908,24 @@
   {
    "place": "Romania",
    "place_ro": "România",
+   "publishedAt": "2026-10-28T17:20:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "News.ro",
+     "url": "https://www.news.ro/politic-intern/rogobete-nepriceperea-incompetenta-fostului-presedinte-casei-nationale-asigurari-sanatate-generat-cea-mare-criza-cadrul-programelor-nationale-bolojan-om-viziune-intelege-sistemul-sanatate-1922402828002026101922899004"
+    }
+   ],
+   "summary": "Health Minister Alexandru Rogobete said the former head of the National Health Insurance House caused the biggest crisis in national health programmes and accused former PM Ilie Bolojan of lacking vision on the health system, News.ro reports.",
+   "summary_ro": "Ministrul Sănătății, Alexandru Rogobete, a spus că fostul președinte al Casei Naționale de Asigurări de Sănătate a generat cea mai mare criză din programele naționale și l-a acuzat pe fostul premier Ilie Bolojan că nu are viziune asupra sistemului de sănătate, relatează News.ro.",
+   "title": "Health minister Rogobete blames former CNAS chief for national programmes crisis",
+   "title_ro": "Ministrul Sănătății Rogobete îl acuză pe fostul șef CNAS de criza programelor naționale",
+   "topic": "politics",
+   "id": "pol-rogobete-cnas-bolojan"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
    "publishedAt": "2026-10-27T06:40:00Z",
    "region": "romania",
    "sources": [
@@ -5246,10 +5440,14 @@
     {
      "name": "Știri pe surse",
      "url": "https://www.stiripesurse.ro/lista-oamenilor-usr-insurubati-pe-functii-banoase-si-care-acum-vor-fi-maturati-incasau-lefuri-generoase-iar-sistemul-pcr-functiona-din-plin_3931875"
+    },
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic/2026/10/28/psd-dublul-standard-al-usr-nu-se-opreste-niciodata--1607813"
     }
    ],
-   "summary": "Știri pe surse published a list of people linked to USR on boards of state companies and in special-administrator posts, with their pay, based on a document it says it analysed; the article carries no responses from those named or from USR.",
-   "summary_ro": "Știri pe surse a publicat o listă cu persoane asociate USR din consiliile de administrație ale unor companii de stat și din posturi de administrator special, cu veniturile lor, pe baza unui document pe care spune că l-a analizat; articolul nu include reacții ale celor vizați sau ale USR.",
+   "summary": "Știri pe surse published a list of people linked to USR on state company boards and in special-administrator posts, with their pay. PSD then said in a statement that USR filled 38 board seats with 32 people at Economy Ministry companies, earning about 276,000 lei a month in total; USR's response was not included in the reports.",
+   "summary_ro": "Știri pe surse a publicat o listă cu persoane legate de USR din consiliile de administrație ale companiilor de stat și din posturi de administrator special, cu veniturile lor. Ulterior, PSD a afirmat într-un comunicat că USR a ocupat 38 de locuri în consilii cu 32 de persoane la companiile Ministerului Economiei, cu venituri totale de circa 276.000 de lei pe lună; reacția USR nu apare în relatări.",
    "title": "Report lists USR appointees on state company boards facing removal",
    "title_ro": "Un articol listează numiți ai USR din consiliile companiilor de stat care ar putea fi înlocuiți",
    "topic": "politics",
@@ -5296,8 +5494,8 @@
      "url": "https://stirileprotv.ro/stiri/international/pnl-acuza-psd-ca-face-jocurile-aur-in-parlament-manipuleaza-procedurile-parlamentare.html"
     }
    ],
-   "summary": "USR deputies' leader Diana Stoica said PSD and AUR acted together in the Chamber's Permanent Bureau so that Finance Minister Alexandru Nazare would not have to present budget figures, after USR's request was rejected. PNL deputies Ionel Bogdan, Gabriel Andronache and Ciprian Dobre also accused PSD of manipulating parliamentary procedures together with AUR over two bureau decisions taken on Wednesday.",
-   "summary_ro": "Liderul deputaților USR, Diana Stoica, a afirmat că PSD și AUR au acționat împreună în Biroul Permanent al Camerei pentru ca ministrul Finanțelor, Alexandru Nazare, să nu prezinte cifrele bugetului, după ce solicitarea USR a fost respinsă. Deputații PNL Ionel Bogdan, Gabriel Andronache și Ciprian Dobre au acuzat la rândul lor PSD că manipulează procedurile parlamentare împreună cu AUR, referindu-se la două decizii ale biroului luate miercuri.",
+   "summary": "USR deputies' leader Diana Stoica said PSD and AUR acted together in the Chamber's Permanent Bureau, which scheduled PM Luca Niculescu for 2 November at AUR's request and postponed USR's request to hear Finance Minister Alexandru Nazare. PNL deputies also accused PSD of manipulating procedures with AUR; AUR deputies' leader Mihai Enache replied that the PM's hour is a regulatory right and accused USR of staging a scandal.",
+   "summary_ro": "Lidera deputaților USR, Diana Stoica, a spus că PSD și AUR au acționat împreună în Biroul Permanent al Camerei, care l-a programat pe premierul Luca Niculescu pe 2 noiembrie, la cererea AUR, și a amânat cererea USR de audiere a ministrului Finanțelor, Alexandru Nazare. Deputații PNL au acuzat și ei PSD că manipulează procedurile împreună cu AUR; liderul deputaților AUR, Mihai Enache, a replicat că ora prim-ministrului e un drept prevăzut de regulament și a acuzat USR că fabrică un scandal.",
    "title": "USR and PNL accuse PSD of siding with AUR in Chamber leadership votes",
    "title_ro": "USR și PNL acuză PSD că s-a aliat cu AUR la voturile din conducerea Camerei",
    "topic": "politics",
@@ -5586,6 +5784,10 @@
     {
      "name": "Agerpres",
      "url": "https://agerpres.ro/economic/2026/10/28/busoi-exista-sanse-ca-unul-dintre-reactoarele-de-la-cernavoda-sa-fie-repornit-la-inceputul-lunii-noi--1607669"
+    },
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/stiri/financiar/centrala-nucleara-de-la-cernavoda-ar-putea-fi-repornita-in-doua-saptamani-ce-se-intampla-cu-pretul-energiei.html"
     }
    ],
    "summary": "Former energy state secretary Cristian Bușoi told the Energy Forum that one of the two Cernavodă reactors, both shut since summer, could restart in early November, but said this would not automatically lower electricity prices, which follow regional markets.",
@@ -5630,6 +5832,24 @@
    "title_ro": "Numărul investitorilor la Bursa de Valori București a ajuns la 345.000",
    "topic": "economy",
    "id": "ro-bvb-investors-345k"
+  },
+  {
+   "place": "Caraș-Severin",
+   "place_ro": "Caraș-Severin",
+   "publishedAt": "2026-10-28T16:08:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/stiri/actualitate/alerta-in-caras-severin-un-barbat-care-ar-putea-fi-inarmat-este-cautat-cu-drone-camere-cu-termoviziune-si-caini-de-urma.html"
+    }
+   ],
+   "summary": "Police and gendarmes in Caraș-Severin are using drones, thermal cameras and tracking dogs to find a man suspected of stealing a legally held hunting rifle and about ten cartridges from a house in Poiana Lungă. Police urged people not to approach him and to call 112.",
+   "summary_ro": "Polițiștii și jandarmii din Caraș-Severin folosesc drone, camere cu termoviziune și câini de urmă pentru a găsi un bărbat suspectat că a furat o armă de vânătoare deținută legal și circa zece cartușe dintr-o casă din Poiana Lungă. Poliția cere oamenilor să nu se apropie de el și să sune la 112.",
+   "title": "Police hunt man suspected of stealing hunting rifle in Caraș-Severin",
+   "title_ro": "Polițiștii caută un bărbat suspectat că a furat o armă de vânătoare în Caraș-Severin",
+   "topic": "security",
+   "id": "ro-caras-armed-man-search"
   },
   {
    "place": "Brașov",
@@ -7200,6 +7420,10 @@
     {
      "name": "Agerpres",
      "url": "https://agerpres.ro/justitie/2026/10/28/fiul-lui-tudorel-toader-contesta-arestul-preventiv-procesul---la-inalta-curte-pe-3-noiembrie--1607739"
+    },
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/justitie/fiul-lui-tudorel-toader-a-contestat-arestarea-preventiva-la-inalta-curte-termenul-stabilit-de-instanta-suprema.html"
     }
    ],
    "summary": "Alexandru Toader, the Iași law lecturer held in pretrial detention since 24 October on rape and sexual assault charges, was brought from police custody to searches at his notary office and at a university office he shares with his father, former justice minister Tudorel Toader. He has challenged his arrest, and the High Court of Cassation and Justice will hear the challenge on 3 November, Agerpres and Știri pe surse report.",
@@ -8164,8 +8388,8 @@
      "url": "https://www.rri.ro/en/news-and-current-affairs/newsflash/october-28-2026-id1076634.html"
     }
    ],
-   "summary": "With more than three-quarters of votes counted, Benjamin Netanyahu's bloc is on course for about 54 seats, Gadi Eisenkot's opposition alliance 47 and Arab parties a record 19, Al Jazeera reports, leaving no camp with the 61 seats needed for a majority.",
-   "summary_ro": "După numărarea a peste trei sferturi din voturi, blocul lui Benjamin Netanyahu se îndreaptă spre circa 54 de mandate, alianța de opoziție condusă de Gadi Eisenkot spre 47, iar partidele arabe spre un record de 19, relatează Al Jazeera; nicio tabără nu are cele 61 de mandate necesare pentru majoritate.",
+   "summary": "With nearly all votes counted, Benjamin Netanyahu's bloc and Gadi Eisenkot's opposition alliance both say they are ready to form a government, but neither has the 61 seats needed, Agerpres reports, while Arab parties won record representation. Israel's president urged parties to avoid another election, and the EU said it is ready for open dialogue with the next government.",
+   "summary_ro": "Cu aproape toate voturile numărate, atât blocul lui Benjamin Netanyahu, cât și alianța de opoziție a lui Gadi Eisenkot se declară pregătite să formeze guvernul, dar niciuna nu are cele 61 de mandate necesare, relatează Agerpres, iar partidele arabe au obținut o reprezentare record. Președintele Israelului a cerut partidelor să evite noi alegeri, iar UE s-a declarat pregătită de un dialog deschis cu viitorul guvern.",
    "title": "Israel election ends in deadlock as counting continues",
    "title_ro": "Alegerile din Israel se încheie fără majoritate clară; numărarea continuă",
    "topic": "politics",
@@ -8592,6 +8816,24 @@
    "title_ro": "Rusia recrutează luptători din 29 de țări, potrivit informațiilor ucrainene",
    "topic": "security",
    "id": "world-russia-african-recruits"
+  },
+  {
+   "place": "Africa",
+   "place_ro": "Africa",
+   "publishedAt": "2026-10-28T14:26:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "HotNews",
+     "url": "https://hotnews.ro/rusia-vrea-sa-trimita-centrale-nucleare-plutitoare-in-africa-patru-tari-sunt-interesate-2388903"
+    }
+   ],
+   "summary": "Russia plans to supply floating nuclear power plants to Africa and four countries have shown interest, HotNews reports ahead of the Russia–Africa summit.",
+   "summary_ro": "Rusia intenționează să furnizeze centrale nucleare plutitoare Africii, iar patru țări și-au arătat interesul, relatează HotNews înaintea summitului Rusia–Africa.",
+   "title": "Russia offers floating nuclear power plants to African countries",
+   "title_ro": "Rusia vrea să ofere centrale nucleare plutitoare țărilor africane",
+   "topic": "energy",
+   "id": "world-russia-floating-nuclear-africa"
   },
   {
    "place": "Ethiopia",
