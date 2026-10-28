@@ -1,5 +1,5 @@
 {
- "lastRun": "2026-10-28T18:07:10Z",
+ "lastRun": "2026-10-28T18:58:34Z",
  "stories": [
   {
    "place": "Bucharest",
@@ -318,6 +318,42 @@
   {
    "place": "Bucharest",
    "place_ro": "București",
+   "publishedAt": "2026-10-28T13:07:00Z",
+   "region": "bucharest",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/o-eleva-de-la-o-scoala-din-sectorul-1-trimisa-in-judecata-dupa-ce-si-a-agresat-profesoara_3932021"
+    }
+   ],
+   "summary": "A pupil from a school in Bucharest's Sector 1 has been sent to trial after attacking her teacher, Știri pe surse reports.",
+   "summary_ro": "O elevă de la o școală din Sectorul 1 al Capitalei a fost trimisă în judecată după ce și-a agresat profesoara, relatează Știri pe surse.",
+   "title": "Sector 1 pupil sent to trial for assaulting her teacher",
+   "title_ro": "O elevă dintr-o școală din Sectorul 1, trimisă în judecată după ce și-a agresat profesoara",
+   "topic": "security",
+   "id": "buc-sector1-pupil-trial"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-28T17:47:00Z",
+   "region": "bucharest",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/noi-lucrari-de-infrastructura-in-sectorul-5-interventii-pe-strada-gorani_3932130"
+    }
+   ],
+   "summary": "New infrastructure works are under way on Strada Gorani in Sector 5, Știri pe surse reports.",
+   "summary_ro": "Pe strada Gorani din Sectorul 5 au început noi lucrări de infrastructură, relatează Știri pe surse.",
+   "title": "New infrastructure works on Strada Gorani in Bucharest's Sector 5",
+   "title_ro": "Noi lucrări de infrastructură pe strada Gorani, în Sectorul 5",
+   "topic": "economy",
+   "id": "buc-sector5-gorani-works"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
    "publishedAt": "2026-10-26T11:55:00Z",
    "region": "bucharest",
    "sources": [
@@ -582,10 +618,10 @@
      "url": "https://www.stiripesurse.ro/planul-ursulei-von-der-leyen-a-divizat-ue-tensiuni-pe-tema-canadei-inaintea-summitului-de-la-montreal_3931824"
     }
    ],
-   "summary": "Three EU members opposed wording in a draft EU–Canada declaration that referred to Ursula von der Leyen's offer of associate membership for Canada.",
-   "summary_ro": "Trei state membre s-au opus unei formulări dintr-un proiect de declarație UE–Canada care menționa oferta Ursulei von der Leyen privind statutul de membru asociat pentru Canada.",
-   "title": "Germany, Italy and Greece object to EU 'associate' status for Canada",
-   "title_ro": "Germania, Italia și Grecia se opun statutului de membru asociat al UE pentru Canada",
+   "summary": "Germany, Italy and Greece objected to wording in a draft EU–Canada declaration referring to Ursula von der Leyen's offer of associate membership for Canada, and the EU is now preparing to drop the idea from the final text, Digi24 reports.",
+   "summary_ro": "Germania, Italia și Grecia s-au opus unei formulări din proiectul de declarație UE–Canada privind oferta Ursulei von der Leyen de statut de membru asociat pentru Canada, iar UE se pregătește acum să renunțe la idee în versiunea finală, relatează Digi24.",
+   "title": "EU set to drop 'associate member' offer for Canada after objections",
+   "title_ro": "UE renunță la ideea statutului de membru asociat pentru Canada după obiecții",
    "topic": "world",
    "id": "eu-canada-associate"
   },
@@ -952,10 +988,14 @@
     {
      "name": "G4Media",
      "url": "https://www.g4media.ro/elevii-si-studentii-francezi-planuiesc-noi-proteste-dupa-respingerea-masurilor-guvernamentale-trebuie-sa-ne-mentinem-mobilizarea-daca-vrem-sa-fim-in-continuare-auziti.html"
+    },
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic-extern/2026/10/28/franta-experti-onu-consternati-de-represiunea-manifestatiilor-studentesti--1607830"
     }
    ],
-   "summary": "French pupils' and students' unions plan to resume protests and blockades after the autumn holiday, saying the government's latest measures fall short.",
-   "summary_ro": "Sindicatele elevilor și studenților din Franța plănuiesc să reia protestele și blocadele după vacanța de toamnă, considerând insuficiente ultimele măsuri ale guvernului.",
+   "summary": "French pupils' and students' unions plan to resume protests and blockades after the autumn holiday, saying the government's latest measures fall short. UN experts said they were dismayed by what they called the repression of the student protests, Agerpres reports.",
+   "summary_ro": "Sindicatele elevilor și studenților din Franța plănuiesc să reia protestele și blocadele după vacanța de toamnă, considerând insuficiente ultimele măsuri ale guvernului. Experți ONU s-au declarat consternați de ceea ce au numit represiunea manifestațiilor studențești, relatează Agerpres.",
    "title": "French pupils and students plan new protests after school break",
    "title_ro": "Elevii și studenții francezi pregătesc noi proteste după vacanță",
    "topic": "politics",
@@ -996,14 +1036,36 @@
     {
      "name": "Euronews",
      "url": "https://www.euronews.com/2026/10/27/european-natural-gas-prices-soar-what-it-means-for-your-winter-bills"
+    },
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/2026/10/28/preturile-de-referinta-la-gaze-in-europa-au-trecut-de-100-de-euro-pe-mwh--1607783"
     }
    ],
-   "summary": "The benchmark European gas price rose above €100 per megawatt-hour for the first time since 2022, and the EU warned of a possible new energy crisis ahead of winter, Euronews reports.",
-   "summary_ro": "Prețul de referință al gazelor naturale în Europa a urcat peste 100 de euro pe megawatt-oră pentru prima dată din 2022, iar UE avertizează asupra unei posibile noi crize energetice înainte de iarnă, relatează Euronews.",
+   "summary": "The benchmark European gas price rose above €100 per megawatt-hour for the first time since 2022, Euronews and Agerpres report, and the EU warned of a possible new energy crisis ahead of winter.",
+   "summary_ro": "Prețul de referință al gazelor naturale în Europa a urcat peste 100 de euro pe megawatt-oră pentru prima dată din 2022, relatează Euronews și Agerpres, iar UE avertizează asupra unei posibile noi crize energetice înainte de iarnă.",
    "title": "European gas price tops €100 for first time since 2022",
    "title_ro": "Prețul gazelor în Europa depășește 100 de euro, pentru prima dată din 2022",
    "topic": "energy",
    "id": "eu-gas-prices"
+  },
+  {
+   "place": "Lithuania",
+   "place_ro": "Lituania",
+   "publishedAt": "2026-10-28T17:34:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/externe/ue/ordine-noi-pentru-brigada-germana-stationata-in-lituania-monitorizarea-exclavei-kaliningrad-si-a-belarusului-4012859"
+    }
+   ],
+   "summary": "The German army brigade stationed in Lithuania has received new orders that include monitoring Russia's Kaliningrad exclave and Belarus, Digi24 reports.",
+   "summary_ro": "Brigada armatei germane staționată în Lituania a primit ordine noi, care includ monitorizarea exclavei rusești Kaliningrad și a Belarusului, relatează Digi24.",
+   "title": "German brigade in Lithuania ordered to monitor Kaliningrad and Belarus",
+   "title_ro": "Brigada germană din Lituania va monitoriza Kaliningradul și Belarusul",
+   "topic": "security",
+   "id": "eu-german-brigade-lithuania"
   },
   {
    "place": "Germany",
@@ -1022,6 +1084,24 @@
    "title_ro": "Germania se pregătește să cumpere rachete Bars produse de Ucraina, potrivit FT",
    "topic": "security",
    "id": "eu-germany-bars-missiles"
+  },
+  {
+   "place": "Germany",
+   "place_ro": "Germania",
+   "publishedAt": "2026-10-28T17:46:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic-extern/2026/10/28/politia-germana-a-arestat-doi-cetateni-belarusi-suspectati-de-planuirea-unor-acte-de-sabotaj-in-nume--1607829"
+    }
+   ],
+   "summary": "German police arrested two Belarusian citizens suspected of planning acts of sabotage on Russia's behalf, Agerpres reports.",
+   "summary_ro": "Poliția germană a arestat doi cetățeni belaruși suspectați că plănuiau acte de sabotaj în numele Rusiei, relatează Agerpres.",
+   "title": "German police arrest two Belarusians over alleged sabotage plans for Russia",
+   "title_ro": "Poliția germană a arestat doi belaruși suspectați că plănuiau sabotaje pentru Rusia",
+   "topic": "security",
+   "id": "eu-germany-belarusians-sabotage"
   },
   {
    "place": "Germany",
@@ -1712,6 +1792,10 @@
     {
      "name": "Știrile ProTV",
      "url": "https://stirileprotv.ro/stiri/international/comisia-europeana-avertizeaza-ca-motorina-va-fi-scumpa-si-in-2027-un-sfert-din-rafinariile-ue-sunt-inchise.html"
+    },
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/externe/ue/comisarul-pentru-aparare-europa-trebuie-sa-fie-gata-sa-creasca-productia-de-combustibil-pentru-a-si-sustine-fortele-in-timp-de-razboi-4012551"
     }
    ],
    "summary": "The EU's defence commissioner warned Europe could face a fuel shortage for its militaries in a war, as the Commission held talks on keeping refining capacity. The Commission also warned diesel will stay expensive in 2027, noting a quarter of EU refineries have closed.",
@@ -1844,6 +1928,24 @@
    "title_ro": "Protestatari au intrat în redacția postului pro-Vučić Informer TV",
    "topic": "politics",
    "id": "eu-serbia-informer-tv"
+  },
+  {
+   "place": "Serbia",
+   "place_ro": "Serbia",
+   "publishedAt": "2026-10-28T17:05:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/externe/serbia-redeschide-dosarul-tragediei-de-la-novi-sad-soldata-cu-16-morti-la-cateva-zile-dupa-infrangerea-electorala-a-lui-vucic-4012813"
+    }
+   ],
+   "summary": "Serbian judicial authorities are moving forward again with the case over the 2024 Novi Sad railway station canopy collapse that killed 16 people, days after President Aleksandar Vučić's camp lost the parliamentary election, Digi24 reports.",
+   "summary_ro": "Justiția sârbă reia dosarul prăbușirii copertinei gării din Novi Sad din 2024, soldată cu 16 morți, la câteva zile după ce tabăra președintelui Aleksandar Vučić a pierdut alegerile parlamentare, relatează Digi24.",
+   "title": "Serbia reopens Novi Sad canopy collapse case after Vučić's election defeat",
+   "title_ro": "Serbia redeschide dosarul tragediei de la Novi Sad după înfrângerea lui Vučić",
+   "topic": "politics",
+   "id": "eu-serbia-novi-sad-reopened"
   },
   {
    "place": "Spain",
@@ -2018,6 +2120,24 @@
   {
    "place": "Transnistria",
    "place_ro": "Transnistria",
+   "publishedAt": "2026-10-28T18:01:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic-extern/2026/10/28/republica-moldova-liderul-de-la-tiraspol-a-prelungit-cu-inca-60-de-zile-nivelul-ridicat-de-alerta-te--1607834"
+    }
+   ],
+   "summary": "The leader of Moldova's breakaway Transnistria region extended the heightened terrorism alert level there by another 60 days, Agerpres reports.",
+   "summary_ro": "Liderul regiunii separatiste Transnistria a prelungit cu încă 60 de zile nivelul ridicat de alertă teroristă, relatează Agerpres.",
+   "title": "Transnistria extends raised terrorism alert by 60 days",
+   "title_ro": "Transnistria prelungește cu 60 de zile alerta teroristă ridicată",
+   "topic": "security",
+   "id": "eu-transnistria-alert-extended"
+  },
+  {
+   "place": "Transnistria",
+   "place_ro": "Transnistria",
    "publishedAt": "2026-10-27T10:16:00Z",
    "region": "europe",
    "sources": [
@@ -2170,6 +2290,10 @@
     {
      "name": "Al Jazeera",
      "url": "https://www.aljazeera.com/news/2026/10/28/burnhams-government-unveils-its-first-uk-budget-what-to-expect"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/guvernul-britanic-pregateste-reduceri-la-facturile-de-energie-si-taxe-mai-mari-pentru-banci-cheltuieli-mai-mari-pentru-aparare-si-ai_3932143"
     }
    ],
    "summary": "Chancellor John Healey presented the Burnham government's first budget, raising the bank profit surcharge to 6% from 3%, Bloomberg reports. Al Jazeera said the budget was expected to fund defence plans, target VAT avoidance by overseas online sellers and help households with energy bills.",
@@ -2274,6 +2398,10 @@
     {
      "name": "Euronews",
      "url": "https://www.euronews.com/2026/10/28/after-months-dithering-europe-shows-its-ready-for-talks-with-russia"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/zelenski-anunta-cand-ar-putea-avea-loc-negocierile-trilaterale-ucraina-sua-rusia-kremlinul-mesaj-ironic-pentru-europeni-pot-ajunge-acolo-daca-isi-cumpara-bilete-dar-nimeni-nu-are-de-gand-sa-i-invite_3932112"
     }
    ],
    "summary": "Volodymyr Zelensky said Ukraine hopes a trilateral meeting with the US and Russia will take place in Abu Dhabi by 10 November, covering an energy ceasefire, maritime issues and prisoner exchanges. Kremlin adviser Yuri Ushakov said European participation was not agreed and did not confirm the date.",
@@ -2696,8 +2824,8 @@
      "url": "https://www.g4media.ro/gheorghe-piperea-prezentat-drept-candidat-al-aur-la-primaria-capitalei-o-sa-fie-un-tsunami-de-hate-incepand-de-maine-la-adresa-mea.html"
     }
    ],
-   "summary": "AUR leader George Simion said MEP Gheorghe Piperea will be the party's candidate for mayor of Bucharest, a choice voted by the party leadership on Tuesday. Simion said the election could come before 2028.",
-   "summary_ro": "Liderul AUR, George Simion, a anunțat că europarlamentarul Gheorghe Piperea va fi candidatul partidului la Primăria Capitalei, decizie votată marți de conducerea formațiunii. Simion a spus că alegerile ar putea avea loc înainte de 2028.",
+   "summary": "AUR leader George Simion said MEP Gheorghe Piperea will be the party's candidate for mayor of Bucharest, a choice voted by the party leadership on Tuesday, and said the election could come before 2028. PNL's Alexandru Muraru said the move is another step towards a PSD–AUR coalition in Bucharest.",
+   "summary_ro": "Liderul AUR, George Simion, a anunțat că europarlamentarul Gheorghe Piperea va fi candidatul partidului la Primăria Capitalei, decizie votată marți de conducerea formațiunii, și a spus că alegerile ar putea avea loc înainte de 2028. Liberalul Alexandru Muraru a susținut că mutarea este încă un pas către o coaliție PSD–AUR la București.",
    "title": "AUR names Gheorghe Piperea as its Bucharest mayoral candidate",
    "title_ro": "AUR îl desemnează pe Gheorghe Piperea candidat la Primăria Capitalei",
    "topic": "politics",
@@ -3578,10 +3706,10 @@
      "url": "https://agerpres.ro/justitie/2026/10/28/dosarul-lui-calin-georgescu-se-judeca-la-ora-17-00--1607627"
     }
    ],
-   "summary": "The Bucharest Court of Appeal began hearing at 17:00 local time DIICOT's challenge to a lower court's refusal to extend Călin Georgescu's pre-trial arrest; the ruling, which is final, must come before his warrant expires at midnight. More than 100 supporters entered the court building and over 200 gathered outside, with gendarmes urging calm; no ruling had been reported by early evening, Gândul says.",
-   "summary_ro": "Curtea de Apel București a început la ora 17:00 judecarea contestației DIICOT împotriva refuzului primei instanțe de a prelungi arestul preventiv al lui Călin Georgescu; decizia, definitivă, trebuie dată înainte ca mandatul să expire la miezul nopții. Peste 100 de susținători au intrat în clădirea instanței și peste 200 s-au adunat afară, iar jandarmii au făcut apel la calm; până seara devreme nu fusese anunțată nicio soluție, potrivit Gândul.",
-   "title": "Appeals court weighs prosecutors’ bid to keep Georgescu in custody",
-   "title_ro": "Curtea de Apel decide dacă Georgescu rămâne în arest preventiv",
+   "summary": "The Bucharest Court of Appeal accepted DIICOT's challenge and extended Călin Georgescu's pre-trial detention by 30 days, to 27 November, in a final ruling; he is accused of defrauding a businessman of €1.1 million, and co-defendant Ionel Rusen also stays in custody, Agerpres reports. AUR leader George Simion criticised the ruling, saying dictatorships never end well.",
+   "summary_ro": "Curtea de Apel București a admis contestația DIICOT și a prelungit arestul preventiv al lui Călin Georgescu cu 30 de zile, până pe 27 noiembrie, printr-o decizie definitivă; acesta este acuzat că a înșelat un om de afaceri cu 1,1 milioane de euro, iar coinculpatul Ionel Rusen rămâne și el în arest, relatează Agerpres. Liderul AUR, George Simion, a criticat decizia, spunând că dictaturile nu au sfârșit niciodată bine.",
+   "title": "Appeals court keeps Georgescu in custody for 30 more days",
+   "title_ro": "Curtea de Apel îl menține pe Georgescu în arest încă 30 de zile",
    "topic": "politics",
    "id": "pol-georgescu-appeal-hearing"
   },
@@ -3678,6 +3806,28 @@
    "title_ro": "Curtea de Apel judecă dosarul tentativei de lovitură de stat al lui Georgescu și Potra",
    "topic": "politics",
    "id": "pol-georgescu-coup-trial"
+  },
+  {
+   "place": "Brussels",
+   "place_ro": "Bruxelles",
+   "publishedAt": "2026-10-28T15:39:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/actualitate/politica/ghigiu-vizita-la-bruxelles-prioritatea-mea-este-sa-gasim-solutiile-necesare-pentru-ca-romania-sa-incaseze-fiecare-euro-din-pnrr-4012659"
+    },
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/2026/10/28/ghigiu-prioritatea-este-ca-romania-sa-incaseze-fiecare-euro-din-pnrr-la-care-are-dreptul--1607788"
+    }
+   ],
+   "summary": "Mihai Ghigiu, minister for investments and European projects, visited Brussels and said his priority is finding solutions so that Romania collects every euro it is entitled to from the national recovery plan (PNRR).",
+   "summary_ro": "Mihai Ghigiu, ministrul investițiilor și proiectelor europene, a fost în vizită la Bruxelles și a spus că prioritatea sa este găsirea soluțiilor pentru ca România să încaseze fiecare euro din PNRR la care are dreptul.",
+   "title": "EU funds minister Ghigiu in Brussels to secure Romania's recovery-plan money",
+   "title_ro": "Ministrul Ghigiu, la Bruxelles pentru banii din PNRR",
+   "topic": "politics",
+   "id": "pol-ghigiu-brussels-pnrr"
   },
   {
    "place": "Bucharest",
@@ -4184,6 +4334,10 @@
     {
      "name": "Știrile ProTV",
      "url": "https://stirileprotv.ro/stiri/politic/niculescu-romania-este-foarte-aproape-de-aderarea-la-ocde-tehnic-vorbind-suntem-gata-mai-e-un-mic-detaliu-de-rezolvat.html"
+    },
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/actualitate/politica/luca-niculescu-a-discutat-cu-reprezentantii-uniunii-consiliilor-judetene-despre-reforma-administrativa-si-comasarea-voluntara-4012821"
     }
    ],
    "summary": "Prime Minister Luca Niculescu met county council leaders on funding, PNRR projects, winter preparations and the 2027 budget, saying the budget revision must cover urgent needs in social services, hospitals and county roads. UNCJR head Alfred Simonis asked for extra money; Niculescu also said Romania is very close to joining the OECD.",
@@ -4466,8 +4620,8 @@
      "url": "https://stirileprotv.ro/stiri/politic/cand-ar-putea-recupera-statul-banii-datorati-de-pnl-pentru-campania-lui-nicolae-ciuca-seful-aep-arata-spre-anaf.html"
     }
    ],
-   "summary": "The Permanent Electoral Authority says PNL owes about 14.1 million lei after the High Court ruled definitively that the party must return public funds it spent promoting a book by former leader Nicolae Ciucă. AEP has asked the tax agency ANAF to enforce the payment.",
-   "summary_ro": "Autoritatea Electorală Permanentă spune că PNL datorează aproximativ 14,1 milioane de lei, după ce Înalta Curte a decis definitiv că partidul trebuie să restituie banii publici cheltuiți pentru promovarea unei cărți a fostului lider Nicolae Ciucă. AEP a sesizat ANAF pentru executarea silită.",
+   "summary": "The Permanent Electoral Authority says PNL owes about 14.1 million lei after the High Court ruled definitively that the party must return public funds it spent promoting a book by former leader Nicolae Ciucă, and asked the tax agency ANAF to enforce payment. ANAF said its recovery procedures are applied uniformly and without discrimination.",
+   "summary_ro": "Autoritatea Electorală Permanentă spune că PNL datorează aproximativ 14,1 milioane de lei, după ce Înalta Curte a decis definitiv că partidul trebuie să restituie banii publici cheltuiți pentru promovarea unei cărți a fostului lider Nicolae Ciucă, și a sesizat ANAF pentru executare silită. ANAF a precizat că procedurile de recuperare se aplică unitar și nediscriminatoriu.",
    "title": "PNL faces forced collection of 14 million lei over Ciucă book spending",
    "title_ro": "PNL, executat silit pentru 14 milioane de lei din cauza cărții lui Ciucă",
    "topic": "politics",
@@ -4490,6 +4644,28 @@
    "title_ro": "Surse PNL: gaura din buget ar fi de 10–15 miliarde de lei, nu de 40",
    "topic": "politics",
    "id": "pol-pnl-budget-gap-sources"
+  },
+  {
+   "place": "Teleorman",
+   "place_ro": "Teleorman",
+   "publishedAt": "2026-10-28T18:20:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/sfidare-in-interiorul-pnl-pentru-ilie-bolojan-primarii-nu-se-duc-la-intalnirile-cu-seful-de-partid_3932138"
+    },
+    {
+     "name": "Gândul",
+     "url": "https://www.gandul.ro/politica/ilie-bolojan-pnl-primari-teleorman-calarasi-absenta-21048261"
+    }
+   ],
+   "summary": "Only a handful of PNL mayors turned up when party leader Ilie Bolojan met county branches in Teleorman and Călărași during a tour of weak branches; Gândul counts 4 of 29 in Teleorman and 6 of 20 in Călărași, while Știri pe surse reports 3 of 29 in Teleorman.",
+   "summary_ro": "Doar câțiva primari PNL au participat la întâlnirile președintelui partidului, Ilie Bolojan, cu filialele din Teleorman și Călărași, în cadrul unui turneu prin filialele slabe; Gândul numără 4 din 29 în Teleorman și 6 din 20 în Călărași, iar Știri pe surse relatează 3 din 29 în Teleorman.",
+   "title": "Few PNL mayors attend Bolojan's meetings in Teleorman and Călărași",
+   "title_ro": "Puțini primari PNL vin la întâlnirile lui Bolojan din Teleorman și Călărași",
+   "topic": "politics",
+   "id": "pol-pnl-mayors-skip-bolojan"
   },
   {
    "place": "Bucharest",
@@ -4632,6 +4808,10 @@
     {
      "name": "Agerpres",
      "url": "https://agerpres.ro/economic/2026/10/28/popa-anulez-ordinul-aberant-prin-care-deciziile-de-inchidere-de-drumuri-asteapta-dupa-pixul-ministru--1607741"
+    },
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/actualitate/politica/disputa-intre-actualul-si-fostul-ministru-al-transporturilor-presiunea-pusa-de-psd-pentru-a-anula-ce-tine-de-usr-conteaza-mai-mult-4012565"
     }
    ],
    "summary": "Transport Minister Ștefan-Ovidiu Popa (PSD) said he unblocked several stalled projects in his first week and criticised former interim minister Radu Miruță (USR) over an order requiring ministry sign-off for closing roads, rail lines or runways. Popa said he will cancel the order so agencies can start repairs without it.",
@@ -4818,6 +4998,28 @@
    "title_ro": "Surse PSD: facturi neplătite de 50 de miliarde de lei lăsate de fostul guvern",
    "topic": "politics",
    "id": "pol-psd-unpaid-bills-claim"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-28T16:30:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/actualitate/politica/psd-acuza-usr-de-dublu-standard-faraonii-integritatii-au-uitat-rapid-de-propriile-declaratii-4012777"
+    },
+    {
+     "name": "Gândul",
+     "url": "https://www.gandul.ro/actualitate/psd-acuza-usr-dublu-standard-numiri-economie-21048172"
+    }
+   ],
+   "summary": "PSD accused USR of hypocrisy over appointments made while it was in government, saying 32 people linked to USR sit on boards of companies under the Economy Ministry with combined monthly pay of about 276,000 lei, Gândul reports. USR has not accepted PSD's framing.",
+   "summary_ro": "PSD a acuzat USR de ipocrizie în privința numirilor făcute cât a fost la guvernare, susținând că 32 de persoane legate de USR fac parte din consiliile de administrație ale companiilor din subordinea Ministerului Economiei, cu venituri lunare cumulate de circa 276.000 de lei, relatează Gândul.",
+   "title": "PSD accuses USR of double standards over state company board jobs",
+   "title_ro": "PSD acuză USR de dublu standard pentru posturile din consiliile de administrație",
+   "topic": "politics",
+   "id": "pol-psd-usr-board-appointments"
   },
   {
    "place": "Romania",
@@ -5468,8 +5670,8 @@
      "url": "https://www.mediafax.ro/politic/ministrul-finantelor-chemat-de-usr-la-ora-guvernului-discutia-despre-buget-nu-se-poate-purta-pe-facebook-23832895"
     }
    ],
-   "summary": "USR has invited Finance Minister Alexandru Nazare to the Chamber of Deputies’ “Government Hour” on 2 November to explain differences between official budget data and figures cited by PSD. Nazare said the budget debate should not take place on Facebook.",
-   "summary_ro": "USR l-a invitat pe ministrul Finanțelor, Alexandru Nazare, la „Ora Guvernului” din Camera Deputaților pe 2 noiembrie, pentru a explica diferențele dintre datele bugetare oficiale și cifrele invocate de PSD. Nazare a spus că discuția despre buget nu se poate purta pe Facebook.",
+   "summary": "USR invited Finance Minister Alexandru Nazare to the Chamber of Deputies’ “Government Hour” on 2 November to explain differences between official budget data and figures cited by PSD; Nazare said the budget debate should not take place on Facebook. USR's leader of deputies later accused PSD and AUR of acting together to keep Nazare from presenting the figures in Parliament.",
+   "summary_ro": "USR l-a invitat pe ministrul Finanțelor, Alexandru Nazare, la „Ora Guvernului” din Camera Deputaților pe 2 noiembrie, pentru a explica diferențele dintre datele bugetare oficiale și cifrele invocate de PSD; Nazare a spus că discuția despre buget nu se poate purta pe Facebook. Lidera deputaților USR a acuzat ulterior PSD și AUR că s-au înțeles ca Nazare să nu prezinte cifrele în Parlament.",
    "title": "USR summons finance minister Nazare to explain budget figures",
    "title_ro": "USR îl cheamă pe ministrul Nazare la Ora Guvernului pe tema bugetului",
    "topic": "politics",
@@ -5492,6 +5694,10 @@
     {
      "name": "Știrile ProTV",
      "url": "https://stirileprotv.ro/stiri/international/pnl-acuza-psd-ca-face-jocurile-aur-in-parlament-manipuleaza-procedurile-parlamentare.html"
+    },
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/actualitate/politica/pnl-acuza-psd-ca-manipuleaza-procedurile-parlamentare-in-complicitate-cu-aur-4012471"
     }
    ],
    "summary": "USR deputies' leader Diana Stoica said PSD and AUR acted together in the Chamber's Permanent Bureau, which scheduled PM Luca Niculescu for 2 November at AUR's request and postponed USR's request to hear Finance Minister Alexandru Nazare. PNL deputies also accused PSD of manipulating procedures with AUR; AUR deputies' leader Mihai Enache replied that the PM's hour is a regulatory right and accused USR of staging a scandal.",
@@ -5628,6 +5834,24 @@
   {
    "place": "Romania",
    "place_ro": "România",
+   "publishedAt": "2026-10-28T10:05:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/stirile-zilei/crestere-aproape-dubla-a-cererilor-de-azil-in-romania-peste-1-300-de-cereri-au-fost-depuse-in-primele-noua-luni-ale-anului-23832984"
+    }
+   ],
+   "summary": "More than 1,300 asylum applications were filed in Romania in the first nine months of the year, almost twice as many as a year earlier, Mediafax reports.",
+   "summary_ro": "Peste 1.300 de cereri de azil au fost depuse în România în primele nouă luni ale anului, aproape dublu față de anul trecut, relatează Mediafax.",
+   "title": "Asylum applications in Romania nearly double in nine months",
+   "title_ro": "Cererile de azil în România aproape s-au dublat în nouă luni",
+   "topic": "politics",
+   "id": "ro-asylum-applications"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
    "publishedAt": "2026-10-28T13:08:00Z",
    "region": "romania",
    "sources": [
@@ -5660,6 +5884,24 @@
    "title_ro": "Bento va construi o aplicație mobilă pentru Rompetrol Downstream",
    "topic": "tech",
    "id": "ro-bento-rompetrol"
+  },
+  {
+   "place": "Bistrița",
+   "place_ro": "Bistrița",
+   "publishedAt": "2026-10-28T16:27:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/actualitate/o-masina-a-patruns-intr-un-loc-de-joaca-pentru-copii-in-bistrita-soferita-resuscitata-4012761"
+    }
+   ],
+   "summary": "A car drove into a children's playground in Bistrița and the driver had to be resuscitated, Digi24 reports.",
+   "summary_ro": "Un autoturism a pătruns într-un loc de joacă pentru copii din Bistrița, iar șoferița a trebuit resuscitată, relatează Digi24.",
+   "title": "Car crashes into children's playground in Bistrița; driver resuscitated",
+   "title_ro": "O mașină a intrat într-un loc de joacă din Bistrița; șoferița, resuscitată",
+   "topic": "security",
+   "id": "ro-bistrita-car-playground"
   },
   {
    "place": "Bistrița",
@@ -5714,10 +5956,14 @@
     {
      "name": "Ziarul Financiar",
      "url": "https://www.zf.ro/banci-si-asigurari/florian-neagu-bnr-nivelul-riscurilor-sistemice-adresa-stabilitatii-financiare-mentine-ridicat-ba-unele-zone-globului-crestere-ceea-pledeaza-prudenta-deciziile-financiare-insa-aduce-multe-23269686"
+    },
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/2026/10/28/neagu-bnr-imprumutati-va-in-moneda-in-care-obtineti-veniturile--1607775"
     }
    ],
-   "summary": "National Bank of Romania official Florian Neagu said systemic risks to financial stability remain elevated and are rising in some parts of the world, calling for prudence in financial decisions.",
-   "summary_ro": "Florian Neagu, oficial al Băncii Naționale a României, a spus că riscurile sistemice la adresa stabilității financiare se mențin ridicate și cresc în unele regiuni ale lumii, pledând pentru prudență în deciziile financiare.",
+   "summary": "National Bank of Romania official Florian Neagu said systemic risks to financial stability remain elevated and are rising in some parts of the world, calling for prudence in financial decisions; he advised people to borrow in the currency in which they earn their income.",
+   "summary_ro": "Florian Neagu, oficial al Băncii Naționale a României, a spus că riscurile sistemice la adresa stabilității financiare se mențin ridicate și cresc în unele regiuni ale lumii, pledând pentru prudență; el a recomandat ca împrumuturile să fie luate în moneda în care se obțin veniturile.",
    "title": "Central bank official says systemic financial risks remain high",
    "title_ro": "Oficial BNR: riscurile sistemice la adresa stabilității financiare rămân ridicate",
    "topic": "economy",
@@ -5740,6 +5986,24 @@
    "title_ro": "Peste 3.000 de flacoane cu toxină botulinică, confiscate la podul Calafat",
    "topic": "security",
    "id": "ro-botox-calafat"
+  },
+  {
+   "place": "Brașov",
+   "place_ro": "Brașov",
+   "publishedAt": "2026-10-28T18:11:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/actualitate/evenimente/accident-in-brasov-o-ambulanta-care-transporta-o-femeie-insarcinata-implicata-intr-o-coliziune-cu-un-autocar-si-un-autoturism-4012897"
+    }
+   ],
+   "summary": "An ambulance transporting a pregnant woman was involved in a collision with a coach and a car in Brașov, Digi24 reports.",
+   "summary_ro": "O ambulanță care transporta o femeie însărcinată a fost implicată într-o coliziune cu un autocar și un autoturism la Brașov, relatează Digi24.",
+   "title": "Ambulance carrying pregnant woman in crash with coach and car in Brașov",
+   "title_ro": "Ambulanță cu o femeie însărcinată, implicată într-un accident la Brașov",
+   "topic": "security",
+   "id": "ro-brasov-ambulance-crash"
   },
   {
    "place": "Romania",
@@ -6538,6 +6802,24 @@
    "id": "ro-health-funding"
   },
   {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-28T17:57:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/actualitate/perchezitii-intr-o-zona-turistica-dupa-ce-un-cuplu-a-reclamat-ca-a-descoperit-o-camera-ascunsa-in-camera-in-care-era-cazat-4012867"
+    }
+   ],
+   "summary": "Police carried out searches in a tourist area after a couple reported finding a hidden camera in the room where they were staying, Digi24 reports.",
+   "summary_ro": "Polițiștii au făcut percheziții într-o zonă turistică după ce un cuplu a reclamat că a descoperit o cameră ascunsă în camera în care era cazat, relatează Digi24.",
+   "title": "Searches in tourist area after couple finds hidden camera in rented room",
+   "title_ro": "Percheziții într-o zonă turistică după ce un cuplu a găsit o cameră ascunsă în cameră",
+   "topic": "security",
+   "id": "ro-hidden-camera-searches"
+  },
+  {
    "place": "Bucharest",
    "place_ro": "București",
    "publishedAt": "2026-10-28T14:10:00Z",
@@ -7068,6 +7350,24 @@
   {
    "place": "Romania",
    "place_ro": "România",
+   "publishedAt": "2026-10-28T15:38:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/actualitate/noi-probleme-raportate-printre-utilizatorii-revolut-la-mai-putin-de-zece-zile-de-la-ultimul-episod-similar-4012645"
+    }
+   ],
+   "summary": "Revolut users reported new problems with the service, less than ten days after a similar episode, Digi24 reports.",
+   "summary_ro": "Utilizatorii Revolut au semnalat noi probleme cu serviciul, la mai puțin de zece zile de la un episod similar, relatează Digi24.",
+   "title": "Revolut users in Romania report new problems",
+   "title_ro": "Utilizatorii Revolut raportează noi probleme",
+   "topic": "tech",
+   "id": "ro-revolut-problems"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
    "publishedAt": "2026-10-27T12:53:00Z",
    "region": "romania",
    "sources": [
@@ -7174,8 +7474,8 @@
      "url": "https://www.romania-insider.com/society/romanian-intelligence-links-fire-carfil-industrial-platform-russian"
     }
    ],
-   "summary": "Romanian intelligence and prosecutors say a network coordinated from Russia set a September fire near a state weapons factory. Three suspects are named; two are held in Germany and one is sought in Poland. The president called it a serious breach of a NATO member's security.",
-   "summary_ro": "Serviciile de informații și procurorii spun că o rețea coordonată din Rusia a provocat în septembrie un incendiu lângă o fabrică de armament de stat. Trei suspecți sunt identificați: doi sunt reținuți în Germania, iar unul este căutat în Polonia. Președintele a numit fapta o încălcare gravă a securității unui stat NATO.",
+   "summary": "Romanian intelligence and prosecutors say a network coordinated from Russia set a September fire near the Carfil state weapons factory near Brașov. Three suspects are named; two are held in Germany and one is sought in Poland. The president called it a serious breach of a NATO member's security; Digi24 reports the suspects allegedly scouted the site a few days before the sabotage attempt.",
+   "summary_ro": "Serviciile de informații și procurorii spun că o rețea coordonată din Rusia a provocat în septembrie un incendiu lângă fabrica de armament de stat Carfil, de lângă Brașov. Trei suspecți sunt identificați: doi sunt reținuți în Germania, iar unul este căutat în Polonia. Președintele a numit fapta o încălcare gravă a securității unui stat NATO; Digi24 relatează că suspecții ar fi venit în recunoaștere cu câteva zile înainte de tentativa de sabotaj.",
    "title": "Romania blames Russian-run sabotage network for fire near Brașov arms plant",
    "title_ro": "România acuză o rețea de sabotaj condusă de Rusia pentru incendiul de lângă fabrica de armament din Brașov",
    "topic": "security",
@@ -7266,6 +7566,10 @@
     {
      "name": "Știri pe surse",
      "url": "https://www.stiripesurse.ro/video-gafa-noului-ministru-al-transporturilor-pe-santierul-autostrazii-sibiu-pitesti-a-botezat-tunelul-momaia-cu-numele-unui-actor-celebru_3931969"
+    },
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/economie/transporturi/gafa-a-ministrului-transporturilor-in-vizita-pe-santierul-autostrazii-sibiu-pitesti-am-fost-si-in-tunelul-momoa-4012749"
     }
    ],
    "summary": "The new transport minister toured the Sibiu–Pitești motorway works, where the expected opening date of Section 4 and remaining works were discussed; a slip in naming the Momaia tunnel drew attention.",
@@ -7424,6 +7728,10 @@
     {
      "name": "Știrile ProTV",
      "url": "https://stirileprotv.ro/justitie/fiul-lui-tudorel-toader-a-contestat-arestarea-preventiva-la-inalta-curte-termenul-stabilit-de-instanta-suprema.html"
+    },
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/actualitate/alexandru-toader-fiul-fostului-ministru-al-justitiei-tudorel-toader-a-contestat-arestul-preventiv-pentru-viol-la-instanta-suprema-4012601"
     }
    ],
    "summary": "Alexandru Toader, the Iași law lecturer held in pretrial detention since 24 October on rape and sexual assault charges, was brought from police custody to searches at his notary office and at a university office he shares with his father, former justice minister Tudorel Toader. He has challenged his arrest, and the High Court of Cassation and Justice will hear the challenge on 3 November, Agerpres and Știri pe surse report.",
@@ -7528,6 +7836,24 @@
    "title_ro": "Termocentrala Turceni oprește producția după o nouă avarie la cazan",
    "topic": "energy",
    "id": "ro-turceni-outage"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-28T18:17:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/peste-200-de-persoane-depistate-muncind-la-negru-au-fost-aplciate-amenzi-de-87-milioane-de-lei_3932139"
+    }
+   ],
+   "summary": "Inspections found more than 200 people working without legal contracts and fines totalling 8.7 million lei were issued, Știri pe surse reports.",
+   "summary_ro": "Controalele au depistat peste 200 de persoane care munceau fără forme legale, iar amenzile aplicate însumează 8,7 milioane de lei, relatează Știri pe surse.",
+   "title": "Labour inspectors find over 200 people working off the books",
+   "title_ro": "Peste 200 de persoane depistate muncind la negru",
+   "topic": "economy",
+   "id": "ro-undeclared-work-fines"
   },
   {
    "place": "Vrancea",
@@ -7844,6 +8170,24 @@
    "id": "world-dinosaur-auction"
   },
   {
+   "place": "United States",
+   "place_ro": "SUA",
+   "publishedAt": "2026-10-28T17:53:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic-extern/2026/10/28/sua-a-murit-dolores-huerta-lider-sindical-si-militanta-pentru-drepturi-civile--1607832"
+    }
+   ],
+   "summary": "Dolores Huerta, the US farmworker union leader and civil rights campaigner, has died, Agerpres reports.",
+   "summary_ro": "Dolores Huerta, lider sindical al muncitorilor agricoli și militantă pentru drepturi civile din SUA, a murit, relatează Agerpres.",
+   "title": "US labour and civil rights leader Dolores Huerta dies",
+   "title_ro": "A murit Dolores Huerta, lider sindical și militantă pentru drepturi civile din SUA",
+   "topic": "culture",
+   "id": "world-dolores-huerta-dies"
+  },
+  {
    "place": "DR Congo",
    "place_ro": "RD Congo",
    "publishedAt": "2026-10-27T12:31:00Z",
@@ -8042,10 +8386,10 @@
      "url": "https://agerpres.ro/politic-extern/2026/10/28/flavio-bolsonaro-se-indreapta-spre-ecuador-din-argentina-dupa-ce-a-parasit-brazilia-autoritati--1607492"
     }
    ],
-   "summary": "Flávio Bolsonaro, who lost Brazil's presidential runoff, left the country after police cancelled his passports over a court order in a corruption and money-laundering probe. Agerpres, citing Argentine authorities, reports he flew with his family from Puerto Iguazú to Guayaquil, Ecuador; earlier reports had placed him in the US, whose State Department said visas would be issued to the family.",
-   "summary_ro": "Flávio Bolsonaro, învins în turul doi al prezidențialelor din Brazilia, a părăsit țara după ce poliția i-a anulat pașapoartele, în baza unui ordin judecătoresc dintr-o anchetă de corupție și spălare de bani. Agerpres relatează, citând autoritățile argentiniene, că acesta a zburat cu familia din Puerto Iguazú spre Guayaquil, Ecuador; relatări anterioare îl plasau în SUA, al cărei Departament de Stat a anunțat că familia va primi vize.",
-   "title": "Reports conflict on Flávio Bolsonaro's whereabouts after he left Brazil",
-   "title_ro": "Relatări contradictorii despre locul în care se află Flávio Bolsonaro",
+   "summary": "Flávio Bolsonaro, who lost Brazil's presidential runoff, left the country after police cancelled his passports under a court order in a corruption and money-laundering probe. After conflicting reports placed him in Argentina and Ecuador, Digi24 reports he has arrived in the United States by a roundabout route; the US State Department had said visas would be issued to the family.",
+   "summary_ro": "Flávio Bolsonaro, învins în turul doi al prezidențialelor din Brazilia, a părăsit țara după ce poliția i-a anulat pașapoartele în baza unui ordin judecătoresc dintr-o anchetă de corupție și spălare de bani. După relatări contradictorii care îl plasau în Argentina și Ecuador, Digi24 relatează că a ajuns în SUA pe o rută ocolitoare; Departamentul de Stat american anunțase că familia va primi vize.",
+   "title": "Flávio Bolsonaro reaches US by indirect route after leaving Brazil",
+   "title_ro": "Flávio Bolsonaro a ajuns în SUA pe o rută ocolitoare după ce a părăsit Brazilia",
    "topic": "politics",
    "id": "world-flavio-bolsonaro-passports"
   },
@@ -8186,6 +8530,24 @@
    "title_ro": "Editori de presă din India contestă legea protecției datelor la Curtea Supremă",
    "topic": "tech",
    "id": "world-india-privacy-law"
+  },
+  {
+   "place": "Indonesia",
+   "place_ro": "Indonezia",
+   "publishedAt": "2026-10-28T15:45:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/externe/mapamond/ti-e-foame-mananca-i-pe-bogati-proteste-in-indonezia-fata-de-saracie-coruptie-si-modul-in-care-guvernul-a-gestionat-incendiile-4012679"
+    }
+   ],
+   "summary": "Demonstrators in Indonesia protested against poverty, corruption and the government's handling of fires, Digi24 reports.",
+   "summary_ro": "Protestatari din Indonezia au ieșit în stradă împotriva sărăciei, corupției și a modului în care guvernul a gestionat incendiile, relatează Digi24.",
+   "title": "Protests in Indonesia over poverty, corruption and handling of fires",
+   "title_ro": "Proteste în Indonezia față de sărăcie, corupție și gestionarea incendiilor",
+   "topic": "world",
+   "id": "world-indonesia-protests"
   },
   {
    "place": "Iran",
@@ -8538,6 +8900,10 @@
     {
      "name": "Știri pe surse",
      "url": "https://www.stiripesurse.ro/serghei-lavrov-merge-in-sua-seful-diplomatiei-ruse-va-participa-la-summitul-g20-de-la-atlanta_3932071"
+    },
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/externe/sua/serghei-lavrov-ajunge-in-sua-pentru-summitul-ministrilor-de-externe-g20-4012553"
     }
    ],
    "summary": "Russian Foreign Minister Sergei Lavrov will travel to the United States to head Russia's delegation at a G20 foreign ministers' meeting in Atlanta this weekend, Moscow announced, according to AFP as cited by Știri pe surse.",
@@ -8778,6 +9144,24 @@
    "id": "world-popescu-pastor-fraud"
   },
   {
+   "place": "Russia",
+   "place_ro": "Rusia",
+   "publishedAt": "2026-10-28T15:13:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/externe/rusia/putin-le-spune-liderilor-africani-ca-rusia-este-cel-mai-bun-partener-al-lor-aparitia-unei-lumi-multipolare-nu-este-o-sarcina-usoara-4012605"
+    }
+   ],
+   "summary": "Vladimir Putin told African leaders that Russia is their best partner and said building a multipolar world is not an easy task, Digi24 reports.",
+   "summary_ro": "Vladimir Putin le-a spus liderilor africani că Rusia este cel mai bun partener al lor și că apariția unei lumi multipolare nu este o sarcină ușoară, relatează Digi24.",
+   "title": "Putin tells African leaders Russia is their best partner",
+   "title_ro": "Putin le spune liderilor africani că Rusia e cel mai bun partener al lor",
+   "topic": "world",
+   "id": "world-putin-africa-partner"
+  },
+  {
    "place": "Moscow",
    "place_ro": "Moscova",
    "publishedAt": "2026-10-27T13:26:00Z",
@@ -8954,6 +9338,24 @@
    "title_ro": "Siria elimină imaginile cu femei și opere de artă din manualele școlare",
    "topic": "culture",
    "id": "world-syria-textbooks"
+  },
+  {
+   "place": "Afghanistan",
+   "place_ro": "Afganistan",
+   "publishedAt": "2026-10-28T16:48:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/externe/nou-transplant-interzis-de-talibanii-din-afganistan-desi-exista-un-numar-mare-de-pacienti-pe-lista-de-asteptare-reactia-medicilor-4012781"
+    }
+   ],
+   "summary": "Afghanistan's Taliban authorities have banned a further type of organ transplant even though many patients are on waiting lists, prompting criticism from doctors, Digi24 reports.",
+   "summary_ro": "Autoritățile talibane din Afganistan au interzis încă un tip de transplant, deși mulți pacienți se află pe listele de așteptare, ceea ce a stârnit reacția medicilor, relatează Digi24.",
+   "title": "Taliban ban another type of transplant despite long waiting lists",
+   "title_ro": "Talibanii interzic încă un tip de transplant, deși mulți pacienți așteaptă",
+   "topic": "world",
+   "id": "world-taliban-transplant-ban"
   },
   {
    "place": "Tanzania",
@@ -9164,8 +9566,8 @@
      "url": "https://www.digi24.ro/stiri/externe/rusia/kremlinul-incearca-sa-i-castige-de-partea-sa-pe-cei-din-cercul-restrans-al-lui-trump-prin-acorduri-cine-coordoneaza-eforturile-4010939"
     }
    ],
-   "summary": "Reports cited by Gândul (from the Financial Times) and Digi24 (from Le Monde, quoting an unnamed diplomat) say Russia is pursuing economic deals with the US, including energy, before any Ukraine ceasefire, with RDIF head Kirill Dmitriev coordinating.",
-   "summary_ro": "Relatări citate de Gândul (după Financial Times) și Digi24 (după Le Monde, care citează un diplomat nenumit) arată că Rusia urmărește acorduri economice cu SUA, inclusiv în energie, înaintea unui armistițiu în Ucraina, coordonate de șeful RDIF, Kirill Dmitriev.",
+   "summary": "Reports cited by Gândul (from the Financial Times) and Digi24 (from Le Monde, quoting an unnamed diplomat) say Russia is pursuing economic deals with the US, including energy, before any Ukraine ceasefire, with RDIF head Kirill Dmitriev coordinating. Digi24 also reports Washington and Moscow have discussed a possible return of US oil companies to the Russian market.",
+   "summary_ro": "Relatări citate de Gândul (după Financial Times) și Digi24 (după Le Monde, care citează un diplomat nenumit) arată că Rusia urmărește acorduri economice cu SUA, inclusiv în energie, înaintea unui armistițiu în Ucraina, coordonate de șeful RDIF, Kirill Dmitriev. Digi24 relatează și că Washingtonul și Moscova au discutat despre o posibilă revenire a companiilor petroliere americane pe piața rusă.",
    "title": "US and Russia discussed energy deals in Ukraine peace talks, report says",
    "title_ro": "SUA și Rusia au discutat acorduri energetice în negocierile de pace, potrivit unei relatări",
    "topic": "energy",
