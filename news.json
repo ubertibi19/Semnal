@@ -1,5 +1,5 @@
 {
- "lastRun": "2026-10-28T14:50:49Z",
+ "lastRun": "2026-10-28T15:49:29Z",
  "stories": [
   {
    "place": "Bucharest",
@@ -402,6 +402,10 @@
     {
      "name": "Ziarul Financiar",
      "url": "https://www.zf.ro/eveniment/cod-galben-de-ploi-puternice-in-bucuresti-si-sapte-judete-anm-anunta-peste-40-l-mp-vant-de-70-km-h-si-ninsori-la-munte-23268747"
+    },
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/stiri/vremea/cod-galben-de-ploi-in-bucuresti-si-sapte-judete-meteorologii-anunta-precipitatii-de-pana-la-40-l-mp-si-vant-puternic.html"
     }
    ],
    "summary": "Forecasters issued a yellow code for heavy rain over 40 l/sqm, winds up to 70 km/h and mountain snow.",
@@ -800,6 +804,14 @@
     {
      "name": "Știri pe surse",
      "url": "https://www.stiripesurse.ro/urmarile-protestelor-din-franta-senatul-francez-aproba-o-lege-mai-dura-impotriva-tulburarii-ordinii-publice_3931983"
+    },
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/economic/franta-senatul-a-aprobat-legea-prin-care-protestatarii-ar-putea-plati-pana-la-10-000-de-euro-pentru-pagubele-din-timpul-manifestatiilor-23833218"
+    },
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/externe/senatul-francez-a-aprobat-un-proiect-de-lege-prin-care-participantii-sunt-pusi-sa-plateasca-pagubele-provocate-in-timpul-protestelor-4011915"
     }
    ],
    "summary": "The French Senate has approved a government bill that would make protesters liable for damage of up to €10,000 and allow some benefits to be withheld from those convicted. Rights groups and lawyers say it threatens the right to protest; the government defends it.",
@@ -908,10 +920,10 @@
      "url": "https://www.euronews.com/2026/10/27/european-natural-gas-prices-soar-what-it-means-for-your-winter-bills"
     }
    ],
-   "summary": "A sharp rise in natural gas prices raises the prospect of higher heating bills across Europe.",
-   "summary_ro": "Scumpirea gazelor naturale anunță facturi mai mari la încălzire în toată Europa.",
-   "title": "European gas prices jump ahead of winter",
-   "title_ro": "Prețul gazelor în Europa crește brusc înaintea iernii",
+   "summary": "The benchmark European gas price rose above €100 per megawatt-hour for the first time since 2022, and the EU warned of a possible new energy crisis ahead of winter, Euronews reports.",
+   "summary_ro": "Prețul de referință al gazelor naturale în Europa a urcat peste 100 de euro pe megawatt-oră pentru prima dată din 2022, iar UE avertizează asupra unei posibile noi crize energetice înainte de iarnă, relatează Euronews.",
+   "title": "European gas price tops €100 for first time since 2022",
+   "title_ro": "Prețul gazelor în Europa depășește 100 de euro, pentru prima dată din 2022",
    "topic": "energy",
    "id": "eu-gas-prices"
   },
@@ -1166,6 +1178,24 @@
   {
    "place": "Italy",
    "place_ro": "Italia",
+   "publishedAt": "2026-10-28T14:45:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "HotNews",
+     "url": "https://hotnews.ro/giorgia-meloni-indignata-de-sentinta-unei-judecatoare-privind-protestele-violente-din-milano-o-decizie-rusinoasa-2388985"
+    }
+   ],
+   "summary": "Italian Prime Minister Giorgia Meloni called \"shameful\" a Milan judge's decision to release a man accused of inciting violent protests, reopening a political clash over the judiciary.",
+   "summary_ro": "Premierul Italiei, Giorgia Meloni, a numit „rușinoasă” decizia unui judecător din Milano de a elibera un bărbat acuzat că a instigat la proteste violente, redeschizând conflictul politic privind justiția.",
+   "title": "Meloni condemns Milan judge for freeing alleged protest instigator",
+   "title_ro": "Meloni critică un judecător din Milano care a eliberat un presupus instigator la proteste",
+   "topic": "politics",
+   "id": "eu-meloni-milan-judge"
+  },
+  {
+   "place": "Italy",
+   "place_ro": "Italia",
    "publishedAt": "2026-10-28T06:15:00Z",
    "region": "europe",
    "sources": [
@@ -1226,10 +1256,14 @@
     {
      "name": "Gândul",
      "url": "https://www.gandul.ro/actualitate/atac-cibernetic-republica-moldova-date-personale-21046430"
+    },
+    {
+     "name": "HotNews",
+     "url": "https://hotnews.ro/atac-cibernetic-fara-precedent-in-republica-moldova-demisie-in-guvern-expert-ipoteza-pe-care-o-luam-in-calcul-este-federatia-rusa-2388905"
     }
    ],
-   "summary": "Moldova's Electronic Governance Agency estimates that personal data of roughly 750,000 citizens was extracted from public digital services in attacks between 19 and 23 October. Some services were taken offline; the agency warns of fraud risks and says bank card data was not affected.",
-   "summary_ro": "Agenția de Guvernare Electronică din Republica Moldova estimează că datele personale a aproximativ 750.000 de cetățeni au fost extrase din servicii publice digitale în atacuri desfășurate între 19 și 23 octombrie. Unele servicii au fost oprite; agenția avertizează asupra riscului de fraude și spune că datele cardurilor bancare nu au fost afectate.",
+   "summary": "Moldova's Electronic Governance Agency estimates that personal data of roughly 750,000 citizens was extracted from public digital services in attacks between 19 and 23 October; HotNews reports a resignation in the government after the attack, and an expert it quotes says Russia is the main hypothesis.",
+   "summary_ro": "Agenția de Guvernare Electronică a Republicii Moldova estimează că datele personale a circa 750.000 de cetățeni au fost extrase din serviciile publice digitale în atacurile din 19–23 octombrie; HotNews relatează o demisie în Guvern după atac, iar un expert citat spune că principala ipoteză este Rusia.",
    "title": "Cyberattack exposes data of about 750,000 Moldovans",
    "title_ro": "Un atac cibernetic a expus datele a circa 750.000 de moldoveni",
    "topic": "security",
@@ -1496,6 +1530,28 @@
    "id": "eu-poland-uk-defence"
   },
   {
+   "place": "Lisbon",
+   "place_ro": "Lisabona",
+   "publishedAt": "2026-10-28T14:20:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "TVR Info",
+     "url": "https://tvrinfo.ro/proteste-in-portugalia-mii-de-demonstranti-s-au-adunat-in-fata-parlamentului-in-timpul-dezbaterilor-pentru-bugetul-de-stat/"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/lisabona-mii-de-persoane-protesteaza-in-fata-parlamentului-din-cauza-chriilor_3932007"
+    }
+   ],
+   "summary": "Thousands of people gathered outside the parliament in Lisbon during the state budget debate, protesting rents and housing prices that demonstrators say have doubled in recent years.",
+   "summary_ro": "Mii de oameni s-au adunat în fața Parlamentului de la Lisabona în timpul dezbaterii bugetului de stat, protestând față de chiriile și prețurile locuințelor, despre care manifestanții spun că s-au dublat în ultimii ani.",
+   "title": "Thousands protest outside Portugal's parliament over housing costs",
+   "title_ro": "Mii de oameni protestează la Parlamentul Portugaliei față de costul locuințelor",
+   "topic": "economy",
+   "id": "eu-portugal-housing-protest"
+  },
+  {
    "place": "Moscow",
    "place_ro": "Moscova",
    "publishedAt": "2026-10-27T16:13:00Z",
@@ -1562,6 +1618,24 @@
    "id": "eu-radev-black-sea"
   },
   {
+   "place": "Brussels",
+   "place_ro": "Bruxelles",
+   "publishedAt": "2026-10-28T13:20:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/28/eu-defence-chief-warns-of-fuel-crunch-if-europe-goes-to-war"
+    }
+   ],
+   "summary": "The EU's defence commissioner warned Europe could face a fuel shortage for its militaries in a war, as the Commission held talks on keeping refining capacity and said the bloc needs more refineries to withstand energy shocks.",
+   "summary_ro": "Comisarul european pentru apărare a avertizat că, în caz de război, Europa ar putea duce lipsă de combustibil pentru armate, în timp ce Comisia a discutat menținerea capacității de rafinare și a spus că blocul are nevoie de mai multe rafinării pentru a face față șocurilor energetice.",
+   "title": "EU warns shrinking refineries could leave Europe short of fuel in war",
+   "title_ro": "UE avertizează că lipsa rafinăriilor ar putea lăsa Europa fără combustibil în caz de război",
+   "topic": "energy",
+   "id": "eu-refineries-fuel-warning"
+  },
+  {
    "place": "St Petersburg",
    "place_ro": "Sankt Petersburg",
    "publishedAt": "2026-10-27T21:00:00Z",
@@ -1622,6 +1696,28 @@
    "title_ro": "Vučić recunoaște înfrângerea: lista studenților câștigă alegerile din Serbia",
    "topic": "politics",
    "id": "eu-serbia-election"
+  },
+  {
+   "place": "Serbia",
+   "place_ro": "Serbia",
+   "publishedAt": "2026-10-28T12:30:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/externe/serbia-refugiu-pentru-fugarii-din-justitia-altor-tari-sebastian-ghita-printre-numele-mentionate-de-presa-sarba-23832991"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/serbia-refugiul-fugarilor-din-balcani-oameni-precum-sebastian-ghita-si-ar-putea-pierde-protectia-dupa-schimbarea-puterii-de-la-belgrad_3932001"
+    }
+   ],
+   "summary": "Serbian media list people wanted in other countries who found refuge in Serbia, including Romanian ex-MP Sebastian Ghiță, and suggest their protection could end after the change of power in Belgrade, Mediafax and Știri pe surse report.",
+   "summary_ro": "Presa din Serbia enumeră persoane căutate în alte țări care și-au găsit refugiu în Serbia, între care fostul deputat Sebastian Ghiță, și sugerează că protecția lor s-ar putea încheia după schimbarea puterii de la Belgrad, relatează Mediafax și Știri pe surse.",
+   "title": "Serbian press: fugitives like Sebastian Ghiță may lose shelter in Serbia",
+   "title_ro": "Presa sârbă: fugari precum Sebastian Ghiță și-ar putea pierde refugiul în Serbia",
+   "topic": "security",
+   "id": "eu-serbia-fugitives-ghita"
   },
   {
    "place": "Serbia",
@@ -2422,6 +2518,14 @@
     {
      "name": "Agerpres",
      "url": "https://agerpres.ro/politic/2026/10/28/aur-pregateste-un-plan-strategic-de-dezvoltare-a-romaniei-peiu-intentionam-sa-il-prezentam-pe-1-dece--1607536"
+    },
+    {
+     "name": "TVR Info",
+     "url": "https://tvrinfo.ro/aur-pregateste-un-plan-strategic-de-dezvoltare-a-romaniei-peiu-intentionam-sa-il-prezentam-pe-1-decembrie-la-alba-iulia/"
+    },
+    {
+     "name": "Gândul",
+     "url": "https://www.gandul.ro/actualitate/aur-propune-a-doua-unire-a-romanilor-un-plan-strategic-pentru-dezvoltarea-romaniei-pana-in-2040-21047301"
     }
    ],
    "summary": "AUR Senate leader Petrișor Peiu said the party will present a policy document called 'The Second Union' in Alba Iulia on 1 December, aimed at narrowing regional gaps and improving transport, energy, education and connectivity, Mediafax reports.",
@@ -2820,6 +2924,28 @@
    "id": "pol-costreie-dan-slow"
   },
   {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-28T11:20:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "News.ro",
+     "url": "https://www.news.ro/politic-intern/vicepresedintele-senatului-democratia-amenintata-voturile-fraudate-ci-cetatenii-au-incredere-votul-e-suficient-organizam-alegeri-corecte-demonstram-corecte-1922402028162026101122896724"
+    },
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/stiri/politic/declaratiile-vicepresedintelui-senatului-democratia-e-amenintata-romanii-ajung-sa-nu-mai-aiba-incredere-in-votul-lor.html"
+    }
+   ],
+   "summary": "PNL senator Mihai Coteț, a deputy speaker of the Senate, said democracy is threatened not only by fraud but also when citizens lose trust in the vote, and that authorities must be able to demonstrate transparently that elections are correct.",
+   "summary_ro": "Senatorul PNL Mihai Coteț, vicepreședinte al Senatului, a spus că democrația este amenințată nu doar de fraudă, ci și atunci când cetățenii nu mai au încredere în vot, iar autoritățile trebuie să poată demonstra transparent că alegerile sunt corecte.",
+   "title": "Senate deputy speaker Coteț says elections must be shown to be fair",
+   "title_ro": "Vicepreședintele Senatului, Mihai Coteț: corectitudinea alegerilor trebuie demonstrată",
+   "topic": "politics",
+   "id": "pol-cotet-election-trust"
+  },
+  {
    "place": "Romania",
    "place_ro": "România",
    "publishedAt": "2026-10-27T16:18:00Z",
@@ -3198,6 +3324,18 @@
     {
      "name": "HotNews",
      "url": "https://hotnews.ro/calin-georgescu-afla-astazi-daca-va-fi-eliberat-din-arest-dupa-ce-tribunalul-bucuresti-a-respins-cererea-de-prelungire-2388470"
+    },
+    {
+     "name": "TVR Info",
+     "url": "https://tvrinfo.ro/dosarul-lui-georgescu-a-ajuns-la-cab-mandatul-de-arestare-expira-la-miezul-noptii/"
+    },
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/curtea-de-apel-bucuresti-ar-urma-sa-judece-contestatia-diicot-pentru-prelungirea-arestului-preventiv-al-lui-calin-georgescu-cele-30-de-zile-expira-la-miezul-noptii.html"
+    },
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/actualitate/zi-decisiva-pentru-calin-georgescu-fostul-candidat-afla-daca-judecatorii-ii-prelungesc-arestul-preventiv-in-dosarul-diicot-4011795"
     }
    ],
    "summary": "The Bucharest Court of Appeal is ruling on DIICOT’s challenge to a lower court’s refusal to extend Călin Georgescu’s pre-trial arrest; the decision is final. Hundreds of his supporters gathered outside the court.",
@@ -3326,6 +3464,24 @@
   {
    "place": "Bucharest",
    "place_ro": "București",
+   "publishedAt": "2026-10-28T15:15:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/actualitate/politica/sorin-grindeanu-si-marian-neacsu-au-ajuns-la-guvern-cei-doi-ar-urma-sa-discute-cu-luca-niculescu-4012477"
+    }
+   ],
+   "summary": "PSD president Sorin Grindeanu and secretary-general Marian Neacșu arrived at Victoria Palace for talks with Prime Minister Luca Niculescu, amid coalition disputes over the budget revision. Grindeanu has said he intends to meet the prime minister weekly.",
+   "summary_ro": "Președintele PSD, Sorin Grindeanu, și secretarul general Marian Neacșu au venit la Palatul Victoria pentru discuții cu premierul Luca Niculescu, pe fondul disputelor din coaliție privind rectificarea bugetară. Grindeanu a spus că intenționează să se întâlnească săptămânal cu premierul.",
+   "title": "PSD leaders Grindeanu and Neacșu meet PM Niculescu at government",
+   "title_ro": "Liderii PSD Grindeanu și Neacșu, discuții cu premierul Niculescu la Guvern",
+   "topic": "politics",
+   "id": "pol-grindeanu-govt-meeting"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
    "publishedAt": "2026-10-26T12:17:00Z",
    "region": "romania",
    "sources": [
@@ -3436,6 +3592,28 @@
   {
    "place": "Romania",
    "place_ro": "România",
+   "publishedAt": "2026-10-28T13:40:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/kelemen-hunor-bate-cu-pumnul-in-masa-nici-o-crestere-de-taxe-nu-va-avea-sustinerea-noastra-nu-e-nevoie-nu-e-acceptabil-nu-exista-suportabilitate_3932025"
+    },
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/politic/nu-este-acceptabil-kelemen-hunor-anunta-ca-nici-o-crestere-de-taxe-nu-va-avea-sustinerea-udmr-ce-spune-despre-indexarea-pensiilor-din-2027-23833088"
+    }
+   ],
+   "summary": "UDMR leader Kelemen Hunor said no tax or levy increase will get his party's support, arguing the burden is already too high, and rejected PSD's claims of a difficult inheritance. He also said the government cannot be toppled without AUR and expects it to last until 2028.",
+   "summary_ro": "Liderul UDMR, Kelemen Hunor, a declarat că nicio majorare de taxe sau impozite nu va avea susținerea partidului său, susținând că povara este deja prea mare, și a respins afirmațiile PSD despre o „grea moștenire”. El a mai spus că Guvernul nu poate fi dat jos fără AUR și că se așteaptă să rămână până în 2028.",
+   "title": "Kelemen says UDMR will back no tax increases",
+   "title_ro": "Kelemen: UDMR nu va susține nicio creștere de taxe",
+   "topic": "politics",
+   "id": "pol-kelemen-no-tax-rises"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
    "publishedAt": "2026-10-28T11:00:00Z",
    "region": "romania",
    "sources": [
@@ -3476,6 +3654,14 @@
     {
      "name": "News.ro",
      "url": "https://www.news.ro/politic-intern/kelemen-hunor-spune-discutat-psd-luca-niculescu-reforma-administratiei-locale-romania-nevoie-reforma-administrativa-facuta-extrem-bine-gandit-poti-sari-peste-comunitati-referendum-1922404528542026101222897165"
+    },
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/stiri/politic/kelemen-hunor-nu-am-discutat-cu-psd-si-luca-niculescu-despre-reforma-administratiei-locale-nu-poti-sa-sari-peste-comunitati.html"
+    },
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/actualitate/politica/kelemen-hunor-romania-are-nevoie-de-reforma-administrativa-dar-aceasta-trebuie-extrem-de-bine-gandita-4011911"
     }
    ],
    "summary": "UDMR leader Kelemen Hunor said the administrative reform cannot be pushed through by the government assuming responsibility, as PSD wants, and that affected communities must be consulted by referendum. Speaking in Parliament, he said he did not know whether the 40-billion-lei gap cited by Sorin Grindeanu exists, though some bills were likely left unpaid, and repeated that UDMR will not back tax rises.",
@@ -3714,6 +3900,24 @@
    "title_ro": "Niculescu va analiza proiectul PSD care limitează cetățenia pentru descendenții moldovenilor",
    "topic": "politics",
    "id": "pol-niculescu-citizenship-bill"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-28T14:30:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "TVR Info",
+     "url": "https://tvrinfo.ro/premierul-luca-niculescu-intalnire-cu-presedintii-consiliilor-judetene-discutii-privind-bugetul-pentru-2027/"
+    }
+   ],
+   "summary": "Prime Minister Luca Niculescu met the presidents of Romania's county councils to discuss local funding and the preparation of the 2027 budget.",
+   "summary_ro": "Premierul Luca Niculescu a avut o întâlnire cu președinții consiliilor județene, în care s-a discutat despre finanțarea locală și pregătirea bugetului pe 2027.",
+   "title": "PM Niculescu meets county council heads on 2027 budget",
+   "title_ro": "Premierul Niculescu s-a întâlnit cu președinții consiliilor județene pe tema bugetului pe 2027",
+   "topic": "politics",
+   "id": "pol-niculescu-county-councils"
   },
   {
    "place": "Bucharest",
@@ -3960,6 +4164,14 @@
     {
      "name": "Știri pe surse",
      "url": "https://www.stiripesurse.ro/pnl-va-fi-executat-silit-pentru-14-milioane-de-lei_3932046"
+    },
+    {
+     "name": "Digi24",
+     "url": "https://digi24.ro/stiri/actualitate/politica/seful-aep-despre-recuperarea-celor-14-milioane-de-lei-de-la-pnl-am-revenit-la-anaf-4012217"
+    },
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/stiri/politic/cand-ar-putea-recupera-statul-banii-datorati-de-pnl-pentru-campania-lui-nicolae-ciuca-seful-aep-arata-spre-anaf.html"
     }
    ],
    "summary": "The Permanent Electoral Authority says PNL owes about 14.1 million lei after the High Court ruled definitively that the party must return public funds it spent promoting a book by former leader Nicolae Ciucă. AEP has asked the tax agency ANAF to enforce the payment.",
@@ -4004,6 +4216,14 @@
     {
      "name": "Agerpres",
      "url": "https://agerpres.ro/politic/2026/10/28/camera-deputatilor-pnl-acuza-psd-ca-manipuleaza-procedurile-parlamentare-in-complicitate-cu-aur--1607732"
+    },
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/stiri/international/pnl-acuza-psd-ca-face-jocurile-aur-in-parlament-manipuleaza-procedurile-parlamentare.html"
+    },
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/actualitate/politica/pnl-acuza-psd-ca-manipuleaza-procedurile-parlamentare-in-complicitate-cu-aur-4012471"
     }
    ],
    "summary": "PNL spokesman Ionel Bogdan criticised PSD after the Chamber of Deputies' Permanent Bureau, with PSD votes, approved AUR's request to summon PM Luca Niculescu to the prime minister's hour while a similar USR request was not approved; PNL said it abstained. At a later press conference, PNL deputies Ionel Bogdan, Gabriel Andronache and Ciprian Dobre accused PSD of manipulating parliamentary procedures together with AUR.",
@@ -4038,6 +4258,14 @@
     {
      "name": "Știri pe surse",
      "url": "https://www.stiripesurse.ro/pnl-ii-cere-premierului-luca-niculescu-sa-adopte-urgent-rectificarea-bugetara-guvernarea-psd-nu-poate-tine-romania-ostatica_3931996"
+    },
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/politic/pnl-ii-cere-premierului-sa-adopte-urgent-rectificarea-bugetara-romania-nu-poate-fi-tinuta-ostatica-23833014"
+    },
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/stiri/politic/pnl-ii-cerem-premierului-sa-adopte-urgent-rectificarea-bugetara-guvernarea-psd-nu-poate-ine-romania-ostatica.html"
     }
    ],
    "summary": "The National Liberal Party asked Prime Minister Luca Niculescu to adopt the budget rectification urgently, accusing PSD of holding back money for hospitals, emergency services and ongoing projects. PNL also says PSD's deficit figures mix existing payment obligations with estimates and extra ministry requests.",
@@ -4262,6 +4490,24 @@
    "title_ro": "PSD invocă un necesar de 40 de miliarde de lei și amenință că blochează rectificarea, spun surse",
    "topic": "politics",
    "id": "pol-psd-rectification-hold"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-28T12:00:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Europa Liberă România",
+     "url": "https://romania.europalibera.org/a/psd-cere-guvernului-sa-reuseasca-in-2026-ce-n-au-facut-executivele-in-ultimul-deceniu-recuperarea-datoriilor-istorice-ale-firmelor-de-stat/33709578.html"
+    }
+   ],
+   "summary": "PSD is asking the government to collect long-standing debts owed by state-owned companies to the budget, a goal Europa Liberă notes no cabinet has achieved in the past decade.",
+   "summary_ro": "PSD cere Guvernului să recupereze datoriile vechi ale companiilor de stat către buget, obiectiv pe care, notează Europa Liberă, niciun executiv nu l-a atins în ultimul deceniu.",
+   "title": "PSD asks government to recover state firms' historic tax debts",
+   "title_ro": "PSD cere Guvernului recuperarea datoriilor istorice ale firmelor de stat",
+   "topic": "politics",
+   "id": "pol-psd-state-firm-debts"
   },
   {
    "place": "Romania",
@@ -4878,6 +5124,24 @@
    "title_ro": "USR îl cheamă pe ministrul Nazare la Ora Guvernului pe tema bugetului",
    "topic": "politics",
    "id": "pol-usr-nazare-ora-guvernului"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-28T14:00:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "News.ro",
+     "url": "https://www.news.ro/politic-intern/diana-stoica-lidera-deputatilor-usr-psd-si-aur-si-au-dat-iar-mana-pe-la-spate-pentru-ca-ministrul-nazare-sa-nu-spuna-romanilor-adevarul-in-parlament-1922403728002026101622898225"
+    }
+   ],
+   "summary": "USR deputies' leader Diana Stoica said PSD and AUR acted together in the Chamber's leadership so that Finance Minister Alexandru Nazare would not have to present the budget figures in Parliament, after USR's request was not approved.",
+   "summary_ro": "Liderul deputaților USR, Diana Stoica, a afirmat că PSD și AUR au acționat împreună în conducerea Camerei pentru ca ministrul Finanțelor, Alexandru Nazare, să nu prezinte cifrele bugetului în Parlament, după ce solicitarea USR nu a fost aprobată.",
+   "title": "USR says PSD and AUR blocked summoning finance minister to Parliament",
+   "title_ro": "USR acuză PSD și AUR că au blocat audierea ministrului Finanțelor în Parlament",
+   "topic": "politics",
+   "id": "pol-usr-stoica-psd-aur"
   },
   {
    "place": "Bucharest",
@@ -5896,6 +6160,28 @@
   {
    "place": "Romania",
    "place_ro": "România",
+   "publishedAt": "2026-10-28T09:30:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/economic/2026/10/28/ins-managerii-anticipeaza-o-stabilitate-a-activitatii-in-comert-scaderea-numarului-de-salariati-si-c--1607520"
+    },
+    {
+     "name": "Ziarul Financiar",
+     "url": "https://www.zf.ro/zf-24/ins-managerii-toate-sectoarele-economei-anticipeaza-cresterea-preturilor-domeniile-activitate-perioada-octombrie-decembrie-timp-executivii-industria-prelucratoare-constructii-asteapta-scaderea-23269438"
+    }
+   ],
+   "summary": "Managers in all sectors expect prices in their fields to rise in October–December, while those in manufacturing and construction expect a moderate fall in staff numbers, according to the National Statistics Institute.",
+   "summary_ro": "Managerii din toate sectoarele anticipează creșteri de prețuri în domeniile lor în perioada octombrie–decembrie, iar cei din industria prelucrătoare și construcții se așteaptă la o scădere moderată a numărului de angajați, potrivit Institutului Național de Statistică.",
+   "title": "Romanian managers expect higher prices and fewer jobs, INS survey shows",
+   "title_ro": "Managerii români se așteaptă la prețuri mai mari și mai puțini angajați, arată INS",
+   "topic": "economy",
+   "id": "ro-ins-price-expectations"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
    "publishedAt": "2026-10-27T21:08:00Z",
    "region": "romania",
    "sources": [
@@ -6420,6 +6706,24 @@
    "title_ro": "România a început să cheltuiască banii din SAFE",
    "topic": "economy",
    "id": "ro-safe-funds"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-28T12:40:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "TVR Info",
+     "url": "https://tvrinfo.ro/violente-fara-consecinte-peste-40-dintre-parinti-spun-ca-nu-s-a-luat-nicio-masura-dupa-ce-au-reclamat-o-agresiune-in-scoala-potrivit-unui-studiu/"
+    }
+   ],
+   "summary": "More than 40% of parents who reported an assault at school say no measures were taken afterwards, according to a study reported by TVR Info.",
+   "summary_ro": "Peste 40% dintre părinții care au reclamat o agresiune în școală spun că nu s-a luat nicio măsură ulterior, potrivit unui studiu prezentat de TVR Info.",
+   "title": "Over 40% of parents say reported school violence went unpunished",
+   "title_ro": "Peste 40% dintre părinți spun că violențele reclamate în școli au rămas fără urmări",
+   "topic": "security",
+   "id": "ro-school-violence-survey"
   },
   {
    "place": "Sibiu",
