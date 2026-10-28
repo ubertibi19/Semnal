@@ -1,5 +1,5 @@
 {
- "lastRun": "2026-10-28T14:05:00Z",
+ "lastRun": "2026-10-28T14:50:49Z",
  "stories": [
   {
    "place": "Bucharest",
@@ -72,6 +72,24 @@
    "title_ro": "Palatul Suțu găzduiește o expoziție de monede din vremurile biblice",
    "topic": "culture",
    "id": "buc-biblical-coins-exhibition"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-28T13:03:00Z",
+   "region": "bucharest",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/justitie/2026/10/28/diicot-a-destructurat-o-retea-de-traficanti-de-droguri-care-actiona-in-zona-in-care-se-afla-arestul---1607714"
+    }
+   ],
+   "summary": "Organised crime prosecutors and Bucharest police carried out 11 searches in Bucharest and Ilfov against two groups suspected of selling drugs in the central area where the Capital's main detention facility is located. About 1.4 kg of the psychoactive substance NEP was seized.",
+   "summary_ro": "Procurorii DIICOT și polițiștii din București au efectuat 11 percheziții în București și Ilfov la două grupări suspectate de vânzare de droguri în zona centrală unde se află Arestul Central al Capitalei. Au fost confiscate circa 1,4 kg din substanța psihoactivă NEP.",
+   "title": "DIICOT breaks up drug network near Bucharest's central police lockup",
+   "title_ro": "DIICOT a destructurat o rețea de droguri din zona Arestului Central al Capitalei",
+   "topic": "security",
+   "id": "buc-diicot-drug-network"
   },
   {
    "place": "Bucharest",
@@ -280,6 +298,10 @@
     {
      "name": "News.ro",
      "url": "https://www.news.ro/eveniment/update-incendiu-la-mansarda-unui-bloc-din-sectorul-1-al-capitalei-locatarii-au-fost-evacuaţi-doua-persoane-au-primit-ingrijiri-medicale-incendiul-a-fost-localizat-foto-1922405928002026101322897532"
+    },
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/social/2026/10/28/pompierii-au-reusit-sa-localizeze-incendiul-de-la-mansarda-unui-bloc-din-sectorul-1--1607722"
     }
    ],
    "summary": "Firefighters put out a blaze in the attic of an apartment block in Bucharest's Sector 1; residents were evacuated and two people received medical care, News.ro reports.",
@@ -572,6 +594,22 @@
     {
      "name": "Capital",
      "url": "https://www.capital.ro/o-noua-nava-a-fost-atacata-cu-trei-drone-in-marea-neagra-se-indrepta-spre-portul-constanta-echipajul-evacuat-de-urgenta.html"
+    },
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic/2026/10/28/radu-oprea-condamn-cu-fermitate-atacurile-repetate-cu-drone-asupra-navelor-comerciale-din-marea-neag--1607727"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/defmin-oprea-strongly-condemning-repeated-drone-attacks-on-commercial-ships-in-black-sea_3932070"
+    },
+    {
+     "name": "Ziarul Financiar",
+     "url": "https://www.zf.ro/eveniment/inca-o-nava-atacata-in-marea-neagra-un-portcontainer-care-trebuia-sa-ajunga-la-constanta-lovit-de-trei-drone-maritime-in-largul-bulgariei-cei-18-membri-ai-echipajului-au-reusit-sa-paraseasca-nava-23269648"
+    },
+    {
+     "name": "CanCan",
+     "url": "https://www.cancan.ro/o-nava-care-se-indrepta-spre-romania-lovita-de-trei-drone-in-marea-neagra-echipajul-a-intrat-in-alerta-21538017"
     }
    ],
    "summary": "The container ship Contship Jet, sailing from Haifa to Constanța, was struck by three drones about 21 nautical miles off Bulgaria's coast, Bulgarian Defence Minister Dimitar Stoyanov said; witnesses reported a fire on board and the crew was evacuated. Romanian Defence Minister Radu Oprea condemned the repeated drone attacks on merchant ships in the Black Sea.",
@@ -1662,12 +1700,20 @@
     {
      "name": "Radio Romania International",
      "url": "https://www.rri.ro/en/news-and-current-affairs/newsflash/october-28-2026-id1076634.html"
+    },
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic-extern/2026/10/28/accident-feroviar-in-spania-bilantul-tragediei-a-urcat-la-64-de-morti--1607735"
+    },
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/nicusor-dan-mesaj-de-solidaritate-dupa-tragedia-din-spania.html"
     }
    ],
-   "summary": "A Renfe AVE train from Madrid to Seville collided with an Iryo train near Urda in Toledo province, and two carriages fell down an embankment; Euronews reports at least 46 dead, with the toll still rising. Romania's foreign ministry said its missions are in contact with Spanish authorities.",
-   "summary_ro": "Un tren AVE Renfe care circula de la Madrid la Sevilla s-a ciocnit cu un tren Iryo lângă Urda, în provincia Toledo, iar două vagoane au căzut într-o râpă; Euronews relatează cel puțin 46 de morți, bilanțul fiind încă în creștere. MAE a transmis că misiunile României sunt în legătură cu autoritățile spaniole.",
-   "title": "High-speed train collision in Spain kills at least 46",
-   "title_ro": "Coliziune între trenuri de mare viteză în Spania: cel puțin 46 de morți",
+   "summary": "A Renfe train hit a stationary Iryo train from behind near Urda in Toledo province, and two carriages overturned down an embankment; the regional president of Castilla-La Mancha put the death toll at 64, Agerpres reports. President Nicușor Dan expressed Romania's solidarity, and PM Luca Niculescu said Romania is in constant contact with Spanish authorities; no Romanian victims had been confirmed.",
+   "summary_ro": "Un tren Renfe a lovit din spate un tren Iryo oprit lângă Urda, în provincia Toledo, iar două vagoane s-au răsturnat de pe un terasament; președintele regiunii Castilla-La Mancha a anunțat 64 de morți, relatează Agerpres. Președintele Nicușor Dan și-a exprimat solidaritatea cu Spania, iar premierul Luca Niculescu a spus că România este în permanentă legătură cu autoritățile spaniole; nu au fost confirmate victime românce.",
+   "title": "High-speed train collision in Spain kills at least 64",
+   "title_ro": "Coliziune între trenuri de mare viteză în Spania: cel puțin 64 de morți",
    "topic": "security",
    "id": "eu-spain-train-crash"
   },
@@ -2138,10 +2184,14 @@
     {
      "name": "News.ro",
      "url": "https://www.news.ro/politic-intern/presedintele-aep-avem-lista-35-unitati-administrativ-teritoriale-unde-ar-trebui-organizate-alegeri-sase-sapte-uat-uri-unde-probabil-vor-trebui-organizate-alegeri-dupa-solutionarea-contestatiilor-1922401528082026101322897347"
+    },
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic/2026/10/28/adrian-tutuianu-aep-alegerile-partiale-ar-trebui-sa-fie-organizate-o-data-pe-an--1607707"
     }
    ],
-   "summary": "Permanent Electoral Authority head Adrian Țuțuianu said elections should be held in 35 administrative units where mayors' mandates ended early by law. He said six or seven more may follow once courts rule on appeals by mayors removed over conflicts of interest or incompatibility; no dates were given.",
-   "summary_ro": "Președintele Autorității Electorale Permanente, Adrian Țuțuianu, a declarat că ar trebui organizate alegeri în 35 de unități administrativ-teritoriale în care mandatele primarilor au încetat de drept. El a spus că s-ar putea adăuga încă șase sau șapte, după ce instanțele vor soluționa contestațiile primarilor revocați pentru conflict de interese sau incompatibilitate; nu au fost anunțate date.",
+   "summary": "Permanent Electoral Authority head Adrian Țuțuianu said elections should be held in 35 administrative units where mayors' mandates ended early by law, and that six or seven more may follow once courts rule on appeals. He said he will propose holding such partial elections once a year in a fixed spring window, and that AEP plans to sign a cooperation protocol with the tax agency ANAF next week.",
+   "summary_ro": "Președintele Autorității Electorale Permanente, Adrian Țuțuianu, a spus că ar trebui organizate alegeri în 35 de unități administrative în care mandatele primarilor au încetat de drept, iar alte șase-șapte ar putea urma după soluționarea contestațiilor în instanță. El a anunțat că va propune ca alegerile parțiale să aibă loc o dată pe an, într-o perioadă fixă de primăvară, și că AEP va semna săptămâna viitoare un protocol de colaborare cu ANAF.",
    "title": "Electoral authority says 35 localities need new mayoral elections",
    "title_ro": "AEP: alegeri pentru primar necesare în 35 de localități",
    "topic": "politics",
@@ -2270,10 +2320,14 @@
     {
      "name": "News.ro",
      "url": "https://www.news.ro/politic-intern/george-simion-vedem-multi-muncitori-tari-terte-lucru-nefiresc-avand-vedere-avem-peste-sase-milioane-romani-lucreaza-vestul-europei-liderul-aur-cere-comisie-ancheta-parlament-1922401828002026101322897344"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/george-simion-cere-comisie-de-ancheta-in-parlament-vrea-mai-putini-muncitori-straini-e-un-lucru-nefiresc_3932026"
     }
    ],
-   "summary": "AUR wants a parliamentary committee to look into illegal migration, including crimes by foreigners and exploitation of non-EU workers.",
-   "summary_ro": "AUR solicită o comisie parlamentară care să analizeze migrația ilegală, inclusiv infracțiunile comise de străini și exploatarea muncitorilor din afara UE.",
+   "summary": "AUR wants a parliamentary committee to look into illegal migration, including crimes by foreigners and exploitation of non-EU workers. On 28 October AUR leader George Simion formally asked for a Chamber of Deputies inquiry into the hiring of workers from non-EU countries, saying their growing number is not normal.",
+   "summary_ro": "AUR vrea o comisie parlamentară care să analizeze migrația ilegală, inclusiv infracțiunile comise de străini și exploatarea muncitorilor din afara UE. Pe 28 octombrie, liderul AUR George Simion a cerut oficial o comisie de anchetă în Camera Deputaților privind angajarea de muncitori din țări terțe, spunând că numărul lor tot mai mare nu este normal.",
    "title": "AUR asks for parliamentary inquiry into illegal migration",
    "title_ro": "AUR cere anchetă parlamentară privind migrația ilegală",
    "topic": "politics",
@@ -2782,6 +2836,24 @@
    "title_ro": "PSD îl ia în calcul pe Sorin Lazăr pentru șefia interimară a Curții de Conturi (surse)",
    "topic": "politics",
    "id": "pol-court-accounts-lazar"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-28T13:05:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/justitie/2026/10/28/consiliul-superior-al-magistraturii-face-publice-indemnizatiile-judecatorilor-din-romania--1607709"
+    }
+   ],
+   "summary": "The Superior Council of Magistracy said net monthly pay for judges ranges from 6,990 to 20,346 lei depending on rank and seniority, and that an entry-level judge earns 1.26 times the national average gross wage, below the EU average ratio of about 2.13.",
+   "summary_ro": "Consiliul Superior al Magistraturii a anunțat că indemnizațiile nete lunare ale judecătorilor sunt între 6.990 și 20.346 de lei, în funcție de grad și vechime, iar un judecător debutant câștigă de 1,26 ori salariul mediu brut pe economie, sub raportul mediu din UE, de aproximativ 2,13.",
+   "title": "Magistracy council publishes judges' pay figures",
+   "title_ro": "CSM publică indemnizațiile judecătorilor din România",
+   "topic": "politics",
+   "id": "pol-csm-judges-pay"
   },
   {
    "place": "Bucharest",
@@ -3882,6 +3954,42 @@
   {
    "place": "Bucharest",
    "place_ro": "București",
+   "publishedAt": "2026-10-28T13:00:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/pnl-va-fi-executat-silit-pentru-14-milioane-de-lei_3932046"
+    }
+   ],
+   "summary": "The Permanent Electoral Authority says PNL owes about 14.1 million lei after the High Court ruled definitively that the party must return public funds it spent promoting a book by former leader Nicolae Ciucă. AEP has asked the tax agency ANAF to enforce the payment.",
+   "summary_ro": "Autoritatea Electorală Permanentă spune că PNL datorează aproximativ 14,1 milioane de lei, după ce Înalta Curte a decis definitiv că partidul trebuie să restituie banii publici cheltuiți pentru promovarea unei cărți a fostului lider Nicolae Ciucă. AEP a sesizat ANAF pentru executarea silită.",
+   "title": "PNL faces forced collection of 14 million lei over Ciucă book spending",
+   "title_ro": "PNL, executat silit pentru 14 milioane de lei din cauza cărții lui Ciucă",
+   "topic": "politics",
+   "id": "pol-pnl-aep-enforcement"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-28T13:15:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/pnl-gaura-la-buget-miliarde-lei_3932051"
+    }
+   ],
+   "summary": "Unnamed PNL sources told Știri pe surse the budget shortfall is 10–15 billion lei rather than the 40 billion lei cited by PSD, and that a budget revision could partly cover it by shifting surplus funds. PSD leader Sorin Grindeanu has asked Finance Minister Alexandru Nazare to present the real state of public finances first.",
+   "summary_ro": "Surse din PNL, citate de Știri pe surse fără a fi numite, spun că deficitul de finanțare ar fi de 10–15 miliarde de lei, nu de 40 de miliarde cum susține PSD, și că rectificarea l-ar putea acoperi parțial prin realocarea unor excedente. Liderul PSD Sorin Grindeanu i-a cerut ministrului de finanțe Alexandru Nazare să prezinte mai întâi situația reală a finanțelor publice.",
+   "title": "PNL sources put budget gap at 10–15 billion lei, not 40 billion",
+   "title_ro": "Surse PNL: gaura din buget ar fi de 10–15 miliarde de lei, nu de 40",
+   "topic": "politics",
+   "id": "pol-pnl-budget-gap-sources"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
    "publishedAt": "2026-10-28T13:30:00Z",
    "region": "romania",
    "sources": [
@@ -3892,10 +4000,14 @@
     {
      "name": "News.ro",
      "url": "https://www.news.ro/politic-intern/purtatorul-cuvant-pnl-astazi-psd-marcheaza-oficial-faptul-opozitie-fata-propriul-guvern-face-parte-inceput-manipuleze-procedurile-parlamentare-fugind-raspunderea-guvernamentala-1922401428002026101522897646"
+    },
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic/2026/10/28/camera-deputatilor-pnl-acuza-psd-ca-manipuleaza-procedurile-parlamentare-in-complicitate-cu-aur--1607732"
     }
    ],
-   "summary": "PNL spokesman Ionel Bogdan criticised PSD after the Chamber of Deputies' Permanent Bureau, with PSD votes, approved AUR's request to summon PM Luca Niculescu to the prime minister's hour while a similar USR request was not approved. PNL said it abstained.",
-   "summary_ro": "Purtătorul de cuvânt al PNL, Ionel Bogdan, a criticat PSD după ce Biroul Permanent al Camerei Deputaților a aprobat, cu voturile PSD, cererea AUR ca premierul Luca Niculescu să vină la „Ora prim-ministrului”, în timp ce o solicitare similară a USR nu a fost aprobată. PNL spune că s-a abținut.",
+   "summary": "PNL spokesman Ionel Bogdan criticised PSD after the Chamber of Deputies' Permanent Bureau, with PSD votes, approved AUR's request to summon PM Luca Niculescu to the prime minister's hour while a similar USR request was not approved; PNL said it abstained. At a later press conference, PNL deputies Ionel Bogdan, Gabriel Andronache and Ciprian Dobre accused PSD of manipulating parliamentary procedures together with AUR.",
+   "summary_ro": "Purtătorul de cuvânt al PNL, Ionel Bogdan, a criticat PSD după ce Biroul Permanent al Camerei Deputaților, cu voturile PSD, a aprobat cererea AUR de a-l chema pe premierul Luca Niculescu la „ora prim-ministrului”, în timp ce o cerere similară a USR nu a trecut; PNL spune că s-a abținut. Ulterior, deputații PNL Ionel Bogdan, Gabriel Andronache și Ciprian Dobre au acuzat PSD că manipulează procedurile parlamentare împreună cu AUR.",
    "title": "PNL says PSD acts as opposition to its own government",
    "title_ro": "PNL: PSD se poartă ca opoziție față de propriul guvern",
    "topic": "politics",
@@ -3992,6 +4104,14 @@
     {
      "name": "G4Media",
      "url": "https://g4media.ro/radu-miruta-usr-dupa-gafa-cu-tunelul-momoa-noul-ministru-psd-de-la-transporturi-mai-face-una-anuleaza-ordinul-care-obliga-la-organizarea-serioasa-a-lucrarilor-ce-presupun-inchiderea-unor-sectoare.html"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/ministrul-transporturilor-dezvaluie-ce-a-gasit-la-minister-dupa-sefia-usr-voi-anula-ordinul-aberant_3932017"
+    },
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/economic/2026/10/28/popa-anulez-ordinul-aberant-prin-care-deciziile-de-inchidere-de-drumuri-asteapta-dupa-pixul-ministru--1607741"
     }
    ],
    "summary": "Transport Minister Ștefan-Ovidiu Popa (PSD) said he unblocked several stalled projects in his first week and criticised former interim minister Radu Miruță (USR) over an order requiring ministry sign-off for closing roads, rail lines or runways. Popa said he will cancel the order so agencies can start repairs without it.",
@@ -4094,6 +4214,24 @@
    "title_ro": "PSD analizează un sistem electoral „câștigătorul ia tot”, spun surse",
    "topic": "politics",
    "id": "pol-psd-electoral-reform"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-28T12:30:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/tichete-masa-bonuri-valoare-lege-psd-senat-budai-solomon_3932032"
+    }
+   ],
+   "summary": "PSD deputies Adrian Solomon and Marius Budăi filed an urgent-procedure bill that would raise the maximum daily meal voucher value from 45 to 50 lei from November until September 2027, with employers free to choose whether to apply it. The proposal has not yet been debated.",
+   "summary_ro": "Deputații PSD Adrian Solomon și Marius Budăi au depus, în procedură de urgență, o propunere legislativă care ar ridica valoarea maximă a tichetului de masă de la 45 la 50 de lei pe zi, din noiembrie până în septembrie 2027, angajatorii putând decide dacă o aplică. Propunerea nu a fost încă dezbătută.",
+   "title": "PSD deputies file bill to raise meal voucher cap to 50 lei",
+   "title_ro": "Deputați PSD propun creșterea plafonului tichetelor de masă la 50 de lei",
+   "topic": "politics",
+   "id": "pol-psd-meal-vouchers-bill"
   },
   {
    "place": "Bucharest",
@@ -4630,6 +4768,24 @@
   {
    "place": "Bucharest",
    "place_ro": "București",
+   "publishedAt": "2026-10-28T13:57:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic/2026/10/28/alfred-simonis-uncjr-am-solicitat-guvernului-alocarea-de-sume-pentru-asistenta-sociala-si-pentru-fun--1607736"
+    }
+   ],
+   "summary": "Alfred Simonis, president of the National Union of County Councils (UNCJR), said the union asked Prime Minister Luca Niculescu's government to include money in the budget revision for social assistance and for town halls that cannot cover basic running costs.",
+   "summary_ro": "Alfred Simonis, președintele Uniunii Naționale a Consiliilor Județene (UNCJR), a spus că uniunea a cerut Guvernului condus de Luca Niculescu să prevadă la rectificare bani pentru asistența socială și pentru primăriile care nu își pot acoperi cheltuielile de funcționare.",
+   "title": "County councils' union asks government for social and town hall funds",
+   "title_ro": "UNCJR cere Guvernului bani pentru asistență socială și funcționarea primăriilor",
+   "topic": "politics",
+   "id": "pol-uncjr-simonis-funds"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
    "publishedAt": "2026-10-26T18:52:00Z",
    "region": "romania",
    "sources": [
@@ -4670,6 +4826,10 @@
     {
      "name": "Știri pe surse",
      "url": "https://www.stiripesurse.ro/deputatul-usr-emanuel-ungureanu-cere-diicot-si-dna-explicatii-in-cazul-nordis-peste-1700-de-pagubiti-asteapta-sa-li-se-faca-dreptate_3932050"
+    },
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic/2026/10/28/deputatul-usr-emanuel-ungureanu-cere-diicot-si-dna-explicatii-in-cazul-nordis--1607690"
     }
    ],
    "summary": "USR deputy Emanuel Ungureanu asked DIICOT and DNA to report on the Nordis investigation, which involves about 1,700 alleged victims and over €195 million in claimed losses. Speaking alongside victims, he said the probe has made no visible progress for about two years and backed a parliamentary inquiry.",
@@ -4824,6 +4984,24 @@
    "title_ro": "Jurnalistul sportiv Răsvan Apostolescu a murit",
    "topic": "sport",
    "id": "ro-apostolescu-dies"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-28T13:08:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/busoi-romania-ar-putea-ajunge-anul-viitor-la-2000-mw-instalati-in-baterii-de-stocare-a-energiei_3932052"
+    }
+   ],
+   "summary": "Former energy state secretary Cristian Bușoi said at an industry event that Romania could have about 2,000 MW of installed battery storage capacity next year.",
+   "summary_ro": "Fostul secretar de stat în Ministerul Energiei Cristian Bușoi a declarat, la un eveniment din industrie, că România ar putea ajunge anul viitor la circa 2.000 MW capacitate instalată în baterii de stocare a energiei.",
+   "title": "Romania could reach 2,000 MW of battery storage next year, Bușoi says",
+   "title_ro": "Bușoi: România ar putea avea anul viitor 2.000 MW în baterii de stocare",
+   "topic": "energy",
+   "id": "ro-battery-storage-2000mw"
   },
   {
    "place": "Romania",
@@ -5662,6 +5840,24 @@
    "id": "ro-health-funding"
   },
   {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-28T14:10:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Ziarul Financiar",
+     "url": "https://www.zf.ro/burse-fonduri-mutuale/hidroelectrica-il-aduce-in-consiliul-de-supraveghere-pe-stefan-valeriu-ivan-fost-manager-la-electrica-transelectrica-si-distributie-energie-electrica-romania-23269713"
+    }
+   ],
+   "summary": "Hidroelectrica said Ștefan Valeriu Ivan, a former manager at Electrica, Transelectrica and Distribuție Energie Electrică România, joined its supervisory board as a provisional member until March 2027 or until a selection process ends.",
+   "summary_ro": "Hidroelectrica a anunțat că Ștefan Valeriu Ivan, fost manager la Electrica, Transelectrica și Distribuție Energie Electrică România, a intrat în consiliul de supraveghere ca membru provizoriu, până în martie 2027 sau până la încheierea unei proceduri de selecție.",
+   "title": "Hidroelectrica adds former grid executive Ștefan Ivan to supervisory board",
+   "title_ro": "Hidroelectrica îl numește pe Ștefan Ivan în consiliul de supraveghere",
+   "topic": "economy",
+   "id": "ro-hidroelectrica-board-ivan"
+  },
+  {
    "place": "Romania",
    "place_ro": "România",
    "publishedAt": "2026-10-27T22:05:00Z",
@@ -6424,10 +6620,14 @@
     {
      "name": "Gândul",
      "url": "https://gandul.ro/justitie/alexandru-toader-fiul-fostului-ministru-al-justitiei-tudorel-toader-scos-din-arest-pentru-a-participa-la-perchezitiile-informatice-21047474"
+    },
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/justitie/2026/10/28/fiul-lui-tudorel-toader-contesta-arestul-preventiv-procesul---la-inalta-curte-pe-3-noiembrie--1607739"
     }
    ],
-   "summary": "Alexandru Toader, the Iași law lecturer held in pretrial detention since 24 October on rape and sexual assault charges, was brought from police custody to searches at his notary office and at a university office he shares with his father, former justice minister Tudorel Toader, HotNews and G4Media report. He has declined to give a statement.",
-   "summary_ro": "Alexandru Toader, lectorul de la Drept Iași aflat în arest preventiv din 24 octombrie pentru viol și agresiune sexuală, a fost adus din arestul poliției la percheziții la biroul său notarial și la un birou din universitate pe care îl împarte cu tatăl său, fostul ministru al Justiției Tudorel Toader, relatează HotNews și G4Media. El a refuzat să dea declarații.",
+   "summary": "Alexandru Toader, the Iași law lecturer held in pretrial detention since 24 October on rape and sexual assault charges, was brought from police custody to searches at his notary office and at a university office he shares with his father, former justice minister Tudorel Toader. He has challenged his arrest, and the High Court of Cassation and Justice will hear the challenge on 3 November, Agerpres and Știri pe surse report.",
+   "summary_ro": "Alexandru Toader, lectorul de drept din Iași aflat în arest preventiv din 24 octombrie pentru viol și agresiune sexuală, a fost adus din arest la percheziții la biroul său notarial și la un birou universitar pe care îl împarte cu tatăl său, fostul ministru al justiției Tudorel Toader. El a contestat arestarea, iar Înalta Curte de Casație și Justiție va judeca contestația pe 3 noiembrie, relatează Agerpres și Știri pe surse.",
    "title": "Arrested Iași lecturer Alexandru Toader taken to searches at his notary office",
    "title_ro": "Lectorul ieșean arestat Alexandru Toader, dus la percheziții la biroul notarial",
    "topic": "politics",
@@ -7492,6 +7692,24 @@
    "title_ro": "Raportul Lancet: 710.000 de decese în 2023 legate de căldura extremă",
    "topic": "world",
    "id": "world-lancet-heat-deaths"
+  },
+  {
+   "place": "Atlanta",
+   "place_ro": "Atlanta",
+   "publishedAt": "2026-10-28T14:36:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/serghei-lavrov-merge-in-sua-seful-diplomatiei-ruse-va-participa-la-summitul-g20-de-la-atlanta_3932071"
+    }
+   ],
+   "summary": "Russian Foreign Minister Sergei Lavrov will travel to the United States to head Russia's delegation at a G20 foreign ministers' meeting in Atlanta this weekend, Moscow announced, according to AFP as cited by Știri pe surse.",
+   "summary_ro": "Ministrul rus de externe Serghei Lavrov va merge în Statele Unite pentru a conduce delegația Rusiei la reuniunea miniștrilor de externe din G20 de la Atlanta, în acest weekend, a anunțat Moscova, potrivit AFP, citată de Știri pe surse.",
+   "title": "Lavrov to lead Russian delegation at G20 ministers' meeting in Atlanta",
+   "title_ro": "Lavrov va conduce delegația Rusiei la reuniunea G20 de la Atlanta",
+   "topic": "world",
+   "id": "world-lavrov-g20-atlanta"
   },
   {
    "place": "Venezuela",
