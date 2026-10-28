@@ -1,5 +1,5 @@
 {
- "lastRun": "2026-10-28T06:40:07Z",
+ "lastRun": "2026-10-28T07:42:25Z",
  "stories": [
   {
    "place": "Ilfov",
@@ -130,6 +130,10 @@
     {
      "name": "Știri pe surse",
      "url": "https://www.stiripesurse.ro/700000-de-euro-bani-confiscati-au-disparut-de-la-biroul-vamal-de-frontiera-aeroport-otopeni-calatori-s-a-deschis-o-ancheta_3931459"
+    },
+    {
+     "name": "Romania Insider",
+     "url": "https://www.romania-insider.com/society/nearly-eur-700000-disappears-bucharest-airport-customs-office"
     }
    ],
    "summary": "Close to €700,000 seized in January from a traveller arriving from Dubai disappeared from the customs office at Henri Coandă Airport; the bag was found holding paper. Customs notified police and opened an internal inquiry.",
@@ -288,6 +292,10 @@
     {
      "name": "TVR Info",
      "url": "https://tvrinfo.ro/valea-saulei-devine-a-treia-arie-naturala-protejata-din-bucuresti-zona-de-52-hectare-va-fi-amenajata-ca-parc-natural/"
+    },
+    {
+     "name": "Romania Insider",
+     "url": "https://www.romania-insider.com/life/valea-saulei-becomes-bucharests-third-protected-natural-area"
     }
    ],
    "summary": "Councillors voted 45 to 0, with one abstention, to protect the 5.2-hectare site in Sector 2, which a local association says holds over 350 wild species.",
@@ -332,6 +340,50 @@
    "title_ro": "Fleetwood, din liga a patra, elimină Arsenal din Cupa Ligii la penalty-uri",
    "topic": "sport",
    "id": "eu-arsenal-fleetwood"
+  },
+  {
+   "place": "Serbia",
+   "place_ro": "Serbia",
+   "publishedAt": "2026-10-28T06:58:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/externe/atacator-impuscat-mortal-dupa-ce-a-rănit-un-agent-de-paza-la-ambasada-israelului-din-belgrad-23832853"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/28/serbian-police-kill-attacker-outside-israeli-embassy-in-suspected-terrorist-attack"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-28/serbia-police-says-teenager-killed-in-attack-on-israeli-embassy"
+    }
+   ],
+   "summary": "Serbian police shot dead an attacker who wounded a guard with knives outside the Israeli embassy in Belgrade early on Wednesday. Interior Minister Ivica Dačić called it a suspected terrorist attack by a minor who backed the Islamic State group, and Serbia raised its terror alert to the highest level.",
+   "summary_ro": "Poliția sârbă a ucis miercuri dimineață un atacator care a rănit cu cuțite un paznic în fața Ambasadei Israelului din Belgrad. Ministrul de Interne Ivica Dačić a vorbit despre un posibil atac terorist comis de un minor care susținea gruparea Stat Islamic, iar Serbia a ridicat alerta teroristă la nivelul maxim.",
+   "title": "Attacker shot dead after knifing guard at Israeli embassy in Belgrade",
+   "title_ro": "Atacator ucis după ce a înjunghiat un paznic la Ambasada Israelului din Belgrad",
+   "topic": "security",
+   "id": "eu-belgrade-embassy-attack"
+  },
+  {
+   "place": "Bulgaria",
+   "place_ro": "Bulgaria",
+   "publishedAt": "2026-10-28T07:02:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/externe/crima-cu-miza-de-500-000-de-euro-in-bulgaria-un-fost-europarlamentar-impuscat-in-cap-in-propria-casa-23832821"
+    }
+   ],
+   "summary": "Former Bulgarian MEP Slavi Binev was shot dead at his home in Sofia; Turkish businessman Eyup Temiz has been charged with murder and remanded in custody. Media reports link the case to a dispute over about €500,000, a motive prosecutors have not confirmed.",
+   "summary_ro": "Fostul europarlamentar bulgar Slavi Binev a fost împușcat mortal în locuința sa din Sofia; omul de afaceri turc Eyup Temiz a fost acuzat de omor și arestat preventiv. Presa leagă cazul de o dispută de circa 500.000 de euro, motiv neconfirmat de procurori.",
+   "title": "Turkish businessman charged over killing of ex-Bulgarian MEP Binev",
+   "title_ro": "Un om de afaceri turc, acuzat de uciderea fostului europarlamentar bulgar Binev",
+   "topic": "security",
+   "id": "eu-binev-killing"
   },
   {
    "place": "Brussels",
@@ -640,6 +692,24 @@
    "id": "eu-germany-bars-missiles"
   },
   {
+   "place": "Germany",
+   "place_ro": "Germania",
+   "publishedAt": "2026-10-28T07:20:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/externe/temeri-privind-un-val-de-violente-in-germania-de-halloween-magazine-protejate-evenimente-anulate-si-amenintari-la-adresa-politiei-23832855"
+    }
+   ],
+   "summary": "Citing Bild, Mediafax reports that German security services warn of possible attacks on police during protests planned in several cities over the Halloween weekend; some children's events have been cancelled and shops are preparing protection.",
+   "summary_ro": "Citând Bild, Mediafax relatează că serviciile de securitate germane avertizează asupra unor posibile atacuri asupra poliției în timpul protestelor planificate în mai multe orașe în weekendul de Halloween; unele evenimente pentru copii au fost anulate, iar magazinele se pregătesc să se protejeze.",
+   "title": "German security services warn of possible unrest around Halloween",
+   "title_ro": "Serviciile germane avertizează asupra unor posibile violențe de Halloween",
+   "topic": "security",
+   "id": "eu-germany-halloween-security"
+  },
+  {
    "place": "Bulgaria",
    "place_ro": "Bulgaria",
    "publishedAt": "2026-10-27T12:46:00Z",
@@ -784,6 +854,24 @@
    "title_ro": "Adresa de e-mail parlamentară a Giorgiei Meloni, vizată într-un atac informatic",
    "topic": "security",
    "id": "eu-meloni-email-cyberattack"
+  },
+  {
+   "place": "Italy",
+   "place_ro": "Italia",
+   "publishedAt": "2026-10-28T06:15:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/stirile-zilei/giorgia-meloni-a-suspendat-livrarea-unui-nou-pachet-de-ajutor-militar-pentru-ucraina-decizia-a-fost-motivata-de-alegerile-de-la-jumatatea-mandatului-din-sua-23832803"
+    }
+   ],
+   "summary": "Mediafax, citing Il Giornale d'Italia, reports that Giorgia Meloni's government has put on hold delivery of Italy's 13th military aid package to Ukraine until after the US midterm elections; Rome says it is not abandoning support for Kyiv.",
+   "summary_ro": "Mediafax, citând Il Giornale d'Italia, relatează că guvernul Giorgiei Meloni a amânat livrarea celui de-al 13-lea pachet de ajutor militar pentru Ucraina până după alegerile de la jumătatea mandatului din SUA; Roma spune că nu renunță la sprijinul pentru Kiev.",
+   "title": "Italy reportedly holds back new Ukraine arms package until US midterms",
+   "title_ro": "Italia ar amâna un nou pachet de arme pentru Ucraina până după alegerile din SUA",
+   "topic": "security",
+   "id": "eu-meloni-ukraine-aid-pause"
   },
   {
    "place": "Germany",
@@ -1744,6 +1832,10 @@
     {
      "name": "B1 TV",
      "url": "https://www.b1tv.ro/politica/peiu-acuza-guvernul-niculescu-psd-ca-ascunde-deficitul-real-1744415.html"
+    },
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/actualitate/politica/petrisor-peiu-atac-la-psd-a-trecut-de-la-indignare-la-complicitate-liderul-aur-acuza-guvernul-niculescu-ca-ascunde-deficitul-real-4010525"
     }
    ],
    "summary": "AUR Senate leader Petrișor Peiu says the Niculescu government gave a deficit figure without the EU-standard ESA number, and AUR MP Andrei Ohaci says new tax increases are being prepared. The government says it will not raise taxes.",
@@ -1966,6 +2058,28 @@
    "title_ro": "Fosta ministră Buzoianu acuză PSD că amână Radarul Balastierelor",
    "topic": "politics",
    "id": "pol-buzoianu-ballast-radar"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-27T06:57:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/stirile-zilei/bolojenii-trec-deficitul-esa-ramane-adrian-caciu-sustine-ca-diferentele-esa-cash-din-acest-an-sunt-duble-fata-de-anii-anteriori-23832208"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/adrian-caciu-tine-lectii-de-economie-bolojenistilor-diferentele-esa-cash-duble-in-2026-fostul-ministru-un-lucru-ingrijorator_3931629"
+    }
+   ],
+   "summary": "Former PSD finance minister Adrian Câciu said in a Facebook post that the cash deficit of 3.8% hides an ESA deficit of about 5–5.3%, double the usual gap, and listed some 35 billion lei in unpaid bills; he said Eurostat will give the final figure in December.",
+   "summary_ro": "Fostul ministru PSD al Finanțelor Adrian Câciu a scris pe Facebook că deficitul cash de 3,8% ascunde un deficit ESA de circa 5–5,3%, o diferență dublă față de anii trecuți, și a menționat facturi neplătite de aproximativ 35 de miliarde de lei; el a spus că cifra finală va veni de la Eurostat în decembrie.",
+   "title": "Ex-minister Câciu says gap between deficit measures doubled in 2026",
+   "title_ro": "Fostul ministru Câciu spune că diferența dintre deficitul ESA și cash s-a dublat în 2026",
+   "topic": "politics",
+   "id": "pol-caciu-esa-cash"
   },
   {
    "place": "Romania",
@@ -2198,6 +2312,24 @@
    "id": "pol-deputies-leave"
   },
   {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-27T11:47:00Z",
+   "region": "bucharest",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/secretarul-de-stat-din-mai-bogdan-despescu-intalnire-cu-omologul-sau-sloven-franc-kangler-ce-au-discutat-la-sediul-mai_3931717"
+    }
+   ],
+   "summary": "Interior ministry state secretary Bogdan Despescu met Slovenia's Franc Kangler in Bucharest to discuss illegal migration, cross-border crime and disinformation, stressing faster information exchange.",
+   "summary_ro": "Secretarul de stat din MAI Bogdan Despescu s-a întâlnit la București cu omologul sloven Franc Kangler pentru a discuta despre migrația ilegală, criminalitatea transfrontalieră și dezinformare, subliniind nevoia unui schimb mai rapid de informații.",
+   "title": "Interior ministry official meets Slovenian counterpart on migration and crime",
+   "title_ro": "Secretarul de stat Despescu s-a întâlnit cu omologul sloven pe teme de migrație și criminalitate",
+   "topic": "politics",
+   "id": "pol-despescu-slovenia"
+  },
+  {
    "place": "Romania",
    "place_ro": "România",
    "publishedAt": "2026-10-27T15:20:00Z",
@@ -2336,6 +2468,10 @@
     {
      "name": "HotNews",
      "url": "https://hotnews.ro/liderul-usr-despre-conflictul-intern-din-pnl-si-sansele-unui-pol-de-dreapta-tocmai-de-aceea-nu-ne-vedeti-acum-intr-un-mariaj-2388225"
+    },
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/actualitate/politica/de-ce-nu-e-usr-acum-intr-un-mariaj-cu-pnl-si-ce-sanse-da-fritz-unei-aliante-cu-liberalii-la-alegerile-viitoare-4011507"
     }
    ],
    "summary": "USR leader Dominic Fritz said on TVR 1 that PNL made compromises with PSD that did not serve Romania, but that Ilie Bolojan is working to bring the party into a reformist camp. He said USR will need allies, including PNL, to form a 2028 majority that excludes PSD and AUR.",
@@ -2450,10 +2586,14 @@
     {
      "name": "Gândul",
      "url": "https://www.gandul.ro/actualitate/29-nopti-protest-arestul-central-calin-georgescu-21046975"
+    },
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/curtea-de-apel-bucuresti-ar-urma-sa-judece-contestatia-diicot-pentru-prelungirea-arestului-preventiv-al-lui-calin-georgescu-cele-30-de-zile-expira-la-miezul-noptii.html"
     }
    ],
-   "summary": "The Bucharest Tribunal turned down DIICOT's request to extend Călin Georgescu's pretrial detention in the fraud case and ordered judicial control instead, saying there is evidence for a reasonable suspicion but no concrete danger to public order. DIICOT has appealed to the Bucharest Court of Appeal, and Georgescu stays in custody until the ruling is final; supporters have protested nightly outside the Central Arrest.",
-   "summary_ro": "Tribunalul București a respins cererea DIICOT de prelungire a arestului preventiv al lui Călin Georgescu în dosarul de înșelăciune și a dispus control judiciar, arătând că există probe pentru o suspiciune rezonabilă, dar nu un pericol concret pentru ordinea publică. DIICOT a contestat decizia la Curtea de Apel București, iar Georgescu rămâne în custodie până când hotărârea devine definitivă; susținătorii săi protestează în fiecare noapte în fața Arestului Central.",
+   "summary": "The Bucharest Tribunal refused DIICOT's request to extend Călin Georgescu's pretrial detention in the fraud case and ordered judicial control; DIICOT appealed. G4Media reports the Bucharest Court of Appeal was expected to rule on Wednesday, before the current 30-day arrest warrant expires at midnight, though the file had not reached the court by Wednesday morning.",
+   "summary_ro": "Tribunalul București a respins cererea DIICOT de prelungire a arestului preventiv al lui Călin Georgescu în dosarul de înșelăciune și a dispus control judiciar; DIICOT a făcut contestație. G4Media relatează că Curtea de Apel București ar urma să decidă miercuri, înainte ca actualul mandat de 30 de zile să expire la miezul nopții, deși dosarul nu ajunsese la instanță miercuri dimineață.",
    "title": "Court rejects longer arrest for Georgescu; prosecutors appeal",
    "title_ro": "Tribunalul refuză prelungirea arestului lui Georgescu; DIICOT contestă",
    "topic": "politics",
@@ -2738,6 +2878,28 @@
    "id": "pol-nazare-2027-plans"
   },
   {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-26T18:00:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/breaking-ministrul-alexandru-nazare-replica-indirecta-pentru-sorin-grindeanu-care-a-acuzat-o-presupusa-crestere-a-deficitului-bugetar-sub-guvernarea-lui-ilie-bolojan-deficitul-bugetar.html"
+    },
+    {
+     "name": "Romania Insider",
+     "url": "https://www.romania-insider.com/business/romanian-finance-minister-defends-budget-execution-criticised-ruling"
+    }
+   ],
+   "summary": "Finance Minister Alexandru Nazare said the budget deficit for January–September fell to 3.8% of GDP from 5.3% a year earlier, an indirect reply to PSD leader Sorin Grindeanu, who accused the Bolojan government of letting the deficit grow.",
+   "summary_ro": "Ministrul Finanțelor, Alexandru Nazare, a declarat că deficitul bugetar pe ianuarie–septembrie a scăzut la 3,8% din PIB, de la 5,3% cu un an înainte, un răspuns indirect pentru liderul PSD Sorin Grindeanu, care a acuzat guvernul Bolojan că a lăsat deficitul să crească.",
+   "title": "Finance minister Nazare says deficit fell 1.5 points, rebutting PSD",
+   "title_ro": "Ministrul Nazare spune că deficitul a scăzut cu 1,5 puncte, după criticile PSD",
+   "topic": "politics",
+   "id": "pol-nazare-deficit-reply"
+  },
+  {
    "place": "Bucharest",
    "place_ro": "București",
    "publishedAt": "2026-10-27T10:01:00Z",
@@ -2888,6 +3050,14 @@
     {
      "name": "Știrile ProTV",
      "url": "https://stirileprotv.ro/stiri/politic/premierul-luca-niculescu-intrebat-daca-se-vor-majora-taxele-in-romania-stiti-care-este-pozitia-noastra.html"
+    },
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/economie/luca-niculescu-la-chisinau-nu-dorim-sa-crestem-taxele-si-impozitele-consolidarea-fiscala-inseamna-sa-oprim-risipa-4010635"
+    },
+    {
+     "name": "Gândul",
+     "url": "https://www.gandul.ro/actualitate/luca-niculescu-promite-din-nou-ca-nu-vor-creste-taxele-si-lauda-investitiile-romanesti-din-republica-moldova-21046256"
     }
    ],
    "summary": "Prime Minister Luca Niculescu said his government will cut waste rather than raise taxes. AUR says the government is preparing new tax increases anyway.",
@@ -2936,6 +3106,24 @@
    "title_ro": "Senatul aprobă avans de 5% pentru tinerii sub 35 de ani prin Noua Casă",
    "topic": "politics",
    "id": "pol-noua-casa-senate"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-27T08:23:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/gabriel-oprea-romania-trebuie-aparata-si-din-interior_3931649"
+    }
+   ],
+   "summary": "Former defence minister Gabriel Oprea said national security goes beyond border defence and urged authorities to protect critical infrastructure, coordinate intelligence services and warn citizens about online recruitment for sabotage, while seeking no escalation.",
+   "summary_ro": "Fostul ministru al Apărării Gabriel Oprea a spus că securitatea națională înseamnă mai mult decât apărarea frontierelor și a cerut autorităților să protejeze infrastructura critică, să coordoneze serviciile de informații și să avertizeze cetățenii despre recrutarea online pentru sabotaje, fără escaladare.",
+   "title": "Gabriel Oprea urges wider security response after sabotage case",
+   "title_ro": "Gabriel Oprea cere o reacție de securitate mai amplă după cazul de sabotaj",
+   "topic": "politics",
+   "id": "pol-oprea-security"
   },
   {
    "place": "Romania",
@@ -3048,6 +3236,10 @@
     {
      "name": "Știri pe surse",
      "url": "https://www.stiripesurse.ro/catalin-predoiu-avertisment-dupa-cazul-de-sabotaj-din-romania-este-de-asteptat-ca-aceste-presiuni-sa-creasca-atac-la-criticii-institutiilor-de-ordine-publica-si-securitate-nationala_3931726"
+    },
+    {
+     "name": "Gândul",
+     "url": "https://www.gandul.ro/politica/catalin-predoiu-atacuri-teroriste-sabotaj-carfil-rusia-21046218"
     }
    ],
    "summary": "Liberal politician Cătălin Predoiu said such pressure on Romania is likely to grow and criticised those who attack public order and security institutions.",
@@ -3176,6 +3368,10 @@
     {
      "name": "Mediafax",
      "url": "https://www.mediafax.ro/politic/rares-bogdan-cere-plecarea-ursulei-von-der-leyen-de-la-sefia-comisiei-europene-cine-este-posibilul-inlocuitor-23832583"
+    },
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/rares-bogdan-cere-plecarea-ursulei-von-der-leyen-de-la-sefia-comisiei-europene-a-pus-in-genunchi-industria-avanseaza-un-nume-pentru-inlocuirea-ei-emmanuel-macron-tine.html"
     }
    ],
    "summary": "PNL MEP Rareș Bogdan said Ursula von der Leyen should leave the European Commission presidency and named French President Emmanuel Macron as a possible successor.",
@@ -3488,6 +3684,10 @@
     {
      "name": "Știri pe surse",
      "url": "https://www.stiripesurse.ro/george-simion-anunta-infiintarea-unui-grup-de-lucru-pentru-modificarea-legislatiei-farmaceutice_3931750"
+    },
+    {
+     "name": "Gândul",
+     "url": "https://www.gandul.ro/actualitate/george-simion-anunta-infiintarea-unui-grup-de-lucru-pentru-modificarea-legislatiei-farmaceutice-21046468"
     }
    ],
    "summary": "AUR leader George Simion says the party is setting up a working group to propose changes to pharmaceutical legislation.",
@@ -3562,6 +3762,14 @@
     {
      "name": "Mediafax",
      "url": "https://www.mediafax.ro/stirile-zilei/guvernul-ungariei-scoate-fundatia-eurotrans-infiintata-de-udmr-din-procesul-de-acordare-a-cetateniei-maghiare-in-transilvania-23832309"
+    },
+    {
+     "name": "Gândul",
+     "url": "https://www.gandul.ro/international/peter-magyar-finantare-cetatenie-maghiara-eurotrans-udmr-21046059"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/noul-guvern-de-la-budapeste-scoate-udmr-dupa-11-ani-din-procesul-de-acordare-a-cetateniei-maghiare-in-transilvania-totul-are-legatura-cu-votul-din-aprilie_3931682"
     }
    ],
    "summary": "The UDMR-founded Eurotrans Foundation will stop handling simplified Hungarian citizenship files after Budapest ended funding; consulates will take over, the foundation says.",
@@ -4064,10 +4272,14 @@
     {
      "name": "Digi24",
      "url": "https://www.digi24.ro/stiri/economie/guvernul-vrea-sa-prelungeasca-reducerea-accizei-la-motorina-pana-la-31-ianuarie-2027-cat-ar-putea-creste-preturile-fara-aceasta-masura-4009257"
+    },
+    {
+     "name": "HotNews",
+     "url": "https://hotnews.ro/guvernul-vrea-sa-prelungeasca-starea-de-criza-pe-piata-carburantilor-cu-inca-trei-luni-2387068"
     }
    ],
-   "summary": "The finance and energy ministries propose keeping the reduced diesel excise and the fuel markup cap from 1 November to 31 January 2027, Digi24 reports. Without an extension, officials estimate diesel could rise by about 85 bani per litre.",
-   "summary_ro": "Ministerele Finanțelor și Energiei propun menținerea accizei reduse la motorină și a plafonării adaosului comercial la carburanți între 1 noiembrie și 31 ianuarie 2027, relatează Digi24. Fără prelungire, autoritățile estimează că motorina s-ar putea scumpi cu aproximativ 85 de bani pe litru.",
+   "summary": "The government plans to extend fuel-market crisis measures — a reduced diesel excise, a cap on fuel markups and export monitoring — from 1 November to 31 January 2027, HotNews and Digi24 report. The finance ministry estimates diesel would rise from about 10.90 to 11.75 lei per litre without the excise cut; the draft is in public consultation.",
+   "summary_ro": "Guvernul vrea să prelungească măsurile de criză pe piața carburanților — acciza redusă la motorină, plafonarea adaosului comercial și monitorizarea exporturilor — între 1 noiembrie și 31 ianuarie 2027, relatează HotNews și Digi24. Ministerul Finanțelor estimează că fără reducerea accizei motorina ar urca de la circa 10,90 la 11,75 lei pe litru; proiectul este în consultare publică.",
    "title": "Government plans to extend diesel excise cut until end of January",
    "title_ro": "Guvernul vrea să prelungească reducerea accizei la motorină până la finalul lui ianuarie",
    "topic": "energy",
@@ -4130,6 +4342,10 @@
     {
      "name": "Digi24",
      "url": "https://www.digi24.ro/stiri/actualitate/justitie/sase-persoane-si-o-companie-trimise-in-judecata-de-eppo-pentru-cumpararea-frauduloasa-a-doua-remorchere-pentru-dunarea-de-jos-4010029"
+    },
+    {
+     "name": "Romania Insider",
+     "url": "https://www.romania-insider.com/society/eppo-indicts-four-romanian-officials-fraudulently-purchasing-useless"
     }
    ],
    "summary": "European prosecutors charged four officials of the Lower Danube River Administration in Galați, another person and a company over an allegedly rigged purchase of two tugboats. They estimate the damage to the EU budget at about €7 million.",
@@ -4222,10 +4438,14 @@
     {
      "name": "Știri pe surse",
      "url": "https://www.stiripesurse.ro/investitorii-straini-din-romania-intra-peste-guvern-si-bnr-cer-rapid-un-proiect-de-tara-pentru-trecerea-la-euro_3931658"
+    },
+    {
+     "name": "Romania Insider",
+     "url": "https://www.romania-insider.com/business/foreign-investors-romania-advance-national-project-switch-euro"
     }
    ],
-   "summary": "The Foreign Investors Council says Romania needs both fiscal consolidation and growth, with a clear institution and deadline for each priority.",
-   "summary_ro": "Consiliul Investitorilor Străini spune că România are nevoie de consolidare fiscală și de creștere, cu o instituție responsabilă și un termen pentru fiecare prioritate.",
+   "summary": "The Foreign Investors Council says Romania needs both fiscal consolidation and growth, with a clear institution and deadline for each priority. It also asks the government and the central bank to launch a national euro-adoption project with a roadmap and yearly targets within 12 months, and to speed up OECD accession.",
+   "summary_ro": "Consiliul Investitorilor Străini spune că România are nevoie atât de consolidare fiscală, cât și de creștere, cu o instituție responsabilă și un termen clar pentru fiecare prioritate. FIC cere Guvernului și BNR să lanseze un proiect național de adoptare a euro, cu o foaie de parcurs și ținte anuale în 12 luni, și accelerarea aderării la OCDE.",
    "title": "Foreign investors urge Romania to pursue consolidation and growth together",
    "title_ro": "Investitorii străini cer consolidare fiscală și creștere economică",
    "topic": "economy",
@@ -4492,6 +4712,10 @@
     {
      "name": "HotNews",
      "url": "https://hotnews.ro/cum-si-a-anuntat-seful-kanal-d-angajatii-ca-postul-tv-tocmai-a-fost-vandut-surpriza-din-email-2387206"
+    },
+    {
+     "name": "Romania Insider",
+     "url": "https://www.romania-insider.com/business/romanian-media-group-clever-takes-kanal-d-turkish"
     }
    ],
    "summary": "Turkey's Doğan Holding signed the sale of 100% of Doğan Media International, owner of Kanal D, Kanal D2 and Radio Impuls, to the Clever Media group.",
@@ -4598,6 +4822,10 @@
     {
      "name": "Agerpres",
      "url": "https://agerpres.ro/economic/2026/10/27/aproximativ-62-dintre-romanii-cu-credite-ipotecare-se-asteapta-sa-le-achite-anticipat-studiu--1607281"
+    },
+    {
+     "name": "Romania Insider",
+     "url": "https://www.romania-insider.com/society/remax-europe-majority-romanians-mortgage-expect-repay-early"
     }
    ],
    "summary": "About 62% of Romanians with mortgages expect to pay off their loans ahead of schedule, according to a study reported by Agerpres.",
@@ -4812,6 +5040,10 @@
     {
      "name": "TVR Info",
      "url": "https://tvrinfo.ro/incendieri-si-tentative-de-atac-in-europa-atribuite-rusiei-moscova-neaga-implicarea/"
+    },
+    {
+     "name": "Romania Insider",
+     "url": "https://www.romania-insider.com/society/romanian-intelligence-links-fire-carfil-industrial-platform-russian"
     }
    ],
    "summary": "Romanian intelligence and prosecutors say a network coordinated from Russia set a September fire near a state weapons factory. Three suspects are named; two are held in Germany and one is sought in Poland. The president called it a serious breach of a NATO member's security.",
@@ -5224,6 +5456,24 @@
    "title_ro": "Actorul Eric Bauza a murit la 46 de ani",
    "topic": "culture",
    "id": "world-bauza-dies"
+  },
+  {
+   "place": "United States",
+   "place_ro": "SUA",
+   "publishedAt": "2026-10-28T07:14:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/economic/actiunile-boeing-s-au-prabusit-cu-aproape-10-compania-rateaza-tintele-de-productie-si-livrare-a-avioanelor-23832822"
+    }
+   ],
+   "summary": "Boeing shares fell 9.6% on Tuesday after the company said it will miss its 2026 production and delivery targets and pushed back its 737 output increase to early 2027; it also reported a wider-than-expected quarterly loss.",
+   "summary_ro": "Acțiunile Boeing au scăzut marți cu 9,6% după ce compania a anunțat că va rata țintele de producție și livrări pe 2026 și a amânat creșterea producției de 737 pentru începutul lui 2027; pierderea trimestrială a fost mai mare decât se aștepta.",
+   "title": "Boeing shares slide nearly 10% as it misses 2026 delivery goals",
+   "title_ro": "Acțiunile Boeing scad cu aproape 10% după ratarea țintelor de livrări pe 2026",
+   "topic": "economy",
+   "id": "world-boeing-targets"
   },
   {
    "place": "Brazil",
@@ -5728,10 +5978,10 @@
      "url": "https://www.g4media.ro/alegeri-cruciale-in-israel-record-de-participare-in-ultimii-53-de-ani-scrutinul-e-centrat-pe-persoana-lui-netanyahu-blocul-yashar-al-lui-eisenkot-acuza-o-incercare-sistematica-d.html"
     }
    ],
-   "summary": "Overnight updated exit polls on Kan and Channel 13 showed Benjamin Netanyahu's camp and Gadi Eisenkot's opposition bloc tied at about 51 seats each, with Channel 12 putting Netanyahu slightly ahead; neither reaches 61, and Arab-led parties are projected a record 17–19 seats. Netanyahu told supporters Likud would be the largest party and called for a right-wing government without Arab parties, while Eisenkot, who had claimed victory, urged him to step down.",
-   "summary_ro": "Exit-pollurile actualizate peste noapte de Kan și Canalul 13 arată blocul lui Benjamin Netanyahu și opoziția condusă de Gadi Eisenkot la egalitate, cu circa 51 de mandate fiecare, iar Canalul 12 îl plasează pe Netanyahu ușor în față; niciuna nu atinge pragul de 61, iar partidele arabe ar obține un record de 17–19 mandate. Netanyahu le-a spus susținătorilor că Likud va fi cel mai mare partid și a cerut un guvern de dreapta fără partidele arabe, în timp ce Eisenkot, care își declarase victoria, i-a cerut să se retragă.",
-   "title": "Israel election: blocs neck and neck as Netanyahu and Eisenkot claim edge",
-   "title_ro": "Alegeri în Israel: blocurile, la egalitate; Netanyahu și Eisenkot revendică avantajul",
+   "summary": "Exit polls cited by Al Jazeera and HotNews give neither Benjamin Netanyahu's bloc nor Gadi Eisenkot's opposition the 61 seats needed, with Likud the largest party and Arab parties set for a record of about 17–19 seats. Turnout was 77.7%, the highest since 1999; preliminary official results were expected Wednesday and final results on 4 November.",
+   "summary_ro": "Exit-poll-urile citate de Al Jazeera și HotNews nu dau nici blocului lui Benjamin Netanyahu, nici opoziției lui Gadi Eisenkot cele 61 de mandate necesare; Likud rămâne cel mai mare partid, iar partidele arabe ar obține un record de circa 17–19 mandate. Prezența a fost de 77,7%, cea mai mare din 1999; rezultatele oficiale preliminare erau așteptate miercuri, iar cele finale pe 4 noiembrie.",
+   "title": "Israel election ends in deadlock as counting continues",
+   "title_ro": "Alegerile din Israel se încheie fără majoritate clară; numărarea continuă",
    "topic": "politics",
    "id": "world-israel-election"
   },
@@ -5828,6 +6078,24 @@
    "title_ro": "Coreea de Sud își recheamă opt diplomați de la Kiev",
    "topic": "world",
    "id": "world-korea-recalls-kyiv-diplomats"
+  },
+  {
+   "place": "World",
+   "place_ro": "Lume",
+   "publishedAt": "2026-10-28T05:17:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/social/710-000-de-morti-intr-un-singur-an-decesele-cauzate-de-caldura-au-depasit-malaria-si-hiv-23832770"
+    }
+   ],
+   "summary": "The Lancet Countdown on health and climate change says about 710,000 people died from heat in 2023, more than from malaria or HIV, with over 70% linked to human-caused warming; the authors urge recognising climate change as a global health emergency ahead of COP31.",
+   "summary_ro": "Raportul Lancet Countdown privind sănătatea și clima arată că aproximativ 710.000 de oameni au murit din cauza căldurii în 2023, mai mulți decât din cauza malariei sau HIV, peste 70% dintre decese fiind legate de încălzirea provocată de om; autorii cer recunoașterea schimbărilor climatice ca urgență globală de sănătate înainte de COP31.",
+   "title": "Lancet report links 710,000 deaths in 2023 to extreme heat",
+   "title_ro": "Raportul Lancet: 710.000 de decese în 2023 legate de căldura extremă",
+   "topic": "world",
+   "id": "world-lancet-heat-deaths"
   },
   {
    "place": "Venezuela",
