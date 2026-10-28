@@ -1,5 +1,5 @@
 {
- "lastRun": "2026-10-28T23:05:42Z",
+ "lastRun": "2026-10-28T23:58:04Z",
  "stories": [
   {
    "place": "Bucharest",
@@ -102,6 +102,24 @@
    "title_ro": "Palatul Suțu găzduiește o expoziție de monede din vremurile biblice",
    "topic": "culture",
    "id": "buc-biblical-coins-exhibition"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-28T18:00:00Z",
+   "region": "bucharest",
+   "sources": [
+    {
+     "name": "News.ro",
+     "url": "https://news.ro/social/primaria-bucuresti-6-milioane-de-luminite-vor-impodobi-in-aceasta-iarna-principalele-bulevarde-ale-capitalei-targul-de-craciun-se-deschide-in-27-noiembrie-1922405728062026102122899685"
+    }
+   ],
+   "summary": "Bucharest City Hall says six million lights will decorate the capital's main boulevards this winter and the Christmas market will open on 27 November, News.ro reports.",
+   "summary_ro": "Primăria Capitalei anunță că șase milioane de luminițe vor împodobi în această iarnă principalele bulevarde ale orașului, iar Târgul de Crăciun se deschide pe 27 noiembrie, relatează News.ro.",
+   "title": "Bucharest plans 6 million festive lights; Christmas market opens 27 November",
+   "title_ro": "Capitala va avea 6 milioane de luminițe; Târgul de Crăciun se deschide pe 27 noiembrie",
+   "topic": "culture",
+   "id": "buc-christmas-lights-fair"
   },
   {
    "place": "Bucharest",
@@ -566,6 +584,24 @@
    "id": "eu-banks-q3-profits"
   },
   {
+   "place": "Germany",
+   "place_ro": "Germania",
+   "publishedAt": "2026-10-28T07:54:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/28/german-chemicals-giant-basf-raises-profit-guidance-after-iran-war-price-hikes"
+    }
+   ],
+   "summary": "German chemicals group BASF raised its profit guidance after lifting prices in the wake of the Iran war, Euronews reports.",
+   "summary_ro": "Grupul chimic german BASF și-a majorat prognoza de profit după ce a crescut prețurile pe fondul războiului din Iran, relatează Euronews.",
+   "title": "BASF raises profit outlook after price increases linked to Iran war",
+   "title_ro": "BASF își îmbunătățește prognoza de profit după scumpirile legate de războiul din Iran",
+   "topic": "economy",
+   "id": "eu-basf-guidance"
+  },
+  {
    "place": "Belgium",
    "place_ro": "Belgia",
    "publishedAt": "2026-10-28T20:11:00Z",
@@ -798,6 +834,10 @@
     {
      "name": "Știrile ProTV",
      "url": "https://stirileprotv.ro/stiri/actualitate/nava-comerciala-care-venea-spre-constanta-lovita-de-3-drone-in-apele-bulgariei-este-a-cincea-atacata-luna-aceasta.html"
+    },
+    {
+     "name": "HotNews",
+     "url": "https://hotnews.ro/inca-o-nava-de-marfa-care-urma-sa-ajunga-la-constanta-a-fost-lovita-de-drone-in-largul-coastelor-bulgariei-2389173"
     }
    ],
    "summary": "The container ship Contship Jet, sailing from Haifa to Constanța, was struck by three drones about 21 nautical miles off Bulgaria's coast, Bulgarian Defence Minister Dimitar Stoyanov said; witnesses reported a fire on board and the crew was evacuated. Romanian Defence Minister Radu Oprea condemned the repeated drone attacks on merchant ships in the Black Sea.",
@@ -1244,10 +1284,14 @@
     {
      "name": "Agerpres",
      "url": "https://agerpres.ro/politic-extern/2026/10/28/politia-germana-a-arestat-doi-cetateni-belarusi-suspectati-de-planuirea-unor-acte-de-sabotaj-in-nume--1607829"
+    },
+    {
+     "name": "HotNews",
+     "url": "https://hotnews.ro/unde-sunt-acum-suspectii-cautati-in-legatura-cu-sabotaj-rusesc-de-la-fabrica-de-armament-carfil-din-brasov-2389309"
     }
    ],
-   "summary": "German police arrested two Belarusian citizens suspected of planning acts of sabotage on Russia's behalf, Agerpres reports.",
-   "summary_ro": "Poliția germană a arestat doi cetățeni belaruși suspectați că plănuiau acte de sabotaj în numele Rusiei, relatează Agerpres.",
+   "summary": "German police arrested two Belarusian citizens suspected of planning acts of sabotage on Russia's behalf in southern Germany, Agerpres reports. According to HotNews, Romanian investigators also suspect the pair in the Carfil fire near Brașov, and Romania is seeking their extradition.",
+   "summary_ro": "Poliția germană a arestat doi cetățeni belaruși suspectați că plănuiau acte de sabotaj în numele Rusiei în sudul Germaniei, relatează Agerpres. Potrivit HotNews, anchetatorii români îi suspectează pe cei doi și în cazul incendiului de la Carfil, de lângă Brașov, iar România cere extrădarea lor.",
    "title": "German police arrest two Belarusians over alleged sabotage plans for Russia",
    "title_ro": "Poliția germană a arestat doi belaruși suspectați că plănuiau sabotaje pentru Rusia",
    "topic": "security",
@@ -1270,6 +1314,24 @@
    "title_ro": "Serviciile germane avertizează asupra unor posibile violențe de Halloween",
    "topic": "security",
    "id": "eu-germany-halloween-security"
+  },
+  {
+   "place": "Germany",
+   "place_ro": "Germania",
+   "publishedAt": "2026-10-28T14:16:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/28/germany-and-japan-strengthen-economic-ties-as-global-tensions-rise"
+    }
+   ],
+   "summary": "Germany and Japan moved to strengthen their economic cooperation as global tensions rise, Euronews reports.",
+   "summary_ro": "Germania și Japonia și-au consolidat cooperarea economică pe fondul creșterii tensiunilor globale, relatează Euronews.",
+   "title": "Germany and Japan deepen economic ties amid global tensions",
+   "title_ro": "Germania și Japonia își strâng legăturile economice pe fondul tensiunilor globale",
+   "topic": "economy",
+   "id": "eu-germany-japan-ties"
   },
   {
    "place": "Bulgaria",
@@ -1832,6 +1894,10 @@
     {
      "name": "Digi24",
      "url": "https://www.digi24.ro/stiri/externe/mapamond/incetarea-focului-negociata-de-melania-trump-a-intrat-in-vigoare-intr-un-oras-ucrainean-ocupat-de-rusi-mii-de-civili-asteapta-ajutoare-4010245"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/28/evacuation-or-forced-deportation-where-will-trapped-citizens-of-russia-occupied-oleshky-go"
     }
    ],
    "summary": "A localised truce took effect in Russian-held Oleshky to allow humanitarian aid, and Melania Trump later said it had been extended into the Kherson region for aid convoys. Kyiv and Moscow agreed to US-mediated technical meetings in Abu Dhabi in early November. Melania Trump later said the truce had been extended within the Kherson region to let aid convoys pass.",
@@ -1868,6 +1934,10 @@
     {
      "name": "Digi24",
      "url": "https://www.digi24.ro/stiri/externe/ue/trei-din-patru-piloti-europeni-au-atipit-in-cockpit-in-timpul-zborului-aproape-un-sfert-continua-sa-piloteze-desi-sunt-prea-obositi-4009125"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/28/more-than-half-of-pilots-say-they-flew-while-tired-as-trust-in-reporting-systems-remains-l"
     }
    ],
    "summary": "A European Cockpit Association survey of about 7,200 pilots found three in four had fallen asleep at least once during a flight in the previous four weeks, and 24% said they usually keep flying when too tired.",
@@ -1904,6 +1974,14 @@
     {
      "name": "Mediafax",
      "url": "https://www.mediafax.ro/externe/o-decizie-istorica-tara-ue-care-va-gazdui-un-centru-de-intretinere-pentru-rachetele-patriot-23832623"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/28/poland-chosen-to-host-227m-patriot-missile-maintenance-centre"
+    },
+    {
+     "name": "HotNews",
+     "url": "https://hotnews.ro/polonia-anunta-ca-va-gazdui-singurul-centru-de-mentenanta-pentru-rachete-patriot-din-afara-statelor-unite-au-concurat-patru-tari-2388051"
     }
    ],
    "summary": "Poland's deputy defence minister announced the decision and the US Defense Department confirmed it; the roughly $253 million facility will be the only one outside the United States.",
@@ -1952,6 +2030,10 @@
     {
      "name": "Știri pe surse",
      "url": "https://www.stiripesurse.ro/lisabona-mii-de-persoane-protesteaza-in-fata-parlamentului-din-cauza-chriilor_3932007"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/video/2026/10/28/portugal-lisbon-housing-crisis-sparks-protest-outside-parliament"
     }
    ],
    "summary": "Thousands of people gathered outside the parliament in Lisbon during the state budget debate, protesting rents and housing prices that demonstrators say have doubled in recent years.",
@@ -2106,6 +2188,24 @@
    "title_ro": "Un tribunal rus condamnă un informatician la 13 ani pentru donații către Ucraina",
    "topic": "security",
    "id": "eu-russia-it-worker-binance"
+  },
+  {
+   "place": "Europe",
+   "place_ro": "Europa",
+   "publishedAt": "2026-10-28T12:12:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/28/checking-luggage-with-ryanair-airline-announces-earlier-baggage-drop-deadline"
+    }
+   ],
+   "summary": "Ryanair passengers will have to drop bags and check in at the airport earlier, with desks closing 60 minutes before departure from 10 November, Euronews reports.",
+   "summary_ro": "Pasagerii Ryanair vor trebui să predea bagajele și să facă check-in-ul la aeroport mai devreme: din 10 noiembrie, ghișeele se închid cu 60 de minute înainte de plecare, relatează Euronews.",
+   "title": "Ryanair to close bag drop and airport check-in earlier from November",
+   "title_ro": "Ryanair închide mai devreme predarea bagajelor și check-in-ul din noiembrie",
+   "topic": "economy",
+   "id": "eu-ryanair-bag-drop"
   },
   {
    "place": "Serbia",
@@ -2464,6 +2564,24 @@
    "id": "eu-trump-putin-zelensky-meeting"
   },
   {
+   "place": "Italy",
+   "place_ro": "Italia",
+   "publishedAt": "2026-10-28T11:50:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/28/space-industries-opens-stellar-hub-in-turin-one-of-europes-largest-satellite-factories"
+    }
+   ],
+   "summary": "Space Industries has opened its Stellar Hub in Turin, described by Euronews as one of Europe's largest satellite factories.",
+   "summary_ro": "Compania Space Industries a inaugurat la Torino centrul Stellar Hub, descris de Euronews drept una dintre cele mai mari fabrici de sateliți din Europa.",
+   "title": "Space Industries opens large satellite factory near Turin",
+   "title_ro": "Space Industries deschide o fabrică mare de sateliți lângă Torino",
+   "topic": "tech",
+   "id": "eu-turin-satellite-factory"
+  },
+  {
    "place": "France",
    "place_ro": "Franța",
    "publishedAt": "2026-10-28T18:42:00Z",
@@ -2578,6 +2696,10 @@
     {
      "name": "Știri pe surse",
      "url": "https://www.stiripesurse.ro/guvernul-britanic-pregateste-reduceri-la-facturile-de-energie-si-taxe-mai-mari-pentru-banci-cheltuieli-mai-mari-pentru-aparare-si-ai_3932143"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/28/uk-budget-heres-five-key-takeaways-from-the-chancellors-speech"
     }
    ],
    "summary": "Chancellor John Healey presented the Burnham government's first budget, raising the bank profit surcharge to 6% from 3%, Bloomberg reports. Al Jazeera said the budget was expected to fund defence plans, target VAT avoidance by overseas online sellers and help households with energy bills.",
@@ -2788,6 +2910,10 @@
     {
      "name": "Mediafax",
      "url": "https://www.mediafax.ro/externe/zelenski-afirma-ca-ucraina-a-recucerit-teritorii-si-ca-fortele-sale-sunt-in-ofensiva-23832735"
+    },
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/zelenski-anunta-ca-ucraina-a-recucerit-teritorii-si-ca-fortele-sale-sunt-in-ofensiva-cea-mai-buna-situatie-pe-campul-de-lupta-din-ultima-perioada.html"
     }
    ],
    "summary": "Volodymyr Zelensky said in an evening address that Ukraine's position on the front is the most favourable in a long time and could improve further if partners quickly send air defence, Reuters reports via Știri pe surse. He described operations near Kupiansk and in the north aimed at stopping Russian advances.",
@@ -6176,6 +6302,42 @@
   {
    "place": "Romania",
    "place_ro": "România",
+   "publishedAt": "2026-10-27T09:00:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Romania Insider",
+     "url": "https://www.romania-insider.com/business/international-fashion-group-about-you-launches-marketplace-romania"
+    }
+   ],
+   "summary": "International fashion retailer About You has launched its marketplace in Romania, Romania Insider reports.",
+   "summary_ro": "Retailerul internațional de modă About You și-a lansat platforma de tip marketplace în România, relatează Romania Insider.",
+   "title": "Fashion group About You launches online marketplace in Romania",
+   "title_ro": "Grupul de modă About You lansează un marketplace în România",
+   "topic": "economy",
+   "id": "ro-about-you-marketplace"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-27T09:00:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Romania Insider",
+     "url": "https://www.romania-insider.com/business/accor-report-romania-among-europes-fastest-growing-tourism-markets"
+    }
+   ],
+   "summary": "A report by hotel group Accor places Romania among Europe's fastest-growing tourism markets through 2036, Romania Insider reports.",
+   "summary_ro": "Un raport al grupului hotelier Accor plasează România printre piețele turistice cu cea mai rapidă creștere din Europa până în 2036, relatează Romania Insider.",
+   "title": "Accor report ranks Romania among Europe's fastest-growing tourism markets",
+   "title_ro": "Raport Accor: România, printre piețele turistice cu cea mai rapidă creștere din Europa",
+   "topic": "economy",
+   "id": "ro-accor-tourism-growth"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
    "publishedAt": "2026-10-27T09:16:00Z",
    "region": "romania",
    "sources": [
@@ -6300,6 +6462,24 @@
   {
    "place": "Romania",
    "place_ro": "România",
+   "publishedAt": "2026-10-27T09:00:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Romania Insider",
+     "url": "https://www.romania-insider.com/business/romanian-mobility-group-autonom-takes-business-lease-romania"
+    }
+   ],
+   "summary": "Romanian mobility group Autonom has taken over Business Lease Romania from AutoBinck, Romania Insider reports.",
+   "summary_ro": "Grupul românesc de mobilitate Autonom a preluat Business Lease România de la grupul AutoBinck, relatează Romania Insider.",
+   "title": "Autonom takes over Business Lease Romania from AutoBinck",
+   "title_ro": "Autonom preia Business Lease România de la AutoBinck",
+   "topic": "economy",
+   "id": "ro-autonom-business-lease"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
    "publishedAt": "2026-10-28T13:08:00Z",
    "region": "romania",
    "sources": [
@@ -6364,6 +6544,10 @@
     {
      "name": "B1 TV",
      "url": "https://www.b1tv.ro/eveniment/elevul-care-a-atacat-cu-cutitul-o-profesoara-in-bistrita-a-fost-exmatriculat-1744691.html"
+    },
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/elevul-agresor-de-la-bistrita-va-fi-exmatriculat-se-poate-reinscrie-la-scoala-incepand-cu-anul-scolar-viitor-dar-intr-o-alta-unitate-de-invatamant.html"
     }
    ],
    "summary": "The 13-year-old who carried out the 19 October knife attack at a Bistrița school was discharged from psychiatric care and questioned, and the school has now expelled him. He is barred from contacting the victims and may only return to education next year at a different school.",
@@ -6612,6 +6796,10 @@
     {
      "name": "G4Media",
      "url": "https://www.g4media.ro/ucraineanul-acuzat-de-sabotaj-la-uzina-carfil-a-fost-arestat-preventiv-pentru-sapte-zile-in-polonia-a-refuzat-extradarea-in-romania.html"
+    },
+    {
+     "name": "HotNews",
+     "url": "https://hotnews.ro/unde-sunt-acum-suspectii-cautati-in-legatura-cu-sabotaj-rusesc-de-la-fabrica-de-armament-carfil-din-brasov-2389309"
     }
    ],
    "summary": "A Warsaw court ordered seven days' detention for a 25-year-old Ukrainian suspected of helping prepare the sabotage at Romania's Carfil arms plant, pending a Romanian European arrest warrant, G4Media reports. Polish prosecutors say he did not consent to being sent to Romania.",
@@ -6960,6 +7148,24 @@
    "id": "ro-energy-eu-winter-supply"
   },
   {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-27T09:00:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Romania Insider",
+     "url": "https://www.romania-insider.com/business/polish-charter-operator-enter-air-enters-romanian-market"
+    }
+   ],
+   "summary": "Polish charter operator Enter Air has started operating in Romania, Romania Insider reports.",
+   "summary_ro": "Operatorul aerian charter polonez Enter Air și-a început activitatea în România, relatează Romania Insider.",
+   "title": "Polish charter airline Enter Air enters the Romanian market",
+   "title_ro": "Operatorul charter polonez Enter Air intră pe piața din România",
+   "topic": "economy",
+   "id": "ro-enter-air-entry"
+  },
+  {
    "place": "Galați",
    "place_ro": "Galați",
    "publishedAt": "2026-10-26T20:54:00Z",
@@ -7262,6 +7468,10 @@
     {
      "name": "B1 TV",
      "url": "https://www.b1tv.ro/eveniment/tablou-absolut-superb-de-grigorescu-evaluat-la-35-lei-ce-spune-ministra-culturii-1744692.html"
+    },
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/este-o-eroare-bineinteles-ca-este-o-eroare-cum-explica-ministra-culturii-evaluarea-la-35-lei-a-tabloului-de-grigorescu.html"
     }
    ],
    "summary": "A Nicolae Grigorescu painting at the Ploiești art museum is recorded at 3.5 lei. Culture Minister Ioana Ciocan said the figure likely stems from the 2005 currency redenomination and that the work will be revalued by experts.",
@@ -7668,6 +7878,10 @@
     {
      "name": "B1 TV",
      "url": "https://www.b1tv.ro/eveniment/oscar-2027-fjord-filmul-lui-cristian-mungiu-promovare-de-100-000-de-euro-1744662.html"
+    },
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/ministerul-culturii-sustine-cu-500-000-de-lei-promovarea-la-oscar-a-filmului-fjord-mungiu-poate-sa-faca-cel-mai-fabulos-film-de-pe-suprafata-pamantului-dar-el-are-un-fel-de-campanie-el.html"
     }
    ],
    "summary": "Culture Minister Ioana Ciocan said the ministry is supporting Cristian Mungiu's film 'Fjord' in its Oscar campaign with far less money than Spain gives its entry. She noted Romania has about 60 cinemas, down from over 600 in 1989.",
@@ -8052,6 +8266,10 @@
     {
      "name": "Romania Insider",
      "url": "https://www.romania-insider.com/society/romanian-intelligence-links-fire-carfil-industrial-platform-russian"
+    },
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/stiri/politic/reactia-rusiei-dupa-sabotajul-de-la-fabrica-de-armament-carfil-din-brasov-ce-a-spus-ambasadorul-rus-la-mae.html"
     }
    ],
    "summary": "Romanian intelligence and prosecutors say a network coordinated from Russia set a September fire near the Carfil state weapons factory near Brașov. Three suspects are named; two are held in Germany and one is sought in Poland. The president called it a serious breach of a NATO member's security; Digi24 reports the suspects allegedly scouted the site a few days before the sabotage attempt. Digi24 reports the suspects allegedly scouted the site several days before the attempt.",
@@ -8184,6 +8402,28 @@
    "title_ro": "Parohiile protestează față de festivalul de Halloween din Sighișoara",
    "topic": "culture",
    "id": "ro-sighisoara-halloween"
+  },
+  {
+   "place": "Timișoara",
+   "place_ro": "Timișoara",
+   "publishedAt": "2026-10-27T10:00:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Romania Insider",
+     "url": "https://www.romania-insider.com/business/romanias-first-indoor-skydiving-simulator-opens-near-timisoara"
+    },
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/senzatia-caderii-libere-la-290-km-h-fara-a-sari-din-avion-s-a-deschis-primul-simulator-de-parasutism-din-romania-o-sesiune-de-zbor-dureaza-aproximativ-un-minut.html"
+    }
+   ],
+   "summary": "The country's first indoor skydiving simulator is opening near Timișoara, letting visitors experience free fall at up to 290 km/h without jumping from a plane, Romania Insider and G4Media report.",
+   "summary_ro": "Primul simulator de parașutism indoor din țară se deschide lângă Timișoara și oferă senzația de cădere liberă la până la 290 km/h, fără salt din avion, relatează Romania Insider și G4Media.",
+   "title": "Romania's first indoor skydiving simulator opens near Timișoara",
+   "title_ro": "Primul simulator de parașutism indoor din România se deschide lângă Timișoara",
+   "topic": "sport",
+   "id": "ro-skydiving-simulator"
   },
   {
    "place": "Slatina",
@@ -8786,6 +9026,24 @@
    "id": "world-california-voting-ruling"
   },
   {
+   "place": "Cambodia",
+   "place_ro": "Cambodgia",
+   "publishedAt": "2026-10-28T10:30:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/28/abandon-ship-around-200-cruise-for-life-passengers-stranded-in-cambodia"
+    }
+   ],
+   "summary": "Around 200 passengers who had booked a long-term 'cruise for life' were left stranded in Cambodia, Euronews reports.",
+   "summary_ro": "Circa 200 de pasageri care rezervaseră o „croazieră pe viață” au rămas blocați în Cambodgia, relatează Euronews.",
+   "title": "About 200 passengers of 'cruise for life' left stranded in Cambodia",
+   "title_ro": "Aproximativ 200 de pasageri ai unei „croaziere pe viață” au rămas blocați în Cambodgia",
+   "topic": "world",
+   "id": "world-cambodia-cruise-stranded"
+  },
+  {
    "place": "China",
    "place_ro": "China",
    "publishedAt": "2026-10-27T06:00:00Z",
@@ -8842,6 +9100,10 @@
     {
      "name": "Știrile ProTV",
      "url": "https://stirileprotv.ro/stiri/international/un-schelet-rar-de-nanotyrannus-s-a-vandut-cu-47-3-milioane-de-dolari-la-o-licita-ie-din-new-york-video.html"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/28/small-and-very-scary-rare-miniature-trex-dinosaur-skeleton-fetches-42-million-at-auction"
     }
    ],
    "summary": "A rare Nanotyrannus skeleton sold for $47.3 million at a New York auction, the second-highest price ever paid for a dinosaur specimen, Mediafax and Știrile ProTV report.",
@@ -9096,6 +9358,10 @@
     {
      "name": "Euronews",
      "url": "https://www.euronews.com/2026/10/27/brazilian-police-probe-claims-flavio-bolsonaro-fled-to-argentina-after-election-defeat"
+    },
+    {
+     "name": "News.ro",
+     "url": "https://www.news.ro/externe/fuga-flavio-bolsonaro-brazilia-rusinoasa-denunta-lula-brasilia-petrecere-implinirea-varstei-81-ani-brazilia-doua-patrie-prima-linga-cizmele-statelor-unite-fugarul-ajuns-sua-1922404428002026101122896823"
     }
    ],
    "summary": "Flávio Bolsonaro, who lost Brazil's presidential runoff, left the country after police cancelled his passports under a court order in a corruption and money-laundering probe. After conflicting reports placed him in Argentina and Ecuador, Digi24 reports he has arrived in the United States by a roundabout route; the US State Department had said visas would be issued to the family.",
@@ -9630,6 +9896,10 @@
     {
      "name": "Euronews",
      "url": "https://www.euronews.com/2026/10/28/climate-change-should-be-declared-health-emergency-as-health-risks-can-no-longer-be-ignore"
+    },
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/decesele-cauzate-de-caldura-au-depasit-malaria-si-hiv-710-000-de-morti-intr-un-singur-an-expertii-cer-ca-schimbarile-climatice-sa-fie-declarate-urgenta-globala-de-sanatate.html"
     }
    ],
    "summary": "The Lancet Countdown on health and climate change says about 710,000 people died from heat in 2023, more than from malaria or HIV, with over 70% linked to human-caused warming; the authors urge recognising climate change as a global health emergency ahead of COP31.",
@@ -9780,6 +10050,10 @@
     {
      "name": "Mediafax",
      "url": "https://www.mediafax.ro/life-inedit/nasa-schimba-planul-pentru-intoarcerea-oamenilor-pe-luna-in-2028-elon-musk-si-jeff-bezos-pregatesc-doua-solutii-diferite-23832799"
+    },
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/nasa-schimba-planul-pentru-intoarcerea-oamenilor-pe-luna-in-2028-companiile-lui-elon-musk-si-jeff-bezos-vor-folosi-doua-strategii-diferite-pentru-transportul-echipajelor.html"
     }
    ],
    "summary": "NASA has revised its plan for returning astronauts to the Moon in 2028, with SpaceX and Blue Origin preparing different lander approaches, Mediafax reports.",
@@ -10378,6 +10652,24 @@
    "title_ro": "Trump își asumă meritul pentru rezultatul lui Netanyahu la alegeri",
    "topic": "world",
    "id": "world-trump-netanyahu-credit"
+  },
+  {
+   "place": "United States",
+   "place_ro": "SUA",
+   "publishedAt": "2026-10-28T15:38:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/externe/sua/donald-trump-sustine-ca-panourile-solare-omoara-animalele-sar-pe-ele-si-se-prajesc-4012637"
+    }
+   ],
+   "summary": "At a rally in Texas, US President Donald Trump claimed that solar panels kill animals, Digi24 reports.",
+   "summary_ro": "La un miting în Texas, președintele american Donald Trump a afirmat că panourile solare omoară animale, relatează Digi24.",
+   "title": "Trump claims at Texas rally that solar panels kill animals",
+   "title_ro": "Trump susține, la un miting în Texas, că panourile solare omoară animale",
+   "topic": "world",
+   "id": "world-trump-solar-claim"
   },
   {
    "place": "New York",
