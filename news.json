@@ -1,5 +1,5 @@
 {
- "lastRun": "2026-10-28T21:00:56Z",
+ "lastRun": "2026-10-28T21:55:26Z",
  "stories": [
   {
    "place": "Bucharest",
@@ -366,6 +366,24 @@
   {
    "place": "Bucharest",
    "place_ro": "București",
+   "publishedAt": "2026-10-28T15:35:00Z",
+   "region": "bucharest",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/social/termoenergetica-explica-de-ce-a-lipsit-apa-calda-in-sectorul-4-in-ultima-perioada-cand-ar-urma-sa-se-stabilizeze-situatia-23833266"
+    }
+   ],
+   "summary": "Bucharest heating company Termoenergetica explained why residents of Sector 4 recently went without hot water and said when supply should stabilise, Mediafax reports.",
+   "summary_ro": "Compania Termoenergetica a explicat de ce locuitorii din Sectorul 4 au rămas recent fără apă caldă și a precizat când ar urma să se stabilizeze furnizarea, relatează Mediafax.",
+   "title": "Termoenergetica explains hot water outages in Sector 4",
+   "title_ro": "Termoenergetica explică lipsa apei calde din Sectorul 4",
+   "topic": "energy",
+   "id": "buc-sector4-hot-water"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
    "publishedAt": "2026-10-28T17:47:00Z",
    "region": "bucharest",
    "sources": [
@@ -510,6 +528,24 @@
    "title_ro": "Fleetwood, din liga a patra, elimină Arsenal din Cupa Ligii la penalty-uri",
    "topic": "sport",
    "id": "eu-arsenal-fleetwood"
+  },
+  {
+   "place": "Austria",
+   "place_ro": "Austria",
+   "publishedAt": "2026-10-28T16:06:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/28/eu-approves-319-million-in-state-aid-to-austrian-first-of-a-kind-next-generation-semicondu"
+    }
+   ],
+   "summary": "The European Commission cleared €319 million in Austrian state aid for what it described as a first-of-a-kind next-generation semiconductor factory, Euronews reports.",
+   "summary_ro": "Comisia Europeană a aprobat un ajutor de stat austriac de 319 milioane de euro pentru o fabrică de semiconductori de nouă generație, prima de acest tip, relatează Euronews.",
+   "title": "EU approves €319m state aid for Austrian semiconductor plant",
+   "title_ro": "UE aprobă ajutor de stat de 319 milioane de euro pentru o fabrică de cipuri din Austria",
+   "topic": "tech",
+   "id": "eu-austria-chip-state-aid"
   },
   {
    "place": "Europe",
@@ -662,6 +698,24 @@
    "title_ro": "UE renunță la ideea statutului de membru asociat pentru Canada după obiecții",
    "topic": "world",
    "id": "eu-canada-associate"
+  },
+  {
+   "place": "Brussels",
+   "place_ro": "Bruxelles",
+   "publishedAt": "2026-10-28T14:57:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/28/eu-and-canada-explore-lng-deal-as-europe-grapples-with-gas-crisis"
+    }
+   ],
+   "summary": "The EU and Canada are discussing a possible liquefied natural gas deal as Europe faces rising gas prices, Euronews reports.",
+   "summary_ro": "UE și Canada discută un posibil acord privind gazul natural lichefiat, în contextul în care Europa se confruntă cu prețuri tot mai mari la gaze, relatează Euronews.",
+   "title": "EU and Canada explore LNG deal amid European gas crisis",
+   "title_ro": "UE și Canada discută un acord privind gazul natural lichefiat",
+   "topic": "energy",
+   "id": "eu-canada-lng-talks"
   },
   {
    "place": "Brussels",
@@ -1062,6 +1116,24 @@
    "id": "eu-france-student-protests"
   },
   {
+   "place": "France",
+   "place_ro": "Franța",
+   "publishedAt": "2026-10-28T17:53:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic-extern/2026/10/28/franta-experti-onu-consternati-de-represiunea-manifestatiilor-studentesti--1607830"
+    }
+   ],
+   "summary": "UN human rights experts said they were dismayed by what they called the repression of student demonstrations in France, Agerpres reports.",
+   "summary_ro": "Experți ONU în drepturile omului s-au declarat consternați de ceea ce au numit represiunea manifestațiilor studențești din Franța, relatează Agerpres.",
+   "title": "UN experts criticise French crackdown on student protests",
+   "title_ro": "Experți ONU critică reprimarea protestelor studențești din Franța",
+   "topic": "politics",
+   "id": "eu-france-un-experts-protests"
+  },
+  {
    "place": "Brussels",
    "place_ro": "Bruxelles",
    "publishedAt": "2026-10-27T08:00:00Z",
@@ -1234,6 +1306,24 @@
    "title_ro": "Ungaria: arestări în ancheta privind achizițiile din pandemie ale guvernului Orbán",
    "topic": "politics",
    "id": "eu-hungary-covid-procurement-probe"
+  },
+  {
+   "place": "Hungary",
+   "place_ro": "Ungaria",
+   "publishedAt": "2026-10-28T15:51:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/28/hungarys-54bn-defence-loan-approved-as-eu-wraps-first-safe-round"
+    }
+   ],
+   "summary": "The EU approved a €5.4 billion defence loan for Hungary as it completed the first round of its SAFE defence lending programme, Euronews reports.",
+   "summary_ro": "UE a aprobat un împrumut de 5,4 miliarde de euro pentru apărarea Ungariei, încheind astfel prima rundă a programului de creditare SAFE, relatează Euronews.",
+   "title": "EU approves €5.4bn defence loan for Hungary under SAFE",
+   "title_ro": "UE aprobă un împrumut de 5,4 miliarde de euro pentru apărarea Ungariei",
+   "topic": "security",
+   "id": "eu-hungary-safe-loan"
   },
   {
    "place": "Brussels",
@@ -1516,6 +1606,24 @@
   {
    "place": "Moldova",
    "place_ro": "Republica Moldova",
+   "publishedAt": "2026-10-28T20:37:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/externe/moldova/consiliul-de-securitate-al-r-moldova-convocat-dupa-un-atac-cibernetic-in-care-au-fost-furate-datele-personale-a-750-000-de-cetateni-4013145"
+    }
+   ],
+   "summary": "Moldovan President Maia Sandu called a National Security Council meeting over a cyberattack that exposed data linked to about 750,000 personal ID numbers. PM Vasile Tofan dismissed the head of the e-Governance Agency, and officials said they suspect involvement of foreign state actors.",
+   "summary_ro": "Președinta Maia Sandu a convocat Consiliul Național de Securitate după un atac cibernetic care a expus date asociate cu circa 750.000 de coduri personale. Premierul Vasile Tofan a demis-o pe directoarea Agenției de Guvernare Electronică, iar autoritățile spun că suspectează implicarea unor actori statali străini.",
+   "title": "Sandu convenes security council after cyberattack; e-governance chief fired",
+   "title_ro": "Sandu convoacă Consiliul de Securitate după atacul cibernetic; șefa e-Guvernării, demisă",
+   "topic": "security",
+   "id": "eu-moldova-security-council-cyberattack"
+  },
+  {
+   "place": "Moldova",
+   "place_ro": "Republica Moldova",
    "publishedAt": "2026-10-27T08:00:00Z",
    "region": "europe",
    "sources": [
@@ -1530,6 +1638,24 @@
    "title_ro": "Ucraina și Moldova semnează un acord de cooperare militară",
    "topic": "security",
    "id": "eu-moldova-ukraine-defence"
+  },
+  {
+   "place": "Brussels",
+   "place_ro": "Bruxelles",
+   "publishedAt": "2026-10-28T12:46:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/28/eu-begins-talks-on-tougher-safeguards-for-newcomers-with-montenegro-first-in-line"
+    }
+   ],
+   "summary": "The EU has begun negotiating stronger safeguard clauses for countries joining the bloc, with Montenegro the first candidate concerned, Euronews reports.",
+   "summary_ro": "UE a început negocierile privind clauze de salvgardare mai stricte pentru statele care aderă, Muntenegru fiind primul candidat vizat, relatează Euronews.",
+   "title": "EU opens talks on tougher safeguards for new members, starting with Montenegro",
+   "title_ro": "UE negociază garanții mai stricte pentru noii membri, începând cu Muntenegru",
+   "topic": "politics",
+   "id": "eu-montenegro-safeguards"
   },
   {
    "place": "Moscow",
@@ -1566,6 +1692,28 @@
    "title_ro": "Președintele Poloniei va fi audiat în procesul intentat proprietarului Onet",
    "topic": "politics",
    "id": "eu-nawrocki-court-hearing"
+  },
+  {
+   "place": "Brussels",
+   "place_ro": "Bruxelles",
+   "publishedAt": "2026-10-28T15:58:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/28/nord-stream-pipeline-wont-reopen-after-the-war-brussels-tells-the-us-and-russia"
+    },
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/externe/conducta-nord-stream-nu-se-va-redeschide-dupa-razboi-spune-bruxelles-ul-23833310"
+    }
+   ],
+   "summary": "The European Commission has told Washington and Moscow that the Nord Stream gas pipeline will not be brought back into use once the war in Ukraine ends, Euronews reports.",
+   "summary_ro": "Comisia Europeană a transmis SUA și Rusiei că gazoductul Nord Stream nu va fi repus în funcțiune după încheierea războiului din Ucraina, relatează Euronews.",
+   "title": "Brussels tells US and Russia Nord Stream will not reopen after the war",
+   "title_ro": "Bruxelles: Nord Stream nu va fi redeschis după război",
+   "topic": "energy",
+   "id": "eu-nord-stream-no-reopen"
   },
   {
    "place": "Finland / Norway",
@@ -2298,6 +2446,24 @@
    "id": "eu-trump-putin-zelensky-meeting"
   },
   {
+   "place": "France",
+   "place_ro": "Franța",
+   "publishedAt": "2026-10-28T18:42:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/28/uefa-reschedules-europa-league-match-amid-planned-french-general-strike"
+    }
+   ],
+   "summary": "UEFA moved a Europa League match because of a general strike planned in France, Euronews reports.",
+   "summary_ro": "UEFA a mutat un meci din Europa League din cauza grevei generale planificate în Franța, relatează Euronews.",
+   "title": "UEFA reschedules Europa League match over French general strike",
+   "title_ro": "UEFA reprogramează un meci din Europa League din cauza grevei generale din Franța",
+   "topic": "sport",
+   "id": "eu-uefa-french-strike"
+  },
+  {
    "place": "United Kingdom",
    "place_ro": "Marea Britanie",
    "publishedAt": "2026-10-27T21:10:00Z",
@@ -2834,6 +3000,10 @@
     {
      "name": "Gândul",
      "url": "https://www.gandul.ro/politica/aur-ameninta-guvernul-luca-niculescu-cu-motiunea-de-cenzura-conditiile-care-pot-duce-la-motiune-prezentate-de-petrisor-peiu-21048056"
+    },
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/politic/aur-anunta-ca-va-depune-o-motiune-de-cenzura-impotriva-guvernului-in-ce-conditii-va-face-demersul-23833259"
     }
    ],
    "summary": "AUR leader George Simion said opposition parties should file censure motions whenever the government ties its fate to bills, and AUR Senate leader Petrișor Peiu said the party will do so alone, either then or at the end of the session, since other opposition parties declined to join.",
@@ -2868,6 +3038,24 @@
    "title_ro": "AUR acuză Guvernul că ascunde deficitul real și pregătește taxe noi",
    "topic": "politics",
    "id": "pol-aur-deficit-claims"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-28T17:20:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic/2026/10/28/mihai-enache-aur-usr-a-transformat-o-procedura-parlamentara-intr-un-scandal-fabricat--1607823"
+    }
+   ],
+   "summary": "AUR deputy Mihai Enache said USR turned a routine parliamentary procedure into a manufactured scandal, replying to USR claims that PSD and AUR voted together in the Chamber of Deputies' Permanent Bureau.",
+   "summary_ro": "Deputatul AUR Mihai Enache a declarat că USR a transformat o procedură parlamentară obișnuită într-un scandal fabricat, ca răspuns la acuzațiile USR că PSD și AUR au votat împreună în Biroul Permanent al Camerei Deputaților.",
+   "title": "AUR's Enache accuses USR of inventing a scandal over Chamber vote",
+   "title_ro": "Enache (AUR) acuză USR că a inventat un scandal după votul din Cameră",
+   "topic": "politics",
+   "id": "pol-aur-enache-usr-scandal"
   },
   {
    "place": "Bucharest",
@@ -3754,6 +3942,14 @@
     {
      "name": "Digi24",
      "url": "https://www.digi24.ro/stiri/actualitate/politica/dominic-fritz-promite-luni-o-discutie-cu-cifrele-pe-masa-psd-se-preface-ca-ar-cauta-gaura-in-buget-dar-ce-cauta-de-fapt-e-o-scuza-4012773"
+    },
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/politic/dominic-fritz-acuzatii-la-adresa-social-democratilor-psd-se-preface-ca-ar-cauta-gaura-in-buget-dar-ce-cauta-de-fapt-e-o-scuza-23833303"
+    },
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic/2026/10/28/dominic-fritz-psd-se-preface-ca-ar-cauta-gaura-in-buget-dar-ce-cauta-de-fapt-e-o-scuza--1607828"
     }
    ],
    "summary": "USR leader Dominic Fritz accused PSD of using talk of a budget gap as a pretext, saying its programme promises spending without saying how it would be paid for. He said USR wants a discussion with the figures on the table when Finance Minister Alexandru Nazare is called to Parliament on Monday.",
@@ -3968,6 +4164,14 @@
     {
      "name": "News.ro",
      "url": "https://www.news.ro/politic-intern/george-simion-anunta-proteste-de-strada-dupa-prelungirea-mandatului-de-arestare-preventiva-pe-numele-lui-calin-georgescu-dictaturile-niciodata-nu-au-sfarsit-bine-1922404428002026102122899626"
+    },
+    {
+     "name": "HotNews",
+     "url": "https://hotnews.ro/george-simion-anunta-proteste-de-strada-pentru-calin-georgescu-pana-cand-opriti-represiunea-2389299"
+    },
+    {
+     "name": "Gândul",
+     "url": "https://www.gandul.ro/actualitate/george-simion-calin-georgescu-protest-arest-21048262"
     }
    ],
    "summary": "AUR leader George Simion said his supporters will protest in the street after the appeals court extended Călin Georgescu's pretrial detention by 30 days, saying dictatorships never end well. Georgescu's wife, Cristela, said the ruling breaches fundamental rights.",
@@ -5204,6 +5408,14 @@
     {
      "name": "Gândul",
      "url": "https://www.gandul.ro/actualitate/psd-acuza-usr-dublu-standard-numiri-economie-21048172"
+    },
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/politic/psd-acuza-usr-ca-si-a-numit-oamenii-in-conducerea-companiilor-de-stat-dublul-standard-al-usr-nu-se-opreste-niciodata-23833283"
+    },
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic/2026/10/28/psd-dublul-standard-al-usr-nu-se-opreste-niciodata--1607813"
     }
    ],
    "summary": "PSD accused USR of hypocrisy over appointments made while it was in government, saying 32 people linked to USR sit on boards of companies under the Economy Ministry with combined monthly pay of about 276,000 lei, Gândul reports. USR has not accepted PSD's framing.",
@@ -5308,6 +5520,10 @@
     {
      "name": "News.ro",
      "url": "https://www.news.ro/politic-intern/rogobete-nepriceperea-incompetenta-fostului-presedinte-casei-nationale-asigurari-sanatate-generat-cea-mare-criza-cadrul-programelor-nationale-bolojan-om-viziune-intelege-sistemul-sanatate-1922402828002026101922899004"
+    },
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/social/rogobete-acuza-influente-in-alocarea-banilor-din-sanatate-prima-data-se-platesc-facturile-pentru-cabinete-private-23833305"
     }
    ],
    "summary": "Health Minister Alexandru Rogobete said the former head of the National Health Insurance House caused the biggest crisis in national health programmes and accused former PM Ilie Bolojan of lacking vision on the health system, News.ro reports.",
@@ -7072,6 +7288,10 @@
     {
      "name": "Știrile ProTV",
      "url": "https://stirileprotv.ro/stiri/actualitate/nunta-transformata-in-ancheta-penala-mirele-ar-fi-ascuns-camere-video-in-dormitoarele-invitatilor-pentru-a-i-filma-in-momente-intime.html"
+    },
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/social/dispozitive-care-ar-fi-permis-filmarea-intr-o-camera-de-cazare-din-sibiu-politistii-au-facut-o-perchezitie-23833308"
     }
    ],
    "summary": "Police carried out searches in a tourist area after a couple reported finding a hidden camera in the room where they were staying, Digi24 reports.",
@@ -7560,6 +7780,10 @@
     {
      "name": "Digi24",
      "url": "https://www.digi24.ro/stiri/economie/ministrul-fondurilor-europene-romania-are-la-dispozitie-doua-saptamani-pentru-a-inchide-procedurile-administrative-restante-din-pnrr-4009233"
+    },
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/economic/romania-trebuie-pana-la-6-noiembrie-sa-justifice-miliarde-de-euro-din-pnrr-ce-solicita-comisiei-europene-23833220"
     }
    ],
    "summary": "The EU funds minister says Romania has two weeks to finish outstanding administrative steps under the recovery plan (PNRR).",
@@ -7846,6 +8070,10 @@
     {
      "name": "G4Media",
      "url": "https://www.g4media.ro/video-ministrul-transporturilor-a-confundat-tunelul-momaia-de-pe-sibiu-pitesti-cu-numele-actorului-jason-momoa-in-luna-noiembrie-se-va-circula-pe-lotul-4-al-autostrazii-a1.html"
+    },
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/economic/autostrada-sibiu-pitesti-acordul-de-mediu-revizuit-pentru-sectiunile-2-si-3-ar-putea-fi-emis-in-decembrie-23833244"
     }
    ],
    "summary": "Transport Minister Ștefan Ovidiu Popa said sections 2 and 3 will be delayed because a revised environmental permit is stuck, while section 4 should open to traffic next month.",
@@ -7974,6 +8202,24 @@
    "title_ro": "Peste 36.000 de studenți vor primi burse sociale de 925 de lei",
    "topic": "economy",
    "id": "ro-student-social-scholarships"
+  },
+  {
+   "place": "Sibiu county",
+   "place_ro": "Județul Sibiu",
+   "publishedAt": "2026-10-28T18:46:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/social/sibiu-doi-copii-de-2-si-4-ani-gasiti-in-stop-cardiorespirator-intr-o-locuinta-din-talmaciu-medicii-incearca-sa-ii-resusciteze-23833325"
+    }
+   ],
+   "summary": "Two children aged 2 and 4 were found in cardiac arrest in a house in Tălmaciu, Sibiu county, and doctors were trying to resuscitate them, Mediafax reports.",
+   "summary_ro": "Doi copii, de 2 și 4 ani, au fost găsiți în stop cardio-respirator într-o casă din Tălmaciu, județul Sibiu, iar medicii au încercat să îi resusciteze, relatează Mediafax.",
+   "title": "Two young children found in cardiac arrest in a home in Tălmaciu",
+   "title_ro": "Doi copii, găsiți în stop cardio-respirator într-o locuință din Tălmaciu",
+   "topic": "security",
+   "id": "ro-talmaciu-children-cardiac-arrest"
   },
   {
    "place": "Timiș",
@@ -8734,6 +8980,10 @@
     {
      "name": "Ziarul Financiar",
      "url": "https://www.zf.ro/banci-si-asigurari/rezerva-federala-a-sua-cea-mai-puternica-banca-centrala-din-lume-a-mentinut-dobanda-in-intervalul-3-75-4-desi-inflatia-americana-accelereaza-pe-fondul-scumpirii-carburantilor-23269952"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/28/fed-holds-rates-days-before-us-midterms-as-two-officials-push-for-another-hike"
     }
    ],
    "summary": "The Federal Reserve kept its benchmark rate unchanged in the 3.75–4% range, saying more data would guide its next decision, even as US inflation picks up on higher fuel prices, Bloomberg and Ziarul Financiar report.",
@@ -9162,6 +9412,24 @@
    "id": "world-israel-election"
   },
   {
+   "place": "Israel",
+   "place_ro": "Israel",
+   "publishedAt": "2026-10-28T17:45:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic-extern/2026/10/28/alegeri-in-israel-likud-acuza-partidele-arabe-ca-fura-alegerile-si-cere-sa-fie-verificate-voturile--1607826"
+    }
+   ],
+   "summary": "Netanyahu's Likud party accused Arab parties of stealing the election and asked for votes to be verified, as counting continues after the inconclusive poll, Agerpres reports.",
+   "summary_ro": "Partidul Likud al lui Netanyahu a acuzat partidele arabe că fură alegerile și a cerut verificarea voturilor, în timp ce numărătoarea continuă după scrutinul fără un câștigător clar, relatează Agerpres.",
+   "title": "Likud accuses Arab parties of stealing election, demands vote checks",
+   "title_ro": "Likud acuză partidele arabe că fură alegerile și cere verificarea voturilor",
+   "topic": "world",
+   "id": "world-israel-likud-vote-check"
+  },
+  {
    "place": "India",
    "place_ro": "India",
    "publishedAt": "2026-10-28T09:14:00Z",
@@ -9236,6 +9504,24 @@
    "title_ro": "Actorul din Star Trek Walter Koenig a murit la 90 de ani",
    "topic": "culture",
    "id": "world-koenig"
+  },
+  {
+   "place": "South Korea",
+   "place_ro": "Coreea de Sud",
+   "publishedAt": "2026-10-28T14:07:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/28/south-korea-fines-google-apple-for-pushing-app-developers-onto-their-payment-systems"
+    }
+   ],
+   "summary": "South Korea's regulator fined Google and Apple for steering app developers towards their own payment systems, Euronews reports.",
+   "summary_ro": "Autoritatea de reglementare din Coreea de Sud a amendat Google și Apple pentru că i-au împins pe dezvoltatorii de aplicații să folosească propriile sisteme de plată, relatează Euronews.",
+   "title": "South Korea fines Google and Apple over in-app payment rules",
+   "title_ro": "Coreea de Sud amendează Google și Apple pentru sistemele de plată din aplicații",
+   "topic": "tech",
+   "id": "world-korea-google-apple-fines"
   },
   {
    "place": "South Korea",
@@ -9372,6 +9658,24 @@
   {
    "place": "United States",
    "place_ro": "SUA",
+   "publishedAt": "2026-10-28T11:18:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/28/social-media-on-trial-again-meta-and-snap-face-jury-over-alleged-harm-to-teens"
+    }
+   ],
+   "summary": "Meta and Snap went on trial before a US jury over claims that their social media platforms harmed teenagers, Euronews reports.",
+   "summary_ro": "Meta și Snap sunt judecate de un juriu din SUA în urma acuzațiilor că platformele lor de socializare au afectat adolescenții, relatează Euronews.",
+   "title": "Meta and Snap face US jury over alleged harm to teenagers",
+   "title_ro": "Meta și Snap, în fața unui juriu din SUA pentru presupuse daune aduse adolescenților",
+   "topic": "tech",
+   "id": "world-meta-snap-teen-trial"
+  },
+  {
+   "place": "United States",
+   "place_ro": "SUA",
    "publishedAt": "2026-10-26T20:22:00Z",
    "region": "world",
    "sources": [
@@ -9498,6 +9802,24 @@
    "title_ro": "Oxfam: cei mai bogați miliardari profită de pe urma crizei climatice",
    "topic": "world",
    "id": "world-oxfam-climate-billionaires"
+  },
+  {
+   "place": "Iran",
+   "place_ro": "Iran",
+   "publishedAt": "2026-10-28T12:53:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/28/palme-dor-winning-iranian-director-jafar-panahi-facing-five-year-prison-term-in-new-ruling"
+    }
+   ],
+   "summary": "A new court ruling in Iran exposes Palme d'Or-winning filmmaker Jafar Panahi to a five-year prison sentence, Euronews reports.",
+   "summary_ro": "O nouă hotărâre judecătorească din Iran îl expune pe regizorul Jafar Panahi, câștigător al Palme d'Or, unei pedepse de cinci ani de închisoare, relatează Euronews.",
+   "title": "Iranian director Jafar Panahi faces five-year prison term in new ruling",
+   "title_ro": "Regizorul iranian Jafar Panahi riscă cinci ani de închisoare după o nouă decizie",
+   "topic": "culture",
+   "id": "world-panahi-sentence"
   },
   {
    "place": "United States",
@@ -9932,6 +10254,24 @@
    "title_ro": "FT: Donald Trump Jr. s-a întâlnit cu un om de afaceri rus apropiat de Kremlin",
    "topic": "world",
    "id": "world-trump-jr-ft"
+  },
+  {
+   "place": "United States",
+   "place_ro": "SUA",
+   "publishedAt": "2026-10-28T13:29:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/28/trump-rolls-back-methane-rules-for-us-oil-and-gas-industry"
+    }
+   ],
+   "summary": "The Trump administration has rolled back methane emission rules for the US oil and gas industry, Euronews reports.",
+   "summary_ro": "Administrația Trump a eliminat regulile privind emisiile de metan pentru industria americană de petrol și gaze, relatează Euronews.",
+   "title": "Trump administration rolls back methane rules for oil and gas",
+   "title_ro": "Administrația Trump renunță la regulile privind emisiile de metan",
+   "topic": "energy",
+   "id": "world-trump-methane-rollback"
   },
   {
    "place": "United States",
