@@ -1,5 +1,5 @@
 {
- "lastRun": "2026-10-28T15:49:29Z",
+ "lastRun": "2026-10-28T17:12:13Z",
  "stories": [
   {
    "place": "Bucharest",
@@ -82,6 +82,10 @@
     {
      "name": "Agerpres",
      "url": "https://agerpres.ro/justitie/2026/10/28/diicot-a-destructurat-o-retea-de-traficanti-de-droguri-care-actiona-in-zona-in-care-se-afla-arestul---1607714"
+    },
+    {
+     "name": "TVR Info",
+     "url": "https://tvrinfo.ro/o-retea-de-traficanti-de-droguri-care-actiona-si-in-zona-arestului-central-al-capitalei-a-fost-destructurata-de-diicot/"
     }
    ],
    "summary": "Organised crime prosecutors and Bucharest police carried out 11 searches in Bucharest and Ilfov against two groups suspected of selling drugs in the central area where the Capital's main detention facility is located. About 1.4 kg of the psychoactive substance NEP was seized.",
@@ -350,6 +354,10 @@
     {
      "name": "News.ro",
      "url": "https://www.news.ro/eveniment/angajati-unei-societati-transport-bucuresti-acuzati-ar-furat-combustibil-rezervoarele-autobuzelor-firmei-complicitatea-doi-agenti-paza-zece-perchezitii-domiciliare-capitala-judetele-ilfov-giurgiu-1922400428002026101422897537"
+    },
+    {
+     "name": "TVR Info",
+     "url": "https://tvrinfo.ro/ancheta-la-stb-unde-10-angajati-sunt-suspectati-ca-au-furat-o-tona-si-jumatate-de-motorina-din-autobuze/"
     }
    ],
    "summary": "Bucharest transport police, backed by gendarmes, searched ten homes in Bucharest, Ilfov and Giurgiu and took ten people in for questioning. According to the report, eight drivers and two guards are suspected of stealing fuel from buses at the Ferentari depot between June and September.",
@@ -520,12 +528,16 @@
     {
      "name": "Mediafax",
      "url": "https://www.mediafax.ro/politic/reactia-ministrului-apararii-din-romania-la-incidentul-cu-drone-din-apele-bulgariei-radu-oprea-condamn-cu-fermitate-23833167"
+    },
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic/2026/10/28/radu-oprea-condamn-cu-fermitate-atacurile-repetate-cu-drone-asupra-navelor-comerciale-din-marea-neag--1607727"
     }
    ],
-   "summary": "Defence ministers and chiefs of general staff from Romania, Bulgaria and Turkey met in Sofia to discuss Black Sea security and a joint strategy after drone attacks on merchant ships, Radio Romania International and Mediafax report.",
-   "summary_ro": "Miniștrii Apărării și șefii de stat major din România, Bulgaria și Turcia s-au reunit la Sofia pentru a discuta securitatea Mării Negre și o strategie comună, după atacurile cu drone asupra navelor comerciale, relatează Radio România Internațional și Mediafax.",
-   "title": "Romania, Bulgaria and Turkey defence ministers meet in Sofia on Black Sea",
-   "title_ro": "Miniștrii Apărării din România, Bulgaria și Turcia, reuniți la Sofia pe tema Mării Negre",
+   "summary": "Meeting in Sofia, the defence ministers of Romania, Bulgaria and Turkey agreed to deepen maritime information sharing and coordinate their naval forces within national mandates. Romania's Ștefan-Radu Oprea condemned the drone attacks on merchant ships as a serious escalation and called for stronger NATO support for drone surveillance.",
+   "summary_ro": "Reuniți la Sofia, miniștrii Apărării din România, Bulgaria și Turcia au convenit să extindă schimbul de informații maritime și să își coordoneze forțele navale în limitele mandatelor naționale. Ministrul român Ștefan-Radu Oprea a condamnat atacurile cu drone asupra navelor comerciale drept o escaladare gravă și a cerut sprijin NATO mai puternic pentru supravegherea dronelor.",
+   "title": "Romania, Bulgaria and Turkey agree closer Black Sea coordination after drone attacks",
+   "title_ro": "România, Bulgaria și Turcia convin o coordonare mai strânsă la Marea Neagră după atacurile cu drone",
    "topic": "security",
    "id": "eu-black-sea-trilateral-sofia"
   },
@@ -706,6 +718,28 @@
    "title_ro": "Miniștrii Apărării din E5 promit garanții de securitate pentru Ucraina după război",
    "topic": "security",
    "id": "eu-e5-ukraine-guarantees"
+  },
+  {
+   "place": "Brussels",
+   "place_ro": "Bruxelles",
+   "publishedAt": "2026-10-27T06:00:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/28/after-months-dithering-europe-shows-its-ready-for-talks-with-russia"
+    },
+    {
+     "name": "Gândul",
+     "url": "https://www.gandul.ro/international/delegatie-ue-negocieri-rusia-bjoern-seibert-21047657"
+    }
+   ],
+   "summary": "The European Commission and Council are preparing a joint team that could attend the next round of talks expected in Abu Dhabi in early November, with Commission official Bjoern Seibert reportedly tipped to lead it, according to Euronews, which cites unnamed European officials.",
+   "summary_ro": "Comisia Europeană și Consiliul pregătesc o echipă comună care ar putea participa la următoarea rundă de discuții, așteptată la Abu Dhabi la începutul lui noiembrie, condusă probabil de oficialul Comisiei Bjoern Seibert, potrivit Euronews, care citează oficiali europeni nenumiți.",
+   "title": "EU prepares delegation for possible Ukraine talks with Russia in Abu Dhabi",
+   "title_ro": "UE pregătește o delegație pentru posibilele discuții cu Rusia de la Abu Dhabi",
+   "topic": "world",
+   "id": "eu-eu-russia-talks-team"
   },
   {
    "place": "Netherlands",
@@ -1184,6 +1218,10 @@
     {
      "name": "HotNews",
      "url": "https://hotnews.ro/giorgia-meloni-indignata-de-sentinta-unei-judecatoare-privind-protestele-violente-din-milano-o-decizie-rusinoasa-2388985"
+    },
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic-extern/2026/10/28/italia-o-judecatoare-ridica-arestul-preventiv-pentru-presupusul-creier-al-revoltelor-de-la-milano--1607710"
     }
    ],
    "summary": "Italian Prime Minister Giorgia Meloni called \"shameful\" a Milan judge's decision to release a man accused of inciting violent protests, reopening a political clash over the judiciary.",
@@ -1626,10 +1664,14 @@
     {
      "name": "Euronews",
      "url": "https://www.euronews.com/2026/10/28/eu-defence-chief-warns-of-fuel-crunch-if-europe-goes-to-war"
+    },
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/stiri/international/comisia-europeana-avertizeaza-ca-motorina-va-fi-scumpa-si-in-2027-un-sfert-din-rafinariile-ue-sunt-inchise.html"
     }
    ],
-   "summary": "The EU's defence commissioner warned Europe could face a fuel shortage for its militaries in a war, as the Commission held talks on keeping refining capacity and said the bloc needs more refineries to withstand energy shocks.",
-   "summary_ro": "Comisarul european pentru apărare a avertizat că, în caz de război, Europa ar putea duce lipsă de combustibil pentru armate, în timp ce Comisia a discutat menținerea capacității de rafinare și a spus că blocul are nevoie de mai multe rafinării pentru a face față șocurilor energetice.",
+   "summary": "The EU's defence commissioner warned Europe could face a fuel shortage for its militaries in a war, as the Commission held talks on keeping refining capacity. The Commission also warned diesel will stay expensive in 2027, noting a quarter of EU refineries have closed.",
+   "summary_ro": "Comisarul european pentru apărare a avertizat că, în caz de război, Europa ar putea duce lipsă de combustibil pentru armate, în timp ce Comisia a discutat menținerea capacității de rafinare. Comisia a avertizat și că motorina va rămâne scumpă în 2027, în condițiile în care un sfert din rafinăriile UE s-au închis.",
    "title": "EU warns shrinking refineries could leave Europe short of fuel in war",
    "title_ro": "UE avertizează că lipsa rafinăriilor ar putea lăsa Europa fără combustibil în caz de război",
    "topic": "energy",
@@ -1652,6 +1694,24 @@
    "title_ro": "Bloggerul rus care l-a criticat pe Putin, judecat la Sankt Petersburg",
    "topic": "politics",
    "id": "eu-remeslo-trial"
+  },
+  {
+   "place": "Russia",
+   "place_ro": "Rusia",
+   "publishedAt": "2026-10-28T08:20:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/externe/rusia-a-lansat-o-racheta-balistica-intercontinentala-bulava-dintr-un-submarin-nuclear-unde-a-lovit-tinta-4011747"
+    }
+   ],
+   "summary": "Russia launched a Bulava intercontinental ballistic missile from a submerged nuclear-powered submarine, Digi24 reports.",
+   "summary_ro": "Rusia a lansat o rachetă balistică intercontinentală Bulava dintr-un submarin nuclear aflat în imersiune, relatează Digi24.",
+   "title": "Russia test-fires Bulava ballistic missile from submerged submarine",
+   "title_ro": "Rusia a lansat o rachetă balistică Bulava dintr-un submarin aflat în imersiune",
+   "topic": "security",
+   "id": "eu-russia-bulava-launch"
   },
   {
    "place": "Russia",
@@ -1804,12 +1864,20 @@
     {
      "name": "G4Media",
      "url": "https://www.g4media.ro/nicusor-dan-mesaj-de-solidaritate-dupa-tragedia-din-spania.html"
+    },
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/externe/doua-trenuri-s-au-ciocnit-in-spania-cel-putin-68-de-persoane-au-murit-premierul-pedro-sanchez-intreaga-spanie-este-in-doliu-23832937"
+    },
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/stiri/international/tragedie-feroviara-in-spania-mai-devastatoare-decat-cea-din-ianuarie-zeci-de-morti-sute-de-raniti-informatii-despre-romani.html"
     }
    ],
-   "summary": "A Renfe train hit a stationary Iryo train from behind near Urda in Toledo province, and two carriages overturned down an embankment; the regional president of Castilla-La Mancha put the death toll at 64, Agerpres reports. President Nicușor Dan expressed Romania's solidarity, and PM Luca Niculescu said Romania is in constant contact with Spanish authorities; no Romanian victims had been confirmed.",
-   "summary_ro": "Un tren Renfe a lovit din spate un tren Iryo oprit lângă Urda, în provincia Toledo, iar două vagoane s-au răsturnat de pe un terasament; președintele regiunii Castilla-La Mancha a anunțat 64 de morți, relatează Agerpres. Președintele Nicușor Dan și-a exprimat solidaritatea cu Spania, iar premierul Luca Niculescu a spus că România este în permanentă legătură cu autoritățile spaniole; nu au fost confirmate victime românce.",
-   "title": "High-speed train collision in Spain kills at least 64",
-   "title_ro": "Coliziune între trenuri de mare viteză în Spania: cel puțin 64 de morți",
+   "summary": "A Renfe train hit a stationary Iryo train from behind near Urda in Toledo province; the death toll has risen to at least 68 and Spain declared three days of national mourning. Transport Minister Óscar Puente said a communications system fault and human error led to the crash, with the investigation to establish responsibility. Romania's president and prime minister expressed solidarity; no Romanian victims have been identified.",
+   "summary_ro": "Un tren Renfe a lovit din spate un tren Iryo oprit lângă Urda, în provincia Toledo; bilanțul a urcat la cel puțin 68 de morți, iar Spania a decretat trei zile de doliu național. Ministrul Transporturilor, Óscar Puente, a spus că o defecțiune a sistemului de comunicații și o eroare umană au dus la accident, urmând ca ancheta să stabilească responsabilitățile. Președintele și premierul României și-au exprimat solidaritatea; nu au fost identificate victime românce.",
+   "title": "High-speed train collision in Spain kills at least 68",
+   "title_ro": "Coliziune între trenuri de mare viteză în Spania: cel puțin 68 de morți",
    "topic": "security",
    "id": "eu-spain-train-crash"
   },
@@ -2376,6 +2444,28 @@
    "title_ro": "Proiectul AUR de redenumire a stațiunii Balvanyos a ajuns la Camera Deputaților",
    "topic": "politics",
    "id": "pol-aur-balvanyos-bill"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-28T15:21:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/actualitate/politica/aur-va-depune-motiune-de-cenzura-cu-sau-fara-asumarea-raspunderii-peiu-atac-la-kelemen-hunor-nu-stiu-daca-e-o-boala-tratabila-4012623"
+    },
+    {
+     "name": "Gândul",
+     "url": "https://www.gandul.ro/politica/aur-ameninta-guvernul-luca-niculescu-cu-motiunea-de-cenzura-conditiile-care-pot-duce-la-motiune-prezentate-de-petrisor-peiu-21048056"
+    }
+   ],
+   "summary": "AUR leader George Simion said opposition parties should file censure motions whenever the government ties its fate to bills, and AUR Senate leader Petrișor Peiu said the party will do so alone, either then or at the end of the session, since other opposition parties declined to join.",
+   "summary_ro": "Liderul AUR, George Simion, a spus că opoziția trebuie să depună moțiuni de cenzură ori de câte ori Guvernul își angajează răspunderea, iar liderul senatorilor AUR, Petrișor Peiu, a afirmat că partidul o va face singur, atunci sau la finalul sesiunii, deoarece celelalte partide de opoziție au refuzat.",
+   "title": "AUR says it will file a censure motion against Niculescu government",
+   "title_ro": "AUR anunță o moțiune de cenzură împotriva Guvernului Niculescu",
+   "topic": "politics",
+   "id": "pol-aur-censure-motion"
   },
   {
    "place": "Romania",
@@ -2972,6 +3062,10 @@
     {
      "name": "Agerpres",
      "url": "https://agerpres.ro/justitie/2026/10/28/consiliul-superior-al-magistraturii-face-publice-indemnizatiile-judecatorilor-din-romania--1607709"
+    },
+    {
+     "name": "TVR Info",
+     "url": "https://tvrinfo.ro/consiliul-superior-al-magistraturii-face-publice-indemnizatiile-judecatorilor-din-romania/"
     }
    ],
    "summary": "The Superior Council of Magistracy said net monthly pay for judges ranges from 6,990 to 20,346 lei depending on rank and seniority, and that an entry-level judge earns 1.26 times the national average gross wage, below the EU average ratio of about 2.13.",
@@ -3264,6 +3358,24 @@
    "id": "pol-fritz-political-justice"
   },
   {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-28T16:34:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/actualitate/politica/dominic-fritz-promite-luni-o-discutie-cu-cifrele-pe-masa-psd-se-preface-ca-ar-cauta-gaura-in-buget-dar-ce-cauta-de-fapt-e-o-scuza-4012773"
+    }
+   ],
+   "summary": "USR leader Dominic Fritz accused PSD of using talk of a budget gap as a pretext, saying its programme promises spending without saying how it would be paid for. He said USR wants a discussion with the figures on the table when Finance Minister Alexandru Nazare is called to Parliament on Monday.",
+   "summary_ro": "Liderul USR, Dominic Fritz, a acuzat PSD că folosește discuția despre gaura din buget drept pretext, spunând că programul partidului promite cheltuieli fără a arăta cum vor fi finanțate. El a spus că USR vrea o discuție cu cifrele pe masă când ministrul Finanțelor, Alexandru Nazare, va fi chemat luni în Parlament.",
+   "title": "Fritz says PSD is seeking an excuse, not a budget hole",
+   "title_ro": "Fritz: PSD nu caută gaura din buget, ci o scuză",
+   "topic": "politics",
+   "id": "pol-fritz-psd-budget-excuse"
+  },
+  {
    "place": "Romania",
    "place_ro": "România",
    "publishedAt": "2026-10-27T20:34:00Z",
@@ -3336,10 +3448,14 @@
     {
      "name": "Digi24",
      "url": "https://www.digi24.ro/stiri/actualitate/zi-decisiva-pentru-calin-georgescu-fostul-candidat-afla-daca-judecatorii-ii-prelungesc-arestul-preventiv-in-dosarul-diicot-4011795"
+    },
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/justitie/2026/10/28/dosarul-lui-calin-georgescu-se-judeca-la-ora-17-00--1607627"
     }
    ],
-   "summary": "The Bucharest Court of Appeal is ruling on DIICOT’s challenge to a lower court’s refusal to extend Călin Georgescu’s pre-trial arrest; the decision is final. Hundreds of his supporters gathered outside the court.",
-   "summary_ro": "Curtea de Apel București judecă contestația DIICOT împotriva refuzului primei instanțe de a prelungi arestul preventiv al lui Călin Georgescu; decizia este definitivă. Sute de susținători ai săi s-au strâns în fața instanței.",
+   "summary": "The Bucharest Court of Appeal began hearing at 17:00 local time DIICOT's challenge to a lower court's refusal to extend Călin Georgescu's pre-trial arrest; the ruling, which is final, must come before his warrant expires at midnight. Hundreds of his supporters gathered outside the court.",
+   "summary_ro": "Curtea de Apel București a început la ora 17:00 judecarea contestației DIICOT împotriva refuzului primei instanțe de a prelungi arestul preventiv al lui Călin Georgescu; decizia, definitivă, trebuie dată înainte ca mandatul să expire la miezul nopții. Sute de susținători ai săi s-au strâns în fața instanței.",
    "title": "Appeals court weighs prosecutors’ bid to keep Georgescu in custody",
    "title_ro": "Curtea de Apel decide dacă Georgescu rămâne în arest preventiv",
    "topic": "politics",
@@ -4510,6 +4626,24 @@
    "id": "pol-psd-state-firm-debts"
   },
   {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-28T15:53:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/stiri/politic/psd-si-pnl-se-cearta-pe-greaua-mostenire-surse-psd-bolojan-ar-fi-lasat-neplatite-facturi-de-50-de-miliarde-de-lei.html"
+    }
+   ],
+   "summary": "Citing unnamed PSD sources, Știrile ProTV reports the party says the Bolojan government left about 50 billion lei in unpaid bills; official data put the cash deficit at 78.3 billion lei (3.81% of GDP) after nine months. Ilie Bolojan has accused PSD of preparing excuses, while the government plans a budget revision before 30 November.",
+   "summary_ro": "Citând surse din PSD, Știrile ProTV relatează că partidul susține că guvernul Bolojan a lăsat facturi neplătite de circa 50 de miliarde de lei; datele oficiale arată un deficit cash de 78,3 miliarde de lei (3,81% din PIB) după nouă luni. Ilie Bolojan a acuzat PSD că își pregătește scuze, iar Guvernul plănuiește rectificarea bugetară înainte de 30 noiembrie.",
+   "title": "PSD sources claim 50 billion lei in unpaid bills left by previous government",
+   "title_ro": "Surse PSD: facturi neplătite de 50 de miliarde de lei lăsate de fostul guvern",
+   "topic": "politics",
+   "id": "pol-psd-unpaid-bills-claim"
+  },
+  {
    "place": "Romania",
    "place_ro": "România",
    "publishedAt": "2026-10-27T15:30:00Z",
@@ -4836,6 +4970,24 @@
   {
    "place": "Bucharest",
    "place_ro": "București",
+   "publishedAt": "2026-10-28T12:06:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Gândul",
+     "url": "https://www.gandul.ro/social/proiectul-de-lege-care-da-peste-cap-firmele-de-transport-alternativ-uber-si-bolt-scopul-este-reducerea-evaziunii-fiscale-21047644"
+    }
+   ],
+   "summary": "The Senate adopted a bill under which each authorised ride-hailing operator working with platforms such as Uber and Bolt could use only one car held under a loan-for-use contract; the initiators say the aim is to curb tax evasion. The Chamber of Deputies has the final vote.",
+   "summary_ro": "Senatul a adoptat un proiect prin care fiecare operator autorizat de transport alternativ, care lucrează cu platforme precum Uber și Bolt, ar putea folosi o singură mașină deținută prin contract de comodat; inițiatorii spun că scopul este reducerea evaziunii fiscale. Camera Deputaților este for decizional.",
+   "title": "Senate limits ride-hailing operators to one loaned car each",
+   "title_ro": "Senatul limitează la o singură mașină în comodat operatorii de ridesharing",
+   "topic": "politics",
+   "id": "pol-senate-ridesharing-cars"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
    "publishedAt": "2026-10-26T18:30:00Z",
    "region": "romania",
    "sources": [
@@ -5134,12 +5286,20 @@
     {
      "name": "News.ro",
      "url": "https://www.news.ro/politic-intern/diana-stoica-lidera-deputatilor-usr-psd-si-aur-si-au-dat-iar-mana-pe-la-spate-pentru-ca-ministrul-nazare-sa-nu-spuna-romanilor-adevarul-in-parlament-1922403728002026101622898225"
+    },
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic/2026/10/28/camera-deputatilor-pnl-acuza-psd-ca-manipuleaza-procedurile-parlamentare-in-complicitate-cu-aur--1607732"
+    },
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/stiri/international/pnl-acuza-psd-ca-face-jocurile-aur-in-parlament-manipuleaza-procedurile-parlamentare.html"
     }
    ],
-   "summary": "USR deputies' leader Diana Stoica said PSD and AUR acted together in the Chamber's leadership so that Finance Minister Alexandru Nazare would not have to present the budget figures in Parliament, after USR's request was not approved.",
-   "summary_ro": "Liderul deputaților USR, Diana Stoica, a afirmat că PSD și AUR au acționat împreună în conducerea Camerei pentru ca ministrul Finanțelor, Alexandru Nazare, să nu prezinte cifrele bugetului în Parlament, după ce solicitarea USR nu a fost aprobată.",
-   "title": "USR says PSD and AUR blocked summoning finance minister to Parliament",
-   "title_ro": "USR acuză PSD și AUR că au blocat audierea ministrului Finanțelor în Parlament",
+   "summary": "USR deputies' leader Diana Stoica said PSD and AUR acted together in the Chamber's Permanent Bureau so that Finance Minister Alexandru Nazare would not have to present budget figures, after USR's request was rejected. PNL deputies Ionel Bogdan, Gabriel Andronache and Ciprian Dobre also accused PSD of manipulating parliamentary procedures together with AUR over two bureau decisions taken on Wednesday.",
+   "summary_ro": "Liderul deputaților USR, Diana Stoica, a afirmat că PSD și AUR au acționat împreună în Biroul Permanent al Camerei pentru ca ministrul Finanțelor, Alexandru Nazare, să nu prezinte cifrele bugetului, după ce solicitarea USR a fost respinsă. Deputații PNL Ionel Bogdan, Gabriel Andronache și Ciprian Dobre au acuzat la rândul lor PSD că manipulează procedurile parlamentare împreună cu AUR, referindu-se la două decizii ale biroului luate miercuri.",
+   "title": "USR and PNL accuse PSD of siding with AUR in Chamber leadership votes",
+   "title_ro": "USR și PNL acuză PSD că s-a aliat cu AUR la voturile din conducerea Camerei",
    "topic": "politics",
    "id": "pol-usr-stoica-psd-aur"
   },
@@ -5194,6 +5354,24 @@
    "title_ro": "Șoferița din cazul Anastasia, condamnată la închisoare după patru ani",
    "topic": "security",
    "id": "ro-anastasia-sentence"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-28T15:54:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Ziarul Financiar",
+     "url": "https://www.zf.ro/companii/anima-wings-intrat-azi-oficial-insolventa-cererea-proprie-tribunalul-bucuresti-numit-administrator-judiciar-consortiul-format-citr-infinexa-restructuring-popescu-asociatii-insolvency-printre-23269807"
+    }
+   ],
+   "summary": "The Bucharest Tribunal opened insolvency proceedings for Anima Wings Aviation and appointed a consortium led by CITR as provisional administrator. The airline reported a 2025 loss of 111 million lei on revenue of 331 million lei; 25 creditors have filed claims.",
+   "summary_ro": "Tribunalul București a deschis procedura de insolvență pentru Anima Wings Aviation și a numit un consorțiu condus de CITR administrator judiciar provizoriu. Compania a raportat pentru 2025 o pierdere de 111 milioane de lei la venituri de 331 milioane de lei; 25 de creditori și-au depus creanțele.",
+   "title": "Airline Anima Wings enters insolvency at its own request",
+   "title_ro": "Compania aeriană Anima Wings intră în insolvență la cerere proprie",
+   "topic": "economy",
+   "id": "ro-anima-wings-insolvency"
   },
   {
    "place": "Romania",
@@ -5328,6 +5506,24 @@
    "title_ro": "Ordin de protecție după ce un elev a fost agresat de un coleg în Bistrița-Năsăud",
    "topic": "security",
    "id": "ro-bistrita-school-assault"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-28T13:35:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Ziarul Financiar",
+     "url": "https://www.zf.ro/banci-si-asigurari/florian-neagu-bnr-nivelul-riscurilor-sistemice-adresa-stabilitatii-financiare-mentine-ridicat-ba-unele-zone-globului-crestere-ceea-pledeaza-prudenta-deciziile-financiare-insa-aduce-multe-23269686"
+    }
+   ],
+   "summary": "National Bank of Romania official Florian Neagu said systemic risks to financial stability remain elevated and are rising in some parts of the world, calling for prudence in financial decisions.",
+   "summary_ro": "Florian Neagu, oficial al Băncii Naționale a României, a spus că riscurile sistemice la adresa stabilității financiare se mențin ridicate și cresc în unele regiuni ale lumii, pledând pentru prudență în deciziile financiare.",
+   "title": "Central bank official says systemic financial risks remain high",
+   "title_ro": "Oficial BNR: riscurile sistemice la adresa stabilității financiare rămân ridicate",
+   "topic": "economy",
+   "id": "ro-bnr-neagu-risks"
   },
   {
    "place": "Calafat",
@@ -5960,6 +6156,24 @@
    "id": "ro-fund-investors-1-5m"
   },
   {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-28T10:28:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Gândul",
+     "url": "https://www.gandul.ro/financiar/macroeconomie/energie/pretul-gazelor-din-romania-a-depasit-pragul-de-500-lei-mwh-in-premiera-dupa-declansarea-razboiului-din-ucraina-importuri-pentru-acoperirea-consumului-curent-21047595"
+    }
+   ],
+   "summary": "On the BRM day-ahead market, gas averaged 486 lei/MWh on Wednesday with a peak of 520 lei, the highest since December 2022, as Romania imported 14.7 million cubic metres against 6.7 million exported. Storage stood at 88%, below last year's 98%.",
+   "summary_ro": "Pe piața pentru ziua următoare a BRM, gazele s-au tranzacționat miercuri la o medie de 486 lei/MWh, cu un vârf de 520 lei, cel mai ridicat nivel din decembrie 2022, în timp ce România a importat 14,7 milioane mc și a exportat 6,7 milioane. Depozitele erau pline în proporție de 88%, sub 98% anul trecut.",
+   "title": "Romanian wholesale gas price tops 500 lei per MWh for first time since 2022",
+   "title_ro": "Prețul angro al gazelor depășește 500 de lei/MWh, în premieră din 2022",
+   "topic": "energy",
+   "id": "ro-gas-price-500"
+  },
+  {
    "place": "Giurgiu",
    "place_ro": "Giurgiu",
    "publishedAt": "2026-10-27T11:14:00Z",
@@ -6156,6 +6370,28 @@
    "title_ro": "Baroul Iași critică decizia Facultății de Drept privind avocații lui Toader",
    "topic": "security",
    "id": "ro-iasi-bar-toader"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-28T08:50:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/economie/ins-populatia-romaniei-a-scazut-cu-05-intr-un-an-numarul-varstnicilor-il-depaseste-cu-39-pe-cel-al-copiilor-4011777"
+    },
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/stirile-zilei/populatia-dupa-domiciliu-a-romaniei-in-scadere-fenomenul-de-imbatranire-demografica-s-a-accentuat-23832968"
+    }
+   ],
+   "summary": "Data from the National Institute of Statistics show Romania's population by domicile shrank by 0.5% over a year, and the number of elderly people now exceeds the number of children by 39%.",
+   "summary_ro": "Datele Institutului Național de Statistică arată că populația după domiciliu a României a scăzut cu 0,5% într-un an, iar numărul vârstnicilor îl depășește acum cu 39% pe cel al copiilor.",
+   "title": "Romania's resident population fell 0.5% in a year, INS says",
+   "title_ro": "INS: populația României a scăzut cu 0,5% într-un an",
+   "topic": "economy",
+   "id": "ro-ins-population-decline"
   },
   {
    "place": "Romania",
@@ -6400,6 +6636,24 @@
    "id": "ro-mungiu-fjord-oscars"
   },
   {
+   "place": "Prahova",
+   "place_ro": "Prahova",
+   "publishedAt": "2026-10-28T14:52:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Ziarul Financiar",
+     "url": "https://www.zf.ro/companii/energie/nepi-rockcastle-inaugureaza-un-parc-fotovoltaic-la-aricestii-rahtivani-noul-parc-cu-o-capacitate-instalata-de-56-2-mw-este-al-doilea-din-portofoliul-nepi-rockcastle-23269731"
+    }
+   ],
+   "summary": "Property group NEPI Rockcastle inaugurated a 56.2 MW photovoltaic park at Ariceștii Rahtivani, its second solar park in its portfolio, Ziarul Financiar reports.",
+   "summary_ro": "Grupul imobiliar NEPI Rockcastle a inaugurat un parc fotovoltaic de 56,2 MW la Ariceștii Rahtivani, al doilea din portofoliul său, relatează Ziarul Financiar.",
+   "title": "NEPI Rockcastle opens 56 MW solar park in Prahova",
+   "title_ro": "NEPI Rockcastle inaugurează un parc solar de 56 MW în Prahova",
+   "topic": "energy",
+   "id": "ro-nepi-solar-park"
+  },
+  {
    "place": "Constanța",
    "place_ro": "Constanța",
    "publishedAt": "2026-10-28T09:04:00Z",
@@ -6407,13 +6661,13 @@
    "sources": [
     {
      "name": "Ziarul Financiar",
-     "url": "https://www.zf.ro/zf-24/oil-terminal-alatura-raliului-actiunilor-petroliere-bursa-dupa-rompetrol-rafinare-rompetrol-well-services-actiunile-operatorului-terminalului-portul-constanta-apreciau-miercuri-aproape-15-rulaj-23269486"
+     "url": "https://www.zf.ro/burse-fonduri-mutuale/companiile-de-energie-de-la-bursa-de-valori-cap-de-afis-in-sedinta-de-miercuri-hidroelectrica-si-omv-petrom-se-apreciaza-cu-2-si-5-cresteri-de-15-pentru-cele-doua-rompetrol-si-oil-terminal-23269821"
     }
    ],
-   "summary": "Shares in Constanța port terminal operator Oil Terminal rose almost 15% on heavy volume on Wednesday, following gains in Rompetrol Rafinare and Rompetrol Well Services, Ziarul Financiar reports.",
-   "summary_ro": "Acțiunile operatorului de terminal din portul Constanța, Oil Terminal, au crescut miercuri cu aproape 15%, pe rulaj mare, după aprecierile Rompetrol Rafinare și Rompetrol Well Services, relatează Ziarul Financiar.",
-   "title": "Oil Terminal shares jump nearly 15% as oil stocks rally",
-   "title_ro": "Acțiunile Oil Terminal cresc cu aproape 15%, pe fondul raliului petrolier",
+   "summary": "Shares in Constanța port terminal operator Oil Terminal and Rompetrol Rafinare rose about 15% on Wednesday, while OMV Petrom gained 5% and Hidroelectrica 2%, Ziarul Financiar reports.",
+   "summary_ro": "Acțiunile Oil Terminal, operatorul de terminal din portul Constanța, și cele ale Rompetrol Rafinare au crescut miercuri cu circa 15%, iar OMV Petrom a câștigat 5% și Hidroelectrica 2%, relatează Ziarul Financiar.",
+   "title": "Energy stocks lead Bucharest exchange as Oil Terminal jumps nearly 15%",
+   "title_ro": "Energia conduce la Bursa de la București; Oil Terminal urcă cu aproape 15%",
    "topic": "economy",
    "id": "ro-oil-terminal-shares"
   },
@@ -6532,6 +6786,24 @@
    "title_ro": "România are termen 6 noiembrie pentru procedurile restante din PNRR",
    "topic": "economy",
    "id": "ro-pnrr-deadline"
+  },
+  {
+   "place": "Vrancea",
+   "place_ro": "Vrancea",
+   "publishedAt": "2026-10-28T08:00:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "PressOne",
+     "url": "https://pressone.ro/poti-sa-traiesti-din-banii-de-la-geta-adulti-cu-dizabilitati-dati-afara-de-pe-o-zi-pe-alta-din-centrele-statului-ca-sa-dea-bine-in-documente"
+    }
+   ],
+   "summary": "A PressOne investigation reports that in Vrancea the number of adults with disabilities in state centres fell from 403 in 2020 to 153 by 30 June 2026, as local officials rushed to meet county targets set by the national disability authority, which says the targets were never mandatory.",
+   "summary_ro": "O investigație PressOne arată că, în Vrancea, numărul adulților cu dizabilități din centrele statului a scăzut de la 403 în 2020 la 153 la 30 iunie 2026, pe fondul grabei autorităților locale de a atinge ținte județene stabilite de autoritatea națională, care spune că acestea nu au fost obligatorii.",
+   "title": "Adults with disabilities moved out of state centres to meet targets, PressOne finds",
+   "title_ro": "Adulți cu dizabilități scoși din centrele statului pentru atingerea țintelor, arată PressOne",
+   "topic": "politics",
+   "id": "ro-pressone-disability-centres"
   },
   {
    "place": "Romania",
@@ -7590,6 +7862,24 @@
    "id": "world-greenhouse-record"
   },
   {
+   "place": "Gulf",
+   "place_ro": "Golful Persic",
+   "publishedAt": "2026-10-28T06:50:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/externe/mapamond/statele-din-golf-pregatesc-un-acord-pentru-a-evita-un-nou-razboi-intre-sua-si-iran-planul-include-stramtoarea-ormuz-si-rebelii-houthi-4011665"
+    }
+   ],
+   "summary": "Gulf states are preparing a proposal meant to prevent a new war between the United States and Iran, covering the Strait of Hormuz and the Houthi rebels, Digi24 reports.",
+   "summary_ro": "Statele din Golf pregătesc o propunere menită să prevină un nou război între SUA și Iran, care include Strâmtoarea Ormuz și rebelii houthi, relatează Digi24.",
+   "title": "Gulf states work on plan to avert new US–Iran war",
+   "title_ro": "Statele din Golf pregătesc un plan pentru evitarea unui nou război SUA–Iran",
+   "topic": "world",
+   "id": "world-gulf-iran-deal"
+  },
+  {
    "place": "Southeast Asia",
    "place_ro": "Asia de Sud-Est",
    "publishedAt": "2026-10-28T09:10:00Z",
@@ -7766,6 +8056,24 @@
    "title_ro": "Șase francezi, condamnați pe viață în Irak pentru apartenență la Statul Islamic",
    "topic": "security",
    "id": "world-iraq-french-is"
+  },
+  {
+   "place": "Damascus",
+   "place_ro": "Damasc",
+   "publishedAt": "2026-10-28T11:47:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/28/iraqi-pm-ali-al-zaidi-meets-ahmed-al-sharaa-in-historic-syria-visit"
+    }
+   ],
+   "summary": "Iraqi Prime Minister Ali al-Zaidi met Syrian President Ahmed al-Sharaa in Damascus, the first such visit since Bashar al-Assad's fall; talks covered exporting Iraqi oil via Baniyas, trade and agriculture.",
+   "summary_ro": "Premierul irakian Ali al-Zaidi s-a întâlnit la Damasc cu președintele sirian Ahmed al-Sharaa, prima astfel de vizită de la căderea lui Bashar al-Assad; discuțiile au vizat exportul de petrol irakian prin Baniyas, comerțul și agricultura.",
+   "title": "Iraqi prime minister makes first visit to post-Assad Syria",
+   "title_ro": "Premierul Irakului, prima vizită în Siria de după căderea lui Assad",
+   "topic": "world",
+   "id": "world-iraq-pm-syria-visit"
   },
   {
    "place": "Israel",
@@ -8286,6 +8594,24 @@
    "id": "world-russia-african-recruits"
   },
   {
+   "place": "Ethiopia",
+   "place_ro": "Etiopia",
+   "publishedAt": "2026-10-28T12:25:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic-extern/2026/10/28/rusia-livreaza-etiopiei-primele-12-aeronave-de-lupta-de-generatia-a-patra-sukhoi-su-35--1607688"
+    }
+   ],
+   "summary": "Russia has delivered the first 12 fourth-generation Sukhoi Su-35 combat aircraft to Ethiopia, Agerpres reports.",
+   "summary_ro": "Rusia a livrat Etiopiei primele 12 avioane de luptă Suhoi Su-35, de generația a patra, relatează Agerpres.",
+   "title": "Russia delivers first Su-35 fighter jets to Ethiopia",
+   "title_ro": "Rusia livrează Etiopiei primele avioane de luptă Su-35",
+   "topic": "security",
+   "id": "world-russia-su35-ethiopia"
+  },
+  {
    "place": "Russia",
    "place_ro": "Rusia",
    "publishedAt": "2026-10-27T14:40:00Z",
@@ -8364,6 +8690,28 @@
    "title_ro": "Un tribunal australian amendează cu 260 de milioane de dolari un operator de cazinou din Sydney",
    "topic": "economy",
    "id": "world-sydney-casino-fine"
+  },
+  {
+   "place": "Syria",
+   "place_ro": "Siria",
+   "publishedAt": "2026-10-28T13:10:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/cultura/2026/10/28/gioconda-a-disparut-din-manualele-scolare-din-siria--1607712"
+    },
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/stiri/international/siria-se-indreapta-spre-un-regim-totalitar-dispar-imaginile-cu-femei-si-opere-de-arta-din-manualele-scolare.html"
+    }
+   ],
+   "summary": "New Syrian school textbooks no longer include images such as the Mona Lisa, with pictures of women and artworks removed, Agerpres and Știrile ProTV report.",
+   "summary_ro": "Noile manuale școlare din Siria nu mai conțin imagini precum Gioconda, fiind eliminate fotografiile cu femei și reproducerile de opere de artă, relatează Agerpres și Știrile ProTV.",
+   "title": "Syria removes images of women and artworks from school textbooks",
+   "title_ro": "Siria elimină imaginile cu femei și opere de artă din manualele școlare",
+   "topic": "culture",
+   "id": "world-syria-textbooks"
   },
   {
    "place": "Tanzania",
