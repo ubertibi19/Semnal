@@ -1,5 +1,5 @@
 {
- "lastRun": "2026-10-28T11:53:00Z",
+ "lastRun": "2026-10-28T12:58:00Z",
  "stories": [
   {
    "place": "Bucharest",
@@ -452,6 +452,24 @@
    "id": "eu-binev-killing"
   },
   {
+   "place": "Sofia",
+   "place_ro": "Sofia",
+   "publishedAt": "2026-10-28T11:55:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Radio Romania International",
+     "url": "https://www.rri.ro/en/news-and-current-affairs/newsflash/october-28-2026-id1076634.html"
+    }
+   ],
+   "summary": "Defence ministers and chiefs of general staff from Romania, Bulgaria and Turkey are due to meet in Sofia to discuss Black Sea security and a joint strategy after drone attacks on merchant ships, Radio Romania International reports, citing Reuters on new NATO surveillance assets for the region.",
+   "summary_ro": "Miniștrii apărării și șefii statelor majore din România, Bulgaria și Turcia urmează să se întâlnească la Sofia pentru a discuta securitatea la Marea Neagră și o strategie comună, după atacurile cu drone asupra navelor comerciale, relatează Radio România Internațional, care citează Reuters privind noile mijloace de supraveghere NATO din regiune.",
+   "title": "Romania, Bulgaria and Turkey defence chiefs to meet in Sofia on Black Sea",
+   "title_ro": "Șefii apărării din România, Bulgaria și Turcia se reunesc la Sofia pe tema Mării Negre",
+   "topic": "security",
+   "id": "eu-black-sea-trilateral-sofia"
+  },
+  {
    "place": "Brussels",
    "place_ro": "Bruxelles",
    "publishedAt": "2026-10-27T16:25:00Z",
@@ -486,6 +504,14 @@
     {
      "name": "Euronews",
      "url": "https://www.euronews.com/2026/10/27/europe-must-prepare-for-a-3c-warmer-world-eu-climate-chief-warns"
+    },
+    {
+     "name": "Radio Romania International",
+     "url": "https://www.rri.ro/en/news-and-current-affairs/newsflash/october-28-2026-id1076634.html"
+    },
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/economic-extern/2026/10/27/bruxelles-ul-prezinta-un-cadru-de-rezilienta-la-schimbarile-climatice-pentru-o-europa-mai-bine-prega--1607236"
     }
    ],
    "summary": "The European Commission plans rules requiring member states to designate who is responsible for protecting citizens from climate disasters and to prepare for up to 3°C of warming, without new funding, Commissioner Wopke Hoekstra told Euronews.",
@@ -1402,6 +1428,10 @@
     {
      "name": "Mediafax",
      "url": "https://www.mediafax.ro/externe/premierul-bulgariei-leaga-noile-atacuri-din-marea-neagra-de-acuzatiile-romaniei-la-adresa-rusiei-ce-sustine-radev-23832257"
+    },
+    {
+     "name": "Romania Insider",
+     "url": "https://www.romania-insider.com/society/bulgarias-pm-blames-romania-provoking-russia"
     }
    ],
    "summary": "Rumen Radev said new drone strikes on ships followed Romania's blaming of Russia, and argued accusations need clear evidence. Eight vessels were hit off Bulgaria and Romania in October.",
@@ -1546,6 +1576,10 @@
     {
      "name": "News.ro",
      "url": "https://www.news.ro/politic-intern/ministrul-externe-profund-indurerati-tragica-coliziune-feroviara-provincia-toledo-spania-misiunile-diplomatice-consulare-afla-stransa-legatura-autoritatile-spaniole-pregatite-ofere-asistenta-1922403328022026101222897064"
+    },
+    {
+     "name": "Radio Romania International",
+     "url": "https://www.rri.ro/en/news-and-current-affairs/newsflash/october-28-2026-id1076634.html"
     }
    ],
    "summary": "A Renfe AVE train from Madrid to Seville collided with an Iryo train between Los Yébenes and Urda in Toledo province, and two carriages fell down an embankment; Castilla-La Mancha emergency services put the early death toll at 39, with many injured. Romania's foreign ministry said its missions are in contact with Spanish authorities and ready to help.",
@@ -3534,6 +3568,10 @@
     {
      "name": "TVR Info",
      "url": "https://tvrinfo.ro/luca-niculescu-primit-de-presedintele-republicii-moldova-maia-sandu/"
+    },
+    {
+     "name": "Radio Romania International",
+     "url": "https://www.rri.ro/en/news-and-current-affairs/newsflash/october-28-2026-id1076634.html"
     }
    ],
    "summary": "On his first foreign trip, PM Luca Niculescu met Moldovan counterpart Vasile Tofan and President Maia Sandu in Chișinău; they discussed the Ungheni bridge, the Suceava–Bălți power line, defence, energy and Moldova's EU path. Niculescu said the two countries will coordinate against hybrid attacks and drone incursions.",
@@ -3634,6 +3672,24 @@
    "title_ro": "Gabriel Oprea cere o reacție de securitate mai amplă după cazul de sabotaj",
    "topic": "politics",
    "id": "pol-oprea-security"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-26T09:30:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/stiri/politic/senatoarea-pnl-nicoleta-pauliuc-vrea-ca-intr-o-ara-cu-razboi-la-grani-a-mapn-sa-finan-eze-centrele-militare.html"
+    }
+   ],
+   "summary": "PNL senator Nicoleta Pauliuc has filed a bill that would move the upkeep costs of military centres from county councils and Bucharest sector halls to the Defence Ministry from 1 January 2027.",
+   "summary_ro": "Senatoarea PNL Nicoleta Pauliuc a depus un proiect prin care costurile de întreținere a centrelor militare ar trece de la consiliile județene și primăriile de sector la Ministerul Apărării, începând cu 1 ianuarie 2027.",
+   "title": "PNL senator proposes Defence Ministry pay for county military centres",
+   "title_ro": "O senatoare PNL propune ca MApN să finanțeze centrele militare",
+   "topic": "politics",
+   "id": "pol-pauliuc-military-centres"
   },
   {
    "place": "Romania",
@@ -4118,6 +4174,14 @@
     {
      "name": "Agerpres",
      "url": "https://agerpres.ro/politic/2026/10/27/ambasada-federatiei-ruse-partea-romana-a-acuzat-fara-temei-rusia-de-organizarea-incendiului-izbucnit--1607447"
+    },
+    {
+     "name": "Romania Insider",
+     "url": "https://www.romania-insider.com/society/russia-denies-role-carfil-industrial-platform-fire-ambassador"
+    },
+    {
+     "name": "Radio Romania International",
+     "url": "https://www.rri.ro/en/news-and-current-affairs/newsflash/october-28-2026-id1076634.html"
     }
    ],
    "summary": "After Ambassador Vladimir Lipaev was summoned to the Foreign Ministry, Russia's embassy in Bucharest said Romanian authorities had presented no evidence of Moscow's involvement in the 14 September fire near the Carfil plant and rejected the accusations.",
@@ -5020,6 +5084,24 @@
    "id": "ro-energy-crisis"
   },
   {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-28T11:41:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/economie/energie/ministrul-energiei-va-discuta-cu-omologii-din-ue-despre-aprovizionarea-cu-gaze-si-energie-electrica-pentru-iarna-2026-2027-4012123"
+    }
+   ],
+   "summary": "Energy Minister Dumitru Chisăliță will attend an EU energy ministers' meeting in Luxembourg on Thursday on supply for winter 2026–2027, as European gas prices hit their highest level since 2022. Romania's gas storage was about 88% full on 26 October, below last year but above the EU average, Digi24 reports.",
+   "summary_ro": "Ministrul Energiei, Dumitru Chisăliță, participă joi la Luxemburg la o reuniune a miniștrilor energiei din UE despre aprovizionarea pentru iarna 2026–2027, în condițiile în care prețul gazelor în Europa a atins cel mai ridicat nivel din 2022. Depozitele României erau pline în proporție de circa 88% la 26 octombrie, sub nivelul de anul trecut, dar peste media UE, potrivit Digi24.",
+   "title": "Energy minister to discuss winter gas supply with EU counterparts",
+   "title_ro": "Ministrul Energiei discută cu omologii din UE despre gazele pentru iarnă",
+   "topic": "energy",
+   "id": "ro-energy-eu-winter-supply"
+  },
+  {
    "place": "Galați",
    "place_ro": "Galați",
    "publishedAt": "2026-10-26T20:54:00Z",
@@ -5178,6 +5260,42 @@
    "id": "ro-french-atlantique-kogalniceanu"
   },
   {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-28T10:09:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Ziarul Financiar",
+     "url": "https://www.zf.ro/zf-24/10-companii-romanesti-printre-campionii-europeni-cresterii-termen-lung-topul-financial-times-simtel-one-united-properties-it-genetics-electro-alfa-bento-arobs-sphera-cris-tim-oscar-downstream-23269527"
+    }
+   ],
+   "summary": "Ten Romanian companies, led by Simtel in 21st place, appear in the Financial Times–Statista ranking of 300 European firms with the fastest revenue growth from 2015 to 2025; others include One United Properties, Bento, AROBS and Sphera Franchise Group, ZF reports.",
+   "summary_ro": "Zece companii românești, conduse de Simtel pe locul 21, figurează în clasamentul Financial Times–Statista al celor 300 de firme europene cu cea mai rapidă creștere a veniturilor între 2015 și 2025; printre ele se află One United Properties, Bento, AROBS și Sphera Franchise Group, potrivit ZF.",
+   "title": "Ten Romanian firms make FT list of Europe's long-term growth champions",
+   "title_ro": "Zece companii românești, în topul FT al campionilor europeni ai creșterii pe termen lung",
+   "topic": "economy",
+   "id": "ro-ft-growth-champions"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-28T11:33:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Ziarul Financiar",
+     "url": "https://www.zf.ro/burse-fonduri-mutuale/romanii-investesc-tot-mult-fonduri-industria-asset-management-depaseste-1-5-milioane-investitori-crestere-50-15-luni-horia-gusta-aaf-investitiile-devin-parte-planificarii-financiare-23269606"
+    }
+   ],
+   "summary": "The number of investors in Romanian investment funds has passed 1.5 million, up about 50% in 15 months, according to the fund managers' association AAF cited by ZF.",
+   "summary_ro": "Numărul investitorilor în fondurile de investiții din România a depășit 1,5 milioane, în creștere cu aproximativ 50% în 15 luni, potrivit asociației administratorilor de fonduri AAF, citată de ZF.",
+   "title": "Romanian investment funds pass 1.5 million investors",
+   "title_ro": "Fondurile de investiții din România depășesc 1,5 milioane de investitori",
+   "topic": "economy",
+   "id": "ro-fund-investors-1-5m"
+  },
+  {
    "place": "Giurgiu",
    "place_ro": "Giurgiu",
    "publishedAt": "2026-10-27T11:14:00Z",
@@ -5204,6 +5322,14 @@
     {
      "name": "Știri pe surse",
      "url": "https://www.stiripesurse.ro/restrictii-de-circulatie-pe-podul-prieteniei-giurgiu-ruse-pana-in-decembrie-traficul-se-va-desfasura-alternativ-pe-o-singura-banda_3931858"
+    },
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/social/2026/10/27/giurgiu-circulatia-pe-podul-prieteniei-restrictionata-pana-pe-4-decembrie-pentru-lucrari-de-reparati--1607297"
+    },
+    {
+     "name": "Radio Romania International",
+     "url": "https://www.rri.ro/actualitate/jurnal-romanesc/jurnal-romanesc-28-10-2026-id1076557.html"
     }
    ],
    "summary": "Repairs to expansion joints on the Friendship Bridge between Giurgiu and Ruse will limit traffic to a single lane controlled by lights from 28 October to 4 December, Romania's foreign ministry said, advising travellers to expect delays.",
@@ -5490,6 +5616,10 @@
     {
      "name": "Agerpres",
      "url": "https://agerpres.ro/economic/2026/10/27/paun-valoarea-tichetelor-de-masa-ar-trebui-majorata-la-aproximativ-50-de-lei-sau-eliminata-contribut--1607453"
+    },
+    {
+     "name": "Ziarul Financiar",
+     "url": "https://www.zf.ro/zf-24/studiu-ase-tichetele-masa-au-generat-1-10-pib-2025-scadere-fata-2024-cresterea-valorii-50-lei-ar-aduce-2-4-mld-lei-plus-economie-reducerea-voucherelor-vacanta-costat-turismul-intern-peste-milion-23269581"
     }
    ],
    "summary": "A study by the Bucharest University of Economic Studies (ASE) recommends lifting the meal voucher value from 45 to roughly 50 lei by fixing the indexation formula, or keeping it unchanged but removing the health contribution on it.",
@@ -5604,6 +5734,24 @@
   {
    "place": "Romania",
    "place_ro": "România",
+   "publishedAt": "2026-10-28T08:12:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Ziarul Financiar",
+     "url": "https://www.zf.ro/burse-fonduri-mutuale/omv-petrom-adauga-130-mw-de-energie-solara-in-portofoliu-dupa-investitii-de-78-mil-euro-in-trei-parcuri-fotovoltaice-devenite-operationale-23269455"
+    }
+   ],
+   "summary": "OMV Petrom said three solar parks developed with Renovatio in Țăndărei, Bucovăț and Căzănești are now operating, adding about 130 MW gross capacity for an investment of around €78 million, partly funded by Romania's recovery plan.",
+   "summary_ro": "OMV Petrom a anunțat că trei parcuri fotovoltaice dezvoltate împreună cu Renovatio, la Țăndărei, Bucovăț și Căzănești, au intrat în funcțiune, adăugând circa 130 MW capacitate brută, pentru o investiție de aproximativ 78 de milioane de euro, parțial finanțată prin PNRR.",
+   "title": "OMV Petrom brings three solar parks totalling 130 MW online",
+   "title_ro": "OMV Petrom pune în funcțiune trei parcuri solare de 130 MW",
+   "topic": "energy",
+   "id": "ro-petrom-solar-130mw"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
    "publishedAt": "2026-10-28T07:20:00Z",
    "region": "romania",
    "sources": [
@@ -5626,6 +5774,42 @@
    "title_ro": "Aproape 17.500 de instituții publice, avertizate privind vulnerabilitatea PHP2Shell",
    "topic": "tech",
    "id": "ro-php2shell-alert"
+  },
+  {
+   "place": "Cluj-Napoca",
+   "place_ro": "Cluj-Napoca",
+   "publishedAt": "2026-10-28T11:47:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Ziarul Financiar",
+     "url": "https://www.zf.ro/zf-24/pko-bp-cea-mare-banca-polonia-dupa-active-semnat-acord-banca-transilvania-cele-doua-banci-isi-vor-recomanda-reciproc-clientii-ajuta-companiile-poloneze-romanesti-extinda-23269618"
+    }
+   ],
+   "summary": "PKO BP, Poland's largest bank by assets, and Banca Transilvania agreed to refer clients to each other to help Polish and Romanian firms expand, starting with reciprocal correspondent accounts in zloty and lei.",
+   "summary_ro": "PKO BP, cea mai mare bancă din Polonia după active, și Banca Transilvania au convenit să își recomande reciproc clienții pentru a sprijini extinderea firmelor poloneze și românești, primul pas fiind conturi corespondente reciproce în zloți și lei.",
+   "title": "Poland's PKO BP and Banca Transilvania sign client-referral deal",
+   "title_ro": "PKO BP și Banca Transilvania semnează un acord de recomandare reciprocă a clienților",
+   "topic": "economy",
+   "id": "ro-pko-bt-agreement"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-27T07:57:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Romania Insider",
+     "url": "https://www.romania-insider.com/business/romania-pays-eur-1-bln-five-years-plastic"
+    }
+   ],
+   "summary": "Romania paid roughly €1 billion (about 5.06 billion lei) into the EU budget between January 2021 and October 2025 for plastic packaging waste that was not recycled, according to a Deloitte analysis of Finance Ministry data.",
+   "summary_ro": "România a plătit aproximativ 1 miliard de euro (circa 5,06 miliarde de lei) la bugetul UE între ianuarie 2021 și octombrie 2025 pentru deșeurile de ambalaje din plastic nereciclate, arată o analiză Deloitte pe baza datelor Ministerului Finanțelor.",
+   "title": "Romania paid about €1 billion to EU over unrecycled plastic since 2021",
+   "title_ro": "România a plătit circa 1 miliard de euro către UE pentru plasticul nereciclat",
+   "topic": "economy",
+   "id": "ro-plastic-eu-payments"
   },
   {
    "place": "Romania",
@@ -5980,6 +6164,10 @@
     {
      "name": "Digi24",
      "url": "https://www.digi24.ro/stiri/actualitate/justitie/un-politist-a-fost-trimis-in-judecata-dupa-ce-a-dat-ponturi-unor-hoti-din-locuintele-unor-medici-si-a-unui-politician-din-timisoara-4010657"
+    },
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/justitie/2026/10/27/timis-un-agent-de-politie-suspectat-ca-a-furnizat-unui-infractor-informatii-privind-un-seif-privat-t--1607266"
     }
    ],
    "summary": "Prosecutors sent a Timișoara police officer to trial, accusing him of passing details from an emergency call to a thief who then burgled homes, including that of MP Marilen Pirtea.",
@@ -6078,6 +6266,24 @@
    "title_ro": "Transgaz va decide „la momentul potrivit” o eventuală intrare în Ucraina",
    "topic": "energy",
    "id": "ro-transgaz-ukraine"
+  },
+  {
+   "place": "Timișoara",
+   "place_ro": "Timișoara",
+   "publishedAt": "2026-10-27T12:00:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Romania Insider",
+     "url": "https://www.romania-insider.com/life/belarus-opposition-leader-selected-2026-laureate-timisoara-award"
+    }
+   ],
+   "summary": "Sviatlana Tsikhanouskaya has been named the 2026 laureate of the Timișoara Award for European Values; the prize will be presented at a gala on 6 November during the Timișoara Forum for European Values.",
+   "summary_ro": "Svetlana Tihanovskaia a fost desemnată laureata ediției 2026 a Premiului Timișoara pentru Valori Europene; distincția va fi înmânată la o gală pe 6 noiembrie, în cadrul Forumului Timișoara pentru Valori Europene.",
+   "title": "Belarus opposition leader Tsikhanouskaya wins Timișoara European Values award",
+   "title_ro": "Liderul opoziției din Belarus, Svetlana Tihanovskaia, primește Premiul Timișoara pentru Valori Europene",
+   "topic": "politics",
+   "id": "ro-tsikhanouskaya-timisoara-award"
   },
   {
    "place": "Gorj County",
@@ -6692,6 +6898,10 @@
     {
      "name": "Al Jazeera",
      "url": "https://aljazeera.com/news/2026/10/28/cyclone-arnab-makes-landfall-in-indias-andhra-pradesh"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/28/india-evacuates-tens-of-thousands-as-cyclone-arnab-makes-landfall"
     }
    ],
    "summary": "Cyclone Arnab struck India's east coast on Wednesday morning, hitting Andhra Pradesh and Odisha after authorities evacuated more than 180,000 people, Mediafax reports, citing Reuters.",
@@ -6914,6 +7124,10 @@
     {
      "name": "Ziarul Financiar",
      "url": "https://www.zf.ro/eveniment/alegeri-extrem-de-stranse-in-israel-coalitia-de-partide-a-lui-netanyahu-este-la-egalitate-cu-opozitia-la-iesirea-de-la-urne-dar-nu-are-suficiente-locuri-sa-formeze-majoritatea-23269413"
+    },
+    {
+     "name": "Radio Romania International",
+     "url": "https://www.rri.ro/en/news-and-current-affairs/newsflash/october-28-2026-id1076634.html"
     }
    ],
    "summary": "With more than three-quarters of votes counted, Benjamin Netanyahu's bloc is on course for about 54 seats, Gadi Eisenkot's opposition alliance 47 and Arab parties a record 19, Al Jazeera reports, leaving no camp with the 61 seats needed for a majority.",
@@ -6922,6 +7136,24 @@
    "title_ro": "Alegerile din Israel se încheie fără majoritate clară; numărarea continuă",
    "topic": "politics",
    "id": "world-israel-election"
+  },
+  {
+   "place": "India",
+   "place_ro": "India",
+   "publishedAt": "2026-10-28T09:14:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Ziarul Financiar",
+     "url": "https://www.zf.ro/business-international/un-ipo-de-3-2-mld-dolari-si-o-crestere-de-22-intr-o-singura-zi-jio-platforms-compania-miliardarului-indian-mukesh-ambani-a-debutat-spectaculos-pe-bursa-cu-o-capitalizare-de-peste-130-mld-dolari-23269496"
+    }
+   ],
+   "summary": "Jio Platforms, controlled by Indian billionaire Mukesh Ambani, rose about 22% on its first trading day after a $3.2 billion IPO, giving it a market value above $130 billion, ZF reports.",
+   "summary_ro": "Jio Platforms, controlată de miliardarul indian Mukesh Ambani, a urcat cu aproximativ 22% în prima zi de tranzacționare, după o listare de 3,2 miliarde de dolari, ajungând la o capitalizare de peste 130 de miliarde de dolari, relatează ZF.",
+   "title": "Ambani's Jio Platforms jumps 22% on stock market debut",
+   "title_ro": "Jio Platforms, compania lui Ambani, crește cu 22% la debutul pe bursă",
+   "topic": "economy",
+   "id": "world-jio-ipo"
   },
   {
    "place": "Syria",
@@ -7026,6 +7258,10 @@
     {
      "name": "Mediafax",
      "url": "https://www.mediafax.ro/social/710-000-de-morti-intr-un-singur-an-decesele-cauzate-de-caldura-au-depasit-malaria-si-hiv-23832770"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/28/climate-change-should-be-declared-health-emergency-as-health-risks-can-no-longer-be-ignore"
     }
    ],
    "summary": "The Lancet Countdown on health and climate change says about 710,000 people died from heat in 2023, more than from malaria or HIV, with over 70% linked to human-caused warming; the authors urge recognising climate change as a global health emergency ahead of COP31.",
