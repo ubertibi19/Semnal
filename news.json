@@ -1,5 +1,5 @@
 {
- "lastRun": "2026-10-28T19:51:31Z",
+ "lastRun": "2026-10-28T21:00:56Z",
  "stories": [
   {
    "place": "Bucharest",
@@ -2030,6 +2030,24 @@
    "id": "eu-serbia-novi-sad-reopened"
   },
   {
+   "place": "Serbia",
+   "place_ro": "Serbia",
+   "publishedAt": "2026-10-28T16:38:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic-extern/2026/10/28/serbia-dialogul-privind-kosovo-va-continua-cetatenii-vor-decide-cu-privire-la-relatiile-cu-rusia-ili--1607807"
+    }
+   ],
+   "summary": "Serbian politician Ilija Srdanović said dialogue on Kosovo will continue and that citizens will decide on Serbia's relations with Russia, Agerpres reports, days after the student-led list won the election.",
+   "summary_ro": "Politicianul sârb Ilija Srdanović a declarat că dialogul privind Kosovo va continua și că cetățenii vor decide asupra relațiilor Serbiei cu Rusia, relatează Agerpres, la câteva zile după victoria în alegeri a listei conduse de studenți.",
+   "title": "Serbian politician Srdanović says Kosovo dialogue will continue",
+   "title_ro": "Politicianul sârb Srdanović spune că dialogul privind Kosovo va continua",
+   "topic": "politics",
+   "id": "eu-serbia-srdanovic-kosovo"
+  },
+  {
    "place": "Spain",
    "place_ro": "Spania",
    "publishedAt": "2026-10-27T17:10:00Z",
@@ -2428,6 +2446,24 @@
    "title_ro": "Șeful de cabinet al premierului britanic: alegeri anticipate posibile până la începutul lui 2027",
    "topic": "politics",
    "id": "eu-uk-snap-election-talk"
+  },
+  {
+   "place": "United Kingdom",
+   "place_ro": "Regatul Unit",
+   "publishedAt": "2026-10-28T16:05:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic-extern/2026/10/28/regatul-unit-militantul-de-extrema-dreapta-tommy-robinson-gasit-vinovat-de-hartuirea-a-doi-jurnalist--1607800"
+    }
+   ],
+   "summary": "A UK court found far-right activist Tommy Robinson guilty of harassing two journalists, Agerpres reports.",
+   "summary_ro": "O instanță britanică l-a găsit vinovat pe activistul de extremă dreapta Tommy Robinson de hărțuirea a doi jurnaliști, relatează Agerpres.",
+   "title": "UK far-right activist Tommy Robinson convicted of harassing two journalists",
+   "title_ro": "Activistul de extremă dreapta Tommy Robinson, condamnat pentru hărțuirea a doi jurnaliști",
+   "topic": "politics",
+   "id": "eu-uk-tommy-robinson-guilty"
   },
   {
    "place": "Ukraine",
@@ -3920,12 +3956,24 @@
     {
      "name": "Mediafax",
      "url": "https://www.mediafax.ro/politic/cristela-georgescu-acuza-incalcarea-drepturilor-fundamentale-dupa-prelungirea-arestului-lui-calin-georgescu-23833338"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/george-simion-anunta-proteste-de-amploare-dupa-ce-judecatorii-i-au-prelungit-arestul-preventiv-lui-calin-georgescu-dictaturile-niciodata-nu-au-sfarsit-bine_3932149"
+    },
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/reactie-rapida-a-lui-simion-dupa-ce-lui-calin-georgescu-i-s-a-prelungit-arestul-vom-fi-in-strada-pana-cand-opriti-represiunea.html"
+    },
+    {
+     "name": "News.ro",
+     "url": "https://www.news.ro/politic-intern/george-simion-anunta-proteste-de-strada-dupa-prelungirea-mandatului-de-arestare-preventiva-pe-numele-lui-calin-georgescu-dictaturile-niciodata-nu-au-sfarsit-bine-1922404428002026102122899626"
     }
    ],
-   "summary": "AUR leader George Simion reacted to the appeals court's decision to extend Călin Georgescu's pretrial detention by 30 days, saying dictatorships never end well. Georgescu's wife, Cristela, said the ruling breaches fundamental rights.",
-   "summary_ro": "Liderul AUR, George Simion, a reacționat la decizia Curții de Apel de a prelungi cu 30 de zile arestul preventiv al lui Călin Georgescu, spunând că dictaturile nu s-au sfârșit niciodată bine. Soția acestuia, Cristela Georgescu, a afirmat că decizia încalcă drepturi fundamentale.",
-   "title": "Simion and Cristela Georgescu criticise ruling keeping Georgescu in custody",
-   "title_ro": "Simion și Cristela Georgescu critică decizia de menținere în arest a lui Georgescu",
+   "summary": "AUR leader George Simion said his supporters will protest in the street after the appeals court extended Călin Georgescu's pretrial detention by 30 days, saying dictatorships never end well. Georgescu's wife, Cristela, said the ruling breaches fundamental rights.",
+   "summary_ro": "Liderul AUR, George Simion, a anunțat proteste de stradă după ce Curtea de Apel a prelungit cu 30 de zile arestul preventiv al lui Călin Georgescu, spunând că dictaturile nu s-au sfârșit niciodată bine. Soția acestuia, Cristela Georgescu, a afirmat că decizia încalcă drepturi fundamentale.",
+   "title": "Simion announces street protests after Georgescu custody is extended",
+   "title_ro": "Simion anunță proteste de stradă după prelungirea arestului lui Georgescu",
    "topic": "politics",
    "id": "pol-georgescu-ruling-reactions"
   },
@@ -4478,6 +4526,10 @@
     {
      "name": "Digi24",
      "url": "https://www.digi24.ro/stiri/actualitate/politica/luca-niculescu-a-discutat-cu-reprezentantii-uniunii-consiliilor-judetene-despre-reforma-administrativa-si-comasarea-voluntara-4012821"
+    },
+    {
+     "name": "News.ro",
+     "url": "https://www.news.ro/politic-intern/luca-niculescu-discutii-reprezentantii-uniunii-nationale-consiliilor-judetene-romania-reforma-administrativa-comasarea-voluntara-incredere-administratia-locala-partener-solid-guvernului-reforme-1922402028242026101822898643"
     }
    ],
    "summary": "Prime Minister Luca Niculescu met county council leaders on funding, PNRR projects, winter preparations and the 2027 budget, saying the budget revision must cover urgent needs in social services, hospitals and county roads. UNCJR head Alfred Simonis asked for extra money; Niculescu also said Romania is very close to joining the OECD.",
@@ -5840,8 +5892,8 @@
      "url": "https://www.digi24.ro/stiri/actualitate/politica/pnl-acuza-psd-ca-manipuleaza-procedurile-parlamentare-in-complicitate-cu-aur-4012471"
     }
    ],
-   "summary": "USR deputies' leader Diana Stoica said PSD and AUR acted together in the Chamber's Permanent Bureau, which scheduled PM Luca Niculescu for 2 November at AUR's request and postponed USR's request to hear Finance Minister Alexandru Nazare. PNL deputies also accused PSD of manipulating procedures with AUR; AUR deputies' leader Mihai Enache replied that the PM's hour is a regulatory right and accused USR of staging a scandal.",
-   "summary_ro": "Lidera deputaților USR, Diana Stoica, a spus că PSD și AUR au acționat împreună în Biroul Permanent al Camerei, care l-a programat pe premierul Luca Niculescu pe 2 noiembrie, la cererea AUR, și a amânat cererea USR de audiere a ministrului Finanțelor, Alexandru Nazare. Deputații PNL au acuzat și ei PSD că manipulează procedurile împreună cu AUR; liderul deputaților AUR, Mihai Enache, a replicat că ora prim-ministrului e un drept prevăzut de regulament și a acuzat USR că fabrică un scandal.",
+   "summary": "USR deputies' leader Diana Stoica said PSD and AUR acted together in the Chamber's Permanent Bureau, which scheduled PM Luca Niculescu for 2 November at AUR's request and postponed USR's request to hear Finance Minister Alexandru Nazare. PNL deputies also accused PSD of manipulating procedures with AUR; AUR deputies' leader Mihai Enache replied that the PM's hour is a regulatory right and accused USR of staging a scandal. PNL deputy Raluca Turcan said PSD is \"AUR in red\", Agerpres reports.",
+   "summary_ro": "Lidera deputaților USR, Diana Stoica, a spus că PSD și AUR au acționat împreună în Biroul Permanent al Camerei, care l-a programat pe premierul Luca Niculescu pe 2 noiembrie, la cererea AUR, și a amânat cererea USR de audiere a ministrului Finanțelor, Alexandru Nazare. Deputații PNL au acuzat și ei PSD că manipulează procedurile împreună cu AUR; liderul deputaților AUR, Mihai Enache, a replicat că ora prim-ministrului e un drept prevăzut de regulament și a acuzat USR că fabrică un scandal. Deputata PNL Raluca Turcan a declarat că PSD este „tot un AUR, doar că pe roșu”, relatează Agerpres.",
    "title": "USR and PNL accuse PSD of siding with AUR in Chamber leadership votes",
    "title_ro": "USR și PNL acuză PSD că s-a aliat cu AUR la voturile din conducerea Camerei",
    "topic": "politics",
@@ -6966,6 +7018,24 @@
   {
    "place": "Romania",
    "place_ro": "România",
+   "publishedAt": "2026-10-28T16:12:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/sanatate/2026/10/28/ministerul-sanatatii-pregateste-un-proiect-de-circa-180-de-milioane-de-lei-pentru-prevenirea-si-trat--1607803"
+    }
+   ],
+   "summary": "The Health Ministry is preparing an EU-funded national project of about 180 million lei for addiction prevention, treatment and recovery, including day centres, therapeutic communities and training for some 2,500 specialists.",
+   "summary_ro": "Ministerul Sănătății pregătește un proiect național de circa 180 de milioane de lei, din fonduri europene, pentru prevenirea și tratarea adicțiilor și recuperarea persoanelor afectate, cu centre de zi, comunități terapeutice și pregătirea a aproximativ 2.500 de specialiști.",
+   "title": "Health ministry prepares 180-million-lei programme against addiction",
+   "title_ro": "Ministerul Sănătății pregătește un program de 180 de milioane de lei împotriva adicțiilor",
+   "topic": "politics",
+   "id": "ro-health-addiction-programme"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
    "publishedAt": "2026-10-27T07:30:00Z",
    "region": "romania",
    "sources": [
@@ -7702,8 +7772,8 @@
      "url": "https://www.romania-insider.com/society/romanian-intelligence-links-fire-carfil-industrial-platform-russian"
     }
    ],
-   "summary": "Romanian intelligence and prosecutors say a network coordinated from Russia set a September fire near the Carfil state weapons factory near Brașov. Three suspects are named; two are held in Germany and one is sought in Poland. The president called it a serious breach of a NATO member's security; Digi24 reports the suspects allegedly scouted the site a few days before the sabotage attempt.",
-   "summary_ro": "Serviciile de informații și procurorii spun că o rețea coordonată din Rusia a provocat în septembrie un incendiu lângă fabrica de armament de stat Carfil, de lângă Brașov. Trei suspecți sunt identificați: doi sunt reținuți în Germania, iar unul este căutat în Polonia. Președintele a numit fapta o încălcare gravă a securității unui stat NATO; Digi24 relatează că suspecții ar fi venit în recunoaștere cu câteva zile înainte de tentativa de sabotaj.",
+   "summary": "Romanian intelligence and prosecutors say a network coordinated from Russia set a September fire near the Carfil state weapons factory near Brașov. Three suspects are named; two are held in Germany and one is sought in Poland. The president called it a serious breach of a NATO member's security; Digi24 reports the suspects allegedly scouted the site a few days before the sabotage attempt. Digi24 reports the suspects allegedly scouted the site several days before the attempt.",
+   "summary_ro": "Serviciile de informații și procurorii spun că o rețea coordonată din Rusia a provocat în septembrie un incendiu lângă fabrica de armament de stat Carfil, de lângă Brașov. Trei suspecți sunt identificați: doi sunt reținuți în Germania, iar unul este căutat în Polonia. Președintele a numit fapta o încălcare gravă a securității unui stat NATO; Digi24 relatează că suspecții ar fi venit în recunoaștere cu câteva zile înainte de tentativa de sabotaj. Digi24 relatează că suspecții ar fi venit în recunoaștere cu câteva zile înainte de tentativă.",
    "title": "Romania blames Russian-run sabotage network for fire near Brașov arms plant",
    "title_ro": "România acuză o rețea de sabotaj condusă de Rusia pentru incendiul de lângă fabrica de armament din Brașov",
    "topic": "security",
@@ -7846,6 +7916,24 @@
    "title_ro": "Bărbat din Slatina arestat după ce ar fi tras spre polițiști la o percheziție",
    "topic": "security",
    "id": "ro-slatina-shooting-arrest"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-28T17:28:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "TVR Info",
+     "url": "https://tvrinfo.ro/sri-transmite-ca-a-documentat-mai-multe-cazuri-de-sabotaj-decat-a-comunicat-public-este-o-campanie-mai-ampla-de-sabotaj-coordonata-de-federatia-rusa/"
+    }
+   ],
+   "summary": "Romania's intelligence service SRI says it has documented more sabotage cases than it has announced and describes them as part of a wider campaign coordinated by Russia, TVR Info reports.",
+   "summary_ro": "Serviciul Român de Informații afirmă că a documentat mai multe cazuri de sabotaj decât a anunțat public și le descrie ca parte a unei campanii mai ample coordonate de Federația Rusă, relatează TVR Info.",
+   "title": "SRI says it documented more sabotage cases than it has made public",
+   "title_ro": "SRI spune că a documentat mai multe cazuri de sabotaj decât a făcut public",
+   "topic": "security",
+   "id": "ro-sri-more-sabotage-cases"
   },
   {
    "place": "Romania",
@@ -9340,6 +9428,24 @@
    "id": "world-nasa-moon-plan"
   },
   {
+   "place": "Brazil",
+   "place_ro": "Brazilia",
+   "publishedAt": "2026-10-28T17:28:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/sport-extern/2026/10/28/fotbal-atacantul-neymar-santos-fc-suspendat-doua-etape-in-baza-legii-vinicius--1607822"
+    }
+   ],
+   "summary": "Santos forward Neymar has been suspended for two matches under Brazil's so-called Vinicius law, Agerpres reports.",
+   "summary_ro": "Atacantul lui Santos, Neymar, a fost suspendat pentru două etape în baza așa-numitei „legi Vinicius” din Brazilia, relatează Agerpres.",
+   "title": "Neymar suspended for two matches under Brazil's \"Vinicius law\"",
+   "title_ro": "Neymar, suspendat două etape în baza „legii Vinicius”",
+   "topic": "sport",
+   "id": "world-neymar-suspended"
+  },
+  {
    "place": "Nigeria",
    "place_ro": "Nigeria",
    "publishedAt": "2026-10-27T15:53:00Z",
@@ -9908,8 +10014,8 @@
      "url": "https://www.digi24.ro/stiri/externe/rusia/kremlinul-incearca-sa-i-castige-de-partea-sa-pe-cei-din-cercul-restrans-al-lui-trump-prin-acorduri-cine-coordoneaza-eforturile-4010939"
     }
    ],
-   "summary": "Reports cited by Gândul (from the Financial Times) and Digi24 (from Le Monde, quoting an unnamed diplomat) say Russia is pursuing economic deals with the US, including energy, before any Ukraine ceasefire, with RDIF head Kirill Dmitriev coordinating. Digi24 also reports Washington and Moscow have discussed a possible return of US oil companies to the Russian market.",
-   "summary_ro": "Relatări citate de Gândul (după Financial Times) și Digi24 (după Le Monde, care citează un diplomat nenumit) arată că Rusia urmărește acorduri economice cu SUA, inclusiv în energie, înaintea unui armistițiu în Ucraina, coordonate de șeful RDIF, Kirill Dmitriev. Digi24 relatează și că Washingtonul și Moscova au discutat despre o posibilă revenire a companiilor petroliere americane pe piața rusă.",
+   "summary": "Reports cited by Gândul (from the Financial Times) and Digi24 (from Le Monde, quoting an unnamed diplomat) say Russia is pursuing economic deals with the US, including energy, before any Ukraine ceasefire, with RDIF head Kirill Dmitriev coordinating. Digi24 also reports Washington and Moscow have discussed a possible return of US oil companies to the Russian market. Digi24 also reports talks on a possible return of US oil companies to the Russian market.",
+   "summary_ro": "Relatări citate de Gândul (după Financial Times) și Digi24 (după Le Monde, care citează un diplomat nenumit) arată că Rusia urmărește acorduri economice cu SUA, inclusiv în energie, înaintea unui armistițiu în Ucraina, coordonate de șeful RDIF, Kirill Dmitriev. Digi24 relatează și că Washingtonul și Moscova au discutat despre o posibilă revenire a companiilor petroliere americane pe piața rusă. Digi24 relatează și despre discuții privind o posibilă revenire a companiilor petroliere americane pe piața rusă.",
    "title": "US and Russia discussed energy deals in Ukraine peace talks, report says",
    "title_ro": "SUA și Rusia au discutat acorduri energetice în negocierile de pace, potrivit unei relatări",
    "topic": "energy",
