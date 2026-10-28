@@ -1,5 +1,5 @@
 {
- "lastRun": "2026-10-28T12:58:00Z",
+ "lastRun": "2026-10-28T14:05:00Z",
  "stories": [
   {
    "place": "Bucharest",
@@ -274,6 +274,24 @@
   {
    "place": "Bucharest",
    "place_ro": "București",
+   "publishedAt": "2026-10-28T11:30:00Z",
+   "region": "bucharest",
+   "sources": [
+    {
+     "name": "News.ro",
+     "url": "https://www.news.ro/eveniment/update-incendiu-la-mansarda-unui-bloc-din-sectorul-1-al-capitalei-locatarii-au-fost-evacuaţi-doua-persoane-au-primit-ingrijiri-medicale-incendiul-a-fost-localizat-foto-1922405928002026101322897532"
+    }
+   ],
+   "summary": "Firefighters put out a blaze in the attic of an apartment block in Bucharest's Sector 1; residents were evacuated and two people received medical care, News.ro reports.",
+   "summary_ro": "Pompierii au intervenit la un incendiu izbucnit la mansarda unui bloc din Sectorul 1 al Capitalei; locatarii au fost evacuați, iar două persoane au primit îngrijiri medicale, relatează News.ro.",
+   "title": "Fire in attic of Sector 1 apartment block; residents evacuated",
+   "title_ro": "Incendiu la mansarda unui bloc din Sectorul 1; locatari evacuați",
+   "topic": "security",
+   "id": "buc-sector1-attic-fire"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
    "publishedAt": "2026-10-26T11:55:00Z",
    "region": "bucharest",
    "sources": [
@@ -298,6 +316,18 @@
     {
      "name": "Știri pe surse",
      "url": "https://www.stiripesurse.ro/perchezitii-in-bucuresti-ilfov-si-giurgiu-pentru-furt-de-combustibil-din-autobuzele-stb_3932027"
+    },
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/justitie/2026/10/28/soferi-si-paznici-de-la-stb-acuzati-ca-furau-motorina-din-autobuzele-stationate-in-autobaza-ferentar--1607653"
+    },
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/zece-soferi-de-autobuz-din-bucuresti-suspectati-ca-au-furat-motorina.html"
+    },
+    {
+     "name": "News.ro",
+     "url": "https://www.news.ro/eveniment/angajati-unei-societati-transport-bucuresti-acuzati-ar-furat-combustibil-rezervoarele-autobuzelor-firmei-complicitatea-doi-agenti-paza-zece-perchezitii-domiciliare-capitala-judetele-ilfov-giurgiu-1922400428002026101422897537"
     }
    ],
    "summary": "Bucharest transport police, backed by gendarmes, searched ten homes in Bucharest, Ilfov and Giurgiu and took ten people in for questioning. According to the report, eight drivers and two guards are suspected of stealing fuel from buses at the Ferentari depot between June and September.",
@@ -460,12 +490,16 @@
     {
      "name": "Radio Romania International",
      "url": "https://www.rri.ro/en/news-and-current-affairs/newsflash/october-28-2026-id1076634.html"
+    },
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/politic/reactia-ministrului-apararii-din-romania-la-incidentul-cu-drone-din-apele-bulgariei-radu-oprea-condamn-cu-fermitate-23833167"
     }
    ],
-   "summary": "Defence ministers and chiefs of general staff from Romania, Bulgaria and Turkey are due to meet in Sofia to discuss Black Sea security and a joint strategy after drone attacks on merchant ships, Radio Romania International reports, citing Reuters on new NATO surveillance assets for the region.",
-   "summary_ro": "Miniștrii apărării și șefii statelor majore din România, Bulgaria și Turcia urmează să se întâlnească la Sofia pentru a discuta securitatea la Marea Neagră și o strategie comună, după atacurile cu drone asupra navelor comerciale, relatează Radio România Internațional, care citează Reuters privind noile mijloace de supraveghere NATO din regiune.",
-   "title": "Romania, Bulgaria and Turkey defence chiefs to meet in Sofia on Black Sea",
-   "title_ro": "Șefii apărării din România, Bulgaria și Turcia se reunesc la Sofia pe tema Mării Negre",
+   "summary": "Defence ministers and chiefs of general staff from Romania, Bulgaria and Turkey met in Sofia to discuss Black Sea security and a joint strategy after drone attacks on merchant ships, Radio Romania International and Mediafax report.",
+   "summary_ro": "Miniștrii Apărării și șefii de stat major din România, Bulgaria și Turcia s-au reunit la Sofia pentru a discuta securitatea Mării Negre și o strategie comună, după atacurile cu drone asupra navelor comerciale, relatează Radio România Internațional și Mediafax.",
+   "title": "Romania, Bulgaria and Turkey defence ministers meet in Sofia on Black Sea",
+   "title_ro": "Miniștrii Apărării din România, Bulgaria și Turcia, reuniți la Sofia pe tema Mării Negre",
    "topic": "security",
    "id": "eu-black-sea-trilateral-sofia"
   },
@@ -520,6 +554,32 @@
    "title_ro": "UE cere statelor să desemneze cine răspunde de protecția climatică",
    "topic": "world",
    "id": "eu-climate-3c"
+  },
+  {
+   "place": "Black Sea",
+   "place_ro": "Marea Neagră",
+   "publishedAt": "2026-10-28T12:15:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/actualitate/evenimente/atac-cu-drone-in-marea-neagra-asupra-unei-nave-care-se-indrepta-spre-constanta-martorii-spun-ca-a-izbucnit-un-incendiu-la-bord-4012263"
+    },
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/politic/reactia-ministrului-apararii-din-romania-la-incidentul-cu-drone-din-apele-bulgariei-radu-oprea-condamn-cu-fermitate-23833167"
+    },
+    {
+     "name": "Capital",
+     "url": "https://www.capital.ro/o-noua-nava-a-fost-atacata-cu-trei-drone-in-marea-neagra-se-indrepta-spre-portul-constanta-echipajul-evacuat-de-urgenta.html"
+    }
+   ],
+   "summary": "The container ship Contship Jet, sailing from Haifa to Constanța, was struck by three drones about 21 nautical miles off Bulgaria's coast, Bulgarian Defence Minister Dimitar Stoyanov said; witnesses reported a fire on board and the crew was evacuated. Romanian Defence Minister Radu Oprea condemned the repeated drone attacks on merchant ships in the Black Sea.",
+   "summary_ro": "Nava portcontainer Contship Jet, care naviga de la Haifa spre Constanța, a fost lovită de trei drone la aproximativ 21 de mile marine de coasta Bulgariei, potrivit ministrului bulgar al Apărării, Dimităr Stoianov; martorii au relatat un incendiu la bord, iar echipajul a fost evacuat. Ministrul român al Apărării, Radu Oprea, a condamnat atacurile repetate cu drone asupra navelor comerciale din Marea Neagră.",
+   "title": "Constanța-bound container ship hit by drones off Bulgaria",
+   "title_ro": "Navă portcontainer care mergea spre Constanța, lovită de drone lângă Bulgaria",
+   "topic": "security",
+   "id": "eu-contship-jet-drone-attack"
   },
   {
    "place": "Cyprus",
@@ -644,6 +704,28 @@
    "title_ro": "Cererea de credite ipotecare din zona euro a scăzut puternic, arată un sondaj BCE",
    "topic": "economy",
    "id": "eu-eurozone-mortgages"
+  },
+  {
+   "place": "France",
+   "place_ro": "Franța",
+   "publishedAt": "2026-10-28T12:22:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic-extern/2026/10/28/franta-acuza-actori-straini-ca-amplifica-imaginea-protestelor-pentru-a-i-afecta-imaginea-si-reputati--1607672"
+    },
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/franta-acuza-actori-straini-din-sua-israel-rusia-si-ocazional-china-ca-amplifica-imaginea-protestelor-pentru-a-i-afecta-imaginea-la-nivel-international.html"
+    }
+   ],
+   "summary": "French Foreign Minister Jean-Noël Barrot said rivals and movements from the US, Israel, Russia, Iran and occasionally China are amplifying and distorting images of unrest in France to damage its reputation abroad.",
+   "summary_ro": "Ministrul francez de Externe, Jean-Noël Barrot, a declarat că rivali și mișcări din SUA, Israel, Rusia, Iran și, ocazional, China amplifică și distorsionează imaginile tulburărilor din Franța pentru a-i afecta reputația în străinătate.",
+   "title": "France accuses foreign actors of amplifying protest images",
+   "title_ro": "Franța acuză actori străini că amplifică imaginile protestelor",
+   "topic": "world",
+   "id": "eu-france-foreign-actors-protests"
   },
   {
    "place": "France",
@@ -1582,10 +1664,10 @@
      "url": "https://www.rri.ro/en/news-and-current-affairs/newsflash/october-28-2026-id1076634.html"
     }
    ],
-   "summary": "A Renfe AVE train from Madrid to Seville collided with an Iryo train between Los Yébenes and Urda in Toledo province, and two carriages fell down an embankment; Castilla-La Mancha emergency services put the early death toll at 39, with many injured. Romania's foreign ministry said its missions are in contact with Spanish authorities and ready to help.",
-   "summary_ro": "Un tren AVE al Renfe, pe ruta Madrid–Sevilla, s-a ciocnit cu un tren Iryo între Los Yébenes și Urda, în provincia Toledo, iar două vagoane au căzut într-o râpă; serviciile de urgență din Castilia-La Mancha au anunțat un bilanț provizoriu de 39 de morți și numeroși răniți. MAE a transmis că misiunile României sunt în legătură cu autoritățile spaniole și pregătite să ofere asistență.",
-   "title": "High-speed train collision in Spain kills at least 39",
-   "title_ro": "Coliziune între două trenuri de mare viteză în Spania: cel puțin 39 de morți",
+   "summary": "A Renfe AVE train from Madrid to Seville collided with an Iryo train near Urda in Toledo province, and two carriages fell down an embankment; Euronews reports at least 46 dead, with the toll still rising. Romania's foreign ministry said its missions are in contact with Spanish authorities.",
+   "summary_ro": "Un tren AVE Renfe care circula de la Madrid la Sevilla s-a ciocnit cu un tren Iryo lângă Urda, în provincia Toledo, iar două vagoane au căzut într-o râpă; Euronews relatează cel puțin 46 de morți, bilanțul fiind încă în creștere. MAE a transmis că misiunile României sunt în legătură cu autoritățile spaniole.",
+   "title": "High-speed train collision in Spain kills at least 46",
+   "title_ro": "Coliziune între trenuri de mare viteză în Spania: cel puțin 46 de morți",
    "topic": "security",
    "id": "eu-spain-train-crash"
   },
@@ -2210,10 +2292,18 @@
     {
      "name": "Gândul",
      "url": "https://www.gandul.ro/politica/aur-il-cheama-pe-luca-niculescu-in-parlament-pentru-explicatii-despre-deficitul-bugetar-ce-vrea-sa-afle-de-la-premier-21047470"
+    },
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/actualitate/politica/luca-niculescu-chemat-de-aur-la-ora-prim-ministrului-conducerea-camerei-a-aprobat-solicitarea-si-asteapta-raspunsul-premierului-4011851"
+    },
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/viata-parlamentara/2026/10/28/aur-il-cheama-pe-premierul-luca-niculescu-in-parlament-pentru-a-clarifica-situatia-deficitului-buget--1607561"
     }
    ],
-   "summary": "AUR has asked Prime Minister Luca Niculescu to appear in Parliament to explain the real state of the budget deficit and the government’s plans on taxes.",
-   "summary_ro": "AUR i-a cerut premierului Luca Niculescu să se prezinte în Parlament pentru a explica situația reală a deficitului bugetar și planurile Guvernului privind taxele.",
+   "summary": "AUR has asked Prime Minister Luca Niculescu to appear at the prime minister's hour on 2 November to explain the budget deficit and plans to cut it without new taxes. The Chamber's Permanent Bureau approved the request; the PM has not yet confirmed.",
+   "summary_ro": "AUR i-a cerut premierului Luca Niculescu să vină la „Ora prim-ministrului” pe 2 noiembrie pentru a explica deficitul bugetar și planurile de reducere fără taxe noi. Biroul Permanent al Camerei a aprobat cererea; premierul nu a confirmat încă.",
    "title": "AUR calls PM Niculescu to Parliament over budget deficit",
    "title_ro": "AUR îl cheamă pe premierul Niculescu în Parlament pentru deficit",
    "topic": "politics",
@@ -2782,6 +2872,28 @@
    "title_ro": "Secretarul de stat Despescu s-a întâlnit cu omologul sloven pe teme de migrație și criminalitate",
    "topic": "politics",
    "id": "pol-despescu-slovenia"
+  },
+  {
+   "place": "Slănic Moldova",
+   "place_ro": "Slănic Moldova",
+   "publishedAt": "2026-10-28T12:30:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/comunicate/2026/10/28/comunicat-de-presa---directia-nationala-anticoruptie--1607642"
+    },
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/primarul-orasului-slanic-moldova-psd-retinut-pentru-luare-de-mita-prins-in-flagrant-de-procurorii-anticoruptie-cand-primea-6-000-de-euro.html"
+    }
+   ],
+   "summary": "Anticorruption prosecutors detained Benone Moraru, the PSD mayor of Slănic Moldova, saying he took €15,000 in July and €6,000 on 27 October from a firm with a water-network repair contract; they sought 30 days of pretrial arrest. The allegations have not been tested in court.",
+   "summary_ro": "Procurorii anticorupție l-au reținut pe Benone Moraru, primarul PSD al orașului Slănic Moldova, despre care susțin că a primit 15.000 de euro în iulie și 6.000 de euro pe 27 octombrie de la o firmă cu un contract de reparații la rețeaua de apă; au cerut arestarea preventivă pentru 30 de zile. Acuzațiile nu au fost judecate.",
+   "title": "DNA detains Slănic Moldova mayor in bribery case",
+   "title_ro": "DNA l-a reținut pe primarul din Slănic Moldova pentru luare de mită",
+   "topic": "politics",
+   "id": "pol-dna-slanic-moldova-mayor"
   },
   {
    "place": "Romania",
@@ -3388,6 +3500,24 @@
   {
    "place": "Bucharest",
    "place_ro": "București",
+   "publishedAt": "2026-10-28T13:03:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/actualitate/politica/siegfried-muresan-manipularea-psd-privind-finantele-tarii-are-picioare-scurte-strategia-reala-a-fost-limpede-din-prima-zi-4012369"
+    }
+   ],
+   "summary": "PNL MEP Siegfried Mureșan said PSD's demand that Finance Minister Alexandru Nazare present the 'real' economic situation is meant to justify unkept promises, and asked why PSD kept Nazare in office if it doubts his figures.",
+   "summary_ro": "Europarlamentarul PNL Siegfried Mureșan a afirmat că cererea PSD ca ministrul Finanțelor, Alexandru Nazare, să prezinte situația economică „reală” urmărește justificarea unor promisiuni neîndeplinite și a întrebat de ce PSD l-a păstrat pe Nazare în funcție dacă îi contestă cifrele.",
+   "title": "Mureșan accuses PSD of manipulating debate on public finances",
+   "title_ro": "Mureșan acuză PSD că manipulează dezbaterea despre finanțele publice",
+   "topic": "politics",
+   "id": "pol-muresan-psd-finances"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
    "publishedAt": "2026-10-26T12:47:00Z",
    "region": "romania",
    "sources": [
@@ -3750,6 +3880,28 @@
    "id": "pol-pislaru-travel"
   },
   {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-28T13:30:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/purtatorul-de-cuvant-al-pnl-de-astazi-psd-marcheaza-oficial-faptul-ca-este-in-opozitie-fata-de-propriul-guvern-din-care-face-parte_3932057"
+    },
+    {
+     "name": "News.ro",
+     "url": "https://www.news.ro/politic-intern/purtatorul-cuvant-pnl-astazi-psd-marcheaza-oficial-faptul-opozitie-fata-propriul-guvern-face-parte-inceput-manipuleze-procedurile-parlamentare-fugind-raspunderea-guvernamentala-1922401428002026101522897646"
+    }
+   ],
+   "summary": "PNL spokesman Ionel Bogdan criticised PSD after the Chamber of Deputies' Permanent Bureau, with PSD votes, approved AUR's request to summon PM Luca Niculescu to the prime minister's hour while a similar USR request was not approved. PNL said it abstained.",
+   "summary_ro": "Purtătorul de cuvânt al PNL, Ionel Bogdan, a criticat PSD după ce Biroul Permanent al Camerei Deputaților a aprobat, cu voturile PSD, cererea AUR ca premierul Luca Niculescu să vină la „Ora prim-ministrului”, în timp ce o solicitare similară a USR nu a fost aprobată. PNL spune că s-a abținut.",
+   "title": "PNL says PSD acts as opposition to its own government",
+   "title_ro": "PNL: PSD se poartă ca opoziție față de propriul guvern",
+   "topic": "politics",
+   "id": "pol-pnl-psd-bureau-vote"
+  },
+  {
    "place": "Romania",
    "place_ro": "România",
    "publishedAt": "2026-10-28T10:21:00Z",
@@ -3836,6 +3988,10 @@
     {
      "name": "Mediafax",
      "url": "https://www.mediafax.ro/politic/ce-a-gasit-noul-ministru-al-transporturilor-in-institutia-pe-care-o-conduce-critici-dure-la-adresa-usr-23833040"
+    },
+    {
+     "name": "G4Media",
+     "url": "https://g4media.ro/radu-miruta-usr-dupa-gafa-cu-tunelul-momoa-noul-ministru-psd-de-la-transporturi-mai-face-una-anuleaza-ordinul-care-obliga-la-organizarea-serioasa-a-lucrarilor-ce-presupun-inchiderea-unor-sectoare.html"
     }
    ],
    "summary": "Transport Minister Ștefan-Ovidiu Popa (PSD) said he unblocked several stalled projects in his first week and criticised former interim minister Radu Miruță (USR) over an order requiring ministry sign-off for closing roads, rail lines or runways. Popa said he will cancel the order so agencies can start repairs without it.",
@@ -4498,6 +4654,32 @@
    "id": "pol-ungureanu-chancellery"
   },
   {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-28T12:15:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/deputatul-usr-emanuel-ungureanu-cere-diicot-si-dna-explicatii-in-cazul-nordis-unde-ancheta-procurorilor-bate-pasul-pe-loc-sorin-grindeanu-si-marcel-ciolacu-printre-pasagerii-zborurilor-de-lux-nord.html"
+    },
+    {
+     "name": "News.ro",
+     "url": "https://www.news.ro/politic-intern/deputatul-usr-emanuel-ungureanu-cere-diicot-si-dna-explicatii-in-cazul-nordis-peste-1-700-de-pagubiti-asteapta-sa-li-se-faca-dreptate-1922402728252026101422897625"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/deputatul-usr-emanuel-ungureanu-cere-diicot-si-dna-explicatii-in-cazul-nordis-peste-1700-de-pagubiti-asteapta-sa-li-se-faca-dreptate_3932050"
+    }
+   ],
+   "summary": "USR deputy Emanuel Ungureanu asked DIICOT and DNA to report on the Nordis investigation, which involves about 1,700 alleged victims and over €195 million in claimed losses. Speaking alongside victims, he said the probe has made no visible progress for about two years and backed a parliamentary inquiry.",
+   "summary_ro": "Deputatul USR Emanuel Ungureanu a cerut DIICOT și DNA informații despre stadiul anchetei Nordis, în care sunt aproximativ 1.700 de presupuse victime și pagube reclamate de peste 195 de milioane de euro. Alături de păgubiți, el a spus că ancheta nu a avansat vizibil de circa doi ani și a susținut o comisie parlamentară de anchetă.",
+   "title": "USR MP asks prosecutors for update on stalled Nordis case",
+   "title_ro": "Deputat USR cere procurorilor explicații în dosarul Nordis",
+   "topic": "politics",
+   "id": "pol-ungureanu-nordis"
+  },
+  {
    "place": "Romania",
    "place_ro": "România",
    "publishedAt": "2026-10-27T20:51:00Z",
@@ -4706,6 +4888,24 @@
    "id": "ro-bistrita-school-assault"
   },
   {
+   "place": "Calafat",
+   "place_ro": "Calafat",
+   "publishedAt": "2026-10-28T11:15:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/mii-de-flacoane-cu-toxina-botulinica-descoperite-intr-un-microbuz-care-circula-din-bulgaria-spre-germania-produsele-ascunse-printre-bagaje.html"
+    }
+   ],
+   "summary": "Romanian customs and border police found 3,281 vials of botulinum toxin and related powder, valued at about 3.4 million lei, hidden in luggage on a Bulgarian minibus heading to Germany near the Calafat–Vidin bridge.",
+   "summary_ro": "Vameșii și polițiștii de frontieră români au găsit 3.281 de flacoane cu toxină botulinică și pulbere pentru preparare, evaluate la circa 3,4 milioane de lei, ascunse în bagajele unui microbuz bulgar care mergea spre Germania, lângă podul Calafat–Vidin.",
+   "title": "Over 3,000 vials of botulinum toxin seized at Calafat bridge",
+   "title_ro": "Peste 3.000 de flacoane cu toxină botulinică, confiscate la podul Calafat",
+   "topic": "security",
+   "id": "ro-botox-calafat"
+  },
+  {
    "place": "Romania",
    "place_ro": "România",
    "publishedAt": "2026-10-26T07:42:00Z",
@@ -4738,6 +4938,24 @@
    "title_ro": "Ministrul Finanțelor și liderul social-democraților, în conflict pe cifrele bugetului",
    "topic": "politics",
    "id": "ro-budget-clash"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-28T12:12:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/economic/2026/10/28/busoi-exista-sanse-ca-unul-dintre-reactoarele-de-la-cernavoda-sa-fie-repornit-la-inceputul-lunii-noi--1607669"
+    }
+   ],
+   "summary": "Former energy state secretary Cristian Bușoi told the Energy Forum that one of the two Cernavodă reactors, both shut since summer, could restart in early November, but said this would not automatically lower electricity prices, which follow regional markets.",
+   "summary_ro": "Fostul secretar de stat în Ministerul Energiei Cristian Bușoi a spus la Forumul Energiei că unul dintre cele două reactoare de la Cernavodă, oprite din vară, ar putea reporni la începutul lui noiembrie, dar că asta nu va reduce automat prețul energiei, aliniat la piețele regionale.",
+   "title": "Cernavodă reactor could restart in early November, Bușoi says",
+   "title_ro": "Bușoi: un reactor de la Cernavodă ar putea reporni la începutul lui noiembrie",
+   "topic": "energy",
+   "id": "ro-busoi-cernavoda-early-november"
   },
   {
    "place": "Bucharest",
@@ -5092,6 +5310,10 @@
     {
      "name": "Digi24",
      "url": "https://www.digi24.ro/stiri/economie/energie/ministrul-energiei-va-discuta-cu-omologii-din-ue-despre-aprovizionarea-cu-gaze-si-energie-electrica-pentru-iarna-2026-2027-4012123"
+    },
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/economic/dumitru-chisalita-discuta-despre-securitatea-aprovizionarii-cu-energie-in-aceasta-iarna-la-prima-reuniune-a-consiliului-tte-energie-de-la-luxemburg-de-la-preluarea-mandatului-23833056"
     }
    ],
    "summary": "Energy Minister Dumitru Chisăliță will attend an EU energy ministers' meeting in Luxembourg on Thursday on supply for winter 2026–2027, as European gas prices hit their highest level since 2022. Romania's gas storage was about 88% full on 26 October, below last year but above the EU average, Digi24 reports.",
