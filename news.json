@@ -1,5 +1,5 @@
 {
- "lastRun": "2026-10-28T21:55:26Z",
+ "lastRun": "2026-10-28T23:05:42Z",
  "stories": [
   {
    "place": "Bucharest",
@@ -564,6 +564,24 @@
    "title_ro": "Marile bănci europene depășesc așteptările de profit în trimestrul III",
    "topic": "economy",
    "id": "eu-banks-q3-profits"
+  },
+  {
+   "place": "Belgium",
+   "place_ro": "Belgia",
+   "publishedAt": "2026-10-28T20:11:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/28/belgiums-finance-and-tax-agency-hit-by-cyberattack"
+    }
+   ],
+   "summary": "Belgium's federal finance service took its MyMinfin tax portal and other online services offline as a precaution after a cyberattack, Euronews reports. Some tax filing deadlines will be extended; the agency says there is so far no sign that personal data was compromised.",
+   "summary_ro": "Serviciul federal de finanțe al Belgiei a oprit preventiv portalul fiscal MyMinfin și alte servicii online după un atac cibernetic, relatează Euronews. Unele termene de depunere vor fi prelungite; instituția spune că deocamdată nu există semne că datele personale ar fi fost compromise.",
+   "title": "Cyberattack disrupts Belgium's finance ministry and tax portal",
+   "title_ro": "Atac cibernetic asupra Ministerului de Finanțe și portalului fiscal din Belgia",
+   "topic": "security",
+   "id": "eu-belgium-tax-cyberattack"
   },
   {
    "place": "Serbia",
@@ -4172,6 +4190,10 @@
     {
      "name": "Gândul",
      "url": "https://www.gandul.ro/actualitate/george-simion-calin-georgescu-protest-arest-21048262"
+    },
+    {
+     "name": "Capital",
+     "url": "https://www.capital.ro/calin-georgescu-ramane-in-arest-preventiv-inca-30-de-zile-george-simion-a-anuntat-proteste-dictaturile-niciodata-nu-au-sfarsit-bine.html"
     }
    ],
    "summary": "AUR leader George Simion said his supporters will protest in the street after the appeals court extended Călin Georgescu's pretrial detention by 30 days, saying dictatorships never end well. Georgescu's wife, Cristela, said the ruling breaches fundamental rights.",
@@ -5622,6 +5644,24 @@
    "id": "pol-rogobete-medicine-stocks"
   },
   {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-28T17:17:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/social/rogobete-acuza-influente-in-alocarea-banilor-din-sanatate-prima-data-se-platesc-facturile-pentru-cabinete-private-23833305"
+    }
+   ],
+   "summary": "Health Minister Alexandru Rogobete told Europa FM he believes some private clinics' invoices were paid by the health insurance house before public emergency hospitals, while saying he has no proof yet. He said an audit is under way and any findings will be made public and, if warranted, sent to prosecutors.",
+   "summary_ro": "Ministrul Sănătății, Alexandru Rogobete, a declarat la Europa FM că, în opinia sa, facturile unor clinici private ar fi fost plătite de Casa de Asigurări înaintea spitalelor publice de urgență, precizând că nu are deocamdată dovezi. El a spus că rezultatele auditului vor fi făcute publice și, dacă e cazul, trimise procurorilor.",
+   "title": "Health minister Rogobete says CNAS audit may show private clinics paid first",
+   "title_ro": "Ministrul Rogobete spune că auditul la CNAS ar putea arăta plăți prioritare către clinici private",
+   "topic": "politics",
+   "id": "pol-rogobete-private-clinics-audit"
+  },
+  {
    "place": "Romania",
    "place_ro": "România",
    "publishedAt": "2026-10-27T13:15:00Z",
@@ -6562,6 +6602,24 @@
    "title_ro": "Polițiștii caută un bărbat suspectat că a furat o armă de vânătoare în Caraș-Severin",
    "topic": "security",
    "id": "ro-caras-armed-man-search"
+  },
+  {
+   "place": "Warsaw",
+   "place_ro": "Varșovia",
+   "publishedAt": "2026-10-28T16:04:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/ucraineanul-acuzat-de-sabotaj-la-uzina-carfil-a-fost-arestat-preventiv-pentru-sapte-zile-in-polonia-a-refuzat-extradarea-in-romania.html"
+    }
+   ],
+   "summary": "A Warsaw court ordered seven days' detention for a 25-year-old Ukrainian suspected of helping prepare the sabotage at Romania's Carfil arms plant, pending a Romanian European arrest warrant, G4Media reports. Polish prosecutors say he did not consent to being sent to Romania.",
+   "summary_ro": "Un tribunal din Varșovia a dispus arestarea pentru șapte zile a unui ucrainean de 25 de ani suspectat că a ajutat la pregătirea sabotajului de la fabrica de armament Carfil, în baza unui mandat european emis de România, relatează G4Media. Procurorii polonezi spun că acesta nu a acceptat predarea către România.",
+   "title": "Polish court detains Ukrainian suspect in Carfil sabotage case",
+   "title_ro": "Un tribunal polonez îl arestează pe ucraineanul suspectat în cazul sabotajului de la Carfil",
+   "topic": "security",
+   "id": "ro-carfil-suspect-poland-detention"
   },
   {
    "place": "Brașov",
@@ -10320,6 +10378,32 @@
    "title_ro": "Trump își asumă meritul pentru rezultatul lui Netanyahu la alegeri",
    "topic": "world",
    "id": "world-trump-netanyahu-credit"
+  },
+  {
+   "place": "New York",
+   "place_ro": "New York",
+   "publishedAt": "2026-10-28T20:22:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/28/un-votes-to-condemn-embargo-of-cuba-despite-us-lobbying-push"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/28/support-for-un-vote-to-end-us-embargo-on-cuba-falls-to-30-year-low"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-28/us-wins-over-23-more-countries-in-un-vote-against-cuba-embargo"
+    }
+   ],
+   "summary": "The UN General Assembly backed a resolution calling for an end to the US embargo on Cuba by 130 votes to 17, with 25 abstentions including Germany and Italy. Support was the lowest since 1995 after a US lobbying push; Cuba accused Washington of threatening countries with penalties.",
+   "summary_ro": "Adunarea Generală a ONU a adoptat cu 130 de voturi pentru, 17 împotrivă și 25 de abțineri, între care Germania și Italia, o rezoluție care cere încetarea embargoului american asupra Cubei. Sprijinul a fost cel mai scăzut din 1995, după o campanie de lobby a SUA; Cuba acuză Washingtonul că a amenințat statele cu sancțiuni.",
+   "title": "UN again condemns US embargo on Cuba, but support hits 30-year low",
+   "title_ro": "ONU condamnă din nou embargoul SUA asupra Cubei, dar sprijinul scade la minimul ultimilor 30 de ani",
+   "topic": "world",
+   "id": "world-un-cuba-embargo-vote"
   },
   {
    "place": "Eastern Pacific",
