@@ -1,5 +1,5 @@
 {
- "lastRun": "2026-10-29T06:12:32Z",
+ "lastRun": "2026-10-29T07:09:41Z",
  "stories": [
   {
    "place": "Bucharest",
@@ -1820,6 +1820,10 @@
     {
      "name": "Digi24",
      "url": "https://www.digi24.ro/stiri/externe/moldova/consiliul-de-securitate-al-r-moldova-convocat-dupa-un-atac-cibernetic-in-care-au-fost-furate-datele-personale-a-750-000-de-cetateni-4013145"
+    },
+    {
+     "name": "Capital",
+     "url": "https://www.capital.ro/atac-cibernetic-de-amploare-in-republica-moldova-maia-sandu-a-convocat-consiliul-national-de-securitate-dupa-furtul-datelor-a-750-000-de-persoane.html"
     }
    ],
    "summary": "Moldovan President Maia Sandu called a National Security Council meeting over a cyberattack that exposed data linked to about 750,000 personal ID numbers. PM Vasile Tofan dismissed the head of the e-Governance Agency, and officials said they suspect involvement of foreign state actors.",
@@ -3076,8 +3080,8 @@
      "url": "https://agerpres.ro/politic-extern/2026/10/28/kremlinul-exclude-o-prezenta-europeana-in-negocierile-cu-ucraina-si-sua-de-la-abu-dhabi--1607791"
     }
    ],
-   "summary": "Volodymyr Zelensky said Ukraine hopes a trilateral meeting with the US and Russia will take place in Abu Dhabi by 10 November, covering an energy ceasefire, maritime issues and prisoner exchanges. Kremlin adviser Yuri Ushakov said European participation was not agreed and did not confirm the date.",
-   "summary_ro": "Volodimir Zelenski a spus că Ucraina speră ca o întâlnire trilaterală cu SUA și Rusia să aibă loc la Abu Dhabi până pe 10 noiembrie, cu teme precum armistițiul energetic, chestiunile maritime și schimburile de prizonieri. Consilierul Kremlinului Iuri Ușakov a spus că participarea europenilor nu a fost convenită și nu a confirmat data.",
+   "summary": "Volodymyr Zelensky said Ukraine hopes a trilateral meeting with the US and Russia will take place in Abu Dhabi by 10 November, covering an energy ceasefire, maritime issues and prisoner exchanges. Kremlin adviser Yuri Ushakov said Moscow proposed the second week of November and ruled out inviting Europeans to the table, saying they could attend only if they bought tickets, Agerpres reports.",
+   "summary_ro": "Volodimir Zelenski a spus că Ucraina speră ca o întâlnire trilaterală cu SUA și Rusia să aibă loc la Abu Dhabi până pe 10 noiembrie, cu teme precum armistițiul energetic, chestiunile maritime și schimburile de prizonieri. Consilierul Kremlinului Iuri Ușakov a spus că Moscova a propus a doua săptămână din noiembrie și a exclus invitarea europenilor la masa negocierilor, spunând că aceștia pot participa doar dacă își cumpără bilete, relatează Agerpres.",
    "title": "Zelensky hopes for Ukraine–US–Russia talks in Abu Dhabi by 10 November",
    "title_ro": "Zelenski speră la negocieri Ucraina–SUA–Rusia la Abu Dhabi până pe 10 noiembrie",
    "topic": "world",
@@ -6444,6 +6448,24 @@
    "id": "pol-tax-2027"
   },
   {
+   "place": "Botoșani",
+   "place_ro": "Botoșani",
+   "publishedAt": "2026-10-29T04:57:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "HotNews",
+     "url": "https://hotnews.ro/tineretul-social-democrat-din-botosani-a-organizat-un-concurs-de-pescuit-incheiat-cu-artificii-intr-o-arie-protejata-nu-sufera-natura-ca-au-aruncat-cateva-bete-in-balta-spune-pri-2389061"
+    }
+   ],
+   "summary": "HotNews reports that PSD's youth organisation in Botoșani held a fishing contest advertised with a party and fireworks on the Prut near Ripiceni, in a Natura 2000 bird site, without approval from the protected-areas agency. TSD Botoșani leader Victor Mahalu says the group was outside the site and did nothing wrong; Botoșani mayor Cosmin Andrei (PSD) says all permits were obtained.",
+   "summary_ro": "HotNews relatează că organizația de tineret a PSD Botoșani a organizat pe Prut, lângă Ripiceni, într-un sit Natura 2000 pentru păsări, un concurs de pescuit anunțat cu petrecere și foc de artificii, fără aviz de la agenția pentru arii protejate. Liderul TSD Botoșani, Victor Mahalu, spune că grupul nu era în sit și nu a greșit cu nimic; primarul Botoșaniului, Cosmin Andrei (PSD), afirmă că au existat toate autorizațiile.",
+   "title": "PSD youth wing's fishing contest with fireworks held at protected bird site",
+   "title_ro": "Concurs de pescuit cu artificii al tinerilor PSD, într-o arie protejată",
+   "topic": "politics",
+   "id": "pol-tsd-botosani-protected-area"
+  },
+  {
    "place": "Bucharest",
    "place_ro": "București",
    "publishedAt": "2026-10-28T17:13:00Z",
@@ -7276,6 +7298,28 @@
    "title_ro": "Directorul Carfil: fabrica fusese avertizată din primăvară",
    "topic": "security",
    "id": "ro-carfil-warning"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-29T05:42:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "HotNews",
+     "url": "https://hotnews.ro/una-dintre-cele-mai-cunoscute-retele-de-librarii-din-romania-victima-unui-atac-cibernetic-2389242"
+    },
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/stiri/actualitate/atac-cibernetic-asupra-carturesti-site-ul-si-aplicatia-mobila-nu-functioneaza-iar-unele-servicii-au-fost-suspendate.html"
+    }
+   ],
+   "summary": "Bookstore chain Cărturești says a cyberattack has taken its website and mobile app offline and some in-store services were suspended as a precaution. The company says it has no indication so far that customer data was accessed or stolen and has informed the authorities.",
+   "summary_ro": "Lanțul de librării Cărturești anunță că un atac cibernetic i-a scos din funcțiune site-ul și aplicația mobilă, iar unele servicii din magazine au fost suspendate preventiv. Compania spune că deocamdată nu are indicii că datele clienților au fost accesate sau furate și că a anunțat autoritățile.",
+   "title": "Cyberattack knocks out Cărturești bookstore chain's website and app",
+   "title_ro": "Atac cibernetic la Cărturești: site-ul și aplicația, indisponibile",
+   "topic": "tech",
+   "id": "ro-carturesti-cyberattack"
   },
   {
    "place": "Cernavodă",
@@ -8124,6 +8168,24 @@
    "title_ro": "Hidroelectrica îl numește pe Ștefan Ivan în consiliul de supraveghere",
    "topic": "economy",
    "id": "ro-hidroelectrica-board-ivan"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-28T15:45:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "HotNews",
+     "url": "https://hotnews.ro/energie-de-milioane-de-euro-nefacturata-si-datorii-uriase-nerecuperate-ce-a-descoperit-curtea-de-conturi-dupa-ce-a-reluat-verificarile-la-cel-mai-mare-furnizor-de-energie-electrica-din-romania-2388893"
+    }
+   ],
+   "summary": "A new Court of Accounts report finds Hidroelectrica has not implemented most measures ordered after a 2022 audit on electricity supplied without invoices, HotNews reports. The auditors say 859 clients were billed more than a year late in 2023–2024 and about 479 million lei in receivables were overdue at end-2024; the company contested some findings.",
+   "summary_ro": "Un nou raport al Curții de Conturi arată că Hidroelectrica nu a aplicat majoritatea măsurilor dispuse după auditul din 2022 privind energia livrată fără facturi, relatează HotNews. Auditorii notează că 859 de clienți au fost facturați cu peste un an întârziere în 2023–2024 și că, la finalul lui 2024, creanțele restante erau de circa 479 de milioane de lei; compania a contestat o parte din constatări.",
+   "title": "Court of Accounts says Hidroelectrica still lags on unbilled power and debts",
+   "title_ro": "Curtea de Conturi: Hidroelectrica nu a rezolvat energia nefacturată și datoriile",
+   "topic": "energy",
+   "id": "ro-hidroelectrica-court-of-accounts"
   },
   {
    "place": "Romania",
@@ -9398,6 +9460,24 @@
    "id": "ro-undeclared-work-fines"
   },
   {
+   "place": "Vaslui",
+   "place_ro": "Vaslui",
+   "publishedAt": "2026-10-27T09:57:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Context",
+     "url": "https://context.ro/ingerul-copiilor-acuzat-ca-a-violat-timp-de-trei-ani-o-adolescenta-doua-apartamente-si-sase-terenuri-primite-ca-donatie-detine-alte-doua-case-si-doua-terenuri/"
+    }
+   ],
+   "summary": "A priest from Vaslui county who is also an independent local councillor in Negrești is in 30-day pre-trial detention, investigated for alleged sexual offences against two minors, Context reports; the Huși Diocese has barred him from church services. Context also examines how his declared assets grew through donations in recent years.",
+   "summary_ro": "Un preot din județul Vaslui, consilier local independent la Negrești, este în arest preventiv pentru 30 de zile, fiind cercetat pentru presupuse infracțiuni sexuale asupra a două minore, relatează Context; Episcopia Hușilor i-a interzis să mai slujească. Context analizează și creșterea averii declarate, în mare parte prin donații, în ultimii ani.",
+   "title": "Vaslui priest and local councillor held in child sexual abuse probe",
+   "title_ro": "Preot și consilier local din Vaslui, arestat într-un dosar de abuz asupra minorilor",
+   "topic": "security",
+   "id": "ro-vaslui-priest-councillor-detained"
+  },
+  {
    "place": "Vrancea",
    "place_ro": "Vrancea",
    "publishedAt": "2026-10-27T03:42:00Z",
@@ -9432,6 +9512,24 @@
    "title_ro": "Miercuri răcoroasă și înnorată, cu ploi slabe și lapoviță la munte",
    "topic": "security",
    "id": "ro-weather-oct28"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-29T05:30:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Capital",
+     "url": "https://www.capital.ro/prognoza-meteo-29-octombrie-zonele-in-care-sunt-asteptate-primele-ninsori.html"
+    }
+   ],
+   "summary": "Forecasters expect daytime highs of 12–16°C on Thursday with rain in several regions and rain, sleet and snow in the mountains, where a snow layer may form. Colder air is expected from the west, with lows near 4–6°C on Friday night.",
+   "summary_ro": "Meteorologii anunță pentru joi maxime de 12–16°C, ploi în mai multe regiuni și precipitații mixte la munte, unde se poate depune strat de zăpadă. Dinspre vest vine o răcire, cu minime de 4–6°C în noaptea spre vineri.",
+   "title": "Rain across much of Romania Thursday, snow in the mountains",
+   "title_ro": "Joi plouă în mare parte din țară, iar la munte ninge",
+   "topic": "security",
+   "id": "ro-weather-oct29"
   },
   {
    "place": "Romania",
@@ -10010,10 +10108,10 @@
      "url": "https://www.news.ro/externe/fuga-flavio-bolsonaro-brazilia-rusinoasa-denunta-lula-brasilia-petrecere-implinirea-varstei-81-ani-brazilia-doua-patrie-prima-linga-cizmele-statelor-unite-fugarul-ajuns-sua-1922404428002026101122896823"
     }
    ],
-   "summary": "Flávio Bolsonaro, who lost Brazil's presidential runoff, left the country after police cancelled his passports under a court order in a corruption and money-laundering probe. After conflicting reports placed him in Argentina and Ecuador, Digi24 reports he has arrived in the United States by a roundabout route; the US State Department had said visas would be issued to the family.",
-   "summary_ro": "Flávio Bolsonaro, învins în turul doi al prezidențialelor din Brazilia, a părăsit țara după ce poliția i-a anulat pașapoartele în baza unui ordin judecătoresc dintr-o anchetă de corupție și spălare de bani. După relatări contradictorii care îl plasau în Argentina și Ecuador, Digi24 relatează că a ajuns în SUA pe o rută ocolitoare; Departamentul de Stat american anunțase că familia va primi vize.",
-   "title": "Flávio Bolsonaro reaches US by indirect route after leaving Brazil",
-   "title_ro": "Flávio Bolsonaro a ajuns în SUA pe o rută ocolitoare după ce a părăsit Brazilia",
+   "summary": "Flávio Bolsonaro, who lost Brazil's presidential runoff, left the country after police cancelled his passports under a court order in a corruption and money-laundering probe, and reached the United States by a roundabout route. HotNews reports that after arriving in Miami he declared himself Brazil's legitimate leader; the US State Department had said visas would be issued to the family.",
+   "summary_ro": "Flávio Bolsonaro, învins în turul doi al prezidențialelor din Brazilia, a părăsit țara după ce poliția i-a anulat pașapoartele în baza unui ordin judecătoresc dintr-o anchetă de corupție și spălare de bani și a ajuns în SUA pe o rută ocolitoare. HotNews relatează că, ajuns la Miami, s-a declarat liderul legitim al Braziliei; Departamentul de Stat american anunțase că familia va primi vize.",
+   "title": "Flávio Bolsonaro reaches Miami, calls himself Brazil's legitimate leader",
+   "title_ro": "Flávio Bolsonaro a ajuns la Miami și se declară liderul legitim al Braziliei",
    "topic": "politics",
    "id": "world-flavio-bolsonaro-passports"
   },
@@ -10490,8 +10588,8 @@
      "url": "https://www.rri.ro/en/news-and-current-affairs/newsflash/october-28-2026-id1076634.html"
     }
    ],
-   "summary": "With nearly all votes counted, Benjamin Netanyahu's bloc and Gadi Eisenkot's opposition alliance both say they are ready to form a government, but neither has the 61 seats needed, Agerpres reports, while Arab parties won record representation. Israel's president urged parties to avoid another election, and the EU said it is ready for open dialogue with the next government.",
-   "summary_ro": "Cu aproape toate voturile numărate, atât blocul lui Benjamin Netanyahu, cât și alianța de opoziție a lui Gadi Eisenkot se declară pregătite să formeze guvernul, dar niciuna nu are cele 61 de mandate necesare, relatează Agerpres, iar partidele arabe au obținut o reprezentare record. Președintele Israelului a cerut partidelor să evite noi alegeri, iar UE s-a declarat pregătită de un dialog deschis cu viitorul guvern.",
+   "summary": "With about 90% of votes counted, Benjamin Netanyahu's bloc is on course for 53 seats and Gadi Eisenkot's opposition alliance for 48, short of the 61 needed, while Arab parties won record representation, Al Jazeera and Agerpres report. More than 500,000 special ballots are still to be counted and final results could come Thursday evening; President Isaac Herzog urged parties to avoid another election.",
+   "summary_ro": "Cu circa 90% din voturi numărate, blocul lui Benjamin Netanyahu se îndreaptă spre 53 de mandate, iar alianța de opoziție a lui Gadi Eisenkot spre 48, sub pragul de 61, în timp ce partidele arabe au obținut o reprezentare record, relatează Al Jazeera și Agerpres. Peste 500.000 de buletine speciale nu au fost încă numărate, iar rezultatele finale ar putea veni joi seară; președintele Isaac Herzog a cerut partidelor să evite noi alegeri.",
    "title": "Israel election ends in deadlock as counting continues",
    "title_ro": "Alegerile din Israel se încheie fără majoritate clară; numărarea continuă",
    "topic": "politics",
@@ -10680,6 +10778,28 @@
    "title_ro": "Coreea de Sud își recheamă opt diplomați de la Kiev",
    "topic": "world",
    "id": "world-korea-recalls-kyiv-diplomats"
+  },
+  {
+   "place": "Russia",
+   "place_ro": "Rusia",
+   "publishedAt": "2026-10-29T01:02:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.bnnbloomberg.ca/markets/oil/2026/10/29/kremlin-aide-says-discussions-underway-with-us-to-lift-sanctions-on-russian-investment-fund/"
+    },
+    {
+     "name": "HotNews",
+     "url": "https://hotnews.ro/kremlinul-spune-ca-discuta-cu-sua-ridicarea-sanctiunilor-contra-marelui-fond-de-investitii-al-rusiei-2389388"
+    }
+   ],
+   "summary": "Kremlin aide Yuri Ushakov told Russian agencies that talks with the Trump administration on lifting US sanctions on the Russian Direct Investment Fund have been going on for some time and that he does not know the outcome, Reuters reports. The New York Times reported the administration was considering the move.",
+   "summary_ro": "Consilierul Kremlinului Iuri Ușakov a declarat agențiilor ruse că discuțiile cu administrația Trump privind ridicarea sancțiunilor americane asupra Fondului Rus de Investiții Directe durează de ceva timp și că nu știe care va fi rezultatul, relatează Reuters. New York Times a scris că administrația ia în calcul această măsură.",
+   "title": "Kremlin says it is discussing with US lifting sanctions on Russian fund",
+   "title_ro": "Kremlinul spune că discută cu SUA ridicarea sancțiunilor pentru un fond rus",
+   "topic": "world",
+   "id": "world-kremlin-rdif-sanctions"
   },
   {
    "place": "World",
