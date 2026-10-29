@@ -1,5 +1,5 @@
 {
- "lastRun": "2026-10-29T00:59:07Z",
+ "lastRun": "2026-10-29T02:07:16Z",
  "stories": [
   {
    "place": "Bucharest",
@@ -972,6 +972,24 @@
    "id": "eu-eurobarometer-youth"
   },
   {
+   "place": "Burgas",
+   "place_ro": "Burgas",
+   "publishedAt": "2026-10-28T21:37:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://digi24.ro/magazin/timp-liber/divertisment/eurovision-2027-canada-va-participa-in-premiera-la-concursul-muzical-organizat-la-burgas-in-bulgaria-4013201"
+    }
+   ],
+   "summary": "Thirty-six broadcasters, including first-time entrant Canada, are set to take part in the 2027 Eurovision Song Contest in Burgas, Bulgaria, while Ireland and the Netherlands stay out over Israel's participation, Digi24 reports.",
+   "summary_ro": "Treizeci și șase de televiziuni, inclusiv Canada, aflată la prima participare, vor concura la Eurovision 2027, la Burgas, în Bulgaria, în timp ce Irlanda și Țările de Jos rămân în afara concursului din cauza participării Israelului, relatează Digi24.",
+   "title": "Canada to debut at Eurovision 2027 in Burgas among 36 countries",
+   "title_ro": "Canada debutează la Eurovision 2027, la Burgas, alături de alte 35 de țări",
+   "topic": "culture",
+   "id": "eu-eurovision-2027-lineup"
+  },
+  {
    "place": "Netherlands",
    "place_ro": "Țările de Jos",
    "publishedAt": "2026-10-27T12:00:00Z",
@@ -1288,10 +1306,18 @@
     {
      "name": "HotNews",
      "url": "https://hotnews.ro/unde-sunt-acum-suspectii-cautati-in-legatura-cu-sabotaj-rusesc-de-la-fabrica-de-armament-carfil-din-brasov-2389309"
+    },
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/externe/ue/doi-dintre-suspectii-tentativei-de-sabotaj-de-la-brasov-voiau-sa-incendieze-o-cladire-din-sudul-germaniei-presa-4013131"
+    },
+    {
+     "name": "News.ro",
+     "url": "https://www.news.ro/externe/suspectii-bielorusi-arestati-in-germania-cautati-in-romania-in-legatura-cu-sabotajul-de-la-carfil-brasov-voiau-sa-incendieze-o-cladire-sau-o-infrastructura-critica-din-zona-orasului-n-rnberg-1922404828562026102122899326"
     }
    ],
-   "summary": "German police arrested two Belarusian citizens suspected of planning acts of sabotage on Russia's behalf in southern Germany, Agerpres reports. According to HotNews, Romanian investigators also suspect the pair in the Carfil fire near Brașov, and Romania is seeking their extradition.",
-   "summary_ro": "Poliția germană a arestat doi cetățeni belaruși suspectați că plănuiau acte de sabotaj în numele Rusiei în sudul Germaniei, relatează Agerpres. Potrivit HotNews, anchetatorii români îi suspectează pe cei doi și în cazul incendiului de la Carfil, de lângă Brașov, iar România cere extrădarea lor.",
+   "summary": "German police arrested two Belarusian citizens suspected of planning sabotage on Russia's behalf in southern Germany, Agerpres reports; Digi24 and News.ro, citing press reports, say the pair intended to set fire to a building or critical infrastructure near Nuremberg. Romanian investigators also suspect them in the Carfil fire near Brașov and are seeking their extradition.",
+   "summary_ro": "Poliția germană a arestat doi cetățeni belaruși suspectați că plănuiau acte de sabotaj în favoarea Rusiei în sudul Germaniei, relatează Agerpres; potrivit Digi24 și News.ro, care citează presa, cei doi intenționau să incendieze o clădire sau o infrastructură critică din zona Nürnberg. Anchetatorii români îi suspectează și în cazul incendiului de la Carfil, lângă Brașov, și cer extrădarea lor.",
    "title": "German police arrest two Belarusians over alleged sabotage plans for Russia",
    "title_ro": "Poliția germană a arestat doi belaruși suspectați că plănuiau sabotaje pentru Rusia",
    "topic": "security",
@@ -2582,6 +2608,32 @@
    "id": "eu-turin-satellite-factory"
   },
   {
+   "place": "Turkey–Bulgaria border",
+   "place_ro": "Granița Turcia–Bulgaria",
+   "publishedAt": "2026-10-28T20:27:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/social/2026/10/28/atentionare-de-calatorie-mae-turcia---protest-spontan-al-transportatorilor-de-marfa--1607871"
+    },
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/avertizare-de-calatorie-de-la-mae-protest-spontan-al-transportatorilor-de-marfa-in-turcia-4013189"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/protest-al-transportatorilor-turci-la-granita-cu-bulgaria-avertisment-mae-pentru-soferii-romani_3932184"
+    }
+   ],
+   "summary": "Romania's foreign ministry warned of an open-ended protest by Turkish freight carriers at the Kapıkule–Kapitan Andreevo and Hamzabeyli–Lesovo crossings, where traffic is slowed in both directions though cars and buses can still pass.",
+   "summary_ro": "Ministerul Afacerilor Externe a emis o atenționare privind un protest pe durată nedeterminată al transportatorilor de marfă turci la punctele de trecere Kapıkule–Kapitan Andreevo și Hamzabeyli–Lesovo, unde traficul se desfășoară lent în ambele sensuri, deși autoturismele și autocarele pot trece.",
+   "title": "Romania warns drivers of Turkish truckers' protest at Bulgarian border",
+   "title_ro": "MAE avertizează șoferii despre protestul transportatorilor turci la granița cu Bulgaria",
+   "topic": "economy",
+   "id": "eu-turkey-trucker-protest"
+  },
+  {
    "place": "France",
    "place_ro": "Franța",
    "publishedAt": "2026-10-28T18:42:00Z",
@@ -2710,6 +2762,24 @@
    "id": "eu-uk-healey-budget"
   },
   {
+   "place": "United Kingdom",
+   "place_ro": "Regatul Unit",
+   "publishedAt": "2026-10-28T16:06:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/28/israeli-soldier-visiting-uk-faces-war-crimes-complaint"
+    }
+   ],
+   "summary": "The Brussels-based Hind Rajab Foundation filed a criminal complaint in the UK against an Israeli reservist it says took part in demolishing a flour facility in Gaza in 2025, citing his own social media footage, Al Jazeera reports. The Metropolitan Police had not commented.",
+   "summary_ro": "Fundația Hind Rajab, cu sediul la Bruxelles, a depus în Regatul Unit o plângere penală împotriva unui rezervist israelian despre care spune că a participat în 2025 la demolarea unei unități de producție a făinii din Gaza, invocând imagini publicate chiar de acesta, relatează Al Jazeera. Poliția Metropolitană nu a comentat.",
+   "title": "War crimes complaint filed in UK against visiting Israeli reservist",
+   "title_ro": "Plângere pentru crime de război depusă în Regatul Unit împotriva unui rezervist israelian",
+   "topic": "world",
+   "id": "eu-uk-israeli-soldier-complaint"
+  },
+  {
    "place": "Warsaw",
    "place_ro": "Varșovia",
    "publishedAt": "2026-10-27T14:24:00Z",
@@ -2734,6 +2804,24 @@
    "title_ro": "Ministrul britanic al apărării: NATO trebuie să fie pregătit pentru un război cu Rusia",
    "topic": "security",
    "id": "eu-uk-nato-warning"
+  },
+  {
+   "place": "United Kingdom",
+   "place_ro": "Regatul Unit",
+   "publishedAt": "2026-10-28T13:56:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/28/why-are-three-of-the-uks-four-nuclear-deterrent-submarines-at-sea"
+    }
+   ],
+   "summary": "The UK has three of its four Vanguard-class nuclear deterrent submarines deployed simultaneously, the first time in about five years, Al Jazeera reports citing The Times; a navy source called it unusual without giving reasons.",
+   "summary_ro": "Regatul Unit are simultan pe mare trei dintre cele patru submarine de descurajare nucleară din clasa Vanguard, pentru prima dată în aproximativ cinci ani, relatează Al Jazeera, citând The Times; o sursă din marină a numit situația neobișnuită, fără alte explicații.",
+   "title": "Three of Britain's four nuclear-armed submarines at sea at once",
+   "title_ro": "Trei dintre cele patru submarine nucleare britanice, simultan pe mare",
+   "topic": "security",
+   "id": "eu-uk-nuclear-subs-at-sea"
   },
   {
    "place": "United Kingdom",
@@ -2826,6 +2914,10 @@
     {
      "name": "Știri pe surse",
      "url": "https://www.stiripesurse.ro/zelenski-anunta-cand-ar-putea-avea-loc-negocierile-trilaterale-ucraina-sua-rusia-kremlinul-mesaj-ironic-pentru-europeni-pot-ajunge-acolo-daca-isi-cumpara-bilete-dar-nimeni-nu-are-de-gand-sa-i-invite_3932112"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/28/kremlin-says-european-countries-not-included-in-next-ukraine-talks"
     }
    ],
    "summary": "Volodymyr Zelensky said Ukraine hopes a trilateral meeting with the US and Russia will take place in Abu Dhabi by 10 November, covering an energy ceasefire, maritime issues and prisoner exchanges. Kremlin adviser Yuri Ushakov said European participation was not agreed and did not confirm the date.",
@@ -4188,6 +4280,10 @@
     {
      "name": "Agerpres",
      "url": "https://agerpres.ro/justitie/2026/10/28/dosarul-lui-calin-georgescu-se-judeca-la-ora-17-00--1607627"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/28/romania-extends-pre-trial-detention-of-far-right-politician-calin-georgescu"
     }
    ],
    "summary": "The Bucharest Court of Appeal accepted DIICOT's challenge and extended Călin Georgescu's pre-trial detention by 30 days, to 27 November, in a final ruling; he is accused of defrauding a businessman of €1.1 million, and co-defendant Ionel Rusen also stays in custody, Agerpres reports. AUR leader George Simion criticised the ruling, saying dictatorships never end well.",
@@ -5174,10 +5270,14 @@
     {
      "name": "Știrile ProTV",
      "url": "https://stirileprotv.ro/stiri/politic/cand-ar-putea-recupera-statul-banii-datorati-de-pnl-pentru-campania-lui-nicolae-ciuca-seful-aep-arata-spre-anaf.html"
+    },
+    {
+     "name": "Capital",
+     "url": "https://www.capital.ro/anaf-poate-executa-silit-pnl-pentru-datoria-de-14-milioane-de-lei-ce-proceduri-trebuie-respectate-pentru-recuperarea-banilor.html"
     }
    ],
-   "summary": "The Permanent Electoral Authority says PNL owes about 14.1 million lei after the High Court ruled definitively that the party must return public funds it spent promoting a book by former leader Nicolae Ciucă, and asked the tax agency ANAF to enforce payment. ANAF said its recovery procedures are applied uniformly and without discrimination.",
-   "summary_ro": "Autoritatea Electorală Permanentă spune că PNL datorează aproximativ 14,1 milioane de lei, după ce Înalta Curte a decis definitiv că partidul trebuie să restituie banii publici cheltuiți pentru promovarea unei cărți a fostului lider Nicolae Ciucă, și a sesizat ANAF pentru executare silită. ANAF a precizat că procedurile de recuperare se aplică unitar și nediscriminatoriu.",
+   "summary": "The Permanent Electoral Authority says PNL owes about 14.1 million lei after the High Court ruled definitively that the party must return public funds it spent promoting a book by former leader Nicolae Ciucă, and asked the tax agency ANAF to enforce payment. ANAF said its recovery procedures are applied uniformly and that forced collection is not the only option; PNL leader Ilie Bolojan said the party will pay.",
+   "summary_ro": "Autoritatea Electorală Permanentă spune că PNL datorează circa 14,1 milioane de lei, după ce Înalta Curte a decis definitiv că partidul trebuie să returneze fondurile publice cheltuite pentru promovarea unei cărți a fostului lider Nicolae Ciucă, și a cerut ANAF să execute plata. ANAF a precizat că procedurile de recuperare se aplică unitar și că executarea silită nu este singura variantă; liderul PNL, Ilie Bolojan, a spus că partidul va plăti.",
    "title": "PNL faces forced collection of 14 million lei over Ciucă book spending",
    "title_ro": "PNL, executat silit pentru 14 milioane de lei din cauza cărții lui Ciucă",
    "topic": "politics",
@@ -5684,6 +5784,10 @@
     {
      "name": "Mediafax",
      "url": "https://www.mediafax.ro/social/rogobete-acuza-influente-in-alocarea-banilor-din-sanatate-prima-data-se-platesc-facturile-pentru-cabinete-private-23833305"
+    },
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/actualitate/sanatate/rogobete-despre-una-dintre-cele-mai-mari-crize-din-sanatate-in-ultimii-10-ani-daca-doamne-fereste-as-fi-avut-un-accident-colectiv-4013065"
     }
    ],
    "summary": "Health Minister Alexandru Rogobete said the former head of the National Health Insurance House caused the biggest crisis in national health programmes and accused former PM Ilie Bolojan of lacking vision on the health system, News.ro reports.",
@@ -5780,6 +5884,28 @@
    "title_ro": "Ministrul Sănătății convine cu industria raportarea săptămânală a stocurilor de medicamente",
    "topic": "politics",
    "id": "pol-rogobete-medicine-stocks"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-28T19:29:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/actualitate/politica/rogobete-spune-ca-nu-e-nicio-cearta-in-guvern-intre-grindeanu-si-nazare-e-normal-sa-vezi-cifrele-reale-corecte-4013009"
+    },
+    {
+     "name": "News.ro",
+     "url": "https://www.news.ro/politic-intern/rogobete-rectificarea-bugetara-cel-probabil-saptamana-viitoare-vom-avea-imagine-clara-finantelor-publice-nivel-national-e-nicio-cearta-niciun-blocaj-sanatatea-nevoie-11-miliarde-lei-inchiderea-1922401728472026101922898964"
+    }
+   ],
+   "summary": "Health Minister Alexandru Rogobete told Europa FM there is no quarrel or deadlock in government over the budget revision and that a clearer picture of public finances should come next week. He said health needs about 11 billion lei to close the year.",
+   "summary_ro": "Ministrul Sănătății, Alexandru Rogobete, a declarat la Europa FM că nu există nicio ceartă și niciun blocaj în Guvern privind rectificarea bugetară și că săptămâna viitoare ar urma o imagine mai clară a finanțelor publice. El a spus că sănătatea are nevoie de circa 11 miliarde de lei pentru a închide anul.",
+   "title": "Health minister denies rift between Grindeanu and finance minister Nazare",
+   "title_ro": "Rogobete neagă o ceartă între Grindeanu și ministrul Finanțelor, Nazare",
+   "topic": "politics",
+   "id": "pol-rogobete-no-government-rift"
   },
   {
    "place": "Bucharest",
@@ -6328,6 +6454,28 @@
    "title_ro": "Ministerul Justiției pregătește înființarea unei agenții pentru protecția victimelor",
    "topic": "politics",
    "id": "pol-victims-agency"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-28T22:20:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/actualitate/politica/sume-uriase-necheltuite-la-ministerul-economiei-potrivit-lui-daniel-zamfir-executie-bugetara-sub-25-la-investitii-si-turism-4013215"
+    },
+    {
+     "name": "News.ro",
+     "url": "https://www.news.ro/economic/daniel-zamfir-executia-bigetara-minisiterul-economiei-ingroziti-inadmisibil-ministerul-economiei-antreprenoriatului-turismului-digitalizarii-aiba-executie-bugetara-23-programe-importane-au-executii-1922400029002026100022900187"
+    }
+   ],
+   "summary": "Economy Minister Daniel Zamfir (PSD) said his ministry's budget execution stands at about 23%, with Start-Up Nation at around 2% and the tourism promotion programme at 16%, and criticised his USR predecessor Irineu Darău, Digi24 and News.ro report.",
+   "summary_ro": "Ministrul Economiei, Daniel Zamfir (PSD), a declarat că execuția bugetară a ministerului este de aproximativ 23%, cu Start-Up Nation la circa 2% și programul de promovare turistică la 16%, criticându-l pe predecesorul său de la USR, Irineu Darău, relatează Digi24 și News.ro.",
+   "title": "Economy minister Zamfir says ministry spent under a quarter of its budget",
+   "title_ro": "Ministrul Economiei, Daniel Zamfir: ministerul a cheltuit sub un sfert din buget",
+   "topic": "politics",
+   "id": "pol-zamfir-economy-spending"
   },
   {
    "place": "Romania",
@@ -7124,6 +7272,24 @@
    "title_ro": "Guvernul vrea să prelungească reducerea accizei la motorină până la finalul lui ianuarie",
    "topic": "energy",
    "id": "ro-diesel-excise-extension"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-28T19:16:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/actualitate/sanatate/rogobete-anunta-ca-un-nou-examen-de-specialitate-pentru-medici-va-fi-organizat-la-termen-in-februarie-martie-2027-4013005"
+    }
+   ],
+   "summary": "Health Minister Alexandru Rogobete said the next specialist exam for doctors will be held on schedule in February–March 2027, with no extra session, and proposed that residents who failed keep paid jobs until then.",
+   "summary_ro": "Ministrul Sănătății, Alexandru Rogobete, a anunțat că următorul examen de medic specialist va avea loc la termen, în februarie–martie 2027, fără o sesiune suplimentară, și a propus ca rezidenții care nu au promovat să rămână angajați și plătiți până atunci.",
+   "title": "Next specialty exam for doctors set for February–March 2027",
+   "title_ro": "Următorul examen de specialitate pentru medici, în februarie–martie 2027",
+   "topic": "politics",
+   "id": "ro-doctors-specialty-exam-2027"
   },
   {
    "place": "Bucharest",
@@ -9492,6 +9658,24 @@
    "id": "world-gulf-iran-deal"
   },
   {
+   "place": "West Bank",
+   "place_ro": "Cisiordania",
+   "publishedAt": "2026-10-28T10:41:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/28/israeli-forces-continue-west-bank-raids-as-hebron-lockdown-enters-sixth-day"
+    }
+   ],
+   "summary": "Israeli forces kept up raids in Hebron and nearby towns as a lockdown imposed after the killing of two soldiers at a checkpoint entered its sixth day; UNRWA said the incursions have displaced nearly 5,000 Palestinians, Al Jazeera reports.",
+   "summary_ro": "Forțele israeliene au continuat raidurile în Hebron și în localitățile din jur, iar blocada impusă după uciderea a doi soldați la un punct de control a intrat în a șasea zi; UNRWA spune că incursiunile au strămutat aproape 5.000 de palestinieni, relatează Al Jazeera.",
+   "title": "Israeli raids continue as Hebron lockdown enters sixth day",
+   "title_ro": "Raidurile israeliene continuă, iar blocada de la Hebron intră în a șasea zi",
+   "topic": "world",
+   "id": "world-hebron-lockdown"
+  },
+  {
    "place": "Southeast Asia",
    "place_ro": "Asia de Sud-Est",
    "publishedAt": "2026-10-28T09:10:00Z",
@@ -9512,6 +9696,24 @@
    "title_ro": "Hegseth propune un nou cadru de apărare între ASEAN și SUA",
    "topic": "security",
    "id": "world-hegseth-asean"
+  },
+  {
+   "place": "United Arab Emirates",
+   "place_ro": "Emiratele Arabe Unite",
+   "publishedAt": "2026-10-28T10:02:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/hormuz-oil-spill-forces-closure-of-uae-beaches"
+    }
+   ],
+   "summary": "Oil leaking from a damaged tanker in the Strait of Hormuz has reached beaches in Ras Al Khaimah, which authorities closed until further notice, Al Jazeera reports.",
+   "summary_ro": "Petrolul scurs dintr-un tanc petrolier avariat în Strâmtoarea Ormuz a ajuns pe plajele din Ras Al Khaimah, pe care autoritățile le-au închis până la noi ordine, relatează Al Jazeera.",
+   "title": "Oil from damaged Hormuz tanker closes UAE beaches",
+   "title_ro": "Petrolul scurs dintr-un tanc avariat în Ormuz închide plaje din Emirate",
+   "topic": "energy",
+   "id": "world-hormuz-oil-spill-uae"
   },
   {
    "place": "India",
@@ -9610,6 +9812,24 @@
    "title_ro": "Liderul suprem al Iranului cere îndeplinirea condițiilor Teheranului pentru încheierea războiului",
    "topic": "politics",
    "id": "world-iran-khamenei-conditions"
+  },
+  {
+   "place": "Iran",
+   "place_ro": "Iran",
+   "publishedAt": "2026-10-28T20:14:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/externe/mapamond/iranul-este-indemnat-sa-permita-inspectorilor-onu-sa-viziteze-instalatiile-nucleare-bombardate-ce-ar-urma-sa-obtina-in-schimb-axios-4013085"
+    }
+   ],
+   "summary": "Qatar-led mediators are pressing Iran to allow UN inspectors back to its bombed nuclear facilities in exchange for possible sanctions relief, oil-sale waivers and access to frozen funds, Digi24 reports citing Axios. Iran's answer is expected after review by its supreme leader.",
+   "summary_ro": "Mediatori conduși de Qatar fac presiuni asupra Iranului să permită revenirea inspectorilor ONU la instalațiile nucleare bombardate, în schimbul unei posibile relaxări a sancțiunilor, al unor derogări pentru vânzarea de petrol și al accesului la fonduri înghețate, relatează Digi24, citând Axios. Răspunsul Teheranului este așteptat după analiza liderului suprem.",
+   "title": "Mediators urge Iran to let UN inspectors into bombed nuclear sites",
+   "title_ro": "Mediatorii cer Iranului să permită accesul inspectorilor ONU la siturile nucleare bombardate",
+   "topic": "world",
+   "id": "world-iran-mediators-inspectors"
   },
   {
    "place": "Persian Gulf",
