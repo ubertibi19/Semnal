@@ -1,5 +1,5 @@
 {
- "lastRun": "2026-10-29T02:07:16Z",
+ "lastRun": "2026-10-29T02:51:00Z",
  "stories": [
   {
    "place": "Bucharest",
@@ -912,6 +912,24 @@
    "title_ro": "Emisarul lui Putin, Dmitriev: Danemarca „merită să piardă Groenlanda”",
    "topic": "world",
    "id": "eu-dmitriev-greenland"
+  },
+  {
+   "place": "Ukraine",
+   "place_ro": "Ucraina",
+   "publishedAt": "2026-10-28T16:12:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/28/kremlin-says-european-countries-not-included-in-next-ukraine-talks"
+    }
+   ],
+   "summary": "Dutch PM Rob Jetten pledged an extra €500 million for drones and other supplies this winter, alongside a €1.2 billion three-year package, while Volodymyr Zelensky thanked UK PM Andy Burnham for a £10 billion package that includes £500 million for air defence, Al Jazeera reports.",
+   "summary_ro": "Premierul olandez Rob Jetten a promis încă 500 de milioane de euro pentru drone și alte materiale în această iarnă, pe lângă un pachet de 1,2 miliarde de euro pe trei ani, iar Volodimir Zelenski i-a mulțumit premierului britanic Andy Burnham pentru un pachet de 10 miliarde de lire sterline, care include 500 de milioane pentru apărarea antiaeriană, relatează Al Jazeera.",
+   "title": "Netherlands and UK announce new winter support packages for Ukraine",
+   "title_ro": "Țările de Jos și Regatul Unit anunță noi pachete de sprijin pentru Ucraina în această iarnă",
+   "topic": "security",
+   "id": "eu-dutch-uk-ukraine-winter-aid"
   },
   {
    "place": "Paris",
@@ -2412,8 +2430,8 @@
      "url": "https://stirileprotv.ro/stiri/international/tragedie-feroviara-in-spania-mai-devastatoare-decat-cea-din-ianuarie-zeci-de-morti-sute-de-raniti-informatii-despre-romani.html"
     }
    ],
-   "summary": "A Renfe train hit a stationary Iryo train from behind near Urda in Toledo province; the death toll has risen to at least 68, with 80 injured, 15 critically, and Spain declared three days of national mourning. Transport Minister Óscar Puente pointed to possible human error at an Adif control centre during a signalling failure and called the order to resume traffic inexplicable; a reconstruction by El País, citing unnamed government sources, says the Renfe train travelled about 25 km in 17 minutes after the restart was authorised. Romania's president and prime minister expressed solidarity; no Romanian victims have been identified.",
-   "summary_ro": "Un tren Renfe a lovit din spate un tren Iryo oprit lângă Urda, în provincia Toledo; bilanțul a urcat la cel puțin 68 de morți și 80 de răniți, dintre care 15 în stare critică, iar Spania a decretat trei zile de doliu național. Ministrul Transporturilor, Óscar Puente, a indicat o posibilă eroare umană la un centru de control Adif în timpul unei defecțiuni a semnalizării și a calificat drept inexplicabil ordinul de reluare a circulației; o reconstituire a El País, care citează surse guvernamentale nenumite, arată că trenul Renfe a parcurs circa 25 km în 17 minute după autorizarea repornirii. Președintele și premierul României și-au exprimat solidaritatea; nu au fost identificate victime românce.",
+   "summary": "A Renfe train hit a stationary Iryo train from behind near Urda in Toledo province, killing at least 68 people and injuring 80; Spain declared three days of mourning and postponed 24 Copa del Rey matches. Audio recordings reported by El País and cited by Digi24 indicate the Renfe driver was told to resume at normal speed instead of the 40 km/h limit and was not warned that the Iryo train was still stopped; Transport Minister Óscar Puente has pointed to human error at an Adif control centre. No Romanian victims have been identified.",
+   "summary_ro": "Un tren Renfe a lovit din spate un tren Iryo oprit lângă Urda, în provincia Toledo, cel puțin 68 de oameni murind și 80 fiind răniți; Spania a decretat trei zile de doliu și a amânat 24 de meciuri din Cupa Regelui. Înregistrări audio publicate de El País și citate de Digi24 arată că mecanicul trenului Renfe a primit ordin să reia mersul cu viteză normală, nu cu limita de 40 km/h, și nu a fost avertizat că trenul Iryo era încă oprit; ministrul Transporturilor, Óscar Puente, a indicat o eroare umană la un centru de control Adif. Nu au fost identificate victime românce.",
    "title": "High-speed train collision in Spain kills at least 68",
    "title_ro": "Coliziune între trenuri de mare viteză în Spania: cel puțin 68 de morți",
    "topic": "security",
@@ -4424,10 +4442,14 @@
     {
      "name": "Capital",
      "url": "https://www.capital.ro/calin-georgescu-ramane-in-arest-preventiv-inca-30-de-zile-george-simion-a-anuntat-proteste-dictaturile-niciodata-nu-au-sfarsit-bine.html"
+    },
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/stiri/politic/george-simion-anunta-proteste-de-strada-dupa-ce-judecatorii-au-decis-prelungirea-arestului-preventiv-pentru-calin-georgescu.html"
     }
    ],
-   "summary": "AUR leader George Simion said his supporters will protest in the street after the appeals court extended Călin Georgescu's pretrial detention by 30 days, saying dictatorships never end well. Georgescu's wife, Cristela, said the ruling breaches fundamental rights.",
-   "summary_ro": "Liderul AUR, George Simion, a anunțat proteste de stradă după ce Curtea de Apel a prelungit cu 30 de zile arestul preventiv al lui Călin Georgescu, spunând că dictaturile nu s-au sfârșit niciodată bine. Soția acestuia, Cristela Georgescu, a afirmat că decizia încalcă drepturi fundamentale.",
+   "summary": "AUR leader George Simion said his supporters will protest in the street in the coming days after the appeals court extended Călin Georgescu's pretrial detention by 30 days, saying dictatorships never end well. About 250 supporters gathered outside Bucharest's Central Arrest on Wednesday evening, Mediafax reports; Georgescu's wife, Cristela, said the ruling breaches fundamental rights.",
+   "summary_ro": "Liderul AUR, George Simion, a anunțat proteste de stradă în zilele următoare după ce Curtea de Apel a prelungit cu 30 de zile arestul preventiv al lui Călin Georgescu, spunând că dictaturile nu s-au sfârșit niciodată bine. Circa 250 de susținători s-au adunat miercuri seară în fața Arestului Central din București, relatează Mediafax; soția acestuia, Cristela Georgescu, a afirmat că decizia încalcă drepturi fundamentale.",
    "title": "Simion announces street protests after Georgescu custody is extended",
    "title_ro": "Simion anunță proteste de stradă după prelungirea arestului lui Georgescu",
    "topic": "politics",
@@ -9536,10 +9558,14 @@
     {
      "name": "Euronews",
      "url": "https://www.euronews.com/2026/10/28/fed-holds-rates-days-before-us-midterms-as-two-officials-push-for-another-hike"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/economy/2026/10/28/fed-leaves-interest-rates-unchanged-despite-inflation-in-the-us"
     }
    ],
-   "summary": "The Federal Reserve kept its benchmark rate unchanged in the 3.75–4% range, saying more data would guide its next decision, even as US inflation picks up on higher fuel prices, Bloomberg and Ziarul Financiar report.",
-   "summary_ro": "Rezerva Federală a lăsat dobânda de referință neschimbată, în intervalul 3,75–4%, spunând că mai multe date vor ghida următoarea decizie, deși inflația americană accelerează pe fondul scumpirii carburanților, relatează Bloomberg și Ziarul Financiar.",
+   "summary": "The Federal Reserve kept its benchmark rate in the 3.75–4% range in a 10–2 vote, with two officials dissenting, even as annual US inflation rose to 3.7% in September on higher energy prices, Bloomberg, Euronews and Al Jazeera report.",
+   "summary_ro": "Rezerva Federală a menținut dobânda de referință în intervalul 3,75–4%, cu un vot de 10 la 2, doi oficiali votând împotrivă, deși inflația anuală din SUA a urcat în septembrie la 3,7% pe fondul scumpirii energiei, relatează Bloomberg, Euronews și Al Jazeera.",
    "title": "US Federal Reserve holds interest rates at 3.75–4%",
    "title_ro": "Rezerva Federală a SUA menține dobânda la 3,75–4%",
    "topic": "economy",
@@ -9794,6 +9820,24 @@
    "title_ro": "Proteste în Indonezia față de sărăcie, corupție și gestionarea incendiilor",
    "topic": "world",
    "id": "world-indonesia-protests"
+  },
+  {
+   "place": "Iran",
+   "place_ro": "Iran",
+   "publishedAt": "2026-10-29T00:45:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks"
+    }
+   ],
+   "summary": "Iranian Foreign Minister Abbas Araghchi said Tehran is in close contact with mediators on a seven-day plan to reopen the Strait of Hormuz, while Donald Trump denied reports that he told JD Vance to start peace talks, saying the contact concerned Iran's need for medical supplies, Al Jazeera reports. Al Jazeera also reports a Houthi attack on Aden.",
+   "summary_ro": "Ministrul iranian de externe, Abbas Araghchi, a spus că Teheranul este în contact strâns cu mediatorii privind un plan de șapte zile pentru redeschiderea Strâmtorii Ormuz, iar Donald Trump a negat informațiile că i-ar fi cerut lui JD Vance să înceapă negocieri de pace, spunând că discuția a privit nevoia Iranului de materiale medicale, relatează Al Jazeera. Al Jazeera mai relatează un atac al rebelilor houthi asupra orașului Aden.",
+   "title": "Iran pursues seven-day Hormuz plan; Trump denies ordering peace talks",
+   "title_ro": "Iranul promovează un plan de șapte zile pentru Ormuz; Trump neagă că a ordonat negocieri",
+   "topic": "world",
+   "id": "world-iran-hormuz-seven-day-plan"
   },
   {
    "place": "Iran",
@@ -10074,6 +10118,24 @@
    "title_ro": "Granița Siria–Iordania se redeschide după loviturile aeriene iordaniene soldate cu morți",
    "topic": "world",
    "id": "world-jordan-syria-strikes"
+  },
+  {
+   "place": "Utah",
+   "place_ro": "Utah",
+   "publishedAt": "2026-10-29T02:33:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/economy/2026/10/29/kalshi-co-founders-hit-with-criminal-charges-in-us-state-of-utah"
+    }
+   ],
+   "summary": "Utah's attorney general charged prediction-market platform Kalshi, its CEO Tarek Mansour and COO Luana Lopes Lara with online gambling promotion and a pattern of unlawful activity, Al Jazeera reports.",
+   "summary_ro": "Procurorul general al statului Utah a pus sub acuzare platforma de pariuri pe evenimente Kalshi, pe directorul general Tarek Mansour și pe directoarea operațională Luana Lopes Lara pentru promovarea jocurilor de noroc online și activitate ilegală repetată, relatează Al Jazeera.",
+   "title": "Utah files criminal gambling charges against Kalshi and its founders",
+   "title_ro": "Utah depune acuzații penale de jocuri de noroc împotriva Kalshi și a fondatorilor",
+   "topic": "economy",
+   "id": "world-kalshi-utah-charges"
   },
   {
    "place": "Paris",
@@ -10514,10 +10576,14 @@
     {
      "name": "Digi24",
      "url": "https://www.digi24.ro/stiri/externe/rusia/putin-le-spune-liderilor-africani-ca-rusia-este-cel-mai-bun-partener-al-lor-aparitia-unei-lumi-multipolare-nu-este-o-sarcina-usoara-4012605"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/28/putin-tells-african-leaders-moscow-will-not-pursue-neo-colonialism"
     }
    ],
-   "summary": "Vladimir Putin told African leaders that Russia is their best partner and said building a multipolar world is not an easy task, Digi24 reports.",
-   "summary_ro": "Vladimir Putin le-a spus liderilor africani că Rusia este cel mai bun partener al lor și că apariția unei lumi multipolare nu este o sarcină ușoară, relatează Digi24.",
+   "summary": "At a Moscow summit attended by delegations from 48 African countries, 22 led by heads of state, Vladimir Putin said Russia is Africa's best partner, denied any neo-colonial exploitation by Russian firms and offered to expand farm exports, Al Jazeera and Digi24 report.",
+   "summary_ro": "La un summit la Moscova cu delegații din 48 de țări africane, 22 conduse de șefi de stat, Vladimir Putin a spus că Rusia este cel mai bun partener al Africii, a negat că firmele rusești practică o exploatare neocolonială și s-a oferit să extindă exporturile agricole, relatează Al Jazeera și Digi24.",
    "title": "Putin tells African leaders Russia is their best partner",
    "title_ro": "Putin le spune liderilor africani că Rusia e cel mai bun partener al lor",
    "topic": "world",
