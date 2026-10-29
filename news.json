@@ -1,5 +1,5 @@
 {
- "lastRun": "2026-10-29T03:52:00Z",
+ "lastRun": "2026-10-29T05:02:19Z",
  "stories": [
   {
    "place": "Bucharest",
@@ -116,6 +116,14 @@
     {
      "name": "News.ro",
      "url": "https://news.ro/social/primaria-bucuresti-6-milioane-de-luminite-vor-impodobi-in-aceasta-iarna-principalele-bulevarde-ale-capitalei-targul-de-craciun-se-deschide-in-27-noiembrie-1922405728062026102122899685"
+    },
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/craciun-in-bucuresti-6-milioane-de-luminite-pe-principalele-bulevarde-ale-capitalei-vom-avea-plase-siruri-de-lumini-turturi-stralucitori.html"
+    },
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/administratie/2026/10/28/primaria-municipiului-bucuresti-sase-milioane-de-luminite-vor-impodobi-in-aceasta-iarna-principalele--1607872"
     }
    ],
    "summary": "Bucharest City Hall says six million lights will decorate the capital's main boulevards this winter and the Christmas market will open on 27 November, News.ro reports.",
@@ -336,6 +344,14 @@
     {
      "name": "Agerpres",
      "url": "https://agerpres.ro/administratie/2026/10/27/cgmb-trotinetele-pot-fi-inchiriate-doar-de-persoanele-de-peste-18-ani--1607436"
+    },
+    {
+     "name": "Romania Insider",
+     "url": "https://www.romania-insider.com/society/minors-barred-renting-electric-scooters-bucharest"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/se-pregatesc-noi-reguli-pentru-trotinetele-electrice-in-bucuresti-sunt-prevazute-si-amenzi_3931719"
     }
    ],
    "summary": "The city council approved rules backed by Mayor Ciprian Ciucu requiring renters to be 18 (16 with certain licences), banning sidewalk riding and using geofencing to block scooters in the Old Town.",
@@ -666,6 +682,10 @@
     {
      "name": "Agerpres",
      "url": "https://agerpres.ro/politic-extern/2026/10/28/israelul-confirma-o-tentativa-de-atentat-terorist-in-apropierea-ambasadei-sale-la-belgrad--1607598"
+    },
+    {
+     "name": "Gândul",
+     "url": "https://www.gandul.ro/international/atac-terorist-la-ambasada-israelului-din-belgrad-un-minor-care-a-strigat-allahu-akbar-a-atacat-un-paznic-anuntul-ministrului-de-interne-21047407"
     }
    ],
    "summary": "Serbian police shot dead an attacker who wounded a guard with knives outside the Israeli embassy in Belgrade early on Wednesday. Interior Minister Ivica Dačić called it a suspected terrorist attack by a minor who backed the Islamic State group, and Serbia raised its terror alert to the highest level.",
@@ -1502,6 +1522,10 @@
     {
      "name": "Mediafax",
      "url": "https://www.mediafax.ro/social/greva-nationala-in-italia-pe-30-octombrie-mae-a-transmis-un-avertisment-pentru-romani-23833336"
+    },
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/greva-nationala-in-italia-pe-30-octombrie-mae-a-emis-o-alerta-de-calatorie.html"
     }
    ],
    "summary": "Romania's foreign ministry issued a travel alert for Italy, where a national general strike on 30 October is expected to disrupt air, rail and public transport.",
@@ -1568,6 +1592,10 @@
     {
      "name": "Gândul",
      "url": "https://www.gandul.ro/international/ancheta-pfizergate-bate-pasul-pe-loc-ursula-von-der-leyen-inca-nu-a-fost-audiata-in-scandalul-vaccinurilor-anti-covid-19-kovesi-avertizeaza-ca-parchetul-european-risca-sa-fie-submi-21047454"
+    },
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/laura-codruta-kovesi-interviu-in-politico-parchetul-european-va-fi-eliminat-pe-ascuns-pentru-ca-isi-face-datoria-despre-politicienii-vizati-de-anchete-vor-justitie-inde.html"
     }
    ],
    "summary": "In a Politico interview near the end of her term, EU chief prosecutor Laura Codruța Kövesi says the EPPO risks being slowly dismantled through underfunding, legislative blocks and political pressure. She also says questions for Ursula von der Leyen in the Pfizer vaccine probe remain open.",
@@ -1828,6 +1856,24 @@
   {
    "place": "Moscow",
    "place_ro": "Moscova",
+   "publishedAt": "2026-10-29T04:40:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/moscova-vizata-de-un-atac-masiv-cu-drone-in-cursul-noptii-zboruri-suspendate-pe-aeroporturile-principale_3932200"
+    }
+   ],
+   "summary": "Moscow mayor Sergei Sobyanin said air defences shot down 166 drones aimed at the capital overnight, with no casualties reported; flights were restricted at Vnukovo and Domodedovo airports. The figures could not be independently verified, Știri pe surse notes.",
+   "summary_ro": "Primarul Moscovei, Serghei Sobianin, a declarat că apărarea antiaeriană a doborât peste noapte 166 de drone care vizau capitala, fără victime raportate; zborurile au fost restricționate pe aeroporturile Vnukovo și Domodedovo. Cifrele nu au putut fi verificate independent, notează Știri pe surse.",
+   "title": "Russia says it downed over 160 drones heading for Moscow overnight",
+   "title_ro": "Rusia spune că a doborât peste 160 de drone care se îndreptau spre Moscova",
+   "topic": "security",
+   "id": "eu-moscow-drone-attack-oct29"
+  },
+  {
+   "place": "Moscow",
+   "place_ro": "Moscova",
    "publishedAt": "2026-10-27T10:26:00Z",
    "region": "europe",
    "sources": [
@@ -1874,6 +1920,10 @@
     {
      "name": "Mediafax",
      "url": "https://www.mediafax.ro/externe/conducta-nord-stream-nu-se-va-redeschide-dupa-razboi-spune-bruxelles-ul-23833310"
+    },
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/comisia-europeana-conducta-nord-stream-nu-se-va-redeschide-dupa-razboi-cunoastem-prea-bine-costurile-ascunse-ale-dependentei-de-rusia.html"
     }
    ],
    "summary": "The European Commission has told Washington and Moscow that the Nord Stream gas pipeline will not be brought back into use once the war in Ukraine ends, Euronews reports.",
@@ -2218,6 +2268,10 @@
     {
      "name": "Digi24",
      "url": "https://www.digi24.ro/stiri/externe/ue/comisarul-pentru-aparare-europa-trebuie-sa-fie-gata-sa-creasca-productia-de-combustibil-pentru-a-si-sustine-fortele-in-timp-de-razboi-4012551"
+    },
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/comisia-europeana-avertizeaza-ca-motorina-va-ramane-scumpa-in-2027-si-vrea-sa-consolideze-rafinariile-din-ue.html"
     }
    ],
    "summary": "The EU's defence commissioner warned Europe could face a fuel shortage for its militaries in a war, as the Commission held talks on keeping refining capacity. The Commission also warned diesel will stay expensive in 2027, noting a quarter of EU refineries have closed.",
@@ -2290,6 +2344,10 @@
     {
      "name": "Euronews",
      "url": "https://www.euronews.com/2026/10/28/checking-luggage-with-ryanair-airline-announces-earlier-baggage-drop-deadline"
+    },
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/social/ryanair-anunta-o-schimbare-legata-de-bagajele-de-cala-modificarea-intra-in-vigoare-din-10-noiembrie-23833196"
     }
    ],
    "summary": "Ryanair passengers will have to drop bags and check in at the airport earlier, with desks closing 60 minutes before departure from 10 November, Euronews reports.",
@@ -2476,6 +2534,10 @@
     {
      "name": "Știrile ProTV",
      "url": "https://stirileprotv.ro/stiri/international/tragedie-feroviara-in-spania-mai-devastatoare-decat-cea-din-ianuarie-zeci-de-morti-sute-de-raniti-informatii-despre-romani.html"
+    },
+    {
+     "name": "Gândul",
+     "url": "https://www.gandul.ro/international/accident-feroviar-in-spania-doua-trenuri-s-au-ciocnit-in-apropierea-statiei-urda-toledo-doua-vagoane-s-au-desprins-si-au-cazut-de-pe-sine-cati-pasageri-au-fost-raniti-21047486"
     }
    ],
    "summary": "A Renfe train hit a stationary Iryo train from behind near Urda in Toledo province, killing at least 68 people and injuring 80; Spain declared three days of mourning and postponed 24 Copa del Rey matches. Audio recordings reported by El País and cited by Digi24 indicate the Renfe driver was told to resume at normal speed instead of the 40 km/h limit and was not warned that the Iryo train was still stopped; Transport Minister Óscar Puente has pointed to human error at an Adif control centre. No Romanian victims have been identified.",
@@ -3924,6 +3986,24 @@
    "id": "pol-court-accounts-lazar"
   },
   {
+   "place": "Cornetu",
+   "place_ro": "Cornetu",
+   "publishedAt": "2026-10-28T12:00:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/judecatorul-alexandru-ghiciu-propus-de-csm-sef-la-sectia-penala-a-judecatoriei-cornetu-a-fost-admis-in-magistratura-desi-a-picat-testul-psihologic-e-fost-ofiter-sie-si-fratele-vicepresedintei-cur.html"
+    }
+   ],
+   "summary": "The Superior Council of Magistracy (CSM) has proposed judge Alexandru Ghiciu to lead the criminal section of Cornetu court, G4Media reports; the outlet says he was admitted to the judiciary despite failing the psychological test, is a former SIE intelligence officer and is the brother of a Bucharest Court of Appeal vice-president.",
+   "summary_ro": "Consiliul Superior al Magistraturii l-a propus pe judecătorul Alexandru Ghiciu la conducerea Secției penale a Judecătoriei Cornetu, relatează G4Media; publicația afirmă că acesta a fost admis în magistratură deși a picat testul psihologic, că este fost ofițer SIE și fratele unei vicepreședinte a Curții de Apel București.",
+   "title": "Judicial council proposes contested judge to head Cornetu court's criminal section",
+   "title_ro": "CSM propune un judecător contestat la șefia Secției penale a Judecătoriei Cornetu",
+   "topic": "politics",
+   "id": "pol-csm-ghiciu-cornetu"
+  },
+  {
    "place": "Bucharest",
    "place_ro": "București",
    "publishedAt": "2026-10-28T13:05:00Z",
@@ -3940,6 +4020,10 @@
     {
      "name": "Știrile ProTV",
      "url": "https://stirileprotv.ro/stiri/actualitate/indemnizatiile-judecatorilor-din-romania-publicate-de-csm-care-sunt-salariile-judecatorilor.html"
+    },
+    {
+     "name": "Gândul",
+     "url": "https://www.gandul.ro/actualitate/salarii-judecatori-csm-cedo-21047790"
     }
    ],
    "summary": "The Superior Council of Magistracy said net monthly pay for judges ranges from 6,990 to 20,346 lei depending on rank and seniority, and that an entry-level judge earns 1.26 times the national average gross wage, below the EU average ratio of about 2.13.",
@@ -5348,6 +5432,10 @@
     {
      "name": "Capital",
      "url": "https://www.capital.ro/anaf-poate-executa-silit-pnl-pentru-datoria-de-14-milioane-de-lei-ce-proceduri-trebuie-respectate-pentru-recuperarea-banilor.html"
+    },
+    {
+     "name": "Gândul",
+     "url": "https://www.gandul.ro/politica/pnl-executat-silit-pentru-panourile-cu-nicolae-ciuca-din-perioada-prezidentialelor-din-2024-ce-spune-seful-aep-despre-recuperarea-celor-14-milioane-de-lei-21047766"
     }
    ],
    "summary": "The Permanent Electoral Authority says PNL owes about 14.1 million lei after the High Court ruled definitively that the party must return public funds it spent promoting a book by former leader Nicolae Ciucă, and asked the tax agency ANAF to enforce payment. ANAF said its recovery procedures are applied uniformly and that forced collection is not the only option; PNL leader Ilie Bolojan said the party will pay.",
@@ -5542,6 +5630,10 @@
     {
      "name": "Digi24",
      "url": "https://www.digi24.ro/stiri/actualitate/politica/disputa-intre-actualul-si-fostul-ministru-al-transporturilor-presiunea-pusa-de-psd-pentru-a-anula-ce-tine-de-usr-conteaza-mai-mult-4012565"
+    },
+    {
+     "name": "Gândul",
+     "url": "https://www.gandul.ro/actualitate/radu-miruta-replica-stefan-ovidiu-popa-anulare-ordin-inchidere-drumuri-21047761"
     }
    ],
    "summary": "Transport Minister Ștefan-Ovidiu Popa (PSD) said he unblocked several stalled projects in his first week and criticised former interim minister Radu Miruță (USR) over an order requiring ministry sign-off for closing roads, rail lines or runways. Popa said he will cancel the order so agencies can start repairs without it.",
@@ -5654,6 +5746,10 @@
     {
      "name": "Știri pe surse",
      "url": "https://www.stiripesurse.ro/tichete-masa-bonuri-valoare-lege-psd-senat-budai-solomon_3932032"
+    },
+    {
+     "name": "Gândul",
+     "url": "https://www.gandul.ro/politica/proiect-lege-psd-crestere-tichete-masa-50-lei-21047773"
     }
    ],
    "summary": "PSD deputies Adrian Solomon and Marius Budăi filed an urgent-procedure bill that would raise the maximum daily meal voucher value from 45 to 50 lei from November until September 2027, with employers free to choose whether to apply it. The proposal has not yet been debated.",
@@ -6372,6 +6468,10 @@
     {
      "name": "Agerpres",
      "url": "https://agerpres.ro/politic/2026/10/28/alfred-simonis-uncjr-am-solicitat-guvernului-alocarea-de-sume-pentru-asistenta-sociala-si-pentru-fun--1607736"
+    },
+    {
+     "name": "Gândul",
+     "url": "https://www.gandul.ro/politica/alfred-simonis-buget-localitati-comasare-timis-21047775"
     }
    ],
    "summary": "Alfred Simonis, president of the National Union of County Councils (UNCJR), said the union asked Prime Minister Luca Niculescu's government to include money in the budget revision for social assistance and for town halls that cannot cover basic running costs.",
@@ -6514,6 +6614,24 @@
   {
    "place": "Bucharest",
    "place_ro": "București",
+   "publishedAt": "2026-10-28T12:30:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Gândul",
+     "url": "https://www.gandul.ro/actualitate/galceava-politica-pe-legea-care-rezerva-posturile-de-profesor-pentru-alesi-iohannis-si-a-tinut-postul-blocat-aproape-3-decenii-21047698"
+    }
+   ],
+   "summary": "USR accuses PSD and AUR senators of voting against its bill that would stop elected officials from keeping teaching posts reserved for them indefinitely, Gândul reports. The outlet notes former president Klaus Iohannis kept such a post reserved for nearly three decades.",
+   "summary_ro": "USR îi acuză pe senatorii PSD și AUR că au votat împotriva proiectului său care ar împiedica aleșii să își păstreze pe termen nelimitat posturile de profesor rezervate, relatează Gândul. Publicația amintește că fostul președinte Klaus Iohannis și-a păstrat un astfel de post rezervat aproape trei decenii.",
+   "title": "USR says PSD and AUR senators voted down its teaching-posts bill",
+   "title_ro": "USR acuză senatorii PSD și AUR că au votat împotriva legii privind catedrele rezervate",
+   "topic": "politics",
+   "id": "pol-usr-teaching-posts-bill"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
    "publishedAt": "2026-10-27T17:00:00Z",
    "region": "romania",
    "sources": [
@@ -6586,6 +6704,24 @@
    "title_ro": "Raport Accor: România, printre piețele turistice cu cea mai rapidă creștere din Europa",
    "topic": "economy",
    "id": "ro-accor-tourism-growth"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-29T03:00:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/economic/2026/10/29/edge-institute-si-confederatia-concordia-prezinta-un-studiu-despre-cum-folosesc-firmele-inteligenta---1607887"
+    }
+   ],
+   "summary": "A survey of 1,003 Romanian companies by Edge Institute and the Concordia employers' confederation says Romania ranks last in the EU for business AI adoption, at 5.2% against an EU average of 20%, Agerpres reports. Costs, state support and skills are cited as the main obstacles.",
+   "summary_ro": "Un sondaj realizat de Edge Institute și Confederația Concordia în rândul a 1.003 companii arată că România se află pe ultimul loc în UE la adoptarea inteligenței artificiale în firme, cu 5,2% față de o medie europeană de 20%, relatează Agerpres. Costurile, sprijinul statului și competențele sunt principalele obstacole.",
+   "title": "Study: Romanian firms trail the EU in using artificial intelligence",
+   "title_ro": "Studiu: firmele din România, pe ultimul loc în UE la folosirea inteligenței artificiale",
+   "topic": "tech",
+   "id": "ro-ai-adoption-study"
   },
   {
    "place": "Romania",
@@ -6830,6 +6966,24 @@
    "title_ro": "Ordin de protecție după ce un elev a fost agresat de un coleg în Bistrița-Năsăud",
    "topic": "security",
    "id": "ro-bistrita-school-assault"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-28T13:43:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Romania Insider",
+     "url": "https://www.romania-insider.com/business/black-friday-2026-could-bring-nominal-record-sales"
+    }
+   ],
+   "summary": "A Frames analysis estimates Romanian Black Friday sales at about 3 billion lei, roughly 10% more than last year in value, even though consumption fell about 5% in the first eight months of 2026, Romania Insider reports.",
+   "summary_ro": "O analiză Frames estimează vânzările de Black Friday din România la aproximativ 3 miliarde de lei, cu circa 10% mai mult ca valoare decât anul trecut, deși consumul a scăzut cu aproximativ 5% în primele opt luni din 2026, relatează Romania Insider.",
+   "title": "Black Friday sales in Romania could reach a nominal record, analysis says",
+   "title_ro": "Vânzările de Black Friday din România ar putea atinge un record nominal, arată o analiză",
+   "topic": "economy",
+   "id": "ro-black-friday-forecast"
   },
   {
    "place": "Bucharest",
@@ -7092,6 +7246,10 @@
     {
      "name": "Mediafax",
      "url": "https://www.mediafax.ro/energie/starea-de-alerta-la-cernavoda-prelungita-cu-30-de-zile-reactoarele-1-si-2-nu-repornesc-in-noiembrie-23833389"
+    },
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/economic/2026/10/29/starea-de-alerta-privind-functionarea-centralei-nuclearoelectrice-cernavoda-prelungita-cu-30-de-zile--1607882"
     }
    ],
    "summary": "The National Committee for Emergency Situations extended the state of alert linked to the Cernavodă nuclear plant by 30 days, saying low Danube levels mean Units 1 and 2 cannot restart in November and there is a continuing risk of an electricity supply crisis. Transelectrica must take measures to keep the grid running, including more imports or reduced consumption, Mediafax reports.",
@@ -7240,6 +7398,10 @@
     {
      "name": "G4Media",
      "url": "https://www.g4media.ro/foto-video-sarcofag-roman-de-copil-descoperit-in-constanta-lemnul-sicriului-e-aproape-intact-se-pastreaza-la-fel-de-bine-si-ghirlandele-de-flori-langa-copil-i-au-fost-puse-si-j.html"
+    },
+    {
+     "name": "Romania Insider",
+     "url": "https://www.romania-insider.com/life/intact-roman-child-sarcophagus-discovered-near-ancient-tomis"
     }
    ],
    "summary": "Archaeologists in Constanța uncovered an intact Roman-era sarcophagus containing the grave of a child.",
@@ -7316,6 +7478,10 @@
     {
      "name": "Agerpres",
      "url": "https://agerpres.ro/2026/10/27/o-familie-cu-doi-copii-are-nevoie-de-11-668-de-lei-lunar-pentru-un-trai-decent-monitorul-social--1607177"
+    },
+    {
+     "name": "Romania Insider",
+     "url": "https://www.romania-insider.com/business/romanias-average-wage-close-covering-revenues-needed-families"
     }
    ],
    "summary": "A Friedrich Ebert Foundation and Syndex study based on statistics office data says the cost rose 2.6% in a year, and the net minimum wage covers under half of a decent minimum wage.",
@@ -7902,6 +8068,10 @@
     {
      "name": "Ziarul Financiar",
      "url": "https://www.zf.ro/burse-fonduri-mutuale/hidroelectrica-il-aduce-in-consiliul-de-supraveghere-pe-stefan-valeriu-ivan-fost-manager-la-electrica-transelectrica-si-distributie-energie-electrica-romania-23269713"
+    },
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/economic/stefan-valeriu-ivan-a-preluat-mandatul-de-membru-al-consiliului-de-supraveghere-al-hidroelectrica-23833210"
     }
    ],
    "summary": "Hidroelectrica said Ștefan Valeriu Ivan, a former manager at Electrica, Transelectrica and Distribuție Energie Electrică România, joined its supervisory board as a provisional member until March 2027 or until a selection process ends.",
@@ -7946,6 +8116,24 @@
    "title_ro": "Baroul Iași critică decizia Facultății de Drept privind avocații lui Toader",
    "topic": "security",
    "id": "ro-iasi-bar-toader"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-28T13:52:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Romania Insider",
+     "url": "https://www.romania-insider.com/business/cushman-wakefield-echinox-supply-up-60-yoy-romanias"
+    }
+   ],
+   "summary": "Developers delivered about 340,000 sq m of industrial and logistics space in the first nine months of 2026, more than 60% above last year, bringing total stock to 8.17 million sq m, according to Cushman & Wakefield Echinox data cited by Romania Insider.",
+   "summary_ro": "Dezvoltatorii au livrat circa 340.000 mp de spații industriale și logistice în primele nouă luni din 2026, cu peste 60% mai mult decât anul trecut, stocul total ajungând la 8,17 milioane mp, potrivit datelor Cushman & Wakefield Echinox citate de Romania Insider.",
+   "title": "New industrial and logistics space in Romania up over 60% this year",
+   "title_ro": "Spațiile industriale și logistice noi din România, în creștere cu peste 60% în acest an",
+   "topic": "economy",
+   "id": "ro-industrial-space-q3"
   },
   {
    "place": "Romania",
@@ -8110,6 +8298,10 @@
     {
      "name": "Știrile ProTV",
      "url": "https://stirileprotv.ro/stiri/actualitate/radare-care-functioneaza-si-in-mediu-electromagnetic-ostil-achizitia-de-326-milioane-de-lei-anuntata-de-mapn-de-la-thales.html"
+    },
+    {
+     "name": "Romania Insider",
+     "url": "https://www.romania-insider.com/business/thales-supply-romania-four-mobile-radar-systems"
     }
    ],
    "summary": "Romania's defence ministry is buying four mobile approach-and-landing radar systems worth about 326.5 million lei from Thales Romania, with deliveries starting in 2028.",
@@ -8164,6 +8356,42 @@
    "id": "ro-metinvest-pipe"
   },
   {
+   "place": "Teleorman",
+   "place_ro": "Teleorman",
+   "publishedAt": "2026-10-28T07:40:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Romania Insider",
+     "url": "https://www.romania-insider.com/business/greeces-metlen-gets-permits-three-pv-parks-totalling"
+    }
+   ],
+   "summary": "Metka, part of Greece's Metlen group, received building permits for three photovoltaic parks totalling about 290 MW in Trivalea-Moșteni, Teleorman county, Romania Insider reports. The permits are valid for 24 months.",
+   "summary_ro": "Metka, parte a grupului grec Metlen, a primit autorizații de construire pentru trei parcuri fotovoltaice cu o capacitate totală de aproximativ 290 MW în comuna Trivalea-Moșteni, județul Teleorman, relatează Romania Insider. Autorizațiile sunt valabile 24 de luni.",
+   "title": "Greek group Metlen gets permits for 290 MW of solar parks in Teleorman",
+   "title_ro": "Grupul grec Metlen a obținut autorizații pentru parcuri solare de 290 MW în Teleorman",
+   "topic": "energy",
+   "id": "ro-metlen-teleorman-solar"
+  },
+  {
+   "place": "Mintia",
+   "place_ro": "Mintia",
+   "publishedAt": "2026-10-28T07:37:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Romania Insider",
+     "url": "https://www.romania-insider.com/business/first-turbine-romanias-17-gw-gas-fired-power-plant"
+    }
+   ],
+   "summary": "The first 135 MW turbine of the 1,700 MW Mintia gas-fired plant, a $1.2bn project by Mass Global, has begun operating, Romania Insider reports. Energy ministry officials expect about 1,000 MW at Mintia to be online by year-end.",
+   "summary_ro": "Prima turbină de 135 MW a centralei pe gaz de 1.700 MW de la Mintia, proiect de 1,2 miliarde de dolari al Mass Global, a început să funcționeze, relatează Romania Insider. Oficialii Ministerului Energiei se așteaptă ca aproximativ 1.000 MW să fie disponibili la Mintia până la finalul anului.",
+   "title": "First turbine starts running at Mintia gas power plant",
+   "title_ro": "Prima turbină a centralei pe gaz de la Mintia a intrat în funcțiune",
+   "topic": "energy",
+   "id": "ro-mintia-first-turbine"
+  },
+  {
    "place": "Romania",
    "place_ro": "România",
    "publishedAt": "2026-10-27T12:31:00Z",
@@ -8206,6 +8434,10 @@
     {
      "name": "G4Media",
      "url": "https://www.g4media.ro/ministerul-culturii-sustine-cu-500-000-de-lei-promovarea-la-oscar-a-filmului-fjord-mungiu-poate-sa-faca-cel-mai-fabulos-film-de-pe-suprafata-pamantului-dar-el-are-un-fel-de-campanie-el.html"
+    },
+    {
+     "name": "Romania Insider",
+     "url": "https://www.romania-insider.com/life/romania-allocates-eur-100000-cristian-mungius-oscar-campaign"
     }
    ],
    "summary": "Culture Minister Ioana Ciocan said the ministry is supporting Cristian Mungiu's film 'Fjord' in its Oscar campaign with far less money than Spain gives its entry. She noted Romania has about 60 cinemas, down from over 600 in 1989.",
@@ -8278,6 +8510,10 @@
     {
      "name": "Digi24",
      "url": "https://www.digi24.ro/stiri/actualitate/social/cel-mai-in-varsta-roman-a-implinit-astazi-111-ani-generalul-iosif-rus-e-al-doilea-cel-mai-longeviv-veteran-de-razboi-din-lume-4012795"
+    },
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/social/cel-mai-varstnic-roman-a-implinit-111-ani-ce-distinctie-a-primit-23833285"
     }
    ],
    "summary": "Retired brigadier general Iosif Rus, considered the oldest Romanian, turned 111; he is described as the second-longest-lived war veteran in the world.",
@@ -8834,12 +9070,16 @@
     {
      "name": "Mediafax",
      "url": "https://www.mediafax.ro/social/sibiu-doi-copii-de-2-si-4-ani-gasiti-in-stop-cardiorespirator-intr-o-locuinta-din-talmaciu-medicii-incearca-sa-ii-resusciteze-23833325"
+    },
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/doi-copii-de-2-si-4-ani-au-murit-in-urma-unui-incendiu-in-talmaciu-sibiu-nu-au-putut-fi-salvati-nu-au-raspuns-manevrelor-de-resuscitare.html"
     }
    ],
-   "summary": "Two children aged 2 and 4 were found in cardiac arrest in a house in Tălmaciu, Sibiu county, and doctors were trying to resuscitate them, Mediafax reports.",
-   "summary_ro": "Doi copii, de 2 și 4 ani, au fost găsiți în stop cardio-respirator într-o casă din Tălmaciu, județul Sibiu, iar medicii au încercat să îi resusciteze, relatează Mediafax.",
-   "title": "Two young children found in cardiac arrest in a home in Tălmaciu",
-   "title_ro": "Doi copii, găsiți în stop cardio-respirator într-o locuință din Tălmaciu",
+   "summary": "Two children aged 2 and 4 died after a fire at a house in Tălmaciu, Sibiu county; they were found in cardiac arrest and did not respond to resuscitation, G4Media and Mediafax report.",
+   "summary_ro": "Doi copii, de 2 și 4 ani, au murit în urma unui incendiu într-o casă din Tălmaciu, județul Sibiu; aceștia au fost găsiți în stop cardiorespirator și nu au răspuns manevrelor de resuscitare, relatează G4Media și Mediafax.",
+   "title": "Two young children die after a fire at a home in Tălmaciu",
+   "title_ro": "Doi copii mici au murit în urma unui incendiu într-o locuință din Tălmaciu",
    "topic": "security",
    "id": "ro-talmaciu-children-cardiac-arrest"
   },
@@ -8914,6 +9154,10 @@
     {
      "name": "Știrile ProTV",
      "url": "https://stirileprotv.ro/justitie/fiul-lui-tudorel-toader-a-contestat-arestarea-preventiva-la-inalta-curte-termenul-stabilit-de-instanta-suprema.html"
+    },
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/justitie/alexandru-toader-contesta-masura-arestului-preventiv-care-este-termenul-de-judecata-la-iccj-23833258"
     }
    ],
    "summary": "Alexandru Toader, son of former justice minister Tudorel Toader, has challenged his pretrial detention in a rape case before the High Court of Cassation and Justice, which has set a hearing date.",
@@ -8998,6 +9242,10 @@
     {
      "name": "TVR Info",
      "url": "https://tvrinfo.ro/transalpina-inchisa-din-cauza-ninsorii-abundente-si-a-vantului-puternic/"
+    },
+    {
+     "name": "Romania Insider",
+     "url": "https://www.romania-insider.com/society/romanias-famous-mountain-road-transfagarasan-road-closes-amid"
     }
    ],
    "summary": "Part of the Transfăgărășan road was closed to traffic on Tuesday evening because of snow, fog and low temperatures, the national roads company CNAIR said.",
@@ -9282,6 +9530,10 @@
     {
      "name": "Euronews",
      "url": "https://www.euronews.com/2026/10/28/boeing-shares-tumble-after-it-releases-cautious-growth-forecast"
+    },
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/actiunile-boeing-au-scazut-cu-aproape-10-dupa-ce-compania-a-ratat-tintele-de-productie.html"
     }
    ],
    "summary": "Boeing shares fell 9.6% on Tuesday after the company said it will miss its 2026 production and delivery targets and pushed back its 737 output increase to early 2027; it also reported a wider-than-expected quarterly loss.",
@@ -11018,6 +11270,10 @@
     {
      "name": "Digi24",
      "url": "https://www.digi24.ro/stiri/externe/sua/trump-pregateste-noi-bombardamente-asupra-iranului-dupa-alegerile-din-congres-avertismentul-trimis-tarilor-din-golful-persic-4011787"
+    },
+    {
+     "name": "Gândul",
+     "url": "https://www.gandul.ro/international/wsj-sua-pregatesc-un-atac-masiv-scurt-dar-intens-asupra-iranului-dupa-alegerile-din-3-noiembrie-tarile-din-golf-avertizate-de-casa-alba-21047397"
     }
    ],
    "summary": "Digi24, citing international reports, says US President Donald Trump is preparing new strikes on Iran after the congressional elections and has warned Gulf states.",
