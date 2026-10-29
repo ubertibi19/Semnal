@@ -1,5 +1,5 @@
 {
- "lastRun": "2026-10-29T07:57:37Z",
+ "lastRun": "2026-10-29T09:01:25Z",
  "stories": [
   {
    "place": "Bucharest",
@@ -128,6 +128,18 @@
     {
      "name": "Agerpres",
      "url": "https://agerpres.ro/administratie/2026/10/28/primaria-municipiului-bucuresti-sase-milioane-de-luminite-vor-impodobi-in-aceasta-iarna-principalele--1607872"
+    },
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/actualitate/bucurestiul-se-pregateste-de-sarbatori-6-milioane-de-luminite-vor-transforma-capitala-cand-se-deschide-targul-de-craciun-4013097"
+    },
+    {
+     "name": "HotNews",
+     "url": "https://hotnews.ro/primaria-capitalei-anunta-cand-se-aprind-luminitele-de-sarbatori-in-bucuresti-2389328"
+    },
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/social/primaria-capitalei-anunta-ca-6-milioane-de-luminite-vor-impodobi-bulevardele-bucurestiului-cand-se-deschide-targul-de-craciun-din-piata-constitutiei-23833358"
     }
    ],
    "summary": "Bucharest City Hall says six million lights will decorate the capital's main boulevards this winter and the Christmas market will open on 27 November, News.ro reports.",
@@ -484,6 +496,24 @@
    "title_ro": "Noi lucrări de infrastructură pe strada Gorani, în Sectorul 5",
    "topic": "economy",
    "id": "buc-sector5-gorani-works"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-29T07:52:00Z",
+   "region": "bucharest",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/culte/2026/10/29/pelerinajul-la-sarbatoarea-sfantului-dimitrie-cel-nou---la-final-100-000-de-credinciosi-s-au-inchina--1607931"
+    }
+   ],
+   "summary": "The Romanian Patriarchate says around 100,000 people venerated the relics of Saint Dimitrie the New, Bucharest's patron saint, during the 18–28 October pilgrimage; the relics are back in the historic Patriarchal Cathedral.",
+   "summary_ro": "Patriarhia Română spune că circa 100.000 de oameni s-au închinat la moaștele Sfântului Dimitrie cel Nou, ocrotitorul Bucureștiului, în pelerinajul din 18–28 octombrie; moaștele au revenit în Catedrala Patriarhală istorică.",
+   "title": "About 100,000 pilgrims visited Saint Dimitrie relics in Bucharest",
+   "title_ro": "Aproximativ 100.000 de pelerini s-au închinat la moaștele Sfântului Dimitrie",
+   "topic": "culture",
+   "id": "buc-sf-dimitrie-pilgrimage"
   },
   {
    "place": "Bucharest",
@@ -2402,6 +2432,24 @@
    "title_ro": "Bloggerul rus care l-a criticat pe Putin, judecat la Sankt Petersburg",
    "topic": "politics",
    "id": "eu-remeslo-trial"
+  },
+  {
+   "place": "France",
+   "place_ro": "Franța",
+   "publishedAt": "2026-10-29T07:49:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/economic-extern/2026/10/29/veniturile-renault-au-crescut-in-trimestrul-al-treilea-chiar-daca-volumele-de-vanzari-au-scazut--1607930"
+    }
+   ],
+   "summary": "Renault said third-quarter revenue rose 1.4% at constant exchange rates to €11.6bn although volumes fell 6%; Dacia sold about 144,000 vehicles, down nearly 13% year on year, Reuters reports via Agerpres.",
+   "summary_ro": "Renault a raportat venituri de 11,6 miliarde de euro în trimestrul al treilea, în creștere cu 1,4% la curs constant, deși volumele au scăzut cu 6%; Dacia a vândut circa 144.000 de vehicule, cu aproape 13% mai puțin decât anul trecut, potrivit Reuters, citată de Agerpres.",
+   "title": "Renault revenue edges up in third quarter as Dacia sales fall",
+   "title_ro": "Veniturile Renault cresc ușor în trimestrul III, vânzările Dacia scad",
+   "topic": "economy",
+   "id": "eu-renault-q3-dacia"
   },
   {
    "place": "Russia",
@@ -4340,10 +4388,18 @@
     {
      "name": "Mediafax",
      "url": "https://www.mediafax.ro/justitie/primarul-din-slanic-moldova-prins-in-flagrant-de-dna-cand-ar-fi-primit-6-000-de-euro-mita-in-total-ar-fi-incasat-21-000-de-euro-23833085"
+    },
+    {
+     "name": "HotNews",
+     "url": "https://hotnews.ro/primarul-psd-din-slanic-moldova-arestat-preventiv-dupa-ce-a-fost-prins-cu-mita-de-procurori-2389259"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://stiripesurse.ro/primarul-orasului-slanic-moldova-retinut-de-dna-pentru-luare-de-mita_3932041"
     }
    ],
-   "summary": "Anticorruption prosecutors detained Benone Moraru, the PSD mayor of Slănic Moldova, saying he took €15,000 in July and €6,000 on 27 October from a firm with a water-network repair contract; they sought 30 days of pretrial arrest. The allegations have not been tested in court.",
-   "summary_ro": "Procurorii anticorupție l-au reținut pe Benone Moraru, primarul PSD al orașului Slănic Moldova, despre care susțin că a primit 15.000 de euro în iulie și 6.000 de euro pe 27 octombrie de la o firmă cu un contract de reparații la rețeaua de apă; au cerut arestarea preventivă pentru 30 de zile. Acuzațiile nu au fost judecate.",
+   "summary": "Anticorruption prosecutors detained Benone Moraru, the PSD mayor of Slănic Moldova, saying he took €15,000 in July and €6,000 on 27 October from a firm with a water-network repair contract. HotNews reports a court then placed him in pretrial arrest. The allegations have not been tested at trial.",
+   "summary_ro": "Procurorii anticorupție l-au reținut pe Benone Moraru, primarul PSD al orașului Slănic Moldova, susținând că a primit 15.000 de euro în iulie și 6.000 de euro pe 27 octombrie de la o firmă care repara rețeaua de apă. Potrivit HotNews, instanța a dispus apoi arestarea sa preventivă. Acuzațiile nu au fost încă judecate.",
    "title": "DNA detains Slănic Moldova mayor in bribery case",
    "title_ro": "DNA l-a reținut pe primarul din Slănic Moldova pentru luare de mită",
    "topic": "politics",
@@ -7150,6 +7206,24 @@
    "id": "ro-apostolescu-dies"
   },
   {
+   "place": "Arad",
+   "place_ro": "Arad",
+   "publishedAt": "2026-10-29T08:02:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/sanatate/2026/10/29/arad-cate-doi-copii-pe-un-pat-de-spital-din-cauza-numarului-mare-de-hepatite-a--1607938"
+    }
+   ],
+   "summary": "Arad county hospital says its 20-bed children's infectious diseases unit holds 32 hepatitis A patients, with some beds shared by two children; doctors report more severe cases with jaundice than in past years.",
+   "summary_ro": "Spitalul Județean Arad spune că secția de boli infecțioase pentru copii, cu 20 de paturi, are internați 32 de pacienți cu hepatită A, unele paturi fiind ocupate de câte doi copii; medicii observă mai multe forme severe, cu icter, decât în anii trecuți.",
+   "title": "Hepatitis A cases fill Arad children's ward, two patients per bed",
+   "title_ro": "Cazurile de hepatită A umplu secția de copii din Arad, câte doi pe pat",
+   "topic": "security",
+   "id": "ro-arad-hepatitis-a"
+  },
+  {
    "place": "Romania",
    "place_ro": "România",
    "publishedAt": "2026-10-28T10:05:00Z",
@@ -7890,6 +7964,10 @@
     {
      "name": "HotNews",
      "url": "https://hotnews.ro/guvernul-vrea-sa-prelungeasca-starea-de-criza-pe-piata-carburantilor-cu-inca-trei-luni-2387068"
+    },
+    {
+     "name": "Gândul",
+     "url": "https://www.gandul.ro/financiar/scumpire-motorina-impact-constructii-2027-21047524"
     }
    ],
    "summary": "The government plans to extend fuel-market crisis measures — a reduced diesel excise, a cap on fuel markups and export monitoring — from 1 November to 31 January 2027, HotNews and Digi24 report. The finance ministry estimates diesel would rise from about 10.90 to 11.75 lei per litre without the excise cut; the draft is in public consultation.",
@@ -8980,6 +9058,24 @@
    "id": "ro-oldest-man-111"
   },
   {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-29T06:52:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/economic/2026/10/29/grupul-omvpetrom-a-afisat-un-profit-net-in-crestere-cu-18-la-4-1-miliarde-lei-dupa-primele-noua-luni--1607910"
+    }
+   ],
+   "summary": "OMV Petrom reported net profit of 4.1 billion lei for January–September, up 18%, with investments up 27% to 6.6 billion lei, mostly in Neptun Deep, sustainable fuels and renewables; first Neptun Deep gas is expected in the first half of 2027.",
+   "summary_ro": "OMV Petrom a raportat un profit net de 4,1 miliarde de lei pentru ianuarie–septembrie, în creștere cu 18%, iar investițiile au urcat cu 27%, la 6,6 miliarde de lei, mai ales în Neptun Deep, combustibili sustenabili și energie regenerabilă; primele gaze din Neptun Deep sunt așteptate în prima jumătate a lui 2027.",
+   "title": "OMV Petrom nine-month net profit rises 18% to 4.1bn lei",
+   "title_ro": "Profitul net al OMV Petrom crește cu 18% în nouă luni, la 4,1 mld. lei",
+   "topic": "economy",
+   "id": "ro-petrom-nine-month-profit"
+  },
+  {
    "place": "Romania",
    "place_ro": "România",
    "publishedAt": "2026-10-28T08:12:00Z",
@@ -9402,6 +9498,24 @@
    "id": "ro-sibiu-pitesti-minister-visit"
   },
   {
+   "place": "Argeș",
+   "place_ro": "Argeș",
+   "publishedAt": "2026-10-29T05:54:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/acordul-de-mediu-revizuit-pentru-sectiunile-2-si-3-ale-autostrazii-sibiu-pitesti-ar-putea-fi-emis-in-decembrie-in-ultimele-6-luni-procedurile-au-fost-trenate.html"
+    }
+   ],
+   "summary": "Transport Minister Ștefan-Ovidiu Popa says he agreed a timetable with Environment Minister Natalia Intotero so the revised environmental permit for two delayed motorway sections could be issued in December; he called the six-month delay unjustified.",
+   "summary_ro": "Ministrul Transporturilor, Ștefan-Ovidiu Popa, spune că a stabilit cu ministra Mediului, Natalia Intotero, un calendar astfel încât acordul de mediu revizuit pentru cele două secțiuni întârziate să fie emis în decembrie; el a numit nejustificată întârzierea de șase luni.",
+   "title": "Revised environmental permit for Sibiu–Pitești sections 2 and 3 could come in December",
+   "title_ro": "Acordul de mediu revizuit pentru secțiunile 2 și 3 ale A1 Sibiu–Pitești, posibil în decembrie",
+   "topic": "politics",
+   "id": "ro-sibiu-pitesti-permit-december"
+  },
+  {
    "place": "Sighișoara",
    "place_ro": "Sighișoara",
    "publishedAt": "2026-10-27T17:23:00Z",
@@ -9530,6 +9644,10 @@
     {
      "name": "G4Media",
      "url": "https://www.g4media.ro/doi-copii-de-2-si-4-ani-au-murit-in-urma-unui-incendiu-in-talmaciu-sibiu-nu-au-putut-fi-salvati-nu-au-raspuns-manevrelor-de-resuscitare.html"
+    },
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/doi-copii-au-murit-intr-o-camera-inundata-cu-fum-in-talmaciu-judetul-sibiu-isu-a-incercat-in-van-sa-i-resusciteze-4013027"
     }
    ],
    "summary": "Two children aged 2 and 4 died after a fire at a house in Tălmaciu, Sibiu county; they were found in cardiac arrest and did not respond to resuscitation, G4Media and Mediafax report.",
@@ -10480,6 +10598,24 @@
    "id": "world-gaza-strikes-oct27"
   },
   {
+   "place": "United States",
+   "place_ro": "Statele Unite",
+   "publishedAt": "2026-10-29T05:50:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/google-lanseaza-gemini-4-carbon-un-ai-capabil-sa-descopere-si-sa-exploateze-vulnerabilitati.html"
+    }
+   ],
+   "summary": "Google DeepMind announced Gemini 4 Carbon, which it says can find software vulnerabilities, test exploits and write fixes; access is initially limited to selected cybersecurity specialists, with no date for general release.",
+   "summary_ro": "Google DeepMind a anunțat Gemini 4 Carbon, despre care spune că poate descoperi vulnerabilități software, testa modul de exploatare și propune remedieri; accesul este limitat inițial la specialiști în securitate cibernetică selectați, fără o dată pentru lansarea generală.",
+   "title": "Google unveils security-focused AI model with limited access",
+   "title_ro": "Google lansează un model AI axat pe securitate, cu acces restrâns",
+   "topic": "tech",
+   "id": "world-google-gemini-4-carbon"
+  },
+  {
    "place": "Washington",
    "place_ro": "Washington",
    "publishedAt": "2026-10-29T05:50:00Z",
@@ -10724,10 +10860,14 @@
     {
      "name": "Mediafax",
      "url": "https://www.mediafax.ro/externe/ce-vrea-iranul-de-la-sua-ca-sa-redeschida-stramtoarea-ormuz-23833394"
+    },
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic-extern/2026/10/29/jd-vance-i-a-adresat-o-scrisoare-liderului-celui-mai-inalt-organism-de-securitate-din-iran--1607940"
     }
    ],
-   "summary": "Iranian Foreign Minister Abbas Araghchi said Tehran is in close contact with mediators on a seven-day plan to reopen the Strait of Hormuz, while Donald Trump denied reports that he told JD Vance to start peace talks, saying the contact concerned Iran's need for medical supplies, Al Jazeera reports. Al Jazeera also reports a Houthi attack on Aden.",
-   "summary_ro": "Ministrul iranian de externe, Abbas Araghchi, a spus că Teheranul este în contact strâns cu mediatorii privind un plan de șapte zile pentru redeschiderea Strâmtorii Ormuz, iar Donald Trump a negat informațiile că i-ar fi cerut lui JD Vance să înceapă negocieri de pace, spunând că discuția a privit nevoia Iranului de materiale medicale, relatează Al Jazeera. Al Jazeera mai relatează un atac al rebelilor houthi asupra orașului Aden.",
+   "summary": "Iranian Foreign Minister Abbas Araghchi said Tehran is in close contact with mediators on a seven-day plan to reopen the Strait of Hormuz. AFP, citing the Wall Street Journal, reports that Vice President JD Vance wrote to Iran's security council secretary Mohsen Rezaei proposing a negotiating framework; Donald Trump said he approved Vance's outreach but denied ordering peace talks.",
+   "summary_ro": "Ministrul iranian de Externe, Abbas Araghchi, spune că Teheranul este în contact strâns cu mediatorii privind un plan de șapte zile pentru redeschiderea strâmtorii Ormuz. AFP, citând Wall Street Journal, relatează că vicepreședintele JD Vance i-a scris secretarului Consiliului de securitate al Iranului, Mohsen Rezaei, propunând un cadru de negocieri; Donald Trump spune că a aprobat demersul, dar neagă că ar fi ordonat discuții de pace.",
    "title": "Iran pursues seven-day Hormuz plan; Trump denies ordering peace talks",
    "title_ro": "Iranul promovează un plan de șapte zile pentru Ormuz; Trump neagă că a ordonat negocieri",
    "topic": "world",
