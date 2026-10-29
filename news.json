@@ -1,5 +1,5 @@
 {
- "lastRun": "2026-10-29T09:01:25Z",
+ "lastRun": "2026-10-29T09:51:56Z",
  "stories": [
   {
    "place": "Bucharest",
@@ -272,6 +272,10 @@
     {
      "name": "B1 TV",
      "url": "https://www.b1tv.ro/eveniment/incendiu-la-aeroportul-henri-coanda-suspecta-este-o-femeie-1745101.html"
+    },
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/justitie/2026/10/29/femeie-cercetata-pentru-ca-ar-fi-provocat-un-incendiu-la-aeroportul-henri-coanda-a-fost-transportata--1607913"
     }
    ],
    "summary": "A fire broke out around 01:15 on Thursday in a toilet on the corridor linking the departures and arrivals terminals at Henri Coandă airport, and airport firefighters put it out. Police say a woman deliberately set paper alight in bins; she was taken to hospital and will be questioned after medical checks. No other injuries or damage were reported.",
@@ -1760,6 +1764,24 @@
    "title_ro": "Pompierii din Kiev sting incendii în clădiri lovite de atacuri",
    "topic": "security",
    "id": "eu-kyiv-fires"
+  },
+  {
+   "place": "Italy",
+   "place_ro": "Italia",
+   "publishedAt": "2026-10-28T20:56:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/zece-pompieri-au-murit-din-cauza-unor-boli-la-lampedusa-insula-in-sudul-italiei-afectiuni-oncologice-si-cardiace-aici-a-functionat-un-radar-al-aviatiei-militare-ancheta-a-ministerului-de-intern.html"
+    }
+   ],
+   "summary": "Italy's interior ministry has asked for a medical commission to examine the deaths of ten firefighters who served near a former military radar on Lampedusa; seven more are reported seriously ill. A link to the radar is claimed by former colleagues but has not been established.",
+   "summary_ro": "Ministerul de Interne italian a cerut o comisie medicală care să analizeze decesele a zece pompieri care au lucrat lângă un fost radar militar din Lampedusa; alți șapte ar fi grav bolnavi. Legătura cu radarul este susținută de foști colegi, dar nu a fost stabilită.",
+   "title": "Italy orders medical review after ten Lampedusa firefighters die of illness",
+   "title_ro": "Italia cere o anchetă medicală după moartea a zece pompieri din Lampedusa",
+   "topic": "world",
+   "id": "eu-lampedusa-firefighters"
   },
   {
    "place": "Ukraine",
@@ -3266,6 +3288,24 @@
   {
    "place": "Serbia",
    "place_ro": "Serbia",
+   "publishedAt": "2026-10-28T19:38:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/the-times-vucic-ar-fi-vrut-sa-organizeze-o-lovitura-de-stat-dupa-infrangerea-electorala-dar-a-fost-convins-sa-renunte.html"
+    }
+   ],
+   "summary": "The Times, citing a former police commander, an MEP and opposition figures, reports that Serbia's President Vučić massed police and supporters in Belgrade on election night before abandoning plans to challenge the result. His spokeswoman said the police presence responded to threats from protesters; the report offers no independent confirmation of a plan.",
+   "summary_ro": "The Times, citând un fost comandant de poliție, un europarlamentar și membri ai opoziției, relatează că președintele sârb Vučić a adunat polițiști și susținători în Belgrad în noaptea alegerilor, apoi a renunțat la planul de a contesta rezultatul. Purtătoarea sa de cuvânt spune că prezența poliției a fost un răspuns la amenințările protestatarilor; nu există o confirmare independentă a unui astfel de plan.",
+   "title": "The Times reports Vučić weighed contesting election loss before backing down",
+   "title_ro": "The Times: Vučić ar fi cântărit contestarea înfrângerii electorale înainte să renunțe",
+   "topic": "politics",
+   "id": "eu-vucic-times-report"
+  },
+  {
+   "place": "Serbia",
+   "place_ro": "Serbia",
    "publishedAt": "2026-10-27T17:21:00Z",
    "region": "europe",
    "sources": [
@@ -3982,6 +4022,10 @@
     {
      "name": "Gândul",
      "url": "https://www.gandul.ro/actualitate/vasilica-valentina-robu-presedinte-cnpp-21048059"
+    },
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic/2026/10/29/vasilica-valentina-robu---noul-presedinte-al-casei-nationale-de-pensii-publice--1607893"
     }
    ],
    "summary": "PM Luca Niculescu appointed Vasilica-Valentina Robu, described as a technocrat without party membership, as president of the National Public Pensions House for five years, replacing former PNL deputy Nicolae Giugea, who resigned on 20 October. Unnamed government sources told Știri pe surse she was proposed by PSD.",
@@ -4180,6 +4224,10 @@
     {
      "name": "B1 TV",
      "url": "https://www.b1tv.ro/politica/prioritatile-noului-ministru-al-educatiei-sorin-costreie-1745089.html"
+    },
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/educatie-stiinta/2026/10/29/costreie-trebuie-sa-imbunatatim-doua-zone-esentiale-pentru-educatie---o-mai-mare-descentralizare-si---1607896"
     }
    ],
    "summary": "Education Minister Sorin Costreie said on Facebook that schools need more decentralisation and less bureaucracy so they can adapt to their communities and teachers have more time to teach. He said he would meet students, pupils, teachers and parents on Thursday.",
@@ -7018,6 +7066,10 @@
     {
      "name": "News.ro",
      "url": "https://www.news.ro/economic/daniel-zamfir-executia-bigetara-minisiterul-economiei-ingroziti-inadmisibil-ministerul-economiei-antreprenoriatului-turismului-digitalizarii-aiba-executie-bugetara-23-programe-importane-au-executii-1922400029002026100022900187"
+    },
+    {
+     "name": "Gândul",
+     "url": "https://www.gandul.ro/politica/daniel-zamfir-socat-de-ce-a-gasit-la-ministerul-economiei-o-sa-va-ingroziti-este-inadmisibil-ce-le-a-reprosat-predecesorilor-sai-de-la-usr-darau-si-miruta-21048471"
     }
    ],
    "summary": "Economy Minister Daniel Zamfir (PSD) said his ministry's budget execution stands at about 23%, with Start-Up Nation at around 2% and the tourism promotion programme at 16%, and criticised his USR predecessor Irineu Darău, Digi24 and News.ro report.",
@@ -7476,6 +7528,24 @@
    "title_ro": "Ambulanță cu o femeie însărcinată, implicată într-un accident la Brașov",
    "topic": "security",
    "id": "ro-brasov-ambulance-crash"
+  },
+  {
+   "place": "Black Sea",
+   "place_ro": "Marea Neagră",
+   "publishedAt": "2026-10-29T08:47:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/economic/carlyle-si-berd-au-ajuns-la-un-acord-pentru-vanzarea-operatorului-proiectului-offshore-de-exploare-a-gazelor-black-sea-oil-gas-tranzactia-trebuie-sa-primeasca-avizele-statului-23833562"
+    }
+   ],
+   "summary": "Carlyle and the EBRD have agreed to sell Black Sea Oil & Gas, operator of the Midia offshore project that supplies about 12% of Romania's gas, to Mazarine Energy. The deal still needs approval from Romania's investment-screening commission and the Competition Council.",
+   "summary_ro": "Carlyle și BERD au convenit vânzarea Black Sea Oil & Gas, operatorul proiectului offshore Midia, care acoperă circa 12% din necesarul de gaze al României, către Mazarine Energy. Tranzacția are nevoie de avizul comisiei de examinare a investițiilor străine și al Consiliului Concurenței.",
+   "title": "Carlyle and EBRD agree to sell Black Sea gas producer BSOG to Mazarine",
+   "title_ro": "Carlyle și BERD vând producătorul de gaze BSOG către Mazarine Energy",
+   "topic": "energy",
+   "id": "ro-bsog-mazarine-sale"
   },
   {
    "place": "Romania",
@@ -8814,6 +8884,10 @@
     {
      "name": "Digi24",
      "url": "https://www.digi24.ro/stiri/tragedie-in-maramures-o-femeie-a-fost-impuscata-mortal-cu-o-arma-de-vanatoare-4013281"
+    },
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/justitie/2026/10/29/maramures-femeie-impuscata-mortal-de-un-barbat-cu-o-arma-de-vanatoare-ar-fi-confundat-o-cu-un-animal--1607926"
     }
    ],
    "summary": "A 45-year-old woman was fatally shot on Wednesday evening in Poienile de Sub Munte, Maramureș County. Police say a 35-year-old hunter suspected of firing the shot, reportedly believing she was a wild animal, has been detained while investigators establish what happened.",
@@ -9604,6 +9678,10 @@
     {
      "name": "Digi24",
      "url": "https://www.digi24.ro/stiri/sri-avertisment-pentru-populatie-cum-poti-fi-atras-intr-o-operatiune-de-sabotaj-4011097"
+    },
+    {
+     "name": "Gândul",
+     "url": "https://www.gandul.ro/politica/sri-dezvaluie-metoda-prin-care-rusia-recruteaza-romani-pentru-sabotaje-ce-vulnerabilitati-exploateaza-21048435"
     }
    ],
    "summary": "After revealing a Russia-run sabotage network, Romania's SRI intelligence service warned that people can be recruited through a simple online message and explained how to recognise such approaches.",
@@ -9630,6 +9708,24 @@
    "title_ro": "Peste 36.000 de studenți vor primi burse sociale de 925 de lei",
    "topic": "economy",
    "id": "ro-student-social-scholarships"
+  },
+  {
+   "place": "Suceava",
+   "place_ro": "Suceava",
+   "publishedAt": "2026-10-29T07:09:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/educatie-stiinta/2026/10/29/universitatea-stefan-cel-mare-din-suceava-va-organiza-campionatul-european-universitar-de-handbal-di--1607939"
+    }
+   ],
+   "summary": "The European University Sports Association chose Suceava's Ștefan cel Mare University over bids from Ankara and Varaždin to host the 2029 championship, with 24 teams expected.",
+   "summary_ro": "Asociația Europeană a Sportului Universitar a ales Universitatea „Ștefan cel Mare” din Suceava, în fața candidaturilor din Ankara și Varaždin, pentru campionatul din 2029, la care sunt așteptate 24 de echipe.",
+   "title": "Suceava university to host 2029 European university handball championship",
+   "title_ro": "Universitatea din Suceava va găzdui Campionatul European Universitar de Handbal din 2029",
+   "topic": "sport",
+   "id": "ro-suceava-handball-2029"
   },
   {
    "place": "Sibiu county",
@@ -9732,6 +9828,14 @@
     {
      "name": "Mediafax",
      "url": "https://www.mediafax.ro/justitie/alexandru-toader-contesta-masura-arestului-preventiv-care-este-termenul-de-judecata-la-iccj-23833258"
+    },
+    {
+     "name": "HotNews",
+     "url": "https://hotnews.ro/cum-au-motivat-judecatorii-arestarea-lui-alexandru-toader-nicio-alta-masura-preventiva-mai-putin-restrictiva-nu-este-suficienta-in-raport-cu-datele-concrete-ale-cazului-2389036"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/alexandru-toader-a-contestat-arestul-preventiv-iccj-i-a-dat-deja-termen-de-judecata_3932064"
     }
    ],
    "summary": "Alexandru Toader, son of former justice minister Tudorel Toader, has challenged his pretrial detention in a rape case before the High Court of Cassation and Justice, which has set a hearing date.",
@@ -10864,6 +10968,10 @@
     {
      "name": "Agerpres",
      "url": "https://agerpres.ro/politic-extern/2026/10/29/jd-vance-i-a-adresat-o-scrisoare-liderului-celui-mai-inalt-organism-de-securitate-din-iran--1607940"
+    },
+    {
+     "name": "News.ro",
+     "url": "https://www.news.ro/externe/vance-ii-cere-intr-scrisoare-unui-oficial-iranian-rang-inalt-mohsen-rezai-iranul-ajunga-eventual-cadru-negocieri-sua-dezvaluie-wsj-washingtonul-le-cere-aliatilor-golful-persic-pregateasca-reluarea-1922405429002026101022901525"
     }
    ],
    "summary": "Iranian Foreign Minister Abbas Araghchi said Tehran is in close contact with mediators on a seven-day plan to reopen the Strait of Hormuz. AFP, citing the Wall Street Journal, reports that Vice President JD Vance wrote to Iran's security council secretary Mohsen Rezaei proposing a negotiating framework; Donald Trump said he approved Vance's outreach but denied ordering peace talks.",
