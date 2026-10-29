@@ -60,7 +60,7 @@ def kw(words):
 TOPIC_RULES = [
     ("sport", kw("fotbal superliga fcsb rapid dinamo cfr meci tenis handbal baschet olimpic campionat jucător jucator antrenor gol uefa fifa formula motogp atlet".split())),
     ("politics", kw("guvern premier ministr psd pnl usr aur udmr pot sos parlament senat deputat senator nicușor nicusor grindeanu bolojan simion "
-                    "niculescu fritz kelemen georgescu dna diicot ccr curtea_constituț curtea_constitut alegeri electoral partid moțiun motiun cotroceni preşedint președint presedint "
+                    "niculescu fritz kelemen georgescu dna diicot ccr curtea_constituț curtea_constitut alegeri electoral partidul partidului partide partidelor moțiun motiun cotroceni preşedint președint presedint "
                     "primar primăr consiliul_general prefect csm parchet procuror rectificar bugetul ponta șoșoacă sosoaca gavrilă ciucu iccj".split())),
     ("security", kw("atac dron armat nato sabotaj militar rachet război razboi soldat apărar aparar spionaj terori explozi bombardament front accident incendi poliți politi polițist crim arestat reținut retinut morți morti victim jandarm isu".split())),
     ("energy", kw("energi gaze gaz petrol curent electric cernavod hidroelectrica nuclear carburant motorin benzin termofic anre transgaz romgaz petrom".split())),
@@ -69,7 +69,7 @@ TOPIC_RULES = [
     ("culture", kw("film festival muzeu concert teatru carte scriitor actor actriț artist expoziț expozit oscar cultur".split())),
 ]
 
-BUC = kw("bucurești bucuresti capitala capitalei sectorul_1 sectorul_2 sectorul_3 sectorul_4 sectorul_5 sectorul_6 sector_1 sector_2 sector_3 sector_4 sector_5 sector_6 otopeni metroul metrorex stb ilfov ciucu pmb".split())
+BUC = kw("bucurești bucuresti capitala capitalei sectorul_1 sectorul_2 sectorul_3 sectorul_4 sectorul_5 sectorul_6 sector_1 sector_2 sector_3 sector_4 sector_5 sector_6 otopeni henri_coandă henri_coanda metroul metrorex stb ilfov ciucu pmb".split())
 EUROPE = [("Ucraina","Ukraine"),("Rusia","Russia"),("Kremlin","Russia"),("Moscova","Russia"),("Putin","Russia"),("Zelenski","Ukraine"),("Kiev","Ukraine"),
           ("Republica Moldova","Moldova"),("Chișinău","Moldova"),("Moldova","Moldova"),("Bulgaria","Bulgaria"),("Ungaria","Hungary"),("Orban","Hungary"),
           ("Serbia","Serbia"),("Vucic","Serbia"),("Polonia","Poland"),("Germania","Germany"),("Berlin","Germany"),("Merz","Germany"),("Franța","France"),
@@ -78,7 +78,7 @@ EUROPE = [("Ucraina","Ukraine"),("Rusia","Russia"),("Kremlin","Russia"),("Moscov
           ("Belgia","Belgium"),("Cehia","Czechia"),("Slovacia","Slovakia"),("Croația","Croatia"),("Albania","Albania"),("Armenia","Armenia"),("Georgia","Georgia"),
           ("Belarus","Belarus"),("Lituania","Lithuania"),("Letonia","Latvia"),("Estonia","Estonia"),("Finlanda","Finland"),("Suedia","Sweden"),("Norvegia","Norway"),
           ("Danemarca","Denmark"),("Elveția","Switzerland"),("Portugalia","Portugal"),("Irlanda","Ireland"),("Transnistria","Moldova"),
-          ("Comisia Europeană","EU"),("Comisia Europeana","EU"),("Bruxelles","EU"),("Uniunea Europeană","EU"),("UE","EU"),("BCE","EU"),("Europa","Europe")]
+          ("Vatican","Vatican"),("Papa Leon","Vatican"),("Comisia Europeană","EU"),("Comisia Europeana","EU"),("Bruxelles","EU"),("Uniunea Europeană","EU"),("UE","EU"),("BCE","EU"),("Europa","Europe")]
 WORLD = [("SUA","US"),("Statele Unite","US"),("Washington","US"),("Trump","US"),("Casa Albă","US"),("China","China"),("Beijing","China"),("Israel","Israel"),
          ("Gaza","Gaza"),("Iran","Iran"),("Hormuz","Iran"),("Liban","Lebanon"),("Siria","Syria"),("Irak","Iraq"),("Arabia Saudită","Saudi Arabia"),
          ("Japonia","Japan"),("Coreea de Nord","North Korea"),("Coreea de Sud","South Korea"),("Phenian","North Korea"),("India","India"),("Pakistan","Pakistan"),
@@ -89,7 +89,7 @@ PLACE_RO = {"Ukraine":"Ucraina","Russia":"Rusia","Moldova":"Republica Moldova","
             "Germany":"Germania","France":"Franța","Italy":"Italia","Spain":"Spania","UK":"Marea Britanie","Greece":"Grecia","Turkey":"Turcia","Austria":"Austria",
             "Netherlands":"Olanda","Belgium":"Belgia","Czechia":"Cehia","Slovakia":"Slovacia","Croatia":"Croația","Albania":"Albania","Armenia":"Armenia",
             "Georgia":"Georgia","Belarus":"Belarus","Lithuania":"Lituania","Latvia":"Letonia","Estonia":"Estonia","Finland":"Finlanda","Sweden":"Suedia",
-            "Norway":"Norvegia","Denmark":"Danemarca","Switzerland":"Elveția","Portugal":"Portugalia","Ireland":"Irlanda","EU":"UE","Europe":"Europa",
+            "Norway":"Norvegia","Denmark":"Danemarca","Switzerland":"Elveția","Portugal":"Portugalia","Ireland":"Irlanda","EU":"UE","Europe":"Europa","Vatican":"Vatican",
             "US":"SUA","China":"China","Israel":"Israel","Gaza":"Gaza","Iran":"Iran","Lebanon":"Liban","Syria":"Siria","Iraq":"Irak","Saudi Arabia":"Arabia Saudită",
             "Japan":"Japonia","North Korea":"Coreea de Nord","South Korea":"Coreea de Sud","India":"India","Pakistan":"Pakistan","Afghanistan":"Afganistan",
             "Brazil":"Brazilia","Argentina":"Argentina","Venezuela":"Venezuela","Mexico":"Mexic","Canada":"Canada","Australia":"Australia","Africa":"Africa",
@@ -117,6 +117,8 @@ def classify(title, url):
         elif w:
             region, place = "world", w
         elif "/externe" in path or "/international" in path or "/extern" in path:
+            region, place = "world", "World"
+        if region == "romania" and "extern" in path:
             region, place = "world", "World"
         if region != "romania":
             place_ro = PLACE_RO.get(place, "Lume" if place == "World" else place)
@@ -156,7 +158,7 @@ def parse(data):
         t, l = get("title"), get("link")
         title = strip(t.text if t is not None else "")
         link = (l.text or l.get("href") or "").strip() if l is not None else ""
-        d = get("pubDate") or get("published") or get("updated") or get("date")
+        d = next((x for x in (get("pubDate"), get("published"), get("updated"), get("date")) if x is not None), None)
         when = None
         if d is not None and d.text:
             try:
@@ -174,7 +176,7 @@ def parse(data):
 
 def same_event(a, b):
     common = len(a & b)
-    return common >= 3 and common / max(1, min(len(a), len(b))) >= 0.6
+    return common >= 3 and common / max(1, min(len(a), len(b))) >= 0.5
 
 def main():
     now = datetime.now(timezone.utc)
