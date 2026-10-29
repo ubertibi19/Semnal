@@ -1,5 +1,5 @@
 {
- "lastRun": "2026-10-29T02:51:00Z",
+ "lastRun": "2026-10-29T03:52:00Z",
  "stories": [
   {
    "place": "Bucharest",
@@ -10,6 +10,10 @@
     {
      "name": "Mediafax",
      "url": "https://www.mediafax.ro/social/trafic-modificat-pe-autostrada-bucurestiului-restrictii-pentru-soferii-care-circula-spre-constanta-23832802"
+    },
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/trafic-modificat-pe-autostrada-bucurestiului-restrictii-pentru-soferii-care-circula-spre-constanta-unde-se-inchide-circulatia-si-cat-dureaza-restrictiile.html"
     }
    ],
    "summary": "The slip road linking the Bucharest ring motorway A0 to the A2 toward Constanța is closed from 09:00 on 28 October to 12:00 on 29 October for resurfacing, with traffic diverted through the nearby cloverleaf junction, Mediafax reports.",
@@ -472,6 +476,24 @@
    "title_ro": "Percheziții la zece locuințe pentru furt de combustibil din autobuzele STB",
    "topic": "security",
    "id": "buc-stb-fuel-theft"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-28T15:06:00Z",
+   "region": "bucharest",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/economic/2026/10/28/cinci-linii-de-tramvai-vor-circula-pe-rute-modificate-iar-linia-47-se-suspenda-de-joi--1607793"
+    }
+   ],
+   "summary": "Works at the Calea Rahovei–Șoseaua Progresului junction mean trams 1, 10, 23, 25 and 32 run on changed routes and line 47 is suspended from 29 October to 1 November, with replacement bus lines 610 and 632, the Bucharest-Ilfov transport authority said.",
+   "summary_ro": "Din cauza lucrărilor de la intersecția Calea Rahovei – Șoseaua Progresului, tramvaiele 1, 10, 23, 25 și 32 circulă pe trasee modificate, iar linia 47 este suspendată între 29 octombrie și 1 noiembrie; sunt introduse liniile navetă 610 și 632, potrivit autorității de transport București-Ilfov.",
+   "title": "Five Bucharest tram lines rerouted, line 47 suspended for four days",
+   "title_ro": "Cinci linii de tramvai din București, deviate; linia 47, suspendată patru zile",
+   "topic": "economy",
+   "id": "buc-tram-rahovei-works"
   },
   {
    "place": "Bucharest",
@@ -1604,6 +1626,28 @@
    "id": "eu-luhansk-depot-strike"
   },
   {
+   "place": "Spain",
+   "place_ro": "Spania",
+   "publishedAt": "2026-10-28T22:06:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/externe/proteste-la-madrid-dupa-tragedia-feroviara-din-spania-zeci-de-raniti-au-fost-externati-din-spitale-23833383"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/riot-police-deployed-in-madrid-as-protests-erupt-over-deadly-train-crash"
+    }
+   ],
+   "summary": "Demonstrators gathered outside Spain's transport ministry in Madrid calling for transport minister Óscar Puente to resign after the high-speed collision that killed 68 people, and police in riot gear were deployed as some far-right protesters clashed with officers, Al Jazeera and Mediafax report. Dozens of injured have been discharged from hospital.",
+   "summary_ro": "Protestatari s-au adunat la Madrid în fața Ministerului Transporturilor, cerând demisia ministrului Óscar Puente după coliziunea trenurilor de mare viteză soldată cu 68 de morți; poliția a intervenit cu echipamente antirevoltă după ce unii protestatari de extremă dreapta s-au confruntat cu agenții, relatează Al Jazeera și Mediafax. Zeci de răniți au fost externați.",
+   "title": "Protesters in Madrid demand accountability over deadly train crash",
+   "title_ro": "Proteste la Madrid: oamenii cer asumarea răspunderii pentru accidentul feroviar mortal",
+   "topic": "politics",
+   "id": "eu-madrid-train-crash-protests"
+  },
+  {
    "place": "Italy",
    "place_ro": "Italia",
    "publishedAt": "2026-10-27T17:24:00Z",
@@ -1942,6 +1986,10 @@
     {
      "name": "Euronews",
      "url": "https://www.euronews.com/2026/10/28/evacuation-or-forced-deportation-where-will-trapped-citizens-of-russia-occupied-oleshky-go"
+    },
+    {
+     "name": "TVR Info",
+     "url": "https://tvrinfo.ro/melania-trump-a-obtinut-o-incetare-a-focului-intre-rusia-si-ucraina-in-orasul-oleski-care-va-intra-in-vigoare-pe-29-octombrie-ucraina-confirma/"
     }
    ],
    "summary": "A localised truce took effect in Russian-held Oleshky to allow humanitarian aid, and Melania Trump later said it had been extended into the Kherson region for aid convoys. Kyiv and Moscow agreed to US-mediated technical meetings in Abu Dhabi in early November. Melania Trump later said the truce had been extended within the Kherson region to let aid convoys pass.",
@@ -2572,6 +2620,10 @@
     {
      "name": "Euronews",
      "url": "https://www.euronews.com/2026/10/27/trump-calls-norway-a-shithouse-country-over-nobel-peace-prize-snub"
+    },
+    {
+     "name": "HotNews",
+     "url": "https://hotnews.ro/norvegia-ii-raspunde-lui-donald-trump-cu-un-top-inedit-dupa-ce-a-fost-numita-tara-de-rahat-2389345"
     }
    ],
    "summary": "At a rally in Michigan, US President Donald Trump disparaged Norway and linked the remark to not receiving the Nobel Peace Prize. Norway's foreign minister Espen Barth Eide replied that the Nobel committee is independent.",
@@ -7540,6 +7592,24 @@
   {
    "place": "Romania",
    "place_ro": "România",
+   "publishedAt": "2026-10-28T22:08:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Ziarul Financiar",
+     "url": "https://www.zf.ro/banci-si-asigurari/miscarea-smart-ministerului-finantelor-anul-2026-contextul-inrautatirii-conditiilor-finantare-pietele-externe-eurobonduri-statul-roman-imprumuta-bilateral-direct-bancile-externe-interne-23270031"
+    }
+   ],
+   "summary": "The finance ministry raised more than €4 billion in the first ten months of 2026 through private placements negotiated directly with domestic and foreign banks, while eurobond issues reached about €5 billion, roughly half of plan, Ziarul Financiar reports. The latest placement in October was €250 million at 5.5%.",
+   "summary_ro": "Ministerul Finanțelor a atras peste 4 miliarde de euro în primele zece luni din 2026 prin plasamente private negociate direct cu bănci românești și străine, în timp ce emisiunile de euroobligațiuni au ajuns la circa 5 miliarde de euro, aproximativ jumătate din program, relatează Ziarul Financiar. Ultimul plasament, în octombrie, a fost de 250 de milioane de euro, la o dobândă de 5,5%.",
+   "title": "Romania borrowed over €4bn directly from banks this year as eurobond issuance slows",
+   "title_ro": "România s-a împrumutat direct de la bănci cu peste 4 mld. euro anul acesta, pe fondul încetinirii emisiunilor de euroobligațiuni",
+   "topic": "economy",
+   "id": "ro-finance-private-placements"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
    "publishedAt": "2026-10-27T11:51:00Z",
    "region": "romania",
    "sources": [
@@ -9724,6 +9794,24 @@
    "id": "world-hegseth-asean"
   },
   {
+   "place": "New York",
+   "place_ro": "New York",
+   "publishedAt": "2026-10-28T20:38:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/externe/a-murit-alvin-k-hellerstein-judecatorul-care-a-instrumentat-dosare-importante-privindu-i-pe-trump-si-nicolas-maduro-intentiona-sa-prezideze-procesul-lui-maduro-anul-viitor-23833380"
+    }
+   ],
+   "summary": "Manhattan federal judge Alvin K. Hellerstein, who recently arraigned former Venezuelan leader Nicolás Maduro and repeatedly rejected Donald Trump's bid to move his hush-money case to federal court, has died aged 92, Mediafax reports. Maduro's case passes to Judge Analisa Torres.",
+   "summary_ro": "Judecătorul federal din Manhattan Alvin K. Hellerstein, care l-a pus recent sub acuzare pe fostul lider venezuelean Nicolás Maduro și a respins de mai multe ori cererea lui Donald Trump de a muta la instanța federală dosarul plăților ascunse, a murit la 92 de ani, relatează Mediafax. Dosarul lui Maduro trece la judecătoarea Analisa Torres.",
+   "title": "US judge Alvin Hellerstein, who had Maduro's case, dies at 92",
+   "title_ro": "A murit judecătorul american Alvin Hellerstein, care judeca dosarul lui Maduro",
+   "topic": "world",
+   "id": "world-hellerstein-dies"
+  },
+  {
    "place": "United Arab Emirates",
    "place_ro": "Emiratele Arabe Unite",
    "publishedAt": "2026-10-28T10:02:00Z",
@@ -9830,6 +9918,10 @@
     {
      "name": "Al Jazeera",
      "url": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks"
+    },
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/externe/ce-vrea-iranul-de-la-sua-ca-sa-redeschida-stramtoarea-ormuz-23833394"
     }
    ],
    "summary": "Iranian Foreign Minister Abbas Araghchi said Tehran is in close contact with mediators on a seven-day plan to reopen the Strait of Hormuz, while Donald Trump denied reports that he told JD Vance to start peace talks, saying the contact concerned Iran's need for medical supplies, Al Jazeera reports. Al Jazeera also reports a Houthi attack on Aden.",
@@ -10366,6 +10458,24 @@
    "title_ro": "Microsoft oferă plecări voluntare pentru circa 60.000 de angajați",
    "topic": "tech",
    "id": "world-microsoft-buyouts"
+  },
+  {
+   "place": "United States",
+   "place_ro": "Statele Unite",
+   "publishedAt": "2026-10-29T01:43:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/externe/microsoft-raporteaza-un-profit-de-peste-36-de-miliarde-de-dolari-la-cateva-zile-dupa-ce-a-anuntat-reduceri-de-personal-23833402"
+    }
+   ],
+   "summary": "Microsoft reported revenue of $92.3 billion, up 19%, and net profit above $36 billion for its July–September quarter, driven by cloud and AI, days after offering voluntary buyouts to about 60,000 staff, Mediafax reports. Alphabet reported a drop in quarterly profit the same day.",
+   "summary_ro": "Microsoft a raportat venituri de 92,3 miliarde de dolari, în creștere cu 19%, și un profit net de peste 36 de miliarde de dolari pentru trimestrul iulie–septembrie, datorită serviciilor cloud și AI, la câteva zile după ce a oferit plecări voluntare pentru circa 60.000 de angajați, relatează Mediafax. Alphabet a anunțat în aceeași zi o scădere a profitului trimestrial.",
+   "title": "Microsoft posts $36bn quarterly profit as cloud revenue climbs 30%",
+   "title_ro": "Microsoft raportează un profit trimestrial de 36 mld. dolari; veniturile din cloud cresc cu 30%",
+   "topic": "tech",
+   "id": "world-microsoft-q1-profit"
   },
   {
    "place": "Monaco",
