@@ -1,5 +1,5 @@
 {
- "lastRun": "2026-10-29T11:56:27Z",
+ "lastRun": "2026-10-29T13:05:31Z",
  "stories": [
   {
    "place": "Bucharest",
@@ -912,6 +912,10 @@
     {
      "name": "Al Jazeera",
      "url": "https://www.aljazeera.com/economy/2026/10/28/canada-eu-summit-what-do-both-sides-want-and-whats-at-stake"
+    },
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic-extern/2026/10/29/ue-si-canada-pledeaza-pentru-o-asociere-tot-mai-stransa-dar-renunta-la-ideea-de-membru-asociat-proie--1607948"
     }
    ],
    "summary": "Germany, Italy and Greece objected to wording in a draft EU–Canada declaration referring to Ursula von der Leyen's offer of associate membership for Canada, and the EU is now preparing to drop the idea from the final text, Digi24 reports.",
@@ -1120,6 +1124,24 @@
    "title_ro": "Miniștrii Apărării din E5 promit garanții de securitate pentru Ucraina după război",
    "topic": "security",
    "id": "eu-e5-ukraine-guarantees"
+  },
+  {
+   "place": "EU",
+   "place_ro": "UE",
+   "publishedAt": "2026-10-29T07:00:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/economic-extern/2026/10/29/cresterea-exploziva-a-preturilor-la-combustibili-se-afla-pe-agenda-discutiilor-ministrilor-europeni---1607909"
+    }
+   ],
+   "summary": "The steep rise in fuel prices is on the agenda of a meeting of EU energy ministers, Agerpres reports.",
+   "summary_ro": "Creșterea abruptă a prețurilor la combustibili se află pe agenda unei reuniuni a miniștrilor Energiei din UE, relatează Agerpres.",
+   "title": "EU energy ministers to discuss surge in fuel prices",
+   "title_ro": "Miniștrii europeni ai Energiei discută despre explozia prețurilor la combustibili",
+   "topic": "energy",
+   "id": "eu-energy-ministers-fuel-prices"
   },
   {
    "place": "Estonia",
@@ -1420,6 +1442,24 @@
    "title_ro": "Elevii și studenții francezi pregătesc noi proteste după vacanță",
    "topic": "politics",
    "id": "eu-france-student-protests"
+  },
+  {
+   "place": "France",
+   "place_ro": "Franța",
+   "publishedAt": "2026-10-29T12:00:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/economic-extern/2026/10/29/comerciantii-francezi-vor-putea-deschide-magazinele-si-duminica-pentru-a-recupera-pierderile-provoca--1608062"
+    }
+   ],
+   "summary": "French retailers will be allowed to open on Sundays to recover losses caused by damage during the recent unrest, Agerpres reports.",
+   "summary_ro": "Comercianții francezi vor putea deschide magazinele și duminica pentru a recupera pierderile provocate de distrugerile din timpul recentelor tulburări, relatează Agerpres.",
+   "title": "French shops allowed Sunday opening to recoup losses from unrest damage",
+   "title_ro": "Magazinele din Franța vor putea deschide duminica pentru a recupera pierderile",
+   "topic": "economy",
+   "id": "eu-france-sunday-shops"
   },
   {
    "place": "France",
@@ -1848,6 +1888,14 @@
     {
      "name": "News.ro",
      "url": "https://www.news.ro/externe/christine-lagarde-pleaca-de-la-presedintia-bce-la-7-februarie-cu-noua-luni-inainte-de-incheierea-mandatului-anunta-banca-europeana-centrala-1922402329002026101222902148"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/29/ecb-president-christine-lagarde-to-step-down-in-february-months-before-her-term-ends"
+    },
+    {
+     "name": "TVR Info",
+     "url": "https://tvrinfo.ro/christine-lagarde-confirma-ca-va-pleca-de-la-bce-inainte-de-incheierea-mandatului"
     }
    ],
    "summary": "The European Central Bank says Christine Lagarde will leave its presidency on 7 February 2027, about nine months before her term ends, opening the race to succeed her ahead of France's presidential election.",
@@ -2656,6 +2704,24 @@
    "title_ro": "Ryanair închide mai devreme predarea bagajelor și check-in-ul din noiembrie",
    "topic": "economy",
    "id": "eu-ryanair-bag-drop"
+  },
+  {
+   "place": "Brussels",
+   "place_ro": "Bruxelles",
+   "publishedAt": "2026-10-29T12:00:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/economic-extern/2026/10/29/statele-membre-ue-sunt-invitate-sa-participe-la-cea-de-a-doua-runda-de-cereri-de-propuneri-in-cadrul--1608064"
+    }
+   ],
+   "summary": "The European Commission has invited EU member states to apply in a second round of proposals under the SAFE defence lending instrument.",
+   "summary_ro": "Comisia Europeană a invitat statele membre să participe la a doua rundă de cereri de propuneri în cadrul instrumentului de împrumuturi pentru apărare SAFE.",
+   "title": "EU invites member states to second round of SAFE defence loans",
+   "title_ro": "Statele UE, invitate la a doua rundă de cereri în programul de apărare SAFE",
+   "topic": "security",
+   "id": "eu-safe-second-round"
   },
   {
    "place": "Serbia",
@@ -3790,6 +3856,10 @@
     {
      "name": "Știri pe surse",
      "url": "https://www.stiripesurse.ro/tur-de-forta-diplomatic-al-lui-george-simion-pentru-eliberarea-lui-calin-georgescu-intalniri-cu-ambasadorii-marilor-puteri_3932310"
+    },
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic/2026/10/29/aur-intrevederi-cu-ambasadori-si-ministrul-ceh-de-externe-discutii-despre-relatiile-bilaterale-si-st--1608056"
     }
    ],
    "summary": "AUR says George Simion and party leaders met the ambassadors of the US, China, India, Turkey, Pakistan, Egypt, Argentina and Bulgaria, plus Czech Foreign Minister Petr Macinka, to discuss Călin Georgescu's arrest and the 2024 election annulment. The party says it also asked the European Commission for a meeting and has had no reply.",
@@ -4076,6 +4146,28 @@
    "title_ro": "Parlamentari din mai multe partide propun scutirea de rovinietă pentru vehiculele care transportă stupi",
    "topic": "politics",
    "id": "pol-beekeepers-vignette"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-29T09:00:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/stiri/actualitate/ana-birchall-va-da-in-judecata-csm-pentru-ca-a-fost-inclusa-pe-lista-neagra-nicio-autoritate-nu-este-mai-presus-de-lege.html"
+    },
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/ana-birchall-fost-ministru-psd-al-justitiei-da-in-judecata-sectia-pentru-judecatori-a-csm-pentru-anularea-hotararii-prin-care-fusese-inclusa-pe-o-asa-zisa-lista-neagra-pentru-mai-m.html"
+    }
+   ],
+   "summary": "Former PSD justice minister Ana Birchall says she is suing the judges' section of the Superior Council of Magistracy to annul the decision that placed her on a list of people accused of denigrating the judiciary, a list she says was based on Facebook posts.",
+   "summary_ro": "Fostul ministru PSD al Justiției Ana Birchall anunță că acționează în instanță secția pentru judecători a CSM, cerând anularea hotărârii prin care a fost inclusă pe o listă a persoanelor acuzate că denigrează justiția, listă care, spune ea, s-a bazat pe postări pe Facebook.",
+   "title": "Former justice minister Ana Birchall sues CSM over 'blacklist'",
+   "title_ro": "Fostul ministru al Justiției Ana Birchall dă în judecată CSM pentru „lista neagră”",
+   "topic": "politics",
+   "id": "pol-birchall-csm-lawsuit"
   },
   {
    "place": "Romania",
@@ -4660,6 +4752,24 @@
    "id": "pol-despescu-slovenia"
   },
   {
+   "place": "Brașov",
+   "place_ro": "Brașov",
+   "publishedAt": "2026-10-29T10:30:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/justitie/2026/10/29/fermier-retinut-de-dna-a-marit-din-pix-numarul-animalelor-detinute-pentru-a-obtine-subventii-europen--1608025"
+    }
+   ],
+   "summary": "Anticorruption prosecutors in Brașov detained a farmer suspected of declaring hundreds of animals he did not own in order to obtain European farm subsidies. The allegations have not been tested in court.",
+   "summary_ro": "Procurorii anticorupție din Brașov au reținut un fermier suspectat că a declarat sute de animale pe care nu le deținea pentru a obține subvenții europene. Acuzațiile nu au fost judecate.",
+   "title": "DNA detains farmer accused of inflating livestock numbers for EU subsidies",
+   "title_ro": "DNA a reținut un fermier acuzat că a umflat numărul animalelor pentru subvenții UE",
+   "topic": "politics",
+   "id": "pol-dna-brasov-farmer-subsidies"
+  },
+  {
    "place": "Slănic Moldova",
    "place_ro": "Slănic Moldova",
    "publishedAt": "2026-10-28T12:30:00Z",
@@ -4688,6 +4798,10 @@
     {
      "name": "Știri pe surse",
      "url": "https://stiripesurse.ro/primarul-orasului-slanic-moldova-retinut-de-dna-pentru-luare-de-mita_3932041"
+    },
+    {
+     "name": "TVR Info",
+     "url": "https://tvrinfo.ro/primarul-din-slanic-moldova-a-primit-mandat-de-arestare-preventiva-dupa-ce-a-fost-prins-in-flagrant-cand-lua-mita"
     }
    ],
    "summary": "Anticorruption prosecutors detained Benone Moraru, the PSD mayor of Slănic Moldova, saying he took €15,000 in July and €6,000 on 27 October from a firm with a water-network repair contract. HotNews reports a court then placed him in pretrial arrest. The allegations have not been tested at trial.",
@@ -4750,6 +4864,14 @@
     {
      "name": "Capital",
      "url": "https://www.capital.ro/ce-se-intampla-cu-oamenii-daca-dispar-primariile-din-comunele-lor-avertismentul-lui-mihai-fifor.html"
+    },
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic/2026/10/29/fifor-despre-reforma-administrativ-teritoriala-nu-putem-decide-viitorul-unei-localitati-exclusiv-in---1607946"
+    },
+    {
+     "name": "Digi24",
+     "url": "https://digi24.ro/stiri/actualitate/politica/fifor-despre-reforma-administrativa-nu-putem-decide-viitorul-unei-localitati-exclusiv-in-functie-de-un-prag-de-populatie-4013501"
     }
    ],
    "summary": "PSD deputy Mihai Fifor wrote on Facebook that Romania needs a deep administrative-territorial reform because it still works with an organisation designed in 1968. He said the reform should rest on objective criteria and real consultation with communities, not only on cutting the number of town halls.",
@@ -5550,6 +5672,24 @@
   {
    "place": "Bucharest",
    "place_ro": "București",
+   "publishedAt": "2026-10-29T11:30:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Gândul",
+     "url": "https://www.gandul.ro/politica/alexandru-muraru-rectificare-bugetara-guvern-psd-21048650"
+    }
+   ],
+   "summary": "PNL vice-president Alexandru Muraru called for an urgent budget revision and said the government is being run from PSD headquarters, with the PM and President as spectators.",
+   "summary_ro": "Vicepreședintele PNL Alexandru Muraru a cerut o rectificare bugetară de urgență și a afirmat că guvernul este condus de la sediul PSD, iar premierul și președintele ar fi simpli spectatori.",
+   "title": "PNL's Muraru demands urgent budget revision, says PSD runs the government",
+   "title_ro": "Muraru (PNL) cere rectificare urgentă și spune că Guvernul e condus de la sediul PSD",
+   "topic": "politics",
+   "id": "pol-muraru-rectification"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
    "publishedAt": "2026-10-28T13:03:00Z",
    "region": "romania",
    "sources": [
@@ -5640,6 +5780,28 @@
    "title_ro": "Ministrul Finanțelor, Alexandru Nazare: statul trebuie să își reducă propriile cheltuieli",
    "topic": "politics",
    "id": "pol-nazare-spending"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-29T11:00:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic/2026/10/29/mai-marian-neacsu---discutii-cu-sindicatele-privind-drepturile-salariale-predictibilitatea-carierei---1608044"
+    },
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/social/marian-neacsu-primele-discutii-cu-sindicatele-mai-ce-se-intampla-cu-salariile-sporurile-si-pensionarea-angajatilor-23833680"
+    }
+   ],
+   "summary": "Interior minister Marian Neacșu met unions representing ministry staff to discuss pay rights, career predictability, retirement and staff shortages, according to the ministry.",
+   "summary_ro": "Ministrul de Interne, Marian Neacșu, s-a întâlnit cu sindicatele angajaților ministerului pentru a discuta despre drepturile salariale, predictibilitatea carierei, pensionare și deficitul de personal, potrivit MAI.",
+   "title": "Interior minister Neacșu holds first talks with police unions",
+   "title_ro": "Ministrul de Interne Marian Neacșu, primele discuții cu sindicatele din MAI",
+   "topic": "politics",
+   "id": "pol-neacsu-mai-unions"
   },
   {
    "place": "Romania",
@@ -5976,6 +6138,14 @@
     {
      "name": "B1 TV",
      "url": "https://www.b1tv.ro/politica/peiu-exclude-o-alianta-aur-psd-sub-nicio-forma-1745166.html"
+    },
+    {
+     "name": "Digi24",
+     "url": "https://digi24.ro/stiri/actualitate/politica/sub-nicio-forma-ce-spune-petrisor-peiu-despre-o-eventuala-alianta-aur-psd-4013433"
+    },
+    {
+     "name": "Gândul",
+     "url": "https://gandul.ro/politica/petrisor-peiu-exclude-alianta-aur-psd-21048533"
     }
    ],
    "summary": "AUR senator Petrișor Peiu told Digi24 his party will not form an alliance or coalition with PSD, though it may back individual parliamentary initiatives from any party. He denied private talks with PSD over summoning the prime minister on public finances.",
@@ -6350,6 +6520,24 @@
    "title_ro": "Un proiect din Senat ar acorda pensii provizorii celor care au lucrat în străinătate",
    "topic": "politics",
    "id": "pol-provisional-pensions-abroad"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-29T10:30:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic/2026/10/29/cristina-pruna-usr-despre-reforma-administrativ-teritoriala-numarul-de-locuitori-e-un-punct-de-pleca--1608022"
+    }
+   ],
+   "summary": "USR deputy Cristina Prună said population thresholds are a starting point in the administrative-territorial reform debate, and that the goal should be communities with efficient administrations.",
+   "summary_ro": "Deputata USR Cristina Prună a declarat că pragurile de populație sunt doar un punct de plecare în dezbaterea despre reforma administrativ-teritorială, iar scopul ar trebui să fie comunități cu administrații eficiente.",
+   "title": "USR's Cristina Prună: population is only a starting point for local reform",
+   "title_ro": "Cristina Prună (USR): populația e doar un punct de plecare în reforma administrativă",
+   "topic": "politics",
+   "id": "pol-pruna-admin-reform"
   },
   {
    "place": "Bucharest",
@@ -7118,6 +7306,24 @@
    "id": "pol-tax-2027"
   },
   {
+   "place": "Cluj",
+   "place_ro": "Cluj",
+   "publishedAt": "2026-10-29T10:00:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Gândul",
+     "url": "https://www.gandul.ro/politica/alin-tise-atac-pnl-linii-rosii-cluj-21048502"
+    }
+   ],
+   "summary": "Alin Tișe, president of Cluj County Council, accused PNL of becoming a party of 'red lines' and warned that its political choices could leave people poorer, Gândul reports.",
+   "summary_ro": "Președintele Consiliului Județean Cluj, Alin Tișe, a acuzat PNL că a devenit un partid al „liniilor roșii” și a avertizat că deciziile sale politice ar putea duce la sărăcirea oamenilor, relatează Gândul.",
+   "title": "Cluj council chief Alin Tișe accuses PNL of 'red lines' politics",
+   "title_ro": "Alin Tișe acuză PNL că a devenit „partidul liniilor roșii”",
+   "topic": "politics",
+   "id": "pol-tise-pnl-red-lines"
+  },
+  {
    "place": "Botoșani",
    "place_ro": "Botoșani",
    "publishedAt": "2026-10-29T04:57:00Z",
@@ -7268,6 +7474,24 @@
    "title_ro": "Deputat USR cere procurorilor explicații în dosarul Nordis",
    "topic": "politics",
    "id": "pol-ungureanu-nordis"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-29T11:30:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Gândul",
+     "url": "https://www.gandul.ro/politica/cele-cinci-mari-confederatii-sindicale-cer-solutii-pentru-problemele-economice-si-sociale-de-la-premierul-luca-niculescu-si-liderul-psd-sorin-grindeanu-21048649"
+    }
+   ],
+   "summary": "Romania's five main trade union confederations asked Prime Minister Luca Niculescu and PSD leader Sorin Grindeanu for solutions to economic and social problems and for an urgent meeting.",
+   "summary_ro": "Cele cinci mari confederații sindicale din România le-au cerut premierului Luca Niculescu și liderului PSD, Sorin Grindeanu, soluții la problemele economice și sociale și o întâlnire urgentă.",
+   "title": "Five union confederations seek urgent meeting with PM and PSD leader",
+   "title_ro": "Cele cinci mari confederații sindicale cer o întâlnire urgentă cu premierul și liderul PSD",
+   "topic": "politics",
+   "id": "pol-unions-confederations-pm"
   },
   {
    "place": "Romania",
@@ -7810,6 +8034,10 @@
     {
      "name": "Romania Insider",
      "url": "https://www.romania-insider.com/business/black-friday-2026-could-bring-nominal-record-sales"
+    },
+    {
+     "name": "SeeNews",
+     "url": "https://seenews.com/news/romanias-2026-black-friday-sales-to-hit-record-on-higher-prices-frames-1303896"
     }
    ],
    "summary": "A Frames analysis estimates Romanian Black Friday sales at about 3 billion lei, roughly 10% more than last year in value, even though consumption fell about 5% in the first eight months of 2026, Romania Insider reports.",
@@ -7930,6 +8158,10 @@
     {
      "name": "Ziarul Financiar",
      "url": "https://www.zf.ro/zf-24/mazarine-energy-preia-bsog-holding-activity-cel-mare-producator-gaze-naturale-offshore-romania-exploateaza-gazele-proiectul-midia-marea-neagra-compania-globala-investitii-carlyle-berd-23270225"
+    },
+    {
+     "name": "SeeNews",
+     "url": "https://seenews.com/news/carlyle-ebrd-agree-to-sell-romanias-bsog-to-mazarine-energy-1303887"
     }
    ],
    "summary": "Carlyle and the EBRD have agreed to sell Black Sea Oil & Gas, operator of the Midia offshore project that supplies about 12% of Romania's gas, to Mazarine Energy. The deal still needs approval from Romania's investment-screening commission and the Competition Council.",
@@ -8800,6 +9032,24 @@
    "title_ro": "Fondurile de investiții din România depășesc 1,5 milioane de investitori",
    "topic": "economy",
    "id": "ro-fund-investors-1-5m"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-29T11:30:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/economic/2026/10/29/facturile-la-gaze-naturale-ar-putea-creste-semnificativ-dupa-eliminarea-plafonarii-preturilor-analiz--1608053"
+    }
+   ],
+   "summary": "An analysis reported by Agerpres says household natural gas bills in Romania could increase significantly after the current price cap is removed.",
+   "summary_ro": "O analiză relatată de Agerpres arată că facturile la gaze naturale ale gospodăriilor din România ar putea crește semnificativ după eliminarea plafonării prețurilor.",
+   "title": "Gas bills could rise sharply once price cap ends, analysis warns",
+   "title_ro": "Facturile la gaze ar putea crește semnificativ după eliminarea plafonării, arată o analiză",
+   "topic": "energy",
+   "id": "ro-gas-cap-end-bills"
   },
   {
    "place": "Romania",
@@ -9740,6 +9990,28 @@
    "title_ro": "Startup-ul de AI medical Rayscape atrage 260.000 de euro",
    "topic": "tech",
    "id": "ro-rayscape"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-29T11:00:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/economic/2026/10/29/amanarea-rectificarii-bugetare-ar-putea-costa-economia-intre-10-si-15-milioane-de-lei-pe-zi-analiza--1608045"
+    },
+    {
+     "name": "Gândul",
+     "url": "https://www.gandul.ro/actualitate/noul-guvern-se-pregateste-de-prima-sedinta-de-lucru-unde-va-face-si-prima-rectificare-urgentele-sunt-pe-sanatate-21048619"
+    }
+   ],
+   "summary": "An analysis cited by Agerpres estimates each day of delay to the first budget revision could cost the economy 10–15 million lei, while Gândul reports the new government is preparing the revision with health spending as the priority.",
+   "summary_ro": "O analiză citată de Agerpres estimează că fiecare zi de amânare a primei rectificări bugetare ar putea costa economia între 10 și 15 milioane de lei, iar Gândul scrie că noul guvern pregătește rectificarea, cu sănătatea ca prioritate.",
+   "title": "Delaying budget revision could cost 10–15 million lei a day, analysis says",
+   "title_ro": "Amânarea rectificării bugetare ar costa 10–15 milioane de lei pe zi, arată o analiză",
+   "topic": "economy",
+   "id": "ro-rectification-delay-cost"
   },
   {
    "place": "Reșița",
@@ -11806,6 +12078,24 @@
    "id": "world-israel-election"
   },
   {
+   "place": "Israel",
+   "place_ro": "Israel",
+   "publishedAt": "2026-10-29T11:00:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/2026/10/29/alegeri-in-israel-netanyahu-si-eisenkot-cer-investigarea-unei-posibile-ingerinte-externe--1608039"
+    }
+   ],
+   "summary": "Israeli PM Benjamin Netanyahu and rival Gadi Eisenkot both called for an investigation into possible foreign interference in the election, Agerpres reports, after police said Likud's fraud claims were unfounded.",
+   "summary_ro": "Premierul israelian Benjamin Netanyahu și rivalul său Gadi Eisenkot au cerut amândoi investigarea unei posibile ingerințe externe în alegeri, relatează Agerpres, după ce poliția a calificat drept nefondate acuzațiile de fraudă ale Likud.",
+   "title": "Netanyahu and Eisenkot both seek probe into possible foreign election interference",
+   "title_ro": "Netanyahu și Eisenkot cer anchetarea unei posibile ingerințe externe în alegeri",
+   "topic": "politics",
+   "id": "world-israel-interference-probe"
+  },
+  {
    "place": "Lebanon",
    "place_ro": "Liban",
    "publishedAt": "2026-10-28T20:40:00Z",
@@ -11832,6 +12122,14 @@
     {
      "name": "Agerpres",
      "url": "https://agerpres.ro/politic-extern/2026/10/28/alegeri-in-israel-likud-acuza-partidele-arabe-ca-fura-alegerile-si-cere-sa-fie-verificate-voturile--1607826"
+    },
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/externe/partidul-lui-netanyahu-acuza-formatiunile-arabe-ca-au-furat-alegerile-din-israel-si-cere-anchete-4013391"
+    },
+    {
+     "name": "News.ro",
+     "url": "https://www.news.ro/externe/partidul-lui-netanyahu-acuza-formatiunile-arabe-dupa-alegeri-de-faptul-ca-au-furat-alegerile-si-cere-anchete-liderul-raam-mansour-abbas-il-acuza-pe-netanyahu-ca-minte-1922404129002026100922901164"
     }
    ],
    "summary": "Netanyahu's Likud party accused Arab parties of stealing the election and asked for votes to be verified, as counting continues after the inconclusive poll, Agerpres reports.",
@@ -12050,6 +12348,10 @@
     {
      "name": "Digi24",
      "url": "https://www.digi24.ro/stiri/externe/sua/serghei-lavrov-ajunge-in-sua-pentru-summitul-ministrilor-de-externe-g20-4012553"
+    },
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic-extern/2026/10/29/lavrov-va-cere-ridicarea-sanctiunilor-impotriva-rusiei-la-reuniunea-ministrilor-de-externe-din-g20-d--1608055"
     }
    ],
    "summary": "Russian Foreign Minister Sergei Lavrov will travel to the United States to head Russia's delegation at a G20 foreign ministers' meeting in Atlanta this weekend, Moscow announced, according to AFP as cited by Știri pe surse.",
@@ -12276,6 +12578,10 @@
     {
      "name": "Digi24",
      "url": "https://www.digi24.ro/stiri/externe/coreea-de-nord-a-lansat-un-proiectil-neidentificat-in-marea-japoniei-coreea-de-sud-si-japonia-au-urmarit-proiectilul-4013263"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/29/north-korea-fires-missiles-as-row-over-landmine-blast-intensifies"
     }
    ],
    "summary": "North Korea launched about ten short-range ballistic missiles from the Wonsan area towards the Sea of Japan, South Korea's Joint Chiefs of Staff said, and Japan confirmed an apparent ballistic launch. It came less than a week after Seoul proposed military talks on the border.",
@@ -12284,6 +12590,28 @@
    "title_ro": "Coreea de Nord a lansat aproximativ zece rachete balistice cu rază scurtă",
    "topic": "security",
    "id": "world-north-korea-missiles-oct29"
+  },
+  {
+   "place": "United States",
+   "place_ro": "SUA",
+   "publishedAt": "2026-10-29T06:00:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/29/obama-and-trump-rally-in-georgia-and-ohio-key-takeaways"
+    },
+    {
+     "name": "TVR Info",
+     "url": "https://tvrinfo.ro/obama-si-trump-schimb-de-atacuri-inaintea-alegerilor-pentru-congres-de-la-razboiul-din-iran-la-decorul-casei-albe/"
+    }
+   ],
+   "summary": "Former president Barack Obama and President Donald Trump held rival rallies in Georgia and Ohio ahead of the congressional elections, clashing over issues including the Iran war.",
+   "summary_ro": "Fostul președinte Barack Obama și președintele Donald Trump au ținut mitinguri rivale în Georgia și Ohio înaintea alegerilor pentru Congres, contrazicându-se pe teme precum războiul din Iran.",
+   "title": "Obama and Trump trade attacks at rallies before US midterms",
+   "title_ro": "Obama și Trump, atacuri reciproce la mitinguri înaintea alegerilor pentru Congres",
+   "topic": "politics",
+   "id": "world-obama-trump-rallies"
   },
   {
    "place": "Global",
@@ -12812,10 +13140,14 @@
     {
      "name": "Gândul",
      "url": "https://www.gandul.ro/international/wsj-sua-pregatesc-un-atac-masiv-scurt-dar-intens-asupra-iranului-dupa-alegerile-din-3-noiembrie-tarile-din-golf-avertizate-de-casa-alba-21047397"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/29/what-we-know-of-vances-letter-to-rezaei-as-trump-warns-gulf-to-prepare"
     }
    ],
-   "summary": "Digi24, citing international reports, says US President Donald Trump is preparing new strikes on Iran after the congressional elections and has warned Gulf states.",
-   "summary_ro": "Digi24, citând relatări internaționale, scrie că președintele SUA, Donald Trump, pregătește noi lovituri asupra Iranului după alegerile pentru Congres și a avertizat statele din Golf.",
+   "summary": "Digi24, citing international reports, says US President Donald Trump is preparing a week-long bombing campaign on Iran together with Israel after the congressional elections; Al Jazeera reports Trump has told Gulf states to prepare.",
+   "summary_ro": "Digi24, citând relatări internaționale, scrie că președintele SUA, Donald Trump, pregătește împreună cu Israelul o campanie de bombardamente de o săptămână asupra Iranului după alegerile pentru Congres; Al Jazeera relatează că Trump a cerut statelor din Golf să se pregătească.",
    "title": "Trump reportedly readies new Iran strikes after US midterms",
    "title_ro": "Trump ar pregăti noi bombardamente asupra Iranului după alegerile din SUA",
    "topic": "security",
