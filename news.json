@@ -1,5 +1,5 @@
 {
- "lastRun": "2026-10-29T09:51:56Z",
+ "lastRun": "2026-10-29T10:53:07Z",
  "stories": [
   {
    "place": "Bucharest",
@@ -1108,6 +1108,10 @@
     {
      "name": "Mediafax",
      "url": "https://www.mediafax.ro/externe/estonia-accelereaza-fortificarea-granitei-cu-rusia-600-de-buncare-din-beton-pregatite-pentru-apararea-flancului-estic-al-nato-23833455"
+    },
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic-extern/2026/10/29/estonia-va-construi-aproximativ-150-de-buncare-la-granita-cu-rusia-inclusiv-pe-terenuri-private--1607991"
     }
    ],
    "summary": "Estonia's Supreme Court declined to hear a bidder's appeal against a defence tender, letting the procurement of 600 concrete bunkers for the Baltic Defence Line on the Russian border resume. A contract could be signed in March 2027, with installation targeted by the end of 2027.",
@@ -1214,6 +1218,24 @@
    "title_ro": "Cererea de credite ipotecare din zona euro a scăzut puternic, arată un sondaj BCE",
    "topic": "economy",
    "id": "eu-eurozone-mortgages"
+  },
+  {
+   "place": "France",
+   "place_ro": "Franța",
+   "publishedAt": "2026-10-29T09:02:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic-extern/2026/10/29/franta-criticata-de-consiliul-europei-pentru-centrele-de-retentie-adevarate-butoaie-cu-pulbere--1607972"
+    }
+   ],
+   "summary": "The Council of Europe's anti-torture committee called conditions in French administrative detention centres for migrants 'powder kegs' and asked for urgent measures, citing violence, poor hygiene and longer stays; French authorities partly rejected the criticism.",
+   "summary_ro": "Comitetul anti-tortură al Consiliului Europei a descris centrele franceze de reținere administrativă pentru migranți drept „butoaie cu pulbere” și a cerut măsuri urgente, invocând violențe, igienă precară și șederi tot mai lungi; autoritățile franceze au respins parțial criticile.",
+   "title": "Council of Europe body urges France to fix migrant detention centres",
+   "title_ro": "Consiliul Europei cere Franței să remedieze centrele de detenție pentru migranți",
+   "topic": "world",
+   "id": "eu-france-detention-centres-cpt"
   },
   {
    "place": "France",
@@ -1568,6 +1590,24 @@
    "id": "eu-great-wall-bulgaria"
   },
   {
+   "place": "Greenland",
+   "place_ro": "Groenlanda",
+   "publishedAt": "2026-10-29T10:00:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/economic-extern/2026/10/29/groenlanda-a-inaugurat-un-nou-aeroport-international-in-vestul-insulei--1607993"
+    }
+   ],
+   "summary": "Greenland has inaugurated a new international airport in the west of the island, Agerpres reports.",
+   "summary_ro": "Groenlanda a inaugurat un nou aeroport internațional în vestul insulei, relatează Agerpres.",
+   "title": "Greenland opens new international airport in the west",
+   "title_ro": "Groenlanda inaugurează un nou aeroport internațional în vest",
+   "topic": "economy",
+   "id": "eu-greenland-new-airport"
+  },
+  {
    "place": "Germany",
    "place_ro": "Germania",
    "publishedAt": "2026-10-27T10:14:00Z",
@@ -1766,6 +1806,32 @@
    "id": "eu-kyiv-fires"
   },
   {
+   "place": "Frankfurt",
+   "place_ro": "Frankfurt",
+   "publishedAt": "2026-10-29T09:35:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Ziarul Financiar",
+     "url": "https://www.zf.ro/eveniment/breaking-unda-soc-uniunea-europeana-christine-lagarde-pleaca-februarie-conducerea-bce-luni-inainte-expirarea-mandatului-candidatii-sefia-bancii-centrale-europene-23270300"
+    },
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/stirile-zilei/plecare-surpriza-de-la-varful-europei-christine-lagarde-paraseste-bce-inaintea-alegerilor-prezidentiale-din-franta-23833634"
+    },
+    {
+     "name": "News.ro",
+     "url": "https://www.news.ro/externe/christine-lagarde-pleaca-de-la-presedintia-bce-la-7-februarie-cu-noua-luni-inainte-de-incheierea-mandatului-anunta-banca-europeana-centrala-1922402329002026101222902148"
+    }
+   ],
+   "summary": "The European Central Bank says Christine Lagarde will leave its presidency on 7 February 2027, about nine months before her term ends, opening the race to succeed her ahead of France's presidential election.",
+   "summary_ro": "Banca Centrală Europeană anunță că Christine Lagarde va pleca de la președinția instituției pe 7 februarie 2027, cu circa nouă luni înainte de finalul mandatului, ceea ce deschide cursa pentru succesiune înaintea alegerilor prezidențiale din Franța.",
+   "title": "Lagarde to step down as ECB president in February",
+   "title_ro": "Lagarde părăsește conducerea BCE în februarie",
+   "topic": "economy",
+   "id": "eu-lagarde-ecb-exit"
+  },
+  {
    "place": "Italy",
    "place_ro": "Italia",
    "publishedAt": "2026-10-28T20:56:00Z",
@@ -1938,6 +2004,10 @@
     {
      "name": "HotNews",
      "url": "https://hotnews.ro/atac-cibernetic-fara-precedent-in-republica-moldova-demisie-in-guvern-expert-ipoteza-pe-care-o-luam-in-calcul-este-federatia-rusa-2388905"
+    },
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic-extern/2026/10/29/datele-a-circa-750-000-de-cetateni-din-republica-moldova-ar-fi-fost-extrase-in-urma-unui-atac-cibern--1607989"
     }
    ],
    "summary": "Moldova's Electronic Governance Agency estimates that personal data of roughly 750,000 citizens was extracted from public digital services in attacks between 19 and 23 October; HotNews reports a resignation in the government after the attack, and an expert it quotes says Russia is the main hypothesis.",
@@ -2018,6 +2088,10 @@
     {
      "name": "Digi24",
      "url": "https://www.digi24.ro/stiri/externe/nou-atac-masiv-asupra-moscovei-ucraina-ar-fi-lansat-peste-600-de-drone-apararea-rusa-sustine-ca-a-doborat-alte-231-4013277"
+    },
+    {
+     "name": "HotNews",
+     "url": "https://hotnews.ro/atac-masiv-cu-peste-600-de-drone-asupra-moscovei-unde-are-loc-un-summit-cu-delegatii-din-48-de-tari-2389458"
     }
    ],
    "summary": "Moscow mayor Sergei Sobyanin said 613 drones were directed at the Moscow region between Wednesday evening and Thursday morning and most were shot down, with another 231 destroyed as they approached the city, AFP reported via Digi24. Flights were restricted at Vnukovo and Domodedovo; the figures could not be independently verified.",
@@ -2490,6 +2564,24 @@
    "title_ro": "Rusia a lansat o rachetă balistică Bulava dintr-un submarin aflat în imersiune",
    "topic": "security",
    "id": "eu-russia-bulava-launch"
+  },
+  {
+   "place": "Black Sea",
+   "place_ro": "Marea Neagră",
+   "publishedAt": "2026-10-29T06:30:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/nou-incident-marea-neagra-nava-atac-rusia_3932224"
+    }
+   ],
+   "summary": "Russia's Defence Ministry says it struck a dry cargo vessel in the Black Sea overnight, claiming it carried military and dual-use cargo to Odesa; the ship was not named and no casualties were reported, Știri pe surse writes.",
+   "summary_ro": "Ministerul rus al Apărării afirmă că a atacat peste noapte, în Marea Neagră, o navă de mărfuri uscate care ar fi transportat încărcături militare și cu dublă utilizare spre Odesa; nava nu a fost numită și nu au fost raportate victime, scrie Știri pe surse.",
+   "title": "Russia says it hit cargo ship bound for Odesa with drones",
+   "title_ro": "Rusia susține că a lovit cu drone o navă de marfă care mergea spre Odesa",
+   "topic": "security",
+   "id": "eu-russia-claims-odesa-cargo-ship-strike"
   },
   {
    "place": "Russia",
@@ -3558,6 +3650,28 @@
    "title_ro": "Niculescu: România este aproape de un acord pentru sisteme antidronă",
    "topic": "security",
    "id": "pol-anti-drone-systems"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-29T09:41:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/politic/usr-minune-medicala-la-apele-romane-usr-acuza-ca-psd-a-repus-in-functie-un-director-demis-de-buzoianu-dupa-patru-luni-de-concediu-medical-23833611"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/usr-acuza-ca-psd-a-repus-in-functie-un-director-demis-de-buzoianu-dupa-patru-luni-de-medical_3932286"
+    }
+   ],
+   "summary": "USR accuses new Environment Minister Natalia Intotero (PSD) of revoking former minister Diana Buzoianu's order dismissing Apele Române head Doru-Dragoș Cazan, who returned after about four months of medical leave. Buzoianu had removed him over illegal gravel pits in Olt County.",
+   "summary_ro": "USR acuză că noul ministru al Mediului, Natalia Intotero (PSD), a revocat ordinul prin care fostul ministru Diana Buzoianu îl demisese pe șeful Apelor Române, Doru-Dragoș Cazan, revenit după circa patru luni de concediu medical. Buzoianu îl îndepărtase în urma scandalului balastierelor ilegale din Olt.",
+   "title": "USR says PSD minister reinstated water agency chief fired by Buzoianu",
+   "title_ro": "USR: un ministru PSD l-a repus în funcție pe șeful Apelor Române demis de Buzoianu",
+   "topic": "politics",
+   "id": "pol-apele-romane-director-reinstated"
   },
   {
    "place": "Romania",
@@ -6494,6 +6608,32 @@
    "id": "pol-rogobete-shift-pay"
   },
   {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-29T09:53:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/sanatate/2026/10/29/rogobete-tinerii-medici-rezidentii-si-viitorii-specialisti-trebuie-sustinuti-nu-priviti-ca-o-amenint--1607987"
+    },
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/stirile-zilei/rogobete-mesaj-ferm-pentru-cadrele-didactice-si-medicii-cu-experienta-tinerii-medici-nu-trebuie-priviti-ca-o-amenintare-23833616"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/rogobete-mesaj-ferm-pentru-cadrele-didactice-si-medicii-cu-experienta_3932287"
+    }
+   ],
+   "summary": "Speaking at the national pediatric surgery conference, Health Minister Alexandru Rogobete said residents and young specialists should be supported rather than seen as a threat, and praised the field's unity after a difficult summer.",
+   "summary_ro": "La conferința națională de chirurgie pediatrică, ministrul Sănătății, Alexandru Rogobete, a spus că rezidenții și tinerii specialiști trebuie susținuți, nu priviți ca o amenințare, și a lăudat unitatea breslei după o vară dificilă.",
+   "title": "Health minister Rogobete urges senior doctors to back young colleagues",
+   "title_ro": "Ministrul Rogobete cere medicilor seniori să-i susțină pe tinerii colegi",
+   "topic": "politics",
+   "id": "pol-rogobete-young-doctors"
+  },
+  {
    "place": "Bucharest",
    "place_ro": "București",
    "publishedAt": "2026-10-27T20:02:00Z",
@@ -7134,6 +7274,24 @@
    "id": "ro-ai-adoption-study"
   },
   {
+   "place": "Slatina",
+   "place_ro": "Slatina",
+   "publishedAt": "2026-10-29T06:16:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Ziarul Financiar",
+     "url": "https://www.zf.ro/zf-24/alro-unul-dintre-cei-mari-producatori-aluminiu-europa-dupa-capacitatea-productie-contractat-facilitate-credit-sindicalizata-260-mil-dolari-perioada-trei-ani-coordonarea-bcr-23270194"
+    }
+   ],
+   "summary": "Alro, one of Europe's largest aluminium producers by capacity, has signed a three-year syndicated credit facility of $260 million coordinated by BCR, Ziarul Financiar reports.",
+   "summary_ro": "Alro, unul dintre cei mai mari producători de aluminiu din Europa după capacitate, a semnat o facilitate de credit sindicalizat de 260 de milioane de dolari pe trei ani, coordonată de BCR, relatează Ziarul Financiar.",
+   "title": "Aluminium maker Alro signs $260m three-year bank loan",
+   "title_ro": "Producătorul de aluminiu Alro contractează un credit de 260 mil. dolari pe trei ani",
+   "topic": "economy",
+   "id": "ro-alro-syndicated-loan"
+  },
+  {
    "place": "Romania",
    "place_ro": "România",
    "publishedAt": "2026-10-27T09:16:00Z",
@@ -7530,6 +7688,24 @@
    "id": "ro-brasov-ambulance-crash"
   },
   {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-29T05:57:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Ziarul Financiar",
+     "url": "https://www.zf.ro/zf-24/brd-groupe-soci-t-g-n-rale-convoaca-actionarii-pe-10-decembrie-pentru-a-aproba-un-program-de-obligatiuni-de-pana-la-1-5-mld-euro-cu-o-prima-emisiune-de-pana-la-350-mil-euro-23270165"
+    }
+   ],
+   "summary": "BRD Groupe Société Générale has called shareholders to a 10 December meeting to approve a bond programme of up to €1.5 billion, with a first issue of up to €350 million, Ziarul Financiar reports.",
+   "summary_ro": "BRD Groupe Société Générale își convoacă acționarii pe 10 decembrie pentru aprobarea unui program de obligațiuni de până la 1,5 miliarde de euro, cu o primă emisiune de până la 350 de milioane de euro, relatează Ziarul Financiar.",
+   "title": "BRD asks shareholders to approve bond programme of up to €1.5bn",
+   "title_ro": "BRD le cere acționarilor să aprobe un program de obligațiuni de până la 1,5 mld. euro",
+   "topic": "economy",
+   "id": "ro-brd-bond-programme"
+  },
+  {
    "place": "Black Sea",
    "place_ro": "Marea Neagră",
    "publishedAt": "2026-10-29T08:47:00Z",
@@ -7538,6 +7714,10 @@
     {
      "name": "Mediafax",
      "url": "https://www.mediafax.ro/economic/carlyle-si-berd-au-ajuns-la-un-acord-pentru-vanzarea-operatorului-proiectului-offshore-de-exploare-a-gazelor-black-sea-oil-gas-tranzactia-trebuie-sa-primeasca-avizele-statului-23833562"
+    },
+    {
+     "name": "Ziarul Financiar",
+     "url": "https://www.zf.ro/zf-24/mazarine-energy-preia-bsog-holding-activity-cel-mare-producator-gaze-naturale-offshore-romania-exploateaza-gazele-proiectul-midia-marea-neagra-compania-globala-investitii-carlyle-berd-23270225"
     }
    ],
    "summary": "Carlyle and the EBRD have agreed to sell Black Sea Oil & Gas, operator of the Midia offshore project that supplies about 12% of Romania's gas, to Mazarine Energy. The deal still needs approval from Romania's investment-screening commission and the Competition Council.",
@@ -7758,6 +7938,14 @@
     {
      "name": "Agerpres",
      "url": "https://agerpres.ro/economic/2026/10/29/starea-de-alerta-privind-functionarea-centralei-nuclearoelectrice-cernavoda-prelungita-cu-30-de-zile--1607882"
+    },
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/s-a-prelungit-starea-de-alerta-la-centrala-nuclearelectrica-de-la-cernavoda-cu-30-de-zile.html"
+    },
+    {
+     "name": "Ziarul Financiar",
+     "url": "https://www.zf.ro/zf-24/cnsu-prelungeste-cu-30-de-zile-starea-de-alerta-reactoarele-de-la-cernavoda-raman-oprite-tot-noiembrie-nivelul-dunarii-nu-s-ar-redresa-decat-partial-pana-la-jumatatea-lunii-23270138"
     }
    ],
    "summary": "The National Committee for Emergency Situations extended the state of alert linked to the Cernavodă nuclear plant by 30 days, saying low Danube levels mean Units 1 and 2 cannot restart in November and there is a continuing risk of an electricity supply crisis. Transelectrica must take measures to keep the grid running, including more imports or reduced consumption, Mediafax reports.",
@@ -9390,6 +9578,24 @@
    "id": "ro-rompetrol-rafinare-rally"
   },
   {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-29T07:26:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Ziarul Financiar",
+     "url": "https://www.zf.ro/burse-fonduri-mutuale/schimbare-directie-rompetrol-rafinare-actiunile-pana-astazi-multiplicasera-18-ori-banii-investitorilor-cateva-luni-scad-14-deschiderea-joi-ordine-cumparare-dispar-iar-piata-raman-vanzatori-23270221"
+    }
+   ],
+   "summary": "Shares in Rompetrol Rafinare and Rompetrol Well Services fell around 14–15% on Thursday with buy orders disappearing, while Oil Terminal rose, Ziarul Financiar reports; the refiner's stock had multiplied about 18 times this year.",
+   "summary_ro": "Acțiunile Rompetrol Rafinare și Rompetrol Well Services au scăzut joi cu aproximativ 14–15%, pe fondul dispariției ordinelor de cumpărare, în timp ce Oil Terminal a crescut, relatează Ziarul Financiar; titlurile rafinăriei se multiplicaseră de circa 18 ori în acest an.",
+   "title": "Rompetrol Rafinare shares drop about 15% after months-long rally",
+   "title_ro": "Acțiunile Rompetrol Rafinare scad cu circa 15% după un raliu de luni de zile",
+   "topic": "economy",
+   "id": "ro-rompetrol-shares-fall"
+  },
+  {
    "place": "Madrid",
    "place_ro": "Madrid",
    "publishedAt": "2026-10-26T12:52:00Z",
@@ -9482,6 +9688,24 @@
    "title_ro": "România a început să cheltuiască banii din SAFE",
    "topic": "economy",
    "id": "ro-safe-funds"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-29T09:36:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Ziarul Financiar",
+     "url": "https://www.zf.ro/zf-24/aproape-10-milioane-de-colete-sunt-estimate-sa-intre-in-reteaua-sameday-de-black-friday-2026-in-crestere-cu-16-fata-de-intervalul-comparabil-din-2025-23270294"
+    }
+   ],
+   "summary": "Courier Sameday estimates almost 10 million parcels will enter its network during Black Friday 2026, a 16% rise on the comparable 2025 period, Ziarul Financiar reports.",
+   "summary_ro": "Curierul Sameday estimează că aproape 10 milioane de colete vor intra în rețeaua sa de Black Friday 2026, cu 16% mai multe decât în perioada comparabilă din 2025, relatează Ziarul Financiar.",
+   "title": "Sameday expects nearly 10 million Black Friday parcels, up 16%",
+   "title_ro": "Sameday estimează aproape 10 milioane de colete de Black Friday, cu 16% mai multe",
+   "topic": "economy",
+   "id": "ro-sameday-black-friday-parcels"
   },
   {
    "place": "Romania",
@@ -10134,6 +10358,24 @@
    "title_ro": "Algeria trimite trupe în Nigerul vecin",
    "topic": "world",
    "id": "world-algeria-niger-troops"
+  },
+  {
+   "place": "United States",
+   "place_ro": "SUA",
+   "publishedAt": "2026-10-29T06:30:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Ziarul Financiar",
+     "url": "https://www.zf.ro/business-hi-tech/investitorii-trag-un-semnal-de-alarma-actiunile-google-s-au-prabusit-cu-peste-10-dupa-ce-gigantul-si-a-majorat-cheltuielile-pentru-ai-la-peste-50-mld-dolari-in-t3-23270198"
+    }
+   ],
+   "summary": "Google parent Alphabet's shares fell more than 10% after it reported third-quarter AI-related spending above $50 billion, Ziarul Financiar reports.",
+   "summary_ro": "Acțiunile Alphabet, compania-mamă a Google, au scăzut cu peste 10% după ce grupul a raportat cheltuieli legate de AI de peste 50 de miliarde de dolari în trimestrul al treilea, relatează Ziarul Financiar.",
+   "title": "Alphabet shares slide after AI spending tops $50bn in a quarter",
+   "title_ro": "Acțiunile Alphabet scad după cheltuieli AI de peste 50 mld. dolari într-un trimestru",
+   "topic": "tech",
+   "id": "world-alphabet-shares-ai-spending"
   },
   {
    "place": "Antalya",
@@ -11136,6 +11378,24 @@
   {
    "place": "Israel",
    "place_ro": "Israel",
+   "publishedAt": "2026-10-29T08:16:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic-extern/2026/10/29/israel-ministrul-securitatii-nationale-itamar-ben-gvir-cere-arestarea-liderilor-partidelor-arabe--1607973"
+    }
+   ],
+   "summary": "Israeli minister Itamar Ben-Gvir urged the Shin Bet to arrest leaders of Arab parties over alleged Qatari funding, AFP reports via Agerpres; election officials asked for a probe, while police said there was no evidence for Likud's claim that the vote was stolen.",
+   "summary_ro": "Ministrul israelian Itamar Ben-Gvir a cerut Shin Bet să-i aresteze pe liderii partidelor arabe pentru o presupusă finanțare din Qatar, relatează AFP, citată de Agerpres; autoritățile electorale au cerut o anchetă, iar poliția a transmis că nu există dovezi pentru acuzația Likud că alegerile au fost furate.",
+   "title": "Ben-Gvir calls for arrest of Arab party leaders; police find no fraud evidence",
+   "title_ro": "Ben-Gvir cere arestarea liderilor partidelor arabe; poliția nu găsește dovezi de fraudă",
+   "topic": "world",
+   "id": "world-israel-ben-gvir-arab-leaders"
+  },
+  {
+   "place": "Israel",
+   "place_ro": "Israel",
    "publishedAt": "2026-10-27T11:00:00Z",
    "region": "world",
    "sources": [
@@ -12134,6 +12394,24 @@
   {
    "place": "United States",
    "place_ro": "SUA",
+   "publishedAt": "2026-10-29T09:16:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic-extern/2026/10/29/trump-spune-ca-epstein-era-un-prieten-al-democratilor-dupa-ce-acestia-au-redactat-un-raport-care-l-i--1607980"
+    }
+   ],
+   "summary": "At an Ohio rally, Trump said Jeffrey Epstein was a friend of Democrats and that he had been exonerated, two days after a House Judiciary Democrats' report accused him of taking part in Epstein's abuse, EFE reports via Agerpres.",
+   "summary_ro": "La un miting în Ohio, Trump a afirmat că Jeffrey Epstein era prieten cu democrații și că el a fost exonerat, la două zile după ce un raport al democraților din Comisia juridică a Camerei l-a acuzat că ar fi participat la abuzurile lui Epstein, relatează EFE, citată de Agerpres.",
+   "title": "Trump calls Epstein a friend of Democrats after House report",
+   "title_ro": "Trump spune că Epstein era prieten cu democrații, după raportul din Cameră",
+   "topic": "world",
+   "id": "world-trump-epstein-rally"
+  },
+  {
+   "place": "United States",
+   "place_ro": "SUA",
    "publishedAt": "2026-10-27T05:45:00Z",
    "region": "world",
    "sources": [
@@ -12318,6 +12596,46 @@
    "title_ro": "ONU condamnă din nou embargoul SUA asupra Cubei, dar sprijinul scade la minimul ultimilor 30 de ani",
    "topic": "world",
    "id": "world-un-cuba-embargo-vote"
+  },
+  {
+   "place": "World",
+   "place_ro": "Lume",
+   "publishedAt": "2026-10-29T08:01:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/social-extern/2026/10/29/cop17-252-de-milioane-de-hectare-de-natura-reabilitate-un-nivel-fara-precedent-potrivit-onu--1607943"
+    }
+   ],
+   "summary": "A UN report presented around the COP17 biodiversity talks says a record 252 million hectares of nature are being restored worldwide, but progress remains below the 2030 targets, Agerpres reports.",
+   "summary_ro": "Un raport ONU prezentat în contextul COP17 privind biodiversitatea arată că un nivel record de 252 de milioane de hectare de natură sunt în curs de refacere la nivel mondial, însă progresul rămâne sub obiectivele pentru 2030, relatează Agerpres.",
+   "title": "UN report: record 252 million hectares under restoration, still short of 2030 goal",
+   "title_ro": "Raport ONU: suprafață record de 252 de milioane de hectare în curs de refacere, sub ținta pentru 2030",
+   "topic": "world",
+   "id": "world-un-nature-restoration-record"
+  },
+  {
+   "place": "Washington",
+   "place_ro": "Washington",
+   "publishedAt": "2026-10-29T10:20:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "News.ro",
+     "url": "https://www.news.ro/externe/principalul-strateg-militar-al-sua-generalul-de-corp-de-armata-brett-sylvia-destituit-intr-o-remaniere-surpriza-dezvaluie-the-atlantic-1922402229002026101122901747"
+    },
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic-extern/2026/10/29/principalul-strateg-militar-al-statelor-unite-a-fost-destituit-presa--1608004"
+    }
+   ],
+   "summary": "Lieutenant General Brett Sylvia, described as the US military's top strategist, has been removed in an unexpected reshuffle, The Atlantic reports, as cited by News.ro and Agerpres; the move comes as Trump weighs renewed strikes on Iran.",
+   "summary_ro": "Generalul-locotenent Brett Sylvia, prezentat drept principalul strateg militar al SUA, a fost înlăturat într-o remaniere neașteptată, relatează The Atlantic, citat de News.ro și Agerpres; decizia vine în timp ce Trump ia în calcul noi atacuri asupra Iranului.",
+   "title": "Pentagon removes US Army's top strategist in surprise reshuffle",
+   "title_ro": "Pentagonul îl înlătură pe principalul strateg al Armatei SUA",
+   "topic": "security",
+   "id": "world-us-army-strategist-removed"
   },
   {
    "place": "Eastern Pacific",
