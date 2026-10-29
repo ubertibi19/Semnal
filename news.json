@@ -1,5 +1,5 @@
 {
- "lastRun": "2026-10-29T10:53:07Z",
+ "lastRun": "2026-10-29T11:56:27Z",
  "stories": [
   {
    "place": "Bucharest",
@@ -276,6 +276,10 @@
     {
      "name": "Agerpres",
      "url": "https://agerpres.ro/justitie/2026/10/29/femeie-cercetata-pentru-ca-ar-fi-provocat-un-incendiu-la-aeroportul-henri-coanda-a-fost-transportata--1607913"
+    },
+    {
+     "name": "HotNews",
+     "url": "https://hotnews.ro/incendiu-la-aeroportul-otopeni-suspecta-este-o-femeie-internata-de-mai-multe-ori-la-psihiatrie-2389532"
     }
    ],
    "summary": "A fire broke out around 01:15 on Thursday in a toilet on the corridor linking the departures and arrivals terminals at Henri Coandă airport, and airport firefighters put it out. Police say a woman deliberately set paper alight in bins; she was taken to hospital and will be questioned after medical checks. No other injuries or damage were reported.",
@@ -306,6 +310,24 @@
    "title_ro": "Aproape 700.000 de euro confiscați au dispărut de la vama Aeroportului Otopeni",
    "topic": "security",
    "id": "buc-otopeni-cash"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-29T10:59:00Z",
+   "region": "bucharest",
+   "sources": [
+    {
+     "name": "Capital",
+     "url": "https://www.capital.ro/noi-locuri-de-parcare-cu-plata-in-bucuresti-cat-trebuie-sa-achite-soferii-si-ce-tarife-se-aplica-pentru-riverani.html"
+    }
+   ],
+   "summary": "Bucharest city hall says paid public parking covers 52,195 spaces in 800 car parks and will expand further. Drivers pay 5 lei an hour or 30 lei a day, while nearby residents can buy a 50 lei monthly pass.",
+   "summary_ro": "Primăria Municipiului București anunță că parcarea publică cu plată cuprinde 52.195 de locuri în 800 de parcări și va fi extinsă. Șoferii plătesc 5 lei pe oră sau 30 de lei pe zi, iar riveranii pot cumpăra un abonament lunar de 50 de lei.",
+   "title": "Bucharest city hall now runs over 52,000 paid parking spaces",
+   "title_ro": "Primăria Capitalei are peste 52.000 de locuri de parcare cu plată",
+   "topic": "politics",
+   "id": "buc-paid-parking-expansion"
   },
   {
    "place": "Bucharest",
@@ -1460,6 +1482,10 @@
     {
      "name": "Agerpres",
      "url": "https://agerpres.ro/2026/10/28/preturile-de-referinta-la-gaze-in-europa-au-trecut-de-100-de-euro-pe-mwh--1607783"
+    },
+    {
+     "name": "Capital",
+     "url": "https://www.capital.ro/europa-in-pragul-unei-ierni-dificile-preturile-gazelor-au-ajuns-la-nivelurile-din-criza-energetica-din-2022.html"
     }
    ],
    "summary": "The benchmark European gas price rose above €100 per megawatt-hour for the first time since 2022, Euronews and Agerpres report, and the EU warned of a possible new energy crisis ahead of winter.",
@@ -2030,6 +2056,10 @@
     {
      "name": "Capital",
      "url": "https://www.capital.ro/atac-cibernetic-de-amploare-in-republica-moldova-maia-sandu-a-convocat-consiliul-national-de-securitate-dupa-furtul-datelor-a-750-000-de-persoane.html"
+    },
+    {
+     "name": "HotNews",
+     "url": "https://hotnews.ro/atac-cibernetic-fara-precedent-in-republica-moldova-demisie-in-guvern-expert-ipoteza-pe-care-o-luam-in-calcul-este-federatia-rusa-2388905"
     }
    ],
    "summary": "Moldovan President Maia Sandu called a National Security Council meeting over a cyberattack that exposed data linked to about 750,000 personal ID numbers. PM Vasile Tofan dismissed the head of the e-Governance Agency, and officials said they suspect involvement of foreign state actors.",
@@ -2092,6 +2122,10 @@
     {
      "name": "HotNews",
      "url": "https://hotnews.ro/atac-masiv-cu-peste-600-de-drone-asupra-moscovei-unde-are-loc-un-summit-cu-delegatii-din-48-de-tari-2389458"
+    },
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/externe/rusia-anunta-un-atac-cu-cel-putin-74-de-drone-asupra-moscovei-restrictii-pe-aeroporturi-si-explozii-in-regiune-23833519"
     }
    ],
    "summary": "Moscow mayor Sergei Sobyanin said 613 drones were directed at the Moscow region between Wednesday evening and Thursday morning and most were shot down, with another 231 destroyed as they approached the city, AFP reported via Digi24. Flights were restricted at Vnukovo and Domodedovo; the figures could not be independently verified.",
@@ -2808,10 +2842,14 @@
     {
      "name": "Gândul",
      "url": "https://www.gandul.ro/international/accident-feroviar-in-spania-doua-trenuri-s-au-ciocnit-in-apropierea-statiei-urda-toledo-doua-vagoane-s-au-desprins-si-au-cazut-de-pe-sine-cati-pasageri-au-fost-raniti-21047486"
+    },
+    {
+     "name": "Capital",
+     "url": "https://www.capital.ro/un-roman-ranit-in-gravul-accident-feroviar-din-spania-anuntul-mae-despre-starea-acestuia.html"
     }
    ],
-   "summary": "A Renfe train hit a stationary Iryo train from behind near Urda in Toledo province, killing at least 68 people and injuring 80; Spain declared three days of mourning and postponed 24 Copa del Rey matches. Audio recordings reported by El País and cited by Digi24 indicate the Renfe driver was told to resume at normal speed instead of the 40 km/h limit and was not warned that the Iryo train was still stopped; Transport Minister Óscar Puente has pointed to human error at an Adif control centre. No Romanian victims have been identified.",
-   "summary_ro": "Un tren Renfe a lovit din spate un tren Iryo oprit lângă Urda, în provincia Toledo, cel puțin 68 de oameni murind și 80 fiind răniți; Spania a decretat trei zile de doliu și a amânat 24 de meciuri din Cupa Regelui. Înregistrări audio publicate de El País și citate de Digi24 arată că mecanicul trenului Renfe a primit ordin să reia mersul cu viteză normală, nu cu limita de 40 km/h, și nu a fost avertizat că trenul Iryo era încă oprit; ministrul Transporturilor, Óscar Puente, a indicat o eroare umană la un centru de control Adif. Nu au fost identificate victime românce.",
+   "summary": "A Renfe train hit a stationary Iryo train from behind near Urda in Toledo province, killing at least 68 people and injuring 80; Spain declared three days of mourning and postponed 24 Copa del Rey matches. Audio recordings reported by El País and cited by Digi24 indicate the Renfe driver was told to resume at normal speed instead of the 40 km/h limit and was not warned that the Iryo train was still stopped; Transport Minister Óscar Puente has pointed to human error at an Adif control centre. No Romanian victims have been identified. Romania's foreign ministry says one Romanian passenger was injured, treated and not hospitalised.",
+   "summary_ro": "Un tren Renfe a lovit din spate un tren Iryo oprit lângă Urda, în provincia Toledo, cel puțin 68 de oameni murind și 80 fiind răniți; Spania a decretat trei zile de doliu și a amânat 24 de meciuri din Cupa Regelui. Înregistrări audio publicate de El País și citate de Digi24 arată că mecanicul trenului Renfe a primit ordin să reia mersul cu viteză normală, nu cu limita de 40 km/h, și nu a fost avertizat că trenul Iryo era încă oprit; ministrul Transporturilor, Óscar Puente, a indicat o eroare umană la un centru de control Adif. Nu au fost identificate victime românce. MAE anunță că un cetățean român a fost rănit; a primit îngrijiri și nu a fost internat.",
    "title": "High-speed train collision in Spain kills at least 68",
    "title_ro": "Coliziune între trenuri de mare viteză în Spania: cel puțin 68 de morți",
    "topic": "security",
@@ -2834,6 +2872,24 @@
    "title_ro": "Planul UE pentru startup-uri se lovește de probleme",
    "topic": "economy",
    "id": "eu-startup-plan"
+  },
+  {
+   "place": "Beijing",
+   "place_ro": "Beijing",
+   "publishedAt": "2026-10-29T08:07:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/externe/germania-avertizeaza-china-independenta-economica-a-beijingului-nu-trebuie-sa-creeze-dependenta-in-europa-23833507"
+    }
+   ],
+   "summary": "German President Frank-Walter Steinmeier, visiting Beijing, said China's push for economic self-reliance must not create new dependencies for Europe and that economic ties should not bring one-sided benefits.",
+   "summary_ro": "Președintele german Frank-Walter Steinmeier, aflat în vizită la Beijing, a spus că efortul Chinei de independență economică nu trebuie să creeze noi dependențe pentru Europa și că relațiile economice nu trebuie să aducă avantaje unilaterale.",
+   "title": "Steinmeier urges China to avoid one-sided trade with Europe",
+   "title_ro": "Steinmeier cere Chinei relații economice echilibrate cu Europa",
+   "topic": "world",
+   "id": "eu-steinmeier-china-trade"
   },
   {
    "place": "Sweden",
@@ -2906,6 +2962,24 @@
    "title_ro": "Arheologi italieni anunță descoperiri sub Biserica Sfântului Mormânt",
    "topic": "culture",
    "id": "eu-tomb-jesus-research"
+  },
+  {
+   "place": "France",
+   "place_ro": "Franța",
+   "publishedAt": "2026-10-29T08:42:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/economic/razboaiele-scumpesc-carburantii-si-aduc-profituri-record-companiilor-petroliere-totalenergies-a-castigat-83-miliarde-de-dolari-in-trei-luni-23833534"
+    }
+   ],
+   "summary": "French energy group TotalEnergies reported net income of about $8.3 billion for July–September, boosted by higher oil prices and refining margins linked to the wars in the Middle East and Ukraine.",
+   "summary_ro": "Grupul francez TotalEnergies a raportat un profit net de aproximativ 8,3 miliarde de dolari în iulie–septembrie, susținut de prețurile mai mari ale petrolului și de marjele de rafinare, pe fondul războaielor din Orientul Mijlociu și Ucraina.",
+   "title": "TotalEnergies earns $8.3bn in quarter as fuel prices climb",
+   "title_ro": "TotalEnergies câștigă 8,3 miliarde de dolari într-un trimestru",
+   "topic": "economy",
+   "id": "eu-totalenergies-q3-profit"
   },
   {
    "place": "Transnistria",
@@ -3368,6 +3442,10 @@
     {
      "name": "Mediafax",
      "url": "https://www.mediafax.ro/economic/volkswagen-se-prabuseste-financiar-pierderi-de-582-miliarde-de-euro-intr-un-trimestru-ce-urmeaza-pentru-angajati-23833481"
+    },
+    {
+     "name": "Capital",
+     "url": "https://www.capital.ro/criza-financiara-la-volkswagen-pierderi-de-miliarde-si-un-plan-care-ameninta-mii-de-locuri-de-munca.html"
     }
    ],
    "summary": "Volkswagen reported a net loss of €5.82 billion for July–September, citing weak sales in China, US tariffs and tougher competition. Its supervisory board approved cutting about 50,000 more jobs worldwide, on top of 35,000 already agreed at the core brand in Germany, and the group aims to reduce costs by 20% by 2028.",
@@ -3664,6 +3742,10 @@
     {
      "name": "Știri pe surse",
      "url": "https://www.stiripesurse.ro/usr-acuza-ca-psd-a-repus-in-functie-un-director-demis-de-buzoianu-dupa-patru-luni-de-medical_3932286"
+    },
+    {
+     "name": "B1 TV",
+     "url": "https://www.b1tv.ro/politica/situatie-bizara-la-apele-romane-dupa-revenirea-psd-la-putere-ce-spune-buzoianu-1745208.html"
     }
    ],
    "summary": "USR accuses new Environment Minister Natalia Intotero (PSD) of revoking former minister Diana Buzoianu's order dismissing Apele Române head Doru-Dragoș Cazan, who returned after about four months of medical leave. Buzoianu had removed him over illegal gravel pits in Olt County.",
@@ -3690,6 +3772,32 @@
    "title_ro": "Clotilde Armand oferă 1.000 de euro pentru cartea lui Grindeanu",
    "topic": "politics",
    "id": "pol-armand-grindeanu-book"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-29T10:45:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Gândul",
+     "url": "https://www.gandul.ro/politica/aur-ofensiva-diplomatica-pentru-cazul-lui-calin-georgescu-anularea-alegerilor-si-alegeri-anticipate-formatiunea-condusa-de-simion-anunta-ca-a-avut-intalniri-cu-mai-multi-ambasadori-inclusiv-cu-rep-21048675"
+    },
+    {
+     "name": "News.ro",
+     "url": "https://www.news.ro/politic-intern/aur-anunta-intalniri-diplomatice-multi-ambasadori-discutat-starea-democratiei-cazul-calin-georgescu-anularea-alegerilor-prezidentiale-anticipate-formatiunea-cerut-intrevedere-reprezentantii-comisiei-1922401629002026101322902375"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/tur-de-forta-diplomatic-al-lui-george-simion-pentru-eliberarea-lui-calin-georgescu-intalniri-cu-ambasadorii-marilor-puteri_3932310"
+    }
+   ],
+   "summary": "AUR says George Simion and party leaders met the ambassadors of the US, China, India, Turkey, Pakistan, Egypt, Argentina and Bulgaria, plus Czech Foreign Minister Petr Macinka, to discuss Călin Georgescu's arrest and the 2024 election annulment. The party says it also asked the European Commission for a meeting and has had no reply.",
+   "summary_ro": "AUR anunță că George Simion și conducerea partidului s-au întâlnit cu ambasadorii SUA, Chinei, Indiei, Turciei, Pakistanului, Egiptului, Argentinei și Bulgariei, precum și cu ministrul ceh de externe Petr Macinka, discutând despre arestarea lui Călin Georgescu și anularea alegerilor din 2024. Partidul spune că a cerut și o întâlnire cu Comisia Europeană, fără răspuns până acum.",
+   "title": "AUR leaders meet ambassadors over Georgescu case and annulled election",
+   "title_ro": "Conducerea AUR s-a întâlnit cu ambasadori pe tema cazului Georgescu",
+   "topic": "politics",
+   "id": "pol-aur-ambassadors-georgescu"
   },
   {
    "place": "Covasna",
@@ -3726,6 +3834,10 @@
     {
      "name": "Mediafax",
      "url": "https://www.mediafax.ro/politic/aur-anunta-ca-va-depune-o-motiune-de-cenzura-impotriva-guvernului-in-ce-conditii-va-face-demersul-23833259"
+    },
+    {
+     "name": "B1 TV",
+     "url": "https://www.b1tv.ro/politica/aur-se-ia-la-intrecere-cu-pnl-in-opozitie-petrisor-peiu-anunta-prima-motiune-de-cenzura-impotriva-guvernului-niculescu-1744937.html"
     }
    ],
    "summary": "AUR leader George Simion said opposition parties should file censure motions whenever the government ties its fate to bills, and AUR Senate leader Petrișor Peiu said the party will do so alone, either then or at the end of the session, since other opposition parties declined to join.",
@@ -3910,6 +4022,24 @@
    "title_ro": "AUR va prezenta pe 1 Decembrie proiectul „A doua Unire” pentru dezvoltare regională",
    "topic": "politics",
    "id": "pol-aur-second-union"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-29T10:15:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/agricultura/romania-vrea-sa-aduca-tehnologii-de-irigatii-din-israel-florin-barbu-anunta-discutii-pentru-combaterea-secetei-si-reducerea-costurilor-pentru-fermieri-23833629"
+    }
+   ],
+   "summary": "Agriculture Minister Florin Barbu met Israel's ambassador Lior Ben Dor to discuss bringing Israeli irrigation and water-reuse technology to Romanian farmers. No specific projects or timeline were announced.",
+   "summary_ro": "Ministrul Agriculturii, Florin Barbu, s-a întâlnit cu ambasadorul Israelului, Lior Ben Dor, pentru a discuta aducerea în România a tehnologiilor israeliene de irigații și reutilizare a apei. Nu au fost anunțate proiecte concrete sau termene.",
+   "title": "Agriculture minister seeks Israeli irrigation technology against drought",
+   "title_ro": "Ministrul Agriculturii vrea tehnologii israeliene de irigații împotriva secetei",
+   "topic": "politics",
+   "id": "pol-barbu-israel-irrigation"
   },
   {
    "place": "Romania",
@@ -4616,6 +4746,10 @@
     {
      "name": "Mediafax",
      "url": "https://www.mediafax.ro/stirile-zilei/mihai-fifor-despre-necesitatea-reformei-administrativ-teritoriale-continuam-sa-functionam-pe-o-organizare-conceputa-in-1968-23833474"
+    },
+    {
+     "name": "Capital",
+     "url": "https://www.capital.ro/ce-se-intampla-cu-oamenii-daca-dispar-primariile-din-comunele-lor-avertismentul-lui-mihai-fifor.html"
     }
    ],
    "summary": "PSD deputy Mihai Fifor wrote on Facebook that Romania needs a deep administrative-territorial reform because it still works with an organisation designed in 1968. He said the reform should rest on objective criteria and real consultation with communities, not only on cutting the number of town halls.",
@@ -5128,6 +5262,24 @@
   {
    "place": "Romania",
    "place_ro": "România",
+   "publishedAt": "2026-10-29T08:55:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/social/romsilva-trebuie-sa-prezinte-pana-la-1-decembrie-un-proiect-de-reorganizare-ministrul-mediului-cere-si-corectarea-inechitatilor-salariale-23833570"
+    }
+   ],
+   "summary": "Environment Minister Natalia Intotero asked state forestry agency Romsilva to present a preliminary reorganisation plan by 1 December and to address pay inequities. A working group will also look at possible changes to the Forest Code.",
+   "summary_ro": "Ministrul Mediului, Natalia Intotero, a cerut Romsilva să prezinte până la 1 decembrie un proiect preliminar de reorganizare și să corecteze inechitățile salariale. Un grup de lucru va analiza și posibile modificări ale Codului silvic.",
+   "title": "Environment minister gives Romsilva until 1 December for reorganisation plan",
+   "title_ro": "Ministrul Mediului cere Romsilva un plan de reorganizare până la 1 decembrie",
+   "topic": "politics",
+   "id": "pol-intotero-romsilva-reorganisation"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
    "publishedAt": "2026-10-27T17:16:00Z",
    "region": "romania",
    "sources": [
@@ -5238,6 +5390,14 @@
     {
      "name": "Știri pe surse",
      "url": "https://www.stiripesurse.ro/kelemen-hunor-cere-guvernului-niculescu-sa-creasca-pensiile-conform-legii-si-salariile-bugetarilor-care-au-fost-inghetate_3932028"
+    },
+    {
+     "name": "B1 TV",
+     "url": "https://www.b1tv.ro/politica/kelemen-hunor-cere-guvernului-psd-sa-gaseasca-bani-pentru-indexarea-pensiilor-1745106.html"
+    },
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/politic/nu-este-acceptabil-kelemen-hunor-anunta-ca-nici-o-crestere-de-taxe-nu-va-avea-sustinerea-udmr-ce-spune-despre-indexarea-pensiilor-din-2027-23833088"
     }
    ],
    "summary": "UDMR leader Kelemen Hunor said the Niculescu government must find the money to index pensions in line with the law and to raise frozen public-sector salaries. He said that if the cabinet wants to assume responsibility in Parliament, it should do so on a new public pay law, which he put at 10–12 billion lei; he also said UDMR will not back any tax rise.",
@@ -5802,6 +5962,28 @@
    "title_ro": "O senatoare PNL propune ca MApN să finanțeze centrele militare",
    "topic": "politics",
    "id": "pol-pauliuc-military-centres"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-29T08:37:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/politic/petrisor-peiu-mesaj-categoric-despre-o-eventuala-alianta-aur-psd-sub-nicio-forma-23833552"
+    },
+    {
+     "name": "B1 TV",
+     "url": "https://www.b1tv.ro/politica/peiu-exclude-o-alianta-aur-psd-sub-nicio-forma-1745166.html"
+    }
+   ],
+   "summary": "AUR senator Petrișor Peiu told Digi24 his party will not form an alliance or coalition with PSD, though it may back individual parliamentary initiatives from any party. He denied private talks with PSD over summoning the prime minister on public finances.",
+   "summary_ro": "Senatorul AUR Petrișor Peiu a declarat la Digi24 că partidul nu va face alianță sau coaliție cu PSD, dar poate susține inițiative parlamentare punctuale ale oricărui partid. El a negat că ar fi avut discuții private cu PSD privind chemarea premierului în Parlament pe tema finanțelor publice.",
+   "title": "AUR's Peiu rules out any alliance with PSD",
+   "title_ro": "Peiu (AUR) exclude orice alianță cu PSD",
+   "topic": "politics",
+   "id": "pol-peiu-no-aur-psd-alliance"
   },
   {
    "place": "Romania",
@@ -6624,6 +6806,10 @@
     {
      "name": "Știri pe surse",
      "url": "https://www.stiripesurse.ro/rogobete-mesaj-ferm-pentru-cadrele-didactice-si-medicii-cu-experienta_3932287"
+    },
+    {
+     "name": "Capital",
+     "url": "https://www.capital.ro/alexandru-rogobete-cere-o-schimbare-de-atitudine-fata-de-tinerii-medici-au-nevoie-de-sprijin-nu-de-usi-inchise.html"
     }
    ],
    "summary": "Speaking at the national pediatric surgery conference, Health Minister Alexandru Rogobete said residents and young specialists should be supported rather than seen as a threat, and praised the field's unity after a difficult summer.",
@@ -7194,6 +7380,24 @@
    "id": "pol-victims-agency"
   },
   {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-29T11:47:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Capital",
+     "url": "https://www.capital.ro/virgil-popescu-avertizeaza-taxa-de-drum-a-energiei-a-crescut-de-peste-20-de-ori-ce-inseamna-pentru-romania.html"
+    }
+   ],
+   "summary": "Former energy minister Virgil Popescu says the cost of reserving electricity transmission capacity from Bulgaria to Romania for November has risen more than twentyfold year on year, to almost €9/MWh, while Cernavodă's two units are offline due to the low Danube.",
+   "summary_ro": "Fostul ministru al Energiei Virgil Popescu spune că rezervarea capacității de transport de energie din Bulgaria spre România pentru noiembrie s-a scumpit de peste 20 de ori față de anul trecut, la aproape 9 euro/MWh, în timp ce ambele unități de la Cernavodă sunt oprite din cauza Dunării scăzute.",
+   "title": "PNL MEP Virgil Popescu flags twentyfold rise in power import capacity cost",
+   "title_ro": "Virgil Popescu: costul capacității de import de energie a crescut de peste 20 de ori",
+   "topic": "energy",
+   "id": "pol-virgil-popescu-transmission-cost"
+  },
+  {
    "place": "Bucharest",
    "place_ro": "București",
    "publishedAt": "2026-10-28T22:20:00Z",
@@ -7210,6 +7414,10 @@
     {
      "name": "Gândul",
      "url": "https://www.gandul.ro/politica/daniel-zamfir-socat-de-ce-a-gasit-la-ministerul-economiei-o-sa-va-ingroziti-este-inadmisibil-ce-le-a-reprosat-predecesorilor-sai-de-la-usr-darau-si-miruta-21048471"
+    },
+    {
+     "name": "Capital",
+     "url": "https://www.capital.ro/daniel-zamfir-acuza-sume-uriase-necheltuite-de-usr-la-ministerul-economiei-start-up-nation-si-femeia-antreprenor-au-executii-bugetare-sub-4.html"
     }
    ],
    "summary": "Economy Minister Daniel Zamfir (PSD) said his ministry's budget execution stands at about 23%, with Start-Up Nation at around 2% and the tourism promotion programme at 16%, and criticised his USR predecessor Irineu Darău, Digi24 and News.ro report.",
@@ -7282,6 +7490,10 @@
     {
      "name": "Ziarul Financiar",
      "url": "https://www.zf.ro/zf-24/alro-unul-dintre-cei-mari-producatori-aluminiu-europa-dupa-capacitatea-productie-contractat-facilitate-credit-sindicalizata-260-mil-dolari-perioada-trei-ani-coordonarea-bcr-23270194"
+    },
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/economic/alro-ia-un-credit-sindicalizat-de-260-mil-dolari-pentru-finantarea-capitalului-de-lucru-marian-nastase-industria-aluminiului-din-europa-se-confrunta-in-continuare-cu-provocari-semnificativ-23833601"
     }
    ],
    "summary": "Alro, one of Europe's largest aluminium producers by capacity, has signed a three-year syndicated credit facility of $260 million coordinated by BCR, Ziarul Financiar reports.",
@@ -8450,6 +8662,24 @@
   {
    "place": "Bucharest",
    "place_ro": "București",
+   "publishedAt": "2026-10-29T10:36:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Capital",
+     "url": "https://www.capital.ro/facias-cere-majorarea-pensiilor-in-instanta-casa-nationala-de-pensii-solicita-respingerea-actiunii.html"
+    }
+   ],
+   "summary": "Romania's public pensions house asked the Bucharest Court of Appeal to throw out a FACIAS lawsuit seeking to restore annual pension indexation, which was skipped in 2025 and 2026, arguing the group cannot represent pensioners. The court has not yet ruled on admissibility.",
+   "summary_ro": "Casa Națională de Pensii Publice a cerut Curții de Apel București să respingă acțiunea FACIAS pentru reluarea indexării anuale a pensiilor, neaplicată în 2025 și 2026, invocând că asociația nu îi poate reprezenta pe pensionari. Instanța nu a decis încă dacă procesul poate fi judecat pe fond.",
+   "title": "Pensions house asks court to reject FACIAS lawsuit over indexation",
+   "title_ro": "Casa de Pensii cere respingerea procesului FACIAS privind indexarea pensiilor",
+   "topic": "economy",
+   "id": "ro-facias-pension-lawsuit"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
    "publishedAt": "2026-10-27T07:49:00Z",
    "region": "romania",
    "sources": [
@@ -9476,6 +9706,24 @@
    "id": "ro-pressone-disability-centres"
   },
   {
+   "place": "Antalya",
+   "place_ro": "Antalya",
+   "publishedAt": "2026-10-29T08:21:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/justitie/romania-isi-consolideaza-cooperarea-judiciara-in-balcani-combaterea-spalarii-banilor-si-a-finantarii-terorismului-pe-agenda-procurorilor-generali-23833532"
+    }
+   ],
+   "summary": "Prosecutor General Cristina Chiriac attended the fifth forum of Balkan prosecutors general in Antalya, Turkey, which discussed cross-border crime including money laundering and terrorist financing.",
+   "summary_ro": "Procurorul general Cristina Chiriac a participat la a cincea ediție a Forumului procurorilor generali din statele balcanice, la Antalya, în Turcia, unde s-a discutat despre criminalitatea transfrontalieră, inclusiv spălarea banilor și finanțarea terorismului.",
+   "title": "Romania's prosecutor general joins Balkan forum on money laundering",
+   "title_ro": "Procurorul general al României, la forumul balcanic privind spălarea banilor",
+   "topic": "security",
+   "id": "ro-prosecutor-general-balkan-forum"
+  },
+  {
    "place": "Romania",
    "place_ro": "România",
    "publishedAt": "2026-10-26T11:31:00Z",
@@ -9558,6 +9806,24 @@
    "title_ro": "România are a doua cea mai mare rată a deceselor rutiere din UE",
    "topic": "security",
    "id": "ro-road-deaths-eu"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-29T08:58:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Capital",
+     "url": "https://www.capital.ro/ancheta-robor-au-inceput-procesele-prin-care-bancile-amendate-cer-suspendarea-deciziei-consiliului-concurentei.html"
+    }
+   ],
+   "summary": "Ten banks fined a combined 3.73 billion lei by the Competition Council over alleged coordination in setting the ROBOR rate, including BCR, BRD and Banca Transilvania, are asking the Bucharest Court of Appeal to suspend enforcement while they contest the decision.",
+   "summary_ro": "Zece bănci amendate de Consiliul Concurenței cu 3,73 miliarde de lei pentru presupusă coordonare la stabilirea ROBOR, printre care BCR, BRD și Banca Transilvania, cer Curții de Apel București suspendarea executării amenzilor până la judecarea contestațiilor.",
+   "title": "Fined banks go to court to suspend ROBOR penalties",
+   "title_ro": "Băncile amendate în dosarul ROBOR cer în instanță suspendarea amenzilor",
+   "topic": "economy",
+   "id": "ro-robor-banks-court"
   },
   {
    "place": "Bucharest",
@@ -9976,6 +10242,24 @@
    "title_ro": "Doi copii mici au murit în urma unui incendiu într-o locuință din Tălmaciu",
    "topic": "security",
    "id": "ro-talmaciu-children-cardiac-arrest"
+  },
+  {
+   "place": "Teleorman",
+   "place_ro": "Teleorman",
+   "publishedAt": "2026-10-29T09:24:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/justitie/a-amenintat-un-procuror-si-un-judecator-chiar-in-sala-de-judecata-un-barbat-de-33-de-ani-arestat-preventiv-23833593"
+    }
+   ],
+   "summary": "A 33-year-old man from Teleorman county was placed in 30-day pretrial detention for allegedly threatening a prosecutor and a judge during two court hearings this month, at the request of prosecutors from the Bucharest Court of Appeal.",
+   "summary_ro": "Un bărbat de 33 de ani din Teleorman a fost arestat preventiv pentru 30 de zile, fiind acuzat că a amenințat un procuror și un judecător în timpul a două ședințe de judecată din această lună, la cererea procurorilor Parchetului de pe lângă Curtea de Apel București.",
+   "title": "Man held for threatening a prosecutor and judge during hearings",
+   "title_ro": "Bărbat arestat pentru că a amenințat un procuror și un judecător în sala de judecată",
+   "topic": "security",
+   "id": "ro-teleorman-man-threatened-judge"
   },
   {
    "place": "Timiș",
@@ -10638,6 +10922,24 @@
    "id": "world-comey-charges"
   },
   {
+   "place": "United States",
+   "place_ro": "SUA",
+   "publishedAt": "2026-10-29T07:25:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/externe/scurgere-masiva-de-date-in-sua-peste-41-000-de-angajati-ai-securitatii-interne-inclusiv-agenti-ice-sub-acoperire-au-fost-expusi-23833478"
+    }
+   ],
+   "summary": "An archive published by DDoSecrets and reportedly taken from a DHS login system exposes details of more than 41,000 Homeland Security employees and contractors, including undercover ICE agents, Wired reports. DHS says it is investigating; Okta says it has no sign its systems were breached.",
+   "summary_ro": "O arhivă publicată de DDoSecrets, provenită se pare dintr-un sistem de autentificare al DHS, expune date despre peste 41.000 de angajați și contractori ai Departamentului pentru Securitate Internă, inclusiv agenți ICE sub acoperire, potrivit Wired. DHS anchetează, iar Okta spune că nu are dovezi că sistemele sale au fost compromise.",
+   "title": "Leak exposes data on over 41,000 US Homeland Security staff",
+   "title_ro": "Scurgere de date despre peste 41.000 de angajați ai Securității Interne din SUA",
+   "topic": "tech",
+   "id": "world-dhs-data-leak"
+  },
+  {
    "place": "New York",
    "place_ro": "New York",
    "publishedAt": "2026-10-28T06:42:00Z",
@@ -10752,6 +11054,24 @@
    "title_ro": "Parlamentul Egiptului aprobă sprijin militar pentru Arabia Saudită",
    "topic": "security",
    "id": "world-egypt-saudi-support"
+  },
+  {
+   "place": "Haiti",
+   "place_ro": "Haiti",
+   "publishedAt": "2026-10-29T06:06:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "HotNews",
+     "url": "https://hotnews.ro/el-salvador-trimite-2-000-de-soldati-in-cea-mai-populata-tara-din-caraibe-2389415"
+    }
+   ],
+   "summary": "El Salvador's foreign ministry says it will send more than 2,000 troops to Haiti to search for four missing Salvadoran aviation technicians ambushed near Port-au-Prince and to support operations against gangs, Reuters reports.",
+   "summary_ro": "Ministerul de Externe din El Salvador anunță că va trimite peste 2.000 de militari în Haiti pentru a căuta patru tehnicieni aviatici salvadorieni dispăruți după o ambuscadă lângă Port-au-Prince și pentru a sprijini operațiunile împotriva bandelor, relatează Reuters.",
+   "title": "El Salvador to send over 2,000 soldiers to Haiti",
+   "title_ro": "El Salvador trimite peste 2.000 de soldați în Haiti",
+   "topic": "security",
+   "id": "world-el-salvador-haiti-troops"
   },
   {
    "place": "Washington",
@@ -11094,6 +11414,24 @@
    "title_ro": "Petrolul scurs dintr-un tanc avariat în Ormuz închide plaje din Emirate",
    "topic": "energy",
    "id": "world-hormuz-oil-spill-uae"
+  },
+  {
+   "place": "Strait of Hormuz",
+   "place_ro": "Strâmtoarea Ormuz",
+   "publishedAt": "2026-10-29T09:16:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/externe/trei-petroliere-in-flacari-in-stramtoarea-ormuz-iranul-anunta-explozii-provocate-de-mine-si-ameninta-navele-care-ignora-ordinele-sale-23833594"
+    }
+   ],
+   "summary": "Iran's Revolutionary Guards navy said, via state media, that three tankers caught fire after hitting mines on an unauthorised southern route through the Strait of Hormuz and were abandoned by their crews. The claim has not been independently verified.",
+   "summary_ro": "Marina Gărzilor Revoluționare iraniene a anunțat, prin presa de stat, că trei petroliere au luat foc după ce au lovit mine pe o rută sudică neautorizată prin Strâmtoarea Ormuz, iar echipajele le-au abandonat. Afirmația nu a fost confirmată independent.",
+   "title": "Iran's Guards say three tankers on fire after hitting mines near Hormuz",
+   "title_ro": "Gărzile iraniene: trei petroliere în flăcări după ce au lovit mine lângă Ormuz",
+   "topic": "security",
+   "id": "world-hormuz-tankers-mines"
   },
   {
    "place": "Yemen",
@@ -11948,6 +12286,24 @@
    "id": "world-north-korea-missiles-oct29"
   },
   {
+   "place": "Global",
+   "place_ro": "Global",
+   "publishedAt": "2026-10-29T07:00:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Capital",
+     "url": "https://www.capital.ro/pretul-petrolului-scade-dupa-ultimele-semnale-privind-pacea-in-orientul-mijlociu.html"
+    }
+   ],
+   "summary": "Brent crude fell about 1% to roughly $114 a barrel in early trading, partly reversing the previous day's gains, as hopes of renewed Middle East peace talks eased supply fears.",
+   "summary_ro": "Țițeiul Brent a scăzut cu circa 1%, la aproximativ 114 dolari pe baril, la începutul tranzacțiilor, anulând parțial creșterea din ziua precedentă, pe fondul speranțelor privind reluarea negocierilor de pace din Orientul Mijlociu.",
+   "title": "Oil eases as hopes for Middle East talks grow",
+   "title_ro": "Petrolul se ieftinește pe fondul speranțelor de negocieri în Orientul Mijlociu",
+   "topic": "economy",
+   "id": "world-oil-price-dips"
+  },
+  {
    "place": "New York",
    "place_ro": "New York",
    "publishedAt": "2026-10-26T11:11:00Z",
@@ -12686,6 +13042,10 @@
     {
      "name": "Digi24",
      "url": "https://www.digi24.ro/stiri/externe/rusia/kremlinul-incearca-sa-i-castige-de-partea-sa-pe-cei-din-cercul-restrans-al-lui-trump-prin-acorduri-cine-coordoneaza-eforturile-4010939"
+    },
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/externe/sua-si-rusia-negociaza-revenirea-companiilor-americane-pe-piata-energetica-rusa-ce-acorduri-ar-putea-incheia-trump-si-putin-23833568"
     }
    ],
    "summary": "Reports cited by Gândul (from the Financial Times) and Digi24 (from Le Monde, quoting an unnamed diplomat) say Russia is pursuing economic deals with the US, including energy, before any Ukraine ceasefire, with RDIF head Kirill Dmitriev coordinating. Digi24 also reports Washington and Moscow have discussed a possible return of US oil companies to the Russian market. Digi24 also reports talks on a possible return of US oil companies to the Russian market.",
@@ -12784,6 +13144,28 @@
    "title_ro": "Forțele susținute de Arabia Saudită anunță avans împotriva houthiților lângă Bab al-Mandeb",
    "topic": "security",
    "id": "world-yemen-bab-al-mandeb"
+  },
+  {
+   "place": "Seoul",
+   "place_ro": "Seul",
+   "publishedAt": "2026-10-29T07:43:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "AP",
+     "url": "https://abcnews.com/International/wireStory/south-korean-prosecutor-seeks-death-penalty-president-yoon-137665535"
+    },
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/stirile-zilei/un-procuror-cere-pedeapsa-cu-moartea-pentru-fostul-presedinte-sud-coreean-yoon-suk-yeol-dupa-ce-a-impus-legea-martiala-in-2024-23833522"
+    }
+   ],
+   "summary": "South Korean special prosecutors asked an appeals court to sentence former President Yoon Suk Yeol to death over his 2024 martial law declaration, repeating the sentence they sought at his first trial.",
+   "summary_ro": "Procurorii speciali sud-coreeni au cerut curții de apel condamnarea la moarte a fostului președinte Yoon Suk Yeol pentru declararea legii marțiale în 2024, aceeași pedeapsă cerută și în primul proces.",
+   "title": "Prosecutors again seek death penalty for South Korea's ex-president Yoon",
+   "title_ro": "Procurorii cer din nou pedeapsa cu moartea pentru fostul președinte sud-coreean Yoon",
+   "topic": "world",
+   "id": "world-yoon-death-penalty-appeal"
   }
  ],
  "changelog": [
