@@ -1,5 +1,5 @@
 {
- "lastRun": "2026-10-29T13:05:31Z",
+ "lastRun": "2026-10-29T14:21:59Z",
  "stories": [
   {
    "place": "Bucharest",
@@ -218,6 +218,32 @@
    "title_ro": "Consiliul General aprobă înfrățirea Bucureștiului cu Kievul",
    "topic": "politics",
    "id": "buc-kyiv-twinning"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-29T12:53:00Z",
+   "region": "bucharest",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/social/bucurestiul-are-o-restanta-de-suflet-rogobete-vrea-un-centru-pentru-arsi-gravi-la-bucuresti-la-11-ani-de-la-colectiv-23833873"
+    },
+    {
+     "name": "News.ro",
+     "url": "https://www.news.ro/politic-intern/daniel-baluta-inaugurarea-centrului-diagnostic-tratament-cercetare-tuberculozei-cadrul-institutului-pneumoftiziologie-marius-nasta-ne-vom-opri-aici-realizarea-maternitatii-sfantul-ioan-obiectiv-1922402829312026101522903184"
+    },
+    {
+     "name": "Gândul",
+     "url": "https://www.gandul.ro/actualitate/centru-mari-arsi-bucuresti-rogobete-21048889"
+    }
+   ],
+   "summary": "PM Luca Niculescu, Health Minister Alexandru Rogobete and Sector 4 mayor Daniel Băluță inaugurated an EU recovery-funded TB diagnosis, treatment and research centre in Sector 4. Rogobete said he hopes work on an adult burns centre in Bucharest can start next year, on the eve of the Colectiv fire anniversary.",
+   "summary_ro": "Premierul Luca Niculescu, ministrul Sănătății Alexandru Rogobete și primarul Sectorului 4, Daniel Băluță, au inaugurat un centru de diagnostic, tratament și cercetare a tuberculozei, finanțat prin PNRR. Rogobete a spus că speră ca demersurile pentru un centru de mari arși pentru adulți în București să înceapă anul viitor, în ajunul comemorării tragediei de la Colectiv.",
+   "title": "New tuberculosis centre opens at Bucharest's Marius Nasta institute",
+   "title_ro": "Centru nou pentru tuberculoză la Institutul „Marius Nasta” din București",
+   "topic": "politics",
+   "id": "buc-marius-nasta-tb-centre"
   },
   {
    "place": "Bucharest",
@@ -1090,6 +1116,24 @@
    "id": "eu-dmitriev-greenland"
   },
   {
+   "place": "Dnipro, Ukraine",
+   "place_ro": "Dnipro, Ucraina",
+   "publishedAt": "2026-10-29T11:57:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/29/at-least-13-killed-several-injured-in-russian-drone-strike-on-ukrainian-railway-station"
+    }
+   ],
+   "summary": "A Russian drone hit a platform at Dnipro's railway station where trains were standing, killing at least 13 people according to the regional governor, with AFP reporting 14; police said at least 10 were wounded. Zelensky called the attack horrific.",
+   "summary_ro": "O dronă rusească a lovit un peron al gării din Dnipro unde staționau trenuri, ucigând cel puțin 13 persoane, potrivit guvernatorului regiunii, iar AFP relatează 14 morți; poliția a anunțat cel puțin 10 răniți. Zelenski a calificat atacul drept oribil.",
+   "title": "Russian drone strike on Dnipro railway station kills at least 13",
+   "title_ro": "Atac rusesc cu dronă asupra gării din Dnipro: cel puțin 13 morți",
+   "topic": "security",
+   "id": "eu-dnipro-station-strike"
+  },
+  {
    "place": "Ukraine",
    "place_ro": "Ucraina",
    "publishedAt": "2026-10-28T16:12:00Z",
@@ -1896,6 +1940,10 @@
     {
      "name": "TVR Info",
      "url": "https://tvrinfo.ro/christine-lagarde-confirma-ca-va-pleca-de-la-bce-inainte-de-incheierea-mandatului"
+    },
+    {
+     "name": "HotNews",
+     "url": "https://hotnews.ro/christine-lagarde-demisioneaza-cu-noua-luni-inainte-de-incheierea-mandatului-2389719"
     }
    ],
    "summary": "The European Central Bank says Christine Lagarde will leave its presidency on 7 February 2027, about nine months before her term ends, opening the race to succeed her ahead of France's presidential election.",
@@ -2832,6 +2880,24 @@
    "title_ro": "Politicianul sârb Srdanović spune că dialogul privind Kosovo va continua",
    "topic": "politics",
    "id": "eu-serbia-srdanovic-kosovo"
+  },
+  {
+   "place": "Brussels",
+   "place_ro": "Bruxelles",
+   "publishedAt": "2026-10-29T13:33:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic-extern/2026/10/29/ue-amana-implementarea-oricarei-legislatii-nationale-care-vizeaza-interzicerea-accesului-minorilor-l--1608114"
+    }
+   ],
+   "summary": "The European Commission said it will postpone for at least one year the application of national laws banning minors from social media, after Austria notified such a plan, to avoid fragmenting the single market while EU-wide child online safety rules are negotiated, Agerpres reports citing AFP.",
+   "summary_ro": "Comisia Europeană a anunțat că va amâna cu cel puțin un an aplicarea legilor naționale care interzic accesul minorilor la rețelele sociale, după ce Austria a notificat un astfel de plan, pentru a evita fragmentarea pieței unice cât timp se negociază reguli europene privind siguranța copiilor online, relatează Agerpres, citând AFP.",
+   "title": "EU freezes national social media bans for minors for a year",
+   "title_ro": "UE amână cu un an interdicțiile naționale privind accesul minorilor la rețelele sociale",
+   "topic": "tech",
+   "id": "eu-social-media-minors-freeze"
   },
   {
    "place": "Spain",
@@ -5794,10 +5860,14 @@
     {
      "name": "Mediafax",
      "url": "https://www.mediafax.ro/social/marian-neacsu-primele-discutii-cu-sindicatele-mai-ce-se-intampla-cu-salariile-sporurile-si-pensionarea-angajatilor-23833680"
+    },
+    {
+     "name": "Gândul",
+     "url": "https://www.gandul.ro/stiri/ministrul-afacerilor-interne-face-anuntul-despre-modul-de-plata-al-angajatilor-pentru-zilele-lucrate-in-weekend-ce-se-intampla-cu-salariile-in-2027-21048802"
     }
    ],
-   "summary": "Interior minister Marian Neacșu met unions representing ministry staff to discuss pay rights, career predictability, retirement and staff shortages, according to the ministry.",
-   "summary_ro": "Ministrul de Interne, Marian Neacșu, s-a întâlnit cu sindicatele angajaților ministerului pentru a discuta despre drepturile salariale, predictibilitatea carierei, pensionare și deficitul de personal, potrivit MAI.",
+   "summary": "Interior minister Marian Neacșu met unions representing ministry staff to discuss pay rights, career predictability, retirement and staff shortages, according to the ministry; he said pay for weekend work will be kept.",
+   "summary_ro": "Ministrul de Interne, Marian Neacșu, s-a întâlnit cu sindicatele angajaților ministerului pentru a discuta despre drepturile salariale, predictibilitatea carierei, pensionare și deficitul de personal, potrivit MAI; el a spus că plata muncii din weekend se păstrează.",
    "title": "Interior minister Neacșu holds first talks with police unions",
    "title_ro": "Ministrul de Interne Marian Neacșu, primele discuții cu sindicatele din MAI",
    "topic": "politics",
@@ -5996,6 +6066,36 @@
    "title_ro": "Niculescu, la Chișinău cu planuri pentru energie, poduri și aderarea la UE",
    "topic": "politics",
    "id": "pol-niculescu-moldova"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-29T10:20:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/stiri/politic/surse-guvernul-niculescu-ar-putea-aproba-vineri-prima-rectificare-bugetara-pentru-sanatate-si-ordine-publica.html"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/luca-niculescu-guvern-rectificare-bugetara_3932330"
+    },
+    {
+     "name": "Gândul",
+     "url": "https://www.gandul.ro/politica/luca-niculescu-anunta-deblocarea-urgenta-a-finantarilor-pentru-sanatate-si-rectificare-bugetara-in-sedinta-de-guvern-de-maine-vom-adopta-decizia-in-acest-sens-21048804"
+    },
+    {
+     "name": "News.ro",
+     "url": "https://www.news.ro/politic-intern/luca-niculescu-decis-dupa-discutiile-le-avut-presedintele-psd-sorin-grindeanu-ministrul-finantelor-alexandru-nazare-rezolvam-situatia-urgenta-rectificarilor-decizia-sedinta-guvern-vineri-1922401329002026101522902985"
+    }
+   ],
+   "summary": "PM Luca Niculescu said that, after talks with PSD leader Sorin Grindeanu and Finance Minister Alexandru Nazare, the cabinet will adopt a first, urgent budget revision on Friday to unblock funds for health and other priorities, followed by a briefing on public finances and a second revision. Știrile ProTV had earlier reported the plan citing unnamed sources.",
+   "summary_ro": "Premierul Luca Niculescu a anunțat că, după discuțiile cu liderul PSD Sorin Grindeanu și cu ministrul Finanțelor Alexandru Nazare, Guvernul va adopta vineri o primă rectificare bugetară de urgență pentru deblocarea fondurilor din sănătate și alte domenii prioritare, urmată de o prezentare a situației finanțelor publice și de o a doua rectificare. Știrile ProTV relatase anterior planul, citând surse neidentificate.",
+   "title": "Niculescu: government to adopt first budget revision on Friday",
+   "title_ro": "Niculescu: Guvernul adoptă vineri prima rectificare bugetară",
+   "topic": "politics",
+   "id": "pol-niculescu-rectification-friday"
   },
   {
    "place": "Romania",
@@ -7706,6 +7806,24 @@
    "id": "ro-ai-adoption-study"
   },
   {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-29T13:10:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Ziarul Financiar",
+     "url": "https://www.zf.ro/zf-gen-z/cariera/inteligenta-artificiala-intra-in-programa-liceelor-din-romania-ministerul-educatiei-a-aprobat-prima-disciplina-optionala-de-literatie-ai-23270378"
+    }
+   ],
+   "summary": "Romania's Education Ministry approved a curriculum for an optional artificial intelligence literacy subject that high schools can offer, Ziarul Financiar reports.",
+   "summary_ro": "Ministerul Educației a aprobat programa unei discipline opționale de literație în inteligența artificială, pe care liceele o pot introduce, relatează Ziarul Financiar.",
+   "title": "Education ministry approves first optional AI literacy course for high schools",
+   "title_ro": "Ministerul Educației aprobă primul opțional de literație AI pentru licee",
+   "topic": "tech",
+   "id": "ro-ai-literacy-optional"
+  },
+  {
    "place": "Slatina",
    "place_ro": "Slatina",
    "publishedAt": "2026-10-29T06:16:00Z",
@@ -8498,6 +8616,24 @@
   {
    "place": "Constanța",
    "place_ro": "Constanța",
+   "publishedAt": "2026-10-29T06:53:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/judetul-constanta-are-doua-elicoptere-black-hawk-dar-nu-pot-fi-folosite-e-nevoie-de-aprobare-de-la-bucuresti-pentru-angajarea-personalului-i-am-scris-chiar-si-presedintelui-romaniei.html"
+    }
+   ],
+   "summary": "Two Black Hawk helicopters meant for sea search-and-rescue in Constanța County cannot fly because hiring crews needs approval from Bucharest, county council head Florin Mitroi says; he has written to the president and says promises from emergency chief Raed Arafat have not been kept.",
+   "summary_ro": "Două elicoptere Black Hawk destinate misiunilor de căutare și salvare pe mare în județul Constanța nu pot fi folosite deoarece angajarea echipajelor necesită aprobare de la București, spune președintele Consiliului Județean, Florin Mitroi; el afirmă că i-a scris președintelui și că promisiunile lui Raed Arafat nu au fost respectate.",
+   "title": "Constanța's two rescue Black Hawks grounded by lack of staff",
+   "title_ro": "Cele două elicoptere Black Hawk de salvare de la Constanța, la sol din lipsă de personal",
+   "topic": "security",
+   "id": "ro-constanta-black-hawks"
+  },
+  {
+   "place": "Constanța",
+   "place_ro": "Constanța",
    "publishedAt": "2026-10-27T16:00:00Z",
    "region": "romania",
    "sources": [
@@ -8630,6 +8766,28 @@
    "title_ro": "România câștigă cinci medalii de aur la Campionatul Balcanic de Ciclocros",
    "topic": "sport",
    "id": "ro-cyclocross"
+  },
+  {
+   "place": "Bacău",
+   "place_ro": "Bacău",
+   "publishedAt": "2026-10-29T13:03:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/stiri/actualitate/dan-air-cere-demisia-sefilor-netiopia-si-aeroportului-bacau-pe-care-ii-acuza-de-blocarea-operatiunilor-si-afectarea-pasagerilor.html"
+    },
+    {
+     "name": "News.ro",
+     "url": "https://www.news.ro/economic/compania-dan-air-cere-demisia-conducerii-procesatorului-de-plati-netopia-si-a-aeroportului-international-bacau-pe-care-ii-acuza-ca-ii-blocheaza-activitatea-solicitare-catre-tribunalul-bucuresti-1922400829542026101422902706"
+    }
+   ],
+   "summary": "Dan Air, which filed for insolvency on 22 October, called for the leaders of payment processor Netopia and Bacău airport to resign, accusing them of trying to block its operations; it says Netopia is withholding over €850,000 in ticket payments, which Netopia says is a contractual guarantee for refunds.",
+   "summary_ro": "Dan Air, care a cerut deschiderea insolvenței pe 22 octombrie, solicită demisia conducerii procesatorului de plăți Netopia și a directorului Aeroportului Bacău, pe care îi acuză că încearcă să-i blocheze activitatea; compania spune că Netopia reține peste 850.000 de euro din vânzarea biletelor, sumă pe care Netopia o descrie drept garanție contractuală pentru rambursări.",
+   "title": "Insolvent Dan Air demands resignations at Netopia and Bacău airport",
+   "title_ro": "Dan Air, aflată în insolvență, cere demisii la Netopia și Aeroportul Bacău",
+   "topic": "economy",
+   "id": "ro-dan-air-netopia-bacau"
   },
   {
    "place": "Romania",
@@ -9304,6 +9462,32 @@
   {
    "place": "Romania",
    "place_ro": "România",
+   "publishedAt": "2026-10-29T12:12:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Ziarul Financiar",
+     "url": "https://www.zf.ro/eveniment/romatsa-ar-putea-suspende-serviciile-navigatie-aeriana-hisky-1-noiembrie-compania-aeriana-ar-platit-datoriile-update-romatsa-au-achitat-conform-graficului-esalonare-rata-era-depasita-23270350"
+    },
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/stiri/actualitate/notificata-de-romatsa-ca-ii-suspenda-zborurile-de-la-1-noiembrie-compania-hisky-anunta-ca-si-a-platit-datoria.html"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/hisky-in-fata-unei-decizii-radicale-avioanele-companiei-nu-vor-mai-putea-zbura-in-romania-de-la-1-noiembrie-datorii-de-milioane-de-lei_3932318"
+    }
+   ],
+   "summary": "Air navigation provider ROMATSA notified HiSky that it would suspend services from 1 November over unpaid charges; the airline says it paid the overdue amounts and flights continue, and ZF reports ROMATSA confirmed the instalment was paid. HiSky also cut transatlantic frequencies, citing jet fuel prices.",
+   "summary_ro": "ROMATSA a notificat HiSky că îi va suspenda serviciile de navigație aeriană de la 1 noiembrie din cauza unor sume neplătite; compania aeriană spune că a achitat restanțele și că zborurile continuă, iar ZF relatează că ROMATSA a confirmat plata ratei. HiSky și-a redus și frecvențele transatlantice, invocând prețul combustibilului.",
+   "title": "HiSky says it paid overdue air navigation fees after ROMATSA warning",
+   "title_ro": "HiSky spune că și-a achitat restanțele după avertismentul ROMATSA",
+   "topic": "economy",
+   "id": "ro-hisky-romatsa"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
    "publishedAt": "2026-10-27T22:05:00Z",
    "region": "romania",
    "sources": [
@@ -9738,6 +9922,24 @@
    "id": "ro-nepi-solar-park"
   },
   {
+   "place": "Cernavodă",
+   "place_ro": "Cernavodă",
+   "publishedAt": "2026-10-29T14:00:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Ziarul Financiar",
+     "url": "https://www.zf.ro/zf-24/actionarii-nuclearelectrica-au-aprobat-imprumut-800-mil-euro-bei-retehnologizarea-unitatii-1-cernavoda-masuri-continuarea-proiectului-smr-ministerul-energiei-cere-actualizarea-strategiei-23270410"
+    }
+   ],
+   "summary": "Nuclearelectrica shareholders approved an €800 million European Investment Bank loan to refurbish Cernavodă's Unit 1, while the Energy Ministry asked for an updated company strategy, Ziarul Financiar reports.",
+   "summary_ro": "Acționarii Nuclearelectrica au aprobat un împrumut de 800 de milioane de euro de la Banca Europeană de Investiții pentru retehnologizarea Unității 1 de la Cernavodă, iar Ministerul Energiei a cerut actualizarea strategiei companiei, relatează Ziarul Financiar.",
+   "title": "Nuclearelectrica shareholders back €800m EIB loan for Cernavodă Unit 1",
+   "title_ro": "Acționarii Nuclearelectrica aprobă împrumutul BEI de 800 mil. euro pentru Unitatea 1",
+   "topic": "energy",
+   "id": "ro-nuclearelectrica-eib-loan-approved"
+  },
+  {
    "place": "Constanța",
    "place_ro": "Constanța",
    "publishedAt": "2026-10-28T09:04:00Z",
@@ -9798,6 +10000,24 @@
    "title_ro": "Cel mai vârstnic român, veteranul de război Iosif Rus, a împlinit 111 ani",
    "topic": "culture",
    "id": "ro-oldest-man-111"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-29T11:54:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Ziarul Financiar",
+     "url": "https://www.zf.ro/companii/energie/omv-petrom-intra-in-iarna-cu-29-mai-putine-gaze-in-depozite-2-9-twh-la-finalul-lui-septembrie-fata-de-4-1-twh-anul-trecut-in-principal-din-surse-terte-23270335"
+    }
+   ],
+   "summary": "OMV Petrom said it entered winter with 2.9 TWh of gas in storage at the end of September, 29% less than a year earlier, and warned Europe faces a higher risk of diesel shortages due to refinery outages and import problems linked to conflicts, Ziarul Financiar reports.",
+   "summary_ro": "OMV Petrom a intrat în iarnă cu 2,9 TWh de gaze în depozite la finalul lui septembrie, cu 29% mai puțin decât anul trecut, și avertizează că Europa se confruntă cu un risc mai mare de penurie de motorină din cauza opririlor de rafinării și a dificultăților de import legate de conflicte, relatează Ziarul Financiar.",
+   "title": "OMV Petrom has less gas stored and warns of diesel shortage risk",
+   "title_ro": "OMV Petrom are mai puține gaze în depozite și avertizează asupra riscului de penurie de motorină",
+   "topic": "energy",
+   "id": "ro-petrom-gas-storage-diesel"
   },
   {
    "place": "Bucharest",
@@ -10488,6 +10708,24 @@
    "title_ro": "Universitatea din Suceava va găzdui Campionatul European Universitar de Handbal din 2029",
    "topic": "sport",
    "id": "ro-suceava-handball-2029"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-29T11:50:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/noi-hotarari-ale-sfantului-sinod-al-bisericii-ortodoxe-romane-adoptate-in-29-octombrie-2026_3932317"
+    }
+   ],
+   "summary": "The Holy Synod of the Romanian Orthodox Church approved a code for clergy's public communication, dedicated 2028 to the liturgical use of biblical texts and their translators, and warned believers about groups imitating Orthodox worship to collect donations.",
+   "summary_ro": "Sfântul Sinod al Bisericii Ortodoxe Române a aprobat un cod privind comunicarea publică a clericilor, a dedicat anul 2028 folosirii liturgice a textelor biblice și traducătorilor acestora și a avertizat credincioșii asupra unor grupări care imită cultul ortodox pentru a strânge donații.",
+   "title": "Orthodox Synod adopts clergy communication code, names 2028 a Bible year",
+   "title_ro": "Sfântul Sinod adoptă un cod de comunicare pentru clerici și dedică anul 2028 textelor biblice",
+   "topic": "culture",
+   "id": "ro-synod-decisions-oct29"
   },
   {
    "place": "Sibiu county",
