@@ -1,5 +1,5 @@
 {
- "lastRun": "2026-10-29T07:09:41Z",
+ "lastRun": "2026-10-29T07:57:37Z",
  "stories": [
   {
    "place": "Bucharest",
@@ -210,6 +210,24 @@
   {
    "place": "Bucharest",
    "place_ro": "București",
+   "publishedAt": "2026-10-28T13:25:00Z",
+   "region": "bucharest",
+   "sources": [
+    {
+     "name": "Gândul",
+     "url": "https://www.gandul.ro/actualitate/metrorex-amenintare-greva-salarii-negocieri-21047817"
+    }
+   ],
+   "summary": "The USLM metro workers' union, led by Marian Artimon, says it will escalate protests up to a general strike if Metrorex does not open talks on a new collective agreement by 1 November. It wants net pay raised by about 450 lei and better air, humidity, lighting and dust conditions underground.",
+   "summary_ro": "Sindicatul USLM, condus de Marian Artimon, anunță că va escalada protestele până la grevă generală dacă Metrorex nu începe până la 1 noiembrie negocierile pentru un nou contract colectiv. Sindicatul cere salarii nete mai mari cu circa 450 de lei și condiții mai bune de aer, umiditate, iluminat și praf în subteran.",
+   "title": "Bucharest metro union threatens strike if pay talks do not start",
+   "title_ro": "Sindicatul de la metrou amenință cu grevă dacă nu încep negocierile salariale",
+   "topic": "economy",
+   "id": "buc-metrorex-strike-threat"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
    "publishedAt": "2026-10-26T10:11:00Z",
    "region": "bucharest",
    "sources": [
@@ -224,6 +242,32 @@
    "title_ro": "One United Properties depășește 1 milion de metri pătrați livrați",
    "topic": "economy",
    "id": "buc-one-united"
+  },
+  {
+   "place": "Otopeni",
+   "place_ro": "Otopeni",
+   "publishedAt": "2026-10-29T05:51:00Z",
+   "region": "bucharest",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/social/incendiu-pe-aeroportul-henri-coanda-femeie-suspectata-ca-a-pus-foc-pe-culoarul-dintre-terminale-23833469"
+    },
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/actualitate/evenimente/incendiu-la-aeroportul-otopeni-focul-ar-fi-fost-pus-intentionat-de-o-femeie-4013357"
+    },
+    {
+     "name": "B1 TV",
+     "url": "https://www.b1tv.ro/eveniment/incendiu-la-aeroportul-henri-coanda-suspecta-este-o-femeie-1745101.html"
+    }
+   ],
+   "summary": "A fire broke out around 01:15 on Thursday in a toilet on the corridor linking the departures and arrivals terminals at Henri Coandă airport, and airport firefighters put it out. Police say a woman deliberately set paper alight in bins; she was taken to hospital and will be questioned after medical checks. No other injuries or damage were reported.",
+   "summary_ro": "Un incendiu a izbucnit joi, în jurul orei 01:15, într-o toaletă de pe culoarul dintre terminalele Plecări și Sosiri ale Aeroportului Henri Coandă și a fost stins de pompierii aeroportului. Poliția spune că o femeie a dat foc intenționat unor hârtii din coșuri; aceasta a fost dusă la spital și va fi audiată după evaluarea medicală. Nu au fost raportate alte victime sau pagube.",
+   "title": "Woman suspected of starting fire at Bucharest's Otopeni airport",
+   "title_ro": "Femeie suspectată că a provocat un incendiu pe Aeroportul Otopeni",
+   "topic": "security",
+   "id": "buc-otopeni-airport-fire"
   },
   {
    "place": "Otopeni",
@@ -358,8 +402,8 @@
      "url": "https://www.stiripesurse.ro/se-pregatesc-noi-reguli-pentru-trotinetele-electrice-in-bucuresti-sunt-prevazute-si-amenzi_3931719"
     }
    ],
-   "summary": "The city council approved rules backed by Mayor Ciprian Ciucu requiring renters to be 18 (16 with certain licences), banning sidewalk riding and using geofencing to block scooters in the Old Town.",
-   "summary_ro": "Consiliul General a aprobat reguli susținute de primarul Ciprian Ciucu: utilizatorii trebuie să aibă 18 ani (16 cu anumite permise), mersul pe trotuar este interzis, iar trotinetele vor fi blocate prin geofencing în Centrul Vechi.",
+   "summary": "The city council approved rules backed by Mayor Ciprian Ciucu requiring renters to be 18 (16 with certain licences), banning sidewalk riding, using geofencing to block scooters in the Old Town and charging operators a 5,000 lei yearly fee plus a daily fee per scooter. Local operator Splash said it will close at the end of 2026, blaming the new rules, HotNews reports.",
+   "summary_ro": "Consiliul General a aprobat reguli susținute de primarul Ciprian Ciucu: vârsta minimă de 18 ani pentru închiriere (16 cu anumite permise), interdicția de a circula pe trotuar, blocarea trotinetelor în Centrul Vechi prin geofencing și o taxă anuală de 5.000 de lei plus o taxă zilnică pe trotinetă pentru operatori. Operatorul local Splash a anunțat că se va închide la finalul lui 2026, invocând noile reguli, relatează HotNews.",
    "title": "Bucharest sets age limits and no-go zones for rental e-scooters",
    "title_ro": "București: limită de vârstă și zone interzise pentru trotinetele închiriate",
    "topic": "politics",
@@ -770,6 +814,24 @@
    "id": "eu-bulgaria-bus-romanian-tourists"
   },
   {
+   "place": "Bulgaria",
+   "place_ro": "Bulgaria",
+   "publishedAt": "2026-10-29T06:53:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/externe/bulgaria-cumpara-32-de-rachete-pentru-navele-sale-militare-franta-si-danemarca-implicate-in-proiect-23833467"
+    }
+   ],
+   "summary": "Bulgaria's government approved joining a joint purchase with France and Denmark of 32 surface-to-air missiles for its navy's new patrol ships, financed through the EU's SAFE defence loans, and an international project against low-flying threats such as drones. The missile type and contract value were not disclosed.",
+   "summary_ro": "Guvernul bulgar a aprobat participarea la o achiziție comună cu Franța și Danemarca a 32 de rachete sol-aer pentru noile nave de patrulare ale marinei, finanțată prin instrumentul european SAFE, precum și la un proiect internațional împotriva amenințărilor la joasă altitudine, cum sunt dronele. Tipul rachetelor și valoarea contractului nu au fost făcute publice.",
+   "title": "Bulgaria to buy 32 naval air-defence missiles with France and Denmark",
+   "title_ro": "Bulgaria cumpără 32 de rachete antiaeriene navale împreună cu Franța și Danemarca",
+   "topic": "security",
+   "id": "eu-bulgaria-navy-missiles"
+  },
+  {
    "place": "Brussels",
    "place_ro": "Bruxelles",
    "publishedAt": "2026-10-27T16:25:00Z",
@@ -888,12 +950,16 @@
     {
      "name": "HotNews",
      "url": "https://hotnews.ro/inca-o-nava-de-marfa-care-urma-sa-ajunga-la-constanta-a-fost-lovita-de-drone-in-largul-coastelor-bulgariei-2389173"
+    },
+    {
+     "name": "B1 TV",
+     "url": "https://www.b1tv.ro/externe/peste-20-de-containere-cu-substante-periculoase-plutesc-in-marea-neagra-1745096.html"
     }
    ],
-   "summary": "The container ship Contship Jet, sailing from Haifa to Constanța, was struck by three drones about 21 nautical miles off Bulgaria's coast, Bulgarian Defence Minister Dimitar Stoyanov said; witnesses reported a fire on board and the crew was evacuated. Romanian Defence Minister Radu Oprea condemned the repeated drone attacks on merchant ships in the Black Sea.",
-   "summary_ro": "Nava portcontainer Contship Jet, care naviga de la Haifa spre Constanța, a fost lovită de trei drone la aproximativ 21 de mile marine de coasta Bulgariei, potrivit ministrului bulgar al Apărării, Dimităr Stoianov; martorii au relatat un incendiu la bord, iar echipajul a fost evacuat. Ministrul român al Apărării, Radu Oprea, a condamnat atacurile repetate cu drone asupra navelor comerciale din Marea Neagră.",
-   "title": "Constanța-bound container ship hit by drones off Bulgaria",
-   "title_ro": "Navă portcontainer care mergea spre Constanța, lovită de drone lângă Bulgaria",
+   "summary": "The container ship Contship Jet, sailing from Haifa to Constanța with 421 containers, was struck by three drones about 21 nautical miles off Bulgaria's coast and sank overnight after drifting for hours, Bulgarian maritime authorities said; the crew had been evacuated. Containers with flammable and hazardous goods are adrift and Bulgaria is checking for pollution. Romanian Defence Minister Radu Oprea condemned the repeated drone attacks on merchant ships in the Black Sea.",
+   "summary_ro": "Portcontainerul Contship Jet, care naviga de la Haifa spre Constanța cu 421 de containere, a fost lovit de trei drone la circa 21 de mile marine de coasta Bulgariei și s-a scufundat peste noapte, după ce a plutit în derivă câteva ore, au anunțat autoritățile maritime bulgare; echipajul fusese evacuat. Containere cu substanțe inflamabile și periculoase plutesc în derivă, iar Bulgaria verifică o posibilă poluare. Ministrul român al Apărării, Radu Oprea, a condamnat atacurile repetate cu drone asupra navelor comerciale din Marea Neagră.",
+   "title": "Constanța-bound container ship sinks after drone strike off Bulgaria",
+   "title_ro": "Nava care mergea spre Constanța s-a scufundat după un atac cu drone în largul Bulgariei",
    "topic": "security",
    "id": "eu-contship-jet-drone-attack"
   },
@@ -998,6 +1064,24 @@
    "title_ro": "Miniștrii Apărării din E5 promit garanții de securitate pentru Ucraina după război",
    "topic": "security",
    "id": "eu-e5-ukraine-guarantees"
+  },
+  {
+   "place": "Estonia",
+   "place_ro": "Estonia",
+   "publishedAt": "2026-10-29T06:33:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/externe/estonia-accelereaza-fortificarea-granitei-cu-rusia-600-de-buncare-din-beton-pregatite-pentru-apararea-flancului-estic-al-nato-23833455"
+    }
+   ],
+   "summary": "Estonia's Supreme Court declined to hear a bidder's appeal against a defence tender, letting the procurement of 600 concrete bunkers for the Baltic Defence Line on the Russian border resume. A contract could be signed in March 2027, with installation targeted by the end of 2027.",
+   "summary_ro": "Curtea Supremă a Estoniei a refuzat să judece contestația unui ofertant la o licitație de apărare, permițând reluarea achiziției a 600 de buncăre din beton pentru Linia Baltică de Apărare de la granița cu Rusia. Contractul ar putea fi semnat în martie 2027, iar instalarea este vizată până la sfârșitul lui 2027.",
+   "title": "Estonian court clears way for 600 bunkers on Russian border",
+   "title_ro": "Instanța supremă din Estonia deblochează construirea a 600 de buncăre la granița cu Rusia",
+   "topic": "security",
+   "id": "eu-estonia-border-bunkers"
   },
   {
    "place": "Brussels",
@@ -1878,12 +1962,16 @@
     {
      "name": "Știri pe surse",
      "url": "https://www.stiripesurse.ro/moscova-vizata-de-un-atac-masiv-cu-drone-in-cursul-noptii-zboruri-suspendate-pe-aeroporturile-principale_3932200"
+    },
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/externe/nou-atac-masiv-asupra-moscovei-ucraina-ar-fi-lansat-peste-600-de-drone-apararea-rusa-sustine-ca-a-doborat-alte-231-4013277"
     }
    ],
-   "summary": "Moscow mayor Sergei Sobyanin said air defences shot down 166 drones aimed at the capital overnight, with no casualties reported; flights were restricted at Vnukovo and Domodedovo airports. The figures could not be independently verified, Știri pe surse notes.",
-   "summary_ro": "Primarul Moscovei, Serghei Sobianin, a declarat că apărarea antiaeriană a doborât peste noapte 166 de drone care vizau capitala, fără victime raportate; zborurile au fost restricționate pe aeroporturile Vnukovo și Domodedovo. Cifrele nu au putut fi verificate independent, notează Știri pe surse.",
-   "title": "Russia says it downed over 160 drones heading for Moscow overnight",
-   "title_ro": "Rusia spune că a doborât peste 160 de drone care se îndreptau spre Moscova",
+   "summary": "Moscow mayor Sergei Sobyanin said 613 drones were directed at the Moscow region between Wednesday evening and Thursday morning and most were shot down, with another 231 destroyed as they approached the city, AFP reported via Digi24. Flights were restricted at Vnukovo and Domodedovo; the figures could not be independently verified.",
+   "summary_ro": "Primarul Moscovei, Serghei Sobianin, a declarat că 613 drone au fost îndreptate spre regiunea Moscovei între miercuri seară și joi dimineață și că majoritatea au fost doborâte, iar alte 231 au fost distruse la apropierea de oraș, potrivit AFP, citată de Digi24. Zborurile au fost restricționate pe Vnukovo și Domodedovo; cifrele nu au putut fi verificate independent.",
+   "title": "Russia says hundreds of drones targeted Moscow region overnight",
+   "title_ro": "Rusia spune că sute de drone au vizat regiunea Moscovei peste noapte",
    "topic": "security",
    "id": "eu-moscow-drone-attack-oct29"
   },
@@ -3110,6 +3198,24 @@
    "id": "eu-un-energy-war-crimes"
   },
   {
+   "place": "Germany",
+   "place_ro": "Germania",
+   "publishedAt": "2026-10-29T07:12:00Z",
+   "region": "europe",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/economic/volkswagen-se-prabuseste-financiar-pierderi-de-582-miliarde-de-euro-intr-un-trimestru-ce-urmeaza-pentru-angajati-23833481"
+    }
+   ],
+   "summary": "Volkswagen reported a net loss of €5.82 billion for July–September, citing weak sales in China, US tariffs and tougher competition. Its supervisory board approved cutting about 50,000 more jobs worldwide, on top of 35,000 already agreed at the core brand in Germany, and the group aims to reduce costs by 20% by 2028.",
+   "summary_ro": "Volkswagen a raportat o pierdere netă de 5,82 miliarde de euro pentru iulie–septembrie, invocând vânzările slabe din China, tarifele SUA și concurența mai dură. Consiliul de supraveghere a aprobat desființarea a încă aproximativ 50.000 de locuri de muncă la nivel global, pe lângă cele 35.000 deja convenite la marca principală din Germania, iar grupul vrea să reducă costurile cu 20% până în 2028.",
+   "title": "Volkswagen posts €5.8bn quarterly loss and plans 50,000 more job cuts",
+   "title_ro": "Volkswagen raportează o pierdere de 5,8 mld. euro și încă 50.000 de posturi tăiate",
+   "topic": "economy",
+   "id": "eu-volkswagen-q3-loss"
+  },
+  {
    "place": "Serbia",
    "place_ro": "Serbia",
    "publishedAt": "2026-10-27T17:21:00Z",
@@ -3324,6 +3430,24 @@
    "title_ro": "AEP organizează o conferință despre protejarea alegerilor în mediul digital",
    "topic": "politics",
    "id": "pol-aep-election-conference"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-28T13:57:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "HotNews",
+     "url": "https://hotnews.ro/alegeri-o-data-pe-an-tipul-de-scrutin-pe-care-aep-vrea-sa-l-organizeze-la-o-data-fixa-2388889"
+    }
+   ],
+   "summary": "Permanent Electoral Authority president Adrian Țuțuianu said he will propose holding partial local elections once a year in a fixed window, such as March–April, and argued that all elections should take place on fixed dates.",
+   "summary_ro": "Președintele Autorității Electorale Permanente, Adrian Țuțuianu, a spus că va propune organizarea alegerilor locale parțiale o dată pe an, într-un interval fix, de exemplu martie–aprilie, și a susținut ca toate scrutinele să aibă loc la date fixe.",
+   "title": "Electoral authority chief proposes partial elections once a year",
+   "title_ro": "Șeful AEP propune alegeri parțiale o dată pe an",
+   "topic": "politics",
+   "id": "pol-aep-yearly-partial-elections"
   },
   {
    "place": "Chișinău",
@@ -3798,6 +3922,28 @@
    "id": "pol-caciu-esa-cash"
   },
   {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-28T15:17:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/decizie-in-guvern-casa-de-pensii-va-fi-condusa-de-o-tehnocrata-cine-este-vasilica-valentina-robu_3932076"
+    },
+    {
+     "name": "Gândul",
+     "url": "https://www.gandul.ro/actualitate/vasilica-valentina-robu-presedinte-cnpp-21048059"
+    }
+   ],
+   "summary": "PM Luca Niculescu appointed Vasilica-Valentina Robu, described as a technocrat without party membership, as president of the National Public Pensions House for five years, replacing former PNL deputy Nicolae Giugea, who resigned on 20 October. Unnamed government sources told Știri pe surse she was proposed by PSD.",
+   "summary_ro": "Premierul Luca Niculescu a numit-o pe Vasilica-Valentina Robu, prezentată ca tehnocrat fără carnet de partid, președinte al Casei Naționale de Pensii Publice pentru cinci ani, în locul fostului deputat PNL Nicolae Giugea, care a demisionat pe 20 octombrie. Surse guvernamentale nenumite au declarat pentru Știri pe surse că ea a fost propusă de PSD.",
+   "title": "Government names Vasilica-Valentina Robu to head the national pensions house",
+   "title_ro": "Vasilica-Valentina Robu, numită la conducerea Casei Naționale de Pensii",
+   "topic": "politics",
+   "id": "pol-casa-pensii-robu"
+  },
+  {
    "place": "Romania",
    "place_ro": "România",
    "publishedAt": "2026-10-27T10:35:00Z",
@@ -3972,6 +4118,28 @@
    "title_ro": "Ministrul Educației: președintele Dan reacționează uneori prea încet",
    "topic": "politics",
    "id": "pol-costreie-dan-slow"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-29T06:30:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/actualitate/educatie/costreie-anunta-cele-doua-zone-esentiale-pentru-educatie-care-trebuie-imbunatatite-am-ajuns-mai-mult-sa-justificam-ceea-ce-facem-4013271"
+    },
+    {
+     "name": "B1 TV",
+     "url": "https://www.b1tv.ro/politica/prioritatile-noului-ministru-al-educatiei-sorin-costreie-1745089.html"
+    }
+   ],
+   "summary": "Education Minister Sorin Costreie said on Facebook that schools need more decentralisation and less bureaucracy so they can adapt to their communities and teachers have more time to teach. He said he would meet students, pupils, teachers and parents on Thursday.",
+   "summary_ro": "Ministrul Educației, Sorin Costreie, a scris pe Facebook că școlile au nevoie de mai multă descentralizare și mai puțină birocrație, pentru a se adapta comunităților, iar profesorii să aibă mai mult timp de predat. El a anunțat că joi se întâlnește cu studenți, elevi, profesori și părinți.",
+   "title": "Education minister Costreie names decentralisation and less paperwork as priorities",
+   "title_ro": "Ministrul Educației, Costreie: descentralizare și mai puțină birocrație",
+   "topic": "politics",
+   "id": "pol-costreie-priorities"
   },
   {
    "place": "Bucharest",
@@ -4220,6 +4388,24 @@
    "title_ro": "Ministrul Justiției deblochează ordinul pentru legea femicidului",
    "topic": "politics",
    "id": "pol-femicide-order"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-29T06:18:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/stirile-zilei/mihai-fifor-despre-necesitatea-reformei-administrativ-teritoriale-continuam-sa-functionam-pe-o-organizare-conceputa-in-1968-23833474"
+    }
+   ],
+   "summary": "PSD deputy Mihai Fifor wrote on Facebook that Romania needs a deep administrative-territorial reform because it still works with an organisation designed in 1968. He said the reform should rest on objective criteria and real consultation with communities, not only on cutting the number of town halls.",
+   "summary_ro": "Deputatul PSD Mihai Fifor a scris pe Facebook că România are nevoie de o reformă administrativ-teritorială profundă, pentru că funcționează încă pe o organizare gândită în 1968. El a spus că reforma trebuie să se bazeze pe criterii obiective și pe consultarea reală a comunităților, nu doar pe reducerea numărului de primării.",
+   "title": "PSD's Fifor says Romania still runs on a 1968 territorial map",
+   "title_ro": "Fifor (PSD): România funcționează încă după organizarea din 1968",
+   "topic": "politics",
+   "id": "pol-fifor-admin-reform"
   },
   {
    "place": "Romania",
@@ -5204,6 +5390,24 @@
    "id": "pol-niculescu-isarescu"
   },
   {
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-10-28T17:42:00Z",
+   "region": "bucharest",
+   "sources": [
+    {
+     "name": "Gândul",
+     "url": "https://www.gandul.ro/actualitate/luca-niculescu-inaugurare-spital-marius-nasta-21048146"
+    }
+   ],
+   "summary": "Prime Minister Luca Niculescu is due on Thursday to inaugurate a new centre for diagnosing, treating and researching tuberculosis at the Marius Nasta pneumology institute in Bucharest's Sector 4, the government announced; his speech is to be streamed online.",
+   "summary_ro": "Premierul Luca Niculescu urmează să inaugureze joi un nou centru de diagnostic, tratament și cercetare a tuberculozei la Institutul de Pneumoftiziologie „Marius Nasta” din Sectorul 4 al Capitalei, a anunțat Guvernul; discursul său va fi transmis online.",
+   "title": "PM Niculescu to open new tuberculosis centre at Marius Nasta institute",
+   "title_ro": "Premierul Niculescu inaugurează un nou centru de tuberculoză la Institutul Marius Nasta",
+   "topic": "politics",
+   "id": "pol-niculescu-marius-nasta"
+  },
+  {
    "place": "Chișinău",
    "place_ro": "Chișinău",
    "publishedAt": "2026-10-27T11:50:00Z",
@@ -5674,6 +5878,24 @@
   {
    "place": "Bucharest",
    "place_ro": "București",
+   "publishedAt": "2026-10-28T16:23:00Z",
+   "region": "bucharest",
+   "sources": [
+    {
+     "name": "Gândul",
+     "url": "https://www.gandul.ro/politica/cine-este-ppr-partidul-mihai-lasca-calin-georgescu-21048039"
+    }
+   ],
+   "summary": "The Patrioții Poporului Român party, led by former AUR deputy Mihai Lasca, announced protests in Bucharest's Victoria Square on 14 and 15 November in support of Călin Georgescu, after a court extended his pretrial detention.",
+   "summary_ro": "Partidul Patrioții Poporului Român, condus de fostul deputat AUR Mihai Lasca, a anunțat proteste în Piața Victoriei din București pe 14 și 15 noiembrie în sprijinul lui Călin Georgescu, după ce instanța i-a prelungit arestul preventiv.",
+   "title": "PPR party announces mid-November protests in support of Georgescu",
+   "title_ro": "Partidul PPR anunță proteste la jumătatea lui noiembrie în sprijinul lui Georgescu",
+   "topic": "politics",
+   "id": "pol-ppr-georgescu-protests"
+  },
+  {
+   "place": "Bucharest",
+   "place_ro": "București",
    "publishedAt": "2026-10-27T12:50:00Z",
    "region": "romania",
    "sources": [
@@ -6028,6 +6250,24 @@
    "title_ro": "Ministrul Sănătății propune desfacerea contractului medicilor care lipsesc din gărzi",
    "topic": "politics",
    "id": "pol-rogobete-doctors"
+  },
+  {
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-28T20:06:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/actualitate/sanatate/rogobete-despre-una-dintre-cele-mai-mari-crize-din-sanatate-in-ultimii-10-ani-daca-doamne-fereste-as-fi-avut-un-accident-colectiv-4013065"
+    }
+   ],
+   "summary": "Health Minister Alexandru Rogobete told Europa FM that when he took office the health system was in one of its biggest financial crises of the past ten years and hospitals were not ready for a mass-casualty event. He said he moved 150 million lei to emergency units and ambulance services.",
+   "summary_ro": "Ministrul Sănătății, Alexandru Rogobete, a declarat la Europa FM că, la preluarea mandatului, sistemul sanitar traversa una dintre cele mai mari crize financiare din ultimii zece ani, iar spitalele nu erau pregătite pentru un accident colectiv. El a spus că a direcționat 150 de milioane de lei către UPU și serviciile de ambulanță.",
+   "title": "Health minister says hospitals faced worst funding crisis in a decade",
+   "title_ro": "Rogobete: spitalele au trecut prin cea mai gravă criză financiară din ultimul deceniu",
+   "topic": "politics",
+   "id": "pol-rogobete-health-crisis"
   },
   {
    "place": "Romania",
@@ -6478,10 +6718,14 @@
     {
      "name": "Agerpres",
      "url": "https://agerpres.ro/politic/2026/10/28/turcan-psd-este-tot-un-aur-doar-ca-pe-rosu-grindeanu-cere-aur-executa--1607827"
+    },
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/actualitate/politica/pnl-acuza-psd-ca-manipuleaza-procedurile-parlamentare-in-complicitate-cu-aur-4012471"
     }
    ],
-   "summary": "PNL deputy Raluca Turcan said AUR's request to bring PM Luca Niculescu to Parliament over public finances followed an earlier similar demand by PSD leader Sorin Grindeanu, describing it as PSD asking and AUR carrying out. She cited Finance Ministry data showing the nine-month deficit fell to 3.81% of GDP from 5.31% a year earlier.",
-   "summary_ro": "Deputata PNL Raluca Turcan a spus că cererea AUR de a-l aduce pe premierul Luca Niculescu în Parlament pe tema finanțelor publice a venit după o solicitare similară a liderului PSD, Sorin Grindeanu, afirmând că PSD cere, iar AUR execută. Ea a invocat date ale Ministerului Finanțelor potrivit cărora deficitul pe nouă luni a scăzut la 3,81% din PIB, de la 5,31% cu un an înainte.",
+   "summary": "PNL deputy Raluca Turcan said AUR's request to bring PM Luca Niculescu to Parliament over public finances followed an earlier similar demand by PSD leader Sorin Grindeanu, describing it as PSD asking and AUR carrying out. PNL deputies Ionel Bogdan, Gabriel Andronache and Ciprian Dobre also objected that the Chamber's bureau approved AUR's request for 2 November while postponing USR's request to hear Finance Minister Alexandru Nazare. Turcan cited Finance Ministry data showing the nine-month deficit fell to 3.81% of GDP from 5.31% a year earlier.",
+   "summary_ro": "Deputata PNL Raluca Turcan a spus că cererea AUR de a-l chema pe premierul Luca Niculescu în Parlament pe tema finanțelor publice a urmat unei solicitări similare a liderului PSD Sorin Grindeanu, descriind situația ca „PSD cere, AUR execută”. Deputații PNL Ionel Bogdan, Gabriel Andronache și Ciprian Dobre au criticat și faptul că Biroul Permanent al Camerei a aprobat cererea AUR pentru 2 noiembrie, dar a amânat cererea USR de audiere a ministrului Finanțelor, Alexandru Nazare. Turcan a citat date ale Ministerului Finanțelor potrivit cărora deficitul pe nouă luni a scăzut la 3,81% din PIB, de la 5,31% cu un an înainte.",
    "title": "PNL's Turcan accuses PSD and AUR of coordinating on summoning the PM",
    "title_ro": "Raluca Turcan (PNL) acuză PSD și AUR că s-au coordonat pentru chemarea premierului",
    "topic": "politics",
@@ -6852,6 +7096,24 @@
    "id": "ro-anofm-hires"
   },
   {
+   "place": "Iași",
+   "place_ro": "Iași",
+   "publishedAt": "2026-10-29T02:00:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/alianta-studentilor-cere-schimbarea-legii-dupa-arestarea-lui-alexandru-toader-cazuri-de-abuzuri-sexuale-in-toate-marile-universitati_3931963"
+    }
+   ],
+   "summary": "The national student alliance ANOSR asked Parliament and the Education Ministry to change the law on university ethics so universities can prevent and sanction misconduct, including temporary protective measures, after the arrest of Iași lecturer Alexandru Toader in a rape case.",
+   "summary_ro": "Alianța Națională a Organizațiilor Studențești din România (ANOSR) cere Parlamentului și Ministerului Educației modificarea legii eticii universitare, astfel încât universitățile să poată preveni și sancționa abaterile, inclusiv prin măsuri temporare de protecție, după arestarea lectorului ieșean Alexandru Toader într-un dosar de viol.",
+   "title": "Student alliance seeks tougher university ethics law after Toader arrest",
+   "title_ro": "ANOSR cere o lege mai dură privind etica universitară după arestarea lui Toader",
+   "topic": "politics",
+   "id": "ro-anosr-university-ethics"
+  },
+  {
    "place": "Romania",
    "place_ro": "România",
    "publishedAt": "2026-10-27T13:38:00Z",
@@ -7024,6 +7286,24 @@
    "title_ro": "Ordin de protecție după ce un elev a fost agresat de un coleg în Bistrița-Năsăud",
    "topic": "security",
    "id": "ro-bistrita-school-assault"
+  },
+  {
+   "place": "Bistrița",
+   "place_ro": "Bistrița",
+   "publishedAt": "2026-10-28T15:27:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/adresa-adapostului-pentru-victimele-violentei-domestice-din-bistrita-deconspirata-chiar-de-catre-autoritati.html"
+    }
+   ],
+   "summary": "Bistrița city hall posted council documents for a social project whose annex identified the building used as a shelter for domestic violence victims, G4Media reports. The city withdrew the annex and marked it confidential, but the location had already been made public.",
+   "summary_ro": "Primăria Bistrița a publicat documentele unui proiect de consiliu local a cărui anexă identifica clădirea folosită ca adăpost pentru victimele violenței domestice, relatează G4Media. Primăria a retras anexa și a marcat-o confidențială, însă locația devenise deja publică.",
+   "title": "Bistrița city hall published address of domestic violence shelter",
+   "title_ro": "Primăria Bistrița a publicat adresa adăpostului pentru victimele violenței domestice",
+   "topic": "politics",
+   "id": "ro-bistrita-shelter-address"
   },
   {
    "place": "Romania",
@@ -7498,6 +7778,24 @@
    "title_ro": "Sarcofag intact din epoca romană, descoperit în Constanța",
    "topic": "culture",
    "id": "ro-constanta-sarcophagus"
+  },
+  {
+   "place": "Constanța",
+   "place_ro": "Constanța",
+   "publishedAt": "2026-10-28T17:59:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/10-marinari-sirieni-sunt-blocati-din-august-pe-o-nava-fantoma-in-portul-constanta-se-cere-trecerea-navei-in-regim-de-conservare.html"
+    }
+   ],
+   "summary": "Ten Syrian crew members of the vessel Militsa have been stuck in Constanța port since late August, unpaid since April, after the ship lost its flag and was seized over its owner's debts. ITF Romania and Seamen's Club Romania secured four months of back pay and started repatriation, and are asking port and naval authorities to put the ship into lay-up.",
+   "summary_ro": "Zece membri sirieni ai echipajului navei Militsa sunt blocați în portul Constanța de la sfârșitul lui august, neplătiți din aprilie, după ce nava a pierdut pavilionul și a fost sechestrată pentru datoriile armatorului. ITF România și Seamen's Club România au obținut patru luni de salarii restante și au început repatrierea, cerând autorităților portuare și navale trecerea navei în conservare.",
+   "title": "Ten Syrian sailors stranded on abandoned ship in Constanța since August",
+   "title_ro": "Zece marinari sirieni, blocați din august pe o navă abandonată în Constanța",
+   "topic": "economy",
+   "id": "ro-constanta-syrian-sailors"
   },
   {
    "place": "Bucharest",
@@ -8416,6 +8714,36 @@
    "title_ro": "MApN cumpără patru radare mobile de aterizare de la Thales",
    "topic": "security",
    "id": "ro-mapn-radars"
+  },
+  {
+   "place": "Maramureș",
+   "place_ro": "Maramureș",
+   "publishedAt": "2026-10-29T05:41:00Z",
+   "region": "romania",
+   "sources": [
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/stiri/actualitate/femeie-de-45-de-ani-impuscata-mortal-in-maramures-un-barbat-ar-fi-confundat-o-cu-un-animal-salbatic.html"
+    },
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/stirile-zilei/o-femeie-a-fost-impuscata-mortal-de-un-vanator-dupa-ce-ar-fi-fost-confundata-cu-un-animal-salbatic-23833458"
+    },
+    {
+     "name": "B1 TV",
+     "url": "https://www.b1tv.ro/eveniment/o-femeie-de-45-de-ani-a-murit-dupa-ce-a-fost-impuscata-mortal-la-vanatoare-1745080.html"
+    },
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/tragedie-in-maramures-o-femeie-a-fost-impuscata-mortal-cu-o-arma-de-vanatoare-4013281"
+    }
+   ],
+   "summary": "A 45-year-old woman was fatally shot on Wednesday evening in Poienile de Sub Munte, Maramureș County. Police say a 35-year-old hunter suspected of firing the shot, reportedly believing she was a wild animal, has been detained while investigators establish what happened.",
+   "summary_ro": "O femeie de 45 de ani a fost împușcată mortal miercuri seară în Poienile de Sub Munte, județul Maramureș. Poliția spune că un vânător de 35 de ani, suspectat că a tras crezând că este un animal sălbatic, a fost reținut, iar anchetatorii stabilesc împrejurările.",
+   "title": "Woman shot dead in Maramureș by hunter who reportedly mistook her for game",
+   "title_ro": "Femeie ucisă în Maramureș de un vânător care ar fi confundat-o cu un animal",
+   "topic": "security",
+   "id": "ro-maramures-hunter-shooting"
   },
   {
    "place": "Bucharest",
@@ -9606,6 +9934,24 @@
   {
    "place": "United States",
    "place_ro": "SUA",
+   "publishedAt": "2026-10-29T07:02:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/externe/avertismentul-anthropic-daunele-provocate-de-ai-ar-putea-fi-mai-mari-decat-pot-plati-companiile-de-asigurari-4013325"
+    }
+   ],
+   "summary": "Anthropic's stock-listing filings warn that damage caused by its AI systems could exceed what the insurance industry can cover and that some risks may be uninsurable on reasonable terms, Digi24 reports, citing CNBC via News.ro.",
+   "summary_ro": "Documentele de listare la bursă ale Anthropic avertizează că pagubele cauzate de sistemele sale AI ar putea depăși ce poate acoperi industria asigurărilor și că unele riscuri ar putea fi imposibil de asigurat în condiții rezonabile, relatează Digi24, citând CNBC prin News.ro.",
+   "title": "Anthropic filing warns AI harms could exceed insurers' capacity",
+   "title_ro": "Anthropic avertizează că pagubele produse de AI ar putea depăși capacitatea asigurătorilor",
+   "topic": "tech",
+   "id": "world-anthropic-insurance-warning"
+  },
+  {
+   "place": "United States",
+   "place_ro": "SUA",
    "publishedAt": "2026-10-26T17:28:00Z",
    "region": "world",
    "sources": [
@@ -10132,6 +10478,24 @@
    "title_ro": "Atacuri israeliene în Gaza soldate cu doi morți și cinci răniți",
    "topic": "security",
    "id": "world-gaza-strikes-oct27"
+  },
+  {
+   "place": "Washington",
+   "place_ro": "Washington",
+   "publishedAt": "2026-10-29T05:50:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/externe/sua/congresmeni-republicani-il-ameninta-pe-trump-ca-vor-bloca-bugetul-pentagonului-din-cauza-concesiilor-facute-lui-putin-sa-tina-cont-4013253"
+    }
+   ],
+   "summary": "Several Republican lawmakers, including Representative Don Bacon and Senator Mitch McConnell, are threatening to hold up President Trump's roughly $1.5 trillion defence budget request over his concessions to Russia, Digi24 reports, citing Politico via News.ro.",
+   "summary_ro": "Mai mulți parlamentari republicani, între care Don Bacon și Mitch McConnell, amenință să blocheze cererea de buget a Pentagonului, de circa 1.500 de miliarde de dolari, din cauza concesiilor făcute de președintele Trump Rusiei, relatează Digi24, citând Politico prin News.ro.",
+   "title": "Some Republicans threaten Trump's Pentagon budget over Russia concessions",
+   "title_ro": "Republicani amenință bugetul Pentagonului din cauza concesiilor lui Trump față de Rusia",
+   "topic": "world",
+   "id": "world-gop-pentagon-budget-russia"
   },
   {
    "place": "Geneva",
@@ -10956,6 +11320,24 @@
    "id": "world-microsoft-q1-profit"
   },
   {
+   "place": "Minneapolis",
+   "place_ro": "Minneapolis",
+   "publishedAt": "2026-10-29T03:00:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/29/30-year-sentence-in-minnesota-fraud-that-drew-trump-backlash"
+    }
+   ],
+   "summary": "Salim Said, who ran a Minneapolis restaurant, was sentenced to 30 years in prison over a pandemic-era scheme to defraud a federal child nutrition programme; prosecutors say he was responsible for $44 million in fraud. The case had drawn repeated criticism from President Trump.",
+   "summary_ro": "Salim Said, care conducea un restaurant în Minneapolis, a fost condamnat la 30 de ani de închisoare pentru o schemă din perioada pandemiei de fraudare a unui program federal de hrană pentru copii; procurorii spun că el răspunde pentru o fraudă de 44 de milioane de dolari. Cazul a fost criticat în repetate rânduri de președintele Trump.",
+   "title": "Minneapolis restaurateur gets 30 years in child meal programme fraud",
+   "title_ro": "Un restaurator din Minneapolis, condamnat la 30 de ani pentru frauda cu mesele pentru copii",
+   "topic": "world",
+   "id": "world-minnesota-fraud-sentence"
+  },
+  {
    "place": "Monaco",
    "place_ro": "Monaco",
    "publishedAt": "2026-10-26T21:10:00Z",
@@ -11034,6 +11416,28 @@
    "title_ro": "Bilanțul atacului unor bărbați înarmați asupra unui sat din Nigeria urcă la 62 de morți",
    "topic": "security",
    "id": "world-nigeria-taraba-attack"
+  },
+  {
+   "place": "North Korea",
+   "place_ro": "Coreea de Nord",
+   "publishedAt": "2026-10-29T05:25:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/stirile-zilei/coreea-de-sud-sustine-ca-phenianul-ar-fi-lansat-o-racheta-balistica-in-directia-marii-din-largul-coastei-estice-23833418"
+    },
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/externe/coreea-de-nord-a-lansat-un-proiectil-neidentificat-in-marea-japoniei-coreea-de-sud-si-japonia-au-urmarit-proiectilul-4013263"
+    }
+   ],
+   "summary": "North Korea launched about ten short-range ballistic missiles from the Wonsan area towards the Sea of Japan, South Korea's Joint Chiefs of Staff said, and Japan confirmed an apparent ballistic launch. It came less than a week after Seoul proposed military talks on the border.",
+   "summary_ro": "Coreea de Nord a lansat circa zece rachete balistice cu rază scurtă din zona Wonsan spre Marea Japoniei, potrivit Statului Major Interarme sud-coreean, iar Japonia a confirmat o lansare aparent balistică. Lansarea vine la mai puțin de o săptămână după ce Seulul a propus discuții militare privind frontiera.",
+   "title": "North Korea fires around ten short-range ballistic missiles",
+   "title_ro": "Coreea de Nord a lansat aproximativ zece rachete balistice cu rază scurtă",
+   "topic": "security",
+   "id": "world-north-korea-missiles-oct29"
   },
   {
    "place": "New York",
@@ -11312,6 +11716,24 @@
    "title_ro": "Rusia anunță că petroliere cu motorină se îndreaptă spre SUA",
    "topic": "energy",
    "id": "world-russian-diesel-us"
+  },
+  {
+   "place": "South Korea",
+   "place_ro": "Coreea de Sud",
+   "publishedAt": "2026-10-29T05:54:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/economic/samsung-avertizeaza-ca-deficitul-de-cipuri-ai-se-va-agrava-productia-pentru-2027-este-deja-contractata-23833431"
+    }
+   ],
+   "summary": "Samsung's operating profit rose to 107.4 trillion won in July–September from 12.2 trillion a year earlier, almost all from chips. The company said the AI memory shortage will deepen in 2027, with its entire HBM output for next year already contracted; its shares fell as much as 6.2%.",
+   "summary_ro": "Profitul operațional al Samsung a urcat la 107,4 trilioane de woni în iulie–septembrie, de la 12,2 trilioane cu un an înainte, aproape integral din cipuri. Compania a avertizat că deficitul de memorii pentru AI se va adânci în 2027, întreaga producție HBM pentru anul viitor fiind deja contractată; acțiunile au scăzut cu până la 6,2%.",
+   "title": "Samsung profit soars but it warns AI chip shortage will worsen",
+   "title_ro": "Profitul Samsung explodează, dar compania avertizează că deficitul de cipuri AI se va agrava",
+   "topic": "tech",
+   "id": "world-samsung-ai-chip-shortage"
   },
   {
    "place": "France",
@@ -11742,6 +12164,42 @@
    "title_ro": "Wall Street crește ușor pe seama acțiunilor AI, înaintea deciziei Fed",
    "topic": "economy",
    "id": "world-us-stocks-fed"
+  },
+  {
+   "place": "United States",
+   "place_ro": "SUA",
+   "publishedAt": "2026-10-29T06:38:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/economie/deficitul-comercial-al-sua-a-crescut-peste-asteptari-pe-fondul-investitiilor-masive-in-inteligenta-artificiala-4013291"
+    }
+   ],
+   "summary": "The US goods trade deficit rose to $134.9 billion in September, its highest since March 2025 and above forecasts, as imports hit a record $344.1 billion led by capital goods linked to AI investment.",
+   "summary_ro": "Deficitul comercial de bunuri al SUA a urcat în septembrie la 134,9 miliarde de dolari, cel mai mare nivel din martie 2025 și peste estimări, iar importurile au atins un record de 344,1 miliarde de dolari, conduse de bunurile de capital legate de investițiile în inteligență artificială.",
+   "title": "US goods trade deficit widens to $134.9bn on AI-driven imports",
+   "title_ro": "Deficitul comercial al SUA crește la 134,9 mld. dolari, pe fondul importurilor pentru AI",
+   "topic": "economy",
+   "id": "world-us-trade-deficit-sept"
+  },
+  {
+   "place": "West Bank",
+   "place_ro": "Cisiordania",
+   "publishedAt": "2026-10-29T03:12:00Z",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/29/activists-accuse-israeli-settlers-of-assault-in-occupied-west-bank"
+    }
+   ],
+   "summary": "Activist Adele Shoko says armed settlers attacked her, US journalist Jasper Nathaniel and activist Andrey X in Umm al-Khair in the occupied West Bank and stole their equipment, Al Jazeera reports. She says Nathaniel was pepper-sprayed and taken away by Israeli forces, and Andrey X was detained and denied hospital care.",
+   "summary_ro": "Activista Adele Shoko spune că un grup de coloniști, unii înarmați, a atacat-o pe ea, pe jurnalistul american Jasper Nathaniel și pe activistul Andrey X la Umm al-Khair, în Cisiordania ocupată, și le-a furat echipamentul, relatează Al Jazeera. Potrivit ei, Nathaniel a fost stropit cu spray lacrimogen și luat de forțele israeliene, iar Andrey X a fost reținut și nu a primit îngrijiri în spital.",
+   "title": "Activists say settlers beat them and a US journalist in West Bank",
+   "title_ro": "Activiști spun că au fost bătuți de coloniști în Cisiordania, alături de un jurnalist american",
+   "topic": "world",
+   "id": "world-west-bank-settlers-activists"
   },
   {
    "place": "Yemen",
