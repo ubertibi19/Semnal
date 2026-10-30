@@ -1,6 +1,42 @@
 {
- "lastRun": "2026-10-30T02:07:40Z",
+ "lastRun": "2026-10-30T02:58:23Z",
  "stories": [
+  {
+   "id": "auto-55edd766d026",
+   "title": "Greenpeace a identificat șapte petroliere rusești care transportă motorină către SUA / Trei nave sunt sancționate internațional",
+   "title_ro": "Greenpeace a identificat șapte petroliere rusești care transportă motorină către SUA / Trei nave sunt sancționate internațional",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "energy",
+   "region": "world",
+   "place": "US",
+   "place_ro": "SUA",
+   "publishedAt": "2026-10-30T02:47:28Z",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/externe/greenpeace-a-identificat-sapte-petroliere-rusesti-care-transporta-motorina-catre-sua-trei-nave-sunt-sanctionate-international-23834215"
+    }
+   ]
+  },
+  {
+   "id": "auto-b9cdd9573b5d",
+   "title": "Alegeri Israel, rezultate complete: Coaliția condusă de prim ministrul Benjamin Netanyahu 53 de mandate din 120, opoziția sionistă 48, partidele arabe 19 (cu care dețin balanța puterii)",
+   "title_ro": "Alegeri Israel, rezultate complete: Coaliția condusă de prim ministrul Benjamin Netanyahu 53 de mandate din 120, opoziția sionistă 48, partidele arabe 19 (cu care dețin balanța puterii)",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "politics",
+   "region": "world",
+   "place": "Israel",
+   "place_ro": "Israel",
+   "publishedAt": "2026-10-30T02:34:49Z",
+   "sources": [
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/alegeri-israel-rezultate-complete-coalitia-condusa-de-prim-ministrul-benjamin-netanyahu-53-de-mandate-din-120-opozitia-sionista-48-partidele-arabe-19-cu-care-detin-balanta-puterii.html"
+    }
+   ]
+  },
   {
    "id": "auto-1ee53e077d43",
    "title": "Atacuri rusești asupra Ucrainei: un mort la Kiev și 350.000 de oameni fără electricitate în regiunea Dnipro",
@@ -13414,42 +13450,6 @@
     {
      "name": "G4Media",
      "url": "https://www.g4media.ro/ue-renunta-la-propunerea-de-membru-asociat-pentru-canada.html"
-    }
-   ]
-  },
-  {
-   "place": "United States",
-   "place_ro": "SUA",
-   "publishedAt": "2026-10-29T06:38:00Z",
-   "region": "world",
-   "sources": [
-    {
-     "name": "Digi24",
-     "url": "https://www.digi24.ro/stiri/economie/deficitul-comercial-al-sua-a-crescut-peste-asteptari-pe-fondul-investitiilor-masive-in-inteligenta-artificiala-4013291"
-    }
-   ],
-   "summary": "The US goods trade deficit rose to $134.9 billion in September, its highest since March 2025 and above forecasts, as imports hit a record $344.1 billion led by capital goods linked to AI investment.",
-   "summary_ro": "Deficitul comercial de bunuri al SUA a urcat în septembrie la 134,9 miliarde de dolari, cel mai mare nivel din martie 2025 și peste estimări, iar importurile au atins un record de 344,1 miliarde de dolari, conduse de bunurile de capital legate de investițiile în inteligență artificială.",
-   "title": "US goods trade deficit widens to $134.9bn on AI-driven imports",
-   "title_ro": "Deficitul comercial al SUA crește la 134,9 mld. dolari, pe fondul importurilor pentru AI",
-   "topic": "economy",
-   "id": "world-us-trade-deficit-sept"
-  },
-  {
-   "id": "auto-bf3fc88630c9",
-   "title": "Nou atac masiv asupra Moscovei: Ucraina ar fi lansat peste 600 de drone. Apărarea rusă susține că a doborât alte 231",
-   "title_ro": "Nou atac masiv asupra Moscovei: Ucraina ar fi lansat peste 600 de drone. Apărarea rusă susține că a doborât alte 231",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "security",
-   "region": "europe",
-   "place": "Ukraine",
-   "place_ro": "Ucraina",
-   "publishedAt": "2026-10-29T06:36:03Z",
-   "sources": [
-    {
-     "name": "Digi24",
-     "url": "https://www.digi24.ro/stiri/externe/nou-atac-masiv-asupra-moscovei-ucraina-ar-fi-lansat-peste-600-de-drone-apararea-rusa-sustine-ca-a-doborat-alte-231-4013277"
     }
    ]
   }
