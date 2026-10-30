@@ -1,6 +1,42 @@
 {
- "lastRun": "2026-10-30T01:12:54Z",
+ "lastRun": "2026-10-30T02:07:40Z",
  "stories": [
+  {
+   "id": "auto-1ee53e077d43",
+   "title": "Atacuri rusești asupra Ucrainei: un mort la Kiev și 350.000 de oameni fără electricitate în regiunea Dnipro",
+   "title_ro": "Atacuri rusești asupra Ucrainei: un mort la Kiev și 350.000 de oameni fără electricitate în regiunea Dnipro",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "security",
+   "region": "europe",
+   "place": "Ukraine",
+   "place_ro": "Ucraina",
+   "publishedAt": "2026-10-30T01:53:34Z",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/externe/atacuri-rusesti-asupra-ucrainei-un-mort-la-kiev-si-350-000-de-oameni-fara-electricitate-in-regiunea-dnipro-23834212"
+    }
+   ]
+  },
+  {
+   "id": "auto-8db87d11f955",
+   "title": "Alertă pe piața crypto: Binance investighează un posibil atac / Peste 5,8 miliarde de dolari ar fi fost furate",
+   "title_ro": "Alertă pe piața crypto: Binance investighează un posibil atac / Peste 5,8 miliarde de dolari ar fi fost furate",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "security",
+   "region": "world",
+   "place": "World",
+   "place_ro": "Lume",
+   "publishedAt": "2026-10-30T01:19:24Z",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/externe/alerta-pe-piata-crypto-binance-investigheaza-un-posibil-atac-peste-58-miliarde-de-dolari-ar-fi-fost-furate-23834210"
+    }
+   ]
+  },
   {
    "id": "auto-7fccfd80a6d2",
    "title": "Cu câteva zile înainte de alegerile de la jumătatea mandatului, Donald Trump îşi anulează mitingurile din weekend",
@@ -13416,54 +13452,6 @@
      "url": "https://www.digi24.ro/stiri/externe/nou-atac-masiv-asupra-moscovei-ucraina-ar-fi-lansat-peste-600-de-drone-apararea-rusa-sustine-ca-a-doborat-alte-231-4013277"
     }
    ]
-  },
-  {
-   "id": "auto-d844b7eae5b4",
-   "title": "Tragedie în Maramureș: O femeie a fost împușcată mortal cu o armă de vânătoare",
-   "title_ro": "Tragedie în Maramureș: O femeie a fost împușcată mortal cu o armă de vânătoare",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "economy",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-10-29T06:35:07Z",
-   "sources": [
-    {
-     "name": "Digi24",
-     "url": "https://www.digi24.ro/stiri/tragedie-in-maramures-o-femeie-a-fost-impuscata-mortal-cu-o-arma-de-vanatoare-4013281"
-    },
-    {
-     "name": "Știrile ProTV",
-     "url": "https://stirileprotv.ro/stiri/actualitate/tragedie-in-maramures-o-femeie-de-45-de-ani-impuscata-mortal-de-un-vanator-care-ar-fi-confundat-o-cu-un-animal-salbatic.html"
-    }
-   ]
-  },
-  {
-   "place": "Estonia",
-   "place_ro": "Estonia",
-   "publishedAt": "2026-10-29T06:33:00Z",
-   "region": "europe",
-   "sources": [
-    {
-     "name": "Mediafax",
-     "url": "https://www.mediafax.ro/externe/estonia-accelereaza-fortificarea-granitei-cu-rusia-600-de-buncare-din-beton-pregatite-pentru-apararea-flancului-estic-al-nato-23833455"
-    },
-    {
-     "name": "Agerpres",
-     "url": "https://agerpres.ro/politic-extern/2026/10/29/estonia-va-construi-aproximativ-150-de-buncare-la-granita-cu-rusia-inclusiv-pe-terenuri-private--1607991"
-    },
-    {
-     "name": "Gândul",
-     "url": "https://www.gandul.ro/actualitate/buncare-estonia-granita-rusia-21048984"
-    }
-   ],
-   "summary": "Estonia's Supreme Court declined to hear a bidder's appeal against a defence tender, letting the procurement of 600 concrete bunkers for the Baltic Defence Line on the Russian border resume. A contract could be signed in March 2027, with installation targeted by the end of 2027.",
-   "summary_ro": "Curtea Supremă a Estoniei a refuzat să judece contestația unui ofertant la o licitație de apărare, permițând reluarea achiziției a 600 de buncăre din beton pentru Linia Baltică de Apărare de la granița cu Rusia. Contractul ar putea fi semnat în martie 2027, iar instalarea este vizată până la sfârșitul lui 2027.",
-   "title": "Estonian court clears way for 600 bunkers on Russian border",
-   "title_ro": "Instanța supremă din Estonia deblochează construirea a 600 de buncăre la granița cu Rusia",
-   "topic": "security",
-   "id": "eu-estonia-border-bunkers"
   }
  ],
  "changelog": [
