@@ -1,5 +1,5 @@
 {
- "lastRun": "2026-10-31T22:45:27Z",
+ "lastRun": "2026-10-31T23:43:56Z",
  "stories": [
   {
    "id": "auto-7c51f1e1d4c8",
@@ -1382,6 +1382,10 @@
     {
      "name": "G4Media",
      "url": "https://www.g4media.ro/ministrul-muncii-anunta-majorarea-pensiilor-in-2027-si-ajutor-in-decembrie-pentru-pensionari-discutiile-despre-salariul-minim-programate-in-noiembrie.html"
+    },
+    {
+     "name": "Ziarul Financiar",
+     "url": "https://www.zf.ro/eveniment/florin-manole-anunta-majorarea-pensiilor-in-2027-ce-spune-ministrul-muncii-despre-salariul-minim-si-alocatiile-copiilor-23271664"
     }
    ]
   },
@@ -2040,6 +2044,10 @@
     {
      "name": "Mediafax",
      "url": "https://www.mediafax.ro/externe/update-spatiul-aerian-restrictionat-in-nordul-si-centrul-republicii-moldova-doua-drone-au-patruns-neautorizat-23835183"
+    },
+    {
+     "name": "Ziarul Financiar",
+     "url": "https://www.zf.ro/eveniment/spatiul-aerian-restrictionat-in-nordul-si-centrul-moldovei-doua-drone-au-intrat-neautorizat-23271652"
     }
    ]
   },
@@ -13180,6 +13188,24 @@
    ]
   },
   {
+   "id": "auto-610dfb34faaa",
+   "title": "Respinsă de Ilie Bolojan, masa organizată de ANCOM pentru o mie de persoane în Qatar a fost aprobată de noul guvern. Delegație extinsă",
+   "title_ro": "Respinsă de Ilie Bolojan, masa organizată de ANCOM pentru o mie de persoane în Qatar a fost aprobată de noul guvern. Delegație extinsă",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "politics",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-30T18:05:37Z",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/actualitate/politica/respinsa-de-bolojan-masa-pentru-o-mie-de-persoane-in-qatar-a-fost-aprobata-de-noul-guvern-parlamentari-pot-face-parte-din-delegatie-4015783"
+    }
+   ]
+  },
+  {
    "id": "auto-c592ac442092",
    "title": "Angela Merkel vrea ca următorul președinte ale Germaniei să fie o femeie",
    "title_ro": "Angela Merkel vrea ca următorul președinte ale Germaniei să fie o femeie",
@@ -13408,24 +13434,6 @@
     {
      "name": "B1 TV",
      "url": "https://www.b1tv.ro/politica/veste-buna-pentru-pensionarii-din-romania-ce-decizie-a-fost-adoptata-1745661.html"
-    }
-   ]
-  },
-  {
-   "id": "auto-c552fda822eb",
-   "title": "Bulgaria se alătură altor șapte state NATO pentru combaterea amenințărilor aeriene. Cum vor fi consolidate sistemele de apărare",
-   "title_ro": "Bulgaria se alătură altor șapte state NATO pentru combaterea amenințărilor aeriene. Cum vor fi consolidate sistemele de apărare",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "security",
-   "region": "europe",
-   "place": "Bulgaria",
-   "place_ro": "Bulgaria",
-   "publishedAt": "2026-10-30T17:52:09Z",
-   "sources": [
-    {
-     "name": "B1 TV",
-     "url": "https://www.b1tv.ro/externe/bulgaria-isi-intareste-apararea-aeriana-printr-o-initiativa-nato-1745656.html"
     }
    ]
   }
