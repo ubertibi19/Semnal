@@ -1,6 +1,42 @@
 {
- "lastRun": "2026-11-01T22:45:59Z",
+ "lastRun": "2026-11-01T23:44:21Z",
  "stories": [
+  {
+   "id": "auto-c496f3e236ec",
+   "title": "Volkswagen pune pe pauză dezvoltarea noului ID. Golf. Problemele financiare complică planurile gigantului german",
+   "title_ro": "Volkswagen pune pe pauză dezvoltarea noului ID. Golf. Problemele financiare complică planurile gigantului german",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "economy",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-01T23:44:21Z",
+   "sources": [
+    {
+     "name": "B1 TV",
+     "url": "https://www.b1tv.ro/auto/volkswagen-pune-pe-pauza-dezvoltarea-noului-id-golf-problemele-financiare-complica-planurile-gigantului-german-1745872.html"
+    }
+   ]
+  },
+  {
+   "id": "auto-d55e11e8ebaf",
+   "title": "Cu un curs şi rezerve valutare ale BNR sub presiune, cu ieşiri de valută mai mari decât intrările, cu dobânzi în creştere şi pieţe tensionate, primul test al guvernului Luca Niculescu/PSD, dar şi al preşedintelui Nicuşor Dan, este ieşirea imediată a Finanţelor pe pieţele externe ca să facă rost de valută pentru a finanţa bugetul pe finalul de an",
+   "title_ro": "Cu un curs şi rezerve valutare ale BNR sub presiune, cu ieşiri de valută mai mari decât intrările, cu dobânzi în creştere şi pieţe tensionate, primul test al guvernului Luca Niculescu/PSD, dar şi al preşedintelui Nicuşor Dan, este ieşirea imediată a Finanţelor pe pieţele externe ca să facă rost de valută pentru a finanţa bugetul pe finalul de an",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "politics",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-01T22:59:00Z",
+   "sources": [
+    {
+     "name": "Ziarul Financiar",
+     "url": "https://www.zf.ro/opinii/curs-rezerve-valutare-bnr-presiune-iesiri-valuta-mari-intrarile-dobanzi-crestere-piete-tensionate-primul-test-guvernului-luca-niculescu-psd-presedintelui-nicusor-dan-iesirea-imediata-finantelor-23272176"
+    }
+   ]
+  },
   {
    "id": "auto-b96727a47c5b",
    "title": "Auto: F1 - Kimi Antonelli, cel mai tânăr campion mondial din istorie; Verstappen, victorios în Mexic",
@@ -16,6 +52,14 @@
     {
      "name": "Agerpres",
      "url": "https://agerpres.ro/sport-extern/2026/11/02/auto-f1---kimi-antonelli-cel-mai-tanar-campion-mondial-din-istorie-verstappen-victorios-in-mexic--1608904"
+    },
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/sport/istorie-in-formula-1-kimi-antonelli-devine-cel-mai-tanar-campion-mondial-din-toate-timpurile-la-doar-20-de-ani-verstappen-castiga-in-mexic-23835508"
+    },
+    {
+     "name": "News.ro",
+     "url": "https://www.news.ro/sport/update-moment-istoric-in-formula-1-antonelli-a-devenit-cel-mai-tanar-campion-mondial-de-f1-italianul-a-plans-la-finalul-cursei-din-mexic-am-reusit-este-o-zi-pe-care-nu-o-voi-uita-niciodata-video-1922402702002026110022921404"
     }
    ]
   },
@@ -178,6 +222,10 @@
     {
      "name": "B1 TV",
      "url": "https://www.b1tv.ro/eveniment/controverse-la-botezul-fiului-lui-alfred-simonis-blana-de-17-000-de-euro-a-iubitei-lui-marcel-ciolacu-a-atras-toate-privirile-cum-explica-fostul-premier-pretul-hainei-1746062.html"
+    },
+    {
+     "name": "Gândul",
+     "url": "https://www.gandul.ro/actualitate/marcel-ciolacu-sorina-docuz-haina-blana-istanbul-botez-simonis-21052015"
     }
    ]
   },
@@ -218,6 +266,24 @@
    ]
   },
   {
+   "id": "auto-b95d811408ce",
+   "title": "Panică în Ucraina după o alertă nucleară transmisă populației. Autoritățile anunță un posibil atac cibernetic ce a vizat aplicația de alerte",
+   "title_ro": "Panică în Ucraina după o alertă nucleară transmisă populației. Autoritățile anunță un posibil atac cibernetic ce a vizat aplicația de alerte",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "security",
+   "region": "europe",
+   "place": "Ukraine",
+   "place_ro": "Ucraina",
+   "publishedAt": "2026-11-01T22:44:11Z",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/externe/panica-in-ucraina-dupa-o-alerta-nucleara-transmisa-populatiei-autoritatile-anunta-un-posibil-atac-cibernetic-ce-a-vizat-aplicatia-de-alerte-23835505"
+    }
+   ]
+  },
+  {
    "id": "auto-d439f801519f",
    "title": "UPDATE - Moment istoric în Formula 1: Antonelli a devenit cel mai tânăr campion mondial de F1 / Italianul a plâns la final: \"Am reuşit!\" - VIDEO",
    "title_ro": "UPDATE - Moment istoric în Formula 1: Antonelli a devenit cel mai tânăr campion mondial de F1 / Italianul a plâns la final: \"Am reuşit!\" - VIDEO",
@@ -250,6 +316,10 @@
     {
      "name": "Mediafax",
      "url": "https://www.mediafax.ro/externe/video-tragedie-aviatica-in-sua-noua-morti-dupa-ce-un-avion-privat-s-a-prabusit-si-a-explodat-in-florida-ultimele-cuvinte-ale-pilotului-ne-vom-izbi-de-pamant-23835501"
+    },
+    {
+     "name": "News.ro",
+     "url": "https://www.news.ro/externe/update-un-avion-privat-cu-noua-persoane-la-bord-s-a-prabusit-si-a-fost-cuprins-de-flacari-in-florida-1922402901002026112322921188"
     }
    ]
   },
@@ -8548,6 +8618,10 @@
     {
      "name": "News.ro",
      "url": "https://www.news.ro/externe/washingtonul-nu-este-implicat-in-mod-direct-in-fuga-lui-flavio-bolsonaro-in-sua-da-asigurari-rubio-1922405201002026111022917085"
+    },
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/externe/sua/marco-rubio-neaga-o-implicare-directa-a-washingotnului-in-fuga-lui-flavio-bolsonaro-din-brazilia-4016915"
     }
    ]
   },
@@ -11640,6 +11714,10 @@
     {
      "name": "Libertatea",
      "url": "https://www.libertatea.ro/stiri/surpriza-la-congresul-usr-in-care-s-a-decis-noul-birou-national-clotilde-armand-nu-va-mai-fi-in-conducerea-partidului-lui-dominic-fritz-c67vy9d"
+    },
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/actualitate/politica/congres-in-usr-partidul-isi-alege-cei-24-de-membri-ai-consiliului-national-ce-rol-are-forul-de-conducere-4015901"
     }
    ]
   },
@@ -12556,6 +12634,24 @@
    ]
   },
   {
+   "id": "auto-839d268d2511",
+   "title": "USR și-a ales noua conducere, la Timișoara. Radu Miruță, Diana Buzoianu și Dan Barna, printre vicepreședinți",
+   "title_ro": "USR și-a ales noua conducere, la Timișoara. Radu Miruță, Diana Buzoianu și Dan Barna, printre vicepreședinți",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "politics",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-10-31T20:07:13Z",
+   "sources": [
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/stiri/politic/usr-si-a-ales-noua-conducere-la-timisoara-radu-miruta-diana-buzoianu-si-dan-barna-printre-vicepresedinti.html"
+    }
+   ]
+  },
+  {
    "id": "auto-8f5cad328f09",
    "title": "Tensiuni majore în Polonia, la Curtea Constituțională: Președintele Nawrocki a forțat intrarea",
    "title_ro": "Tensiuni majore în Polonia, la Curtea Constituțională: Președintele Nawrocki a forțat intrarea",
@@ -13410,78 +13506,6 @@
     {
      "name": "HotNews",
      "url": "https://hotnews.ro/romania-contribuie-concret-la-edificarea-nato-3-0-mesajul-ministrului-de-externe-dupa-incursiunea-dronelor-in-spatiul-aerian-romanesc-2391657"
-    }
-   ]
-  },
-  {
-   "id": "auto-bfe20b742310",
-   "title": "Ministrul Muncii, despre indexarea pensiilor: Ultima estimare pe care am avut-o era undeva la 7,3% şi 9,6 miliarde impactul / Nu vreau să vând iluzii, dar nici nu vreau să cedez din drepturile pensionarilor / Nu am nicio simulare despre două tranşe",
-   "title_ro": "Ministrul Muncii, despre indexarea pensiilor: Ultima estimare pe care am avut-o era undeva la 7,3% şi 9,6 miliarde impactul / Nu vreau să vând iluzii, dar nici nu vreau să cedez din drepturile pensionarilor / Nu am nicio simulare despre două tranşe",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "politics",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-10-31T18:43:00Z",
-   "sources": [
-    {
-     "name": "News.ro",
-     "url": "https://www.news.ro/politic-intern/ministrul-muncii-indexarea-pensiilor-ultima-estimare-avut-era-undeva-7-3-9-6-miliarde-impactul-vreau-vand-iluzii-nici-vreau-cedez-drepturile-pensionarilor-nicio-simulare-doua-transe-1922404331002026102022915009"
-    }
-   ]
-  },
-  {
-   "id": "auto-6b4493a2d8ac",
-   "title": "Bogdan Andone a răbufnit după meciul cu Corvinul: „Nedrept! Nu ne-au pus niciun fel de probleme”",
-   "title_ro": "Bogdan Andone a răbufnit după meciul cu Corvinul: „Nedrept! Nu ne-au pus niciun fel de probleme”",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "sport",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-10-31T18:41:11Z",
-   "sources": [
-    {
-     "name": "HotNews",
-     "url": "https://hotnews.ro/bogdan-andone-a-rabufnit-dupa-meciul-cu-corvinul-nedrept-nu-ne-au-pus-niciun-fel-de-probleme-2391646"
-    }
-   ]
-  },
-  {
-   "id": "auto-f1441e0294a7",
-   "title": "Ministrul Muncii: Odată cu pensia vine şi acel sprijin pentru pensionari. Se va primi jumătate din cuantum stabilit la începutul anului",
-   "title_ro": "Ministrul Muncii: Odată cu pensia vine şi acel sprijin pentru pensionari. Se va primi jumătate din cuantum stabilit la începutul anului",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "politics",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-10-31T18:32:00Z",
-   "sources": [
-    {
-     "name": "News.ro",
-     "url": "https://www.news.ro/social/ministrul-muncii-odata-cu-pensia-vine-si-acel-sprijin-pentru-pensionari-se-va-primi-jumatate-din-cuantum-stabilit-la-inceputul-anului-1922403231002026102022915005"
-    }
-   ]
-  },
-  {
-   "id": "auto-6cc640b62a9c",
-   "title": "Ștefan Radu Oprea: Una dintre drone a părăsit țara, cealaltă a fost observată ultima dată între Vaslui și Bacău",
-   "title_ro": "Ștefan Radu Oprea: Una dintre drone a părăsit țara, cealaltă a fost observată ultima dată între Vaslui și Bacău",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "politics",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-10-31T18:26:47Z",
-   "sources": [
-    {
-     "name": "Mediafax",
-     "url": "https://www.mediafax.ro/politic/stefan-radu-oprea-una-dintre-drone-a-parasit-tara-cealalta-a-fost-observata-ultima-data-intre-vaslui-si-bacau-23835233"
     }
    ]
   }
