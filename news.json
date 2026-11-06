@@ -1,6 +1,114 @@
 {
- "lastRun": "2026-11-05T23:53:05Z",
+ "lastRun": "2026-11-06T01:23:00Z",
  "stories": [
+  {
+   "id": "auto-6659bcb9b725",
+   "title": "Donald Trump spune că un acord pentru încheierea războiului din Ucraina este aproape, după o întâlnire cu emisarul lui Putin",
+   "title_ro": "Donald Trump spune că un acord pentru încheierea războiului din Ucraina este aproape, după o întâlnire cu emisarul lui Putin",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "security",
+   "region": "europe",
+   "place": "Ukraine",
+   "place_ro": "Ucraina",
+   "publishedAt": "2026-11-06T01:18:36Z",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/externe/donald-trump-spune-ca-un-acord-pentru-incheierea-razboiului-din-ucraina-este-aproape-dupa-o-intalnire-cu-emisarul-lui-putin-23838467"
+    }
+   ]
+  },
+  {
+   "id": "auto-e61988c40b48",
+   "title": "Marco Rubio respinge informațiile privind o posibilă demisie și spune că intenționează să rămână în administrația Trump până la finalul mandatului",
+   "title_ro": "Marco Rubio respinge informațiile privind o posibilă demisie și spune că intenționează să rămână în administrația Trump până la finalul mandatului",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "world",
+   "region": "world",
+   "place": "US",
+   "place_ro": "SUA",
+   "publishedAt": "2026-11-06T00:49:53Z",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/externe/marco-rubio-respinge-informatiile-privind-o-posibila-demisie-si-spune-ca-intentioneaza-sa-ramana-in-administratia-trump-pana-la-finalul-mandatului-23838465"
+    }
+   ]
+  },
+  {
+   "id": "auto-c67c395b32b1",
+   "title": "Lewis Hamilton este nemulțumit de lipsa discuțiilor cu Ferrari după incidentul cu Charles Leclerc din Marele Premiu al Mexicului",
+   "title_ro": "Lewis Hamilton este nemulțumit de lipsa discuțiilor cu Ferrari după incidentul cu Charles Leclerc din Marele Premiu al Mexicului",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "sport",
+   "region": "world",
+   "place": "Mexico",
+   "place_ro": "Mexic",
+   "publishedAt": "2026-11-06T00:39:34Z",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/sport/lewis-hamilton-este-nemultumit-de-lipsa-discutiilor-cu-ferrari-dupa-incidentul-cu-charles-leclerc-din-marele-premiu-al-mexicului-23838461"
+    }
+   ]
+  },
+  {
+   "id": "auto-01f78e29b190",
+   "title": "Donald Trump dă vina pe democrați pentru prăbușirea burselor americane după alegerile intermediare",
+   "title_ro": "Donald Trump dă vina pe democrați pentru prăbușirea burselor americane după alegerile intermediare",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "politics",
+   "region": "world",
+   "place": "US",
+   "place_ro": "SUA",
+   "publishedAt": "2026-11-06T00:29:41Z",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/externe/donald-trump-da-vina-pe-democrati-pentru-prabusirea-burselor-americane-dupa-alegerile-intermediare-23838459"
+    }
+   ]
+  },
+  {
+   "id": "auto-e0f80b8c9e0d",
+   "title": "Trump clasează Biroul Oval ”monument istoric”",
+   "title_ro": "Trump clasează Biroul Oval ”monument istoric”",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "world",
+   "region": "world",
+   "place": "US",
+   "place_ro": "SUA",
+   "publishedAt": "2026-11-06T00:08:00Z",
+   "sources": [
+    {
+     "name": "News.ro",
+     "url": "https://www.news.ro/externe/trump-claseaza-biroul-oval-monument-istoric-1922400806002026110222950803"
+    }
+   ]
+  },
+  {
+   "id": "auto-a788d5293acb",
+   "title": "Zelenski cere adaptarea rapidă a Ucrainei la noua configurație politică din SUA și avertizează asupra deficitului de rachete Patriot",
+   "title_ro": "Zelenski cere adaptarea rapidă a Ucrainei la noua configurație politică din SUA și avertizează asupra deficitului de rachete Patriot",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "sport",
+   "region": "europe",
+   "place": "Ukraine",
+   "place_ro": "Ucraina",
+   "publishedAt": "2026-11-06T00:04:27Z",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/externe/zelenski-cere-adaptarea-rapida-a-ucrainei-la-noua-configuratie-politica-din-sua-si-avertizeaza-asupra-deficitului-de-rachete-patriot-23838457"
+    }
+   ]
+  },
   {
    "id": "auto-d716681ab020",
    "title": "U-BT Cluj pierde în deplasare cu La Laguna Tenerife, în EuroCup. Al patrulea eșec al clujenilor, în șase meciuri",
@@ -2124,6 +2232,10 @@
     {
      "name": "Știrile ProTV",
      "url": "https://stirileprotv.ro/stiri/sport/selec-ionerul-portughez-a-vorbit-despre-retragerea-lui-cristiano-ronaldo-din-echipa-na-ionala-va-ramane-mereu-un-reper.html"
+    },
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/sport/fotbal/cristiano-ronaldo-si-a-anuntat-retragerea-din-nationala-de-fotbal-a-portugaliei-bilantul-lui-cr7-4023115"
     }
    ]
   },
@@ -13134,114 +13246,6 @@
     {
      "name": "Libertatea",
      "url": "https://www.libertatea.ro/stiri/la-1500-de-metri-sub-pacific-o-centrala-geotermala-a-produs-mai-mult-curent-decat-consuma-folosind-caldura-unui-vulcan-activ-836mhbw"
-    }
-   ]
-  },
-  {
-   "id": "auto-30c51609c2d6",
-   "title": "Cum a fost sancționat postul de televiziune B1 TV după ce un invitat l-a numit pe George Simion „bulibaşa de la AUR”",
-   "title_ro": "Cum a fost sancționat postul de televiziune B1 TV după ce un invitat l-a numit pe George Simion „bulibaşa de la AUR”",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "politics",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-05T11:30:45Z",
-   "sources": [
-    {
-     "name": "Gândul",
-     "url": "https://www.gandul.ro/actualitate/cum-a-fost-sanctionat-postul-de-televiziune-b1-tv-dupa-ce-un-invitat-l-a-numit-pe-george-simion-bulibasa-de-la-aur-21055884"
-    }
-   ]
-  },
-  {
-   "id": "auto-89ea6d3e451e",
-   "title": "Războiul dintre Dan Air și Netopia escaladează: compania aviatică a anulat biletele de avion pentru care procesatorul de plăți a reținut 900.000 de euro și îndeamnă oamenii să-și recupereze banii de la acesta",
-   "title_ro": "Războiul dintre Dan Air și Netopia escaladează: compania aviatică a anulat biletele de avion pentru care procesatorul de plăți a reținut 900.000 de euro și îndeamnă oamenii să-și recupereze banii de la acesta",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "security",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-05T11:30:41Z",
-   "sources": [
-    {
-     "name": "HotNews",
-     "url": "https://hotnews.ro/razboiul-dintre-dan-air-si-netopia-escaladeaza-compania-aviatica-a-anulat-biletele-de-avion-pentru-care-procesatorul-de-plati-a-retinut-900-000-de-euro-si-indeamna-oamenii-sa-si-recupereze-banii-de-l-2395723"
-    }
-   ]
-  },
-  {
-   "id": "auto-62d9dda9ddc7",
-   "title": "Anca Țurcașiu pleacă două luni din România: „Pentru prima oară am luat biletele doar pentru dus\"",
-   "title_ro": "Anca Țurcașiu pleacă două luni din România: „Pentru prima oară am luat biletele doar pentru dus\"",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "economy",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-05T11:30:19Z",
-   "sources": [
-    {
-     "name": "Libertatea",
-     "url": "https://www.libertatea.ro/entertainment/unde-pleaca-anca-turcasiu-in-vacanta-gy6fecs"
-    }
-   ]
-  },
-  {
-   "id": "auto-8878afd3a897",
-   "title": "Cum verifici când expiră ITP-ul mașinii. Unde găsești data și ce riști dacă circuli cu inspecția expirată",
-   "title_ro": "Cum verifici când expiră ITP-ul mașinii. Unde găsești data și ce riști dacă circuli cu inspecția expirată",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "economy",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-05T11:30:06Z",
-   "sources": [
-    {
-     "name": "Știrile ProTV",
-     "url": "https://stirileprotv.ro/divers/cum-verifici-cand-expira-itp-ul-masinii-unde-gasesti-data-si-ce-risti-daca-circuli-cu-inspectia-expirata.html"
-    }
-   ]
-  },
-  {
-   "id": "auto-67fe8237620e",
-   "title": "Allan Lichtman, istoric american: „Înfrângerea lui Donald Trump este un semn că mișcările autoritare și extremiste încep să se reducă masiv. România nu va fi izolată de această tendință”",
-   "title_ro": "Allan Lichtman, istoric american: „Înfrângerea lui Donald Trump este un semn că mișcările autoritare și extremiste încep să se reducă masiv. România nu va fi izolată de această tendință”",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "world",
-   "region": "world",
-   "place": "US",
-   "place_ro": "SUA",
-   "publishedAt": "2026-11-05T11:30:02Z",
-   "sources": [
-    {
-     "name": "Libertatea",
-     "url": "https://www.libertatea.ro/stiri/allan-lichtman-istoric-american-infrangerea-lui-donald-trump-este-un-semn-ca-miscarile-autoritare-si-extremiste-incep-sa-se-reduca-masiv-romania-nu-va-fi-izolata-de-aceasta-tendinta-mb46cty"
-    }
-   ]
-  },
-  {
-   "id": "auto-50c6a9a4bb6f",
-   "title": "Chișinăul adoptă sancțiuni împotriva liderului separatist de la Tiraspol, după ce a fost decorat de Putin la Moscova: „Este o provocare”",
-   "title_ro": "Chișinăul adoptă sancțiuni împotriva liderului separatist de la Tiraspol, după ce a fost decorat de Putin la Moscova: „Este o provocare”",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "world",
-   "region": "europe",
-   "place": "Russia",
-   "place_ro": "Rusia",
-   "publishedAt": "2026-11-05T11:28:34Z",
-   "sources": [
-    {
-     "name": "HotNews",
-     "url": "https://hotnews.ro/chisinaul-adopta-sanctiuni-impotriva-liderului-separatist-de-la-tiraspol-dupa-ce-a-fost-decorat-de-putin-la-moscova-este-o-provocare-2395726"
     }
    ]
   }
