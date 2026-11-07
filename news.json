@@ -1,6 +1,114 @@
 {
- "lastRun": "2026-11-07T02:58:55Z",
+ "lastRun": "2026-11-07T03:59:41Z",
  "stories": [
+  {
+   "id": "auto-9f017cd8587b",
+   "title": "Rusia lansează un val de rachete balistice asupra Kievului: două persoane rănite, locuinţe şi o grădiniţă avariate",
+   "title_ro": "Rusia lansează un val de rachete balistice asupra Kievului: două persoane rănite, locuinţe şi o grădiniţă avariate",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "security",
+   "region": "europe",
+   "place": "Russia",
+   "place_ro": "Rusia",
+   "publishedAt": "2026-11-07T03:49:18Z",
+   "sources": [
+    {
+     "name": "News.ro",
+     "url": "https://www.news.ro/externe/rusia-lanseaza-un-val-de-rachete-balistice-asupra-kievului-doua-persoane-ranite-locuinte-si-o-gradinita-avariate-1922404907182026110522958384"
+    }
+   ]
+  },
+  {
+   "id": "auto-b7865ae9c70c",
+   "title": "The Washington Post: Guvernatorul Floridei, Ron DeSantis, intenţionează să candideze din nou la Casa Albă",
+   "title_ro": "The Washington Post: Guvernatorul Floridei, Ron DeSantis, intenţionează să candideze din nou la Casa Albă",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "politics",
+   "region": "world",
+   "place": "US",
+   "place_ro": "SUA",
+   "publishedAt": "2026-11-07T03:45:00Z",
+   "sources": [
+    {
+     "name": "News.ro",
+     "url": "https://www.news.ro/externe/the-washington-post-guvernatorul-floridei-ron-desantis-intentioneaza-sa-candideze-din-nou-la-casa-alba-1922404507002026110522958263"
+    }
+   ]
+  },
+  {
+   "id": "auto-60f6057a06b8",
+   "title": "Peste 5.000 de cazuri de rujeolă înregistrate în Statele Unite, o premieră în ultimii 35 de ani",
+   "title_ro": "Peste 5.000 de cazuri de rujeolă înregistrate în Statele Unite, o premieră în ultimii 35 de ani",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "politics",
+   "region": "world",
+   "place": "US",
+   "place_ro": "SUA",
+   "publishedAt": "2026-11-07T03:30:00Z",
+   "sources": [
+    {
+     "name": "News.ro",
+     "url": "https://www.news.ro/externe/peste-5-000-de-cazuri-de-rujeola-inregistrate-in-statele-unite-o-premiera-in-ultimii-35-de-ani-1922403007002026110522958223"
+    }
+   ]
+  },
+  {
+   "id": "auto-3c3dc7e7ced0",
+   "title": "Habibi PAC, surpriza primului musulman ales senator în SUA. Ce pregătește politicianul",
+   "title_ro": "Habibi PAC, surpriza primului musulman ales senator în SUA. Ce pregătește politicianul",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "politics",
+   "region": "world",
+   "place": "US",
+   "place_ro": "SUA",
+   "publishedAt": "2026-11-07T03:29:29Z",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/externe/habibi-pac-surpriza-primului-musulman-ales-senator-in-sua-ce-pregateste-politicianul-23839099"
+    }
+   ]
+  },
+  {
+   "id": "auto-1f7dad32576f",
+   "title": "OpenAI va continua investiţiile în centre de date pentru inteligenţă artificială, în pofida opoziţiei alegătorilor americani",
+   "title_ro": "OpenAI va continua investiţiile în centre de date pentru inteligenţă artificială, în pofida opoziţiei alegătorilor americani",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "economy",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-07T03:15:00Z",
+   "sources": [
+    {
+     "name": "News.ro",
+     "url": "https://www.news.ro/economic/openai-va-continua-investitiile-in-centre-de-date-pentru-inteligenta-artificiala-in-pofida-opozitiei-alegatorilor-americani-1922401507002026110522957068"
+    }
+   ]
+  },
+  {
+   "id": "auto-475c0bde1df6",
+   "title": "Cum a scăpat de Poliție femeia care administrează, din umbră, banii fraților Tate",
+   "title_ro": "Cum a scăpat de Poliție femeia care administrează, din umbră, banii fraților Tate",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "security",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-07T03:00:44Z",
+   "sources": [
+    {
+     "name": "Gândul",
+     "url": "https://www.gandul.ro/actualitate/cum-a-scapat-de-politie-femeia-care-administreaza-din-umbra-banii-fratilor-tate-21057075"
+    }
+   ]
+  },
   {
    "id": "auto-151892768bf0",
    "title": "Președintele Paraguayului, destituit și arestat la domiciliu. Trei milioane de oameni nu își pot retrage banii din banca la care a fost acționar",
@@ -3172,6 +3280,10 @@
     {
      "name": "Ziarul Financiar",
      "url": "https://www.zf.ro/eveniment/surpriza-pe-piata-muncii-din-sua-165-000-de-locuri-de-munca-noi-de-aproape-trei-ori-peste-estimari-randamentul-titlurilor-americane-pe-10-ani-sare-la-4-868-23276316"
+    },
+    {
+     "name": "News.ro",
+     "url": "https://www.news.ro/economic/economia-sua-a-creat-165-000-de-locuri-de-munca-in-octombrie-aproape-de-trei-ori-peste-estimari-somajul-a-scazut-la-4-1-1922400007002026110522957063"
     }
    ]
   },
@@ -13230,142 +13342,6 @@
     {
      "name": "B1 TV",
      "url": "https://www.b1tv.ro/eveniment/evenimente-in-bucuresti-si-marile-orase-in-weekendul-7-8-noiembrie-2026-concerte-festivaluri-teatru-si-film-1747597.html"
-    }
-   ]
-  },
-  {
-   "id": "auto-73103f62c0ee",
-   "title": "Austeritatea i-a lăsat pe români fără bani. Vânzările de alimente și carburanți au scăzut cu peste 6% în septembrie",
-   "title_ro": "Austeritatea i-a lăsat pe români fără bani. Vânzările de alimente și carburanți au scăzut cu peste 6% în septembrie",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "energy",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-06T09:08:08Z",
-   "sources": [
-    {
-     "name": "B1 TV",
-     "url": "https://www.b1tv.ro/economic/comert-romania-scadere-vanzari-alimente-carburanti-septembrie-2026-1747574.html"
-    }
-   ]
-  },
-  {
-   "id": "auto-2fc221d6a0bc",
-   "title": "România, dublu record negativ la curent electric: cea mai mare scumpire din UE și cel mai ridicat preț raportat la puterea de cumpărare",
-   "title_ro": "România, dublu record negativ la curent electric: cea mai mare scumpire din UE și cel mai ridicat preț raportat la puterea de cumpărare",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "energy",
-   "region": "europe",
-   "place": "EU",
-   "place_ro": "UE",
-   "publishedAt": "2026-11-06T09:08:08Z",
-   "sources": [
-    {
-     "name": "B1 TV",
-     "url": "https://www.b1tv.ro/economic/romania-scumpire-curent-electric-eurostat-2026-1747589.html"
-    }
-   ]
-  },
-  {
-   "id": "auto-9bf229b7c8d7",
-   "title": "Centrala nucleară de la Cernavodă repornește după peste trei luni. Primul reactor a fost pus în funcțiune, dar Unitatea 2 rămâne blocată de seceta Dunării",
-   "title_ro": "Centrala nucleară de la Cernavodă repornește după peste trei luni. Primul reactor a fost pus în funcțiune, dar Unitatea 2 rămâne blocată de seceta Dunării",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "energy",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-06T09:08:08Z",
-   "sources": [
-    {
-     "name": "B1 TV",
-     "url": "https://www.b1tv.ro/economic/centrala-cernavoda-repornire-unitatea-1-6-noiembrie-2026-1747571.html"
-    }
-   ]
-  },
-  {
-   "id": "auto-44431c3a59c4",
-   "title": "„Nu paria totul pe democrați!”. Avertismentul unui fost oficial britanic după alegerile din SUA",
-   "title_ro": "„Nu paria totul pe democrați!”. Avertismentul unui fost oficial britanic după alegerile din SUA",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "politics",
-   "region": "world",
-   "place": "US",
-   "place_ro": "SUA",
-   "publishedAt": "2026-11-06T09:07:44Z",
-   "sources": [
-    {
-     "name": "Mediafax",
-     "url": "https://www.mediafax.ro/externe/nu-paria-totul-pe-democrati-avertismentul-unui-fost-oficial-britanic-dupa-alegerile-din-sua-23838524"
-    }
-   ]
-  },
-  {
-   "id": "auto-ce90d98149ac",
-   "title": "Luca Niculescu, despre relația Guvern - mediu de afaceri: Propun trei direcții prin care să demonstrăm că lucrurile se pot schimba",
-   "title_ro": "Luca Niculescu, despre relația Guvern - mediu de afaceri: Propun trei direcții prin care să demonstrăm că lucrurile se pot schimba",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "politics",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-06T09:05:48Z",
-   "sources": [
-    {
-     "name": "Digi24",
-     "url": "https://www.digi24.ro/stiri/actualitate/politica/luca-niculescu-despre-relatia-guvern-mediul-de-afaceri-propun-trei-directii-prin-care-sa-demonstram-ca-lucrurile-se-pot-schimba-4024411"
-    }
-   ]
-  },
-  {
-   "id": "auto-f439d0619994",
-   "title": "Cod galben de vânt puternic pentru șase județe din Moldova",
-   "title_ro": "Cod galben de vânt puternic pentru șase județe din Moldova",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "world",
-   "region": "europe",
-   "place": "Moldova",
-   "place_ro": "Republica Moldova",
-   "publishedAt": "2026-11-06T09:05:00Z",
-   "sources": [
-    {
-     "name": "Digi24",
-     "url": "https://www.digi24.ro/meteo/cod-galben-de-vant-puternic-pentru-sase-judete-din-moldova-4024377"
-    },
-    {
-     "name": "HotNews",
-     "url": "https://hotnews.ro/cod-galben-de-vant-puternic-in-sase-judete-cum-e-vremea-la-bucuresti-2396567"
-    },
-    {
-     "name": "G4Media",
-     "url": "https://www.g4media.ro/cod-galben-de-vant-in-sase-judete-rafalele-vor-ajunge-la-60-km-h.html"
-    },
-    {
-     "name": "Știrile ProTV",
-     "url": "https://stirileprotv.ro/stiri/actualitate/cod-galben-de-vant-puternic-in-sase-judete-din-tara-anm-a-trimis-o-atentionare-de-vreme-rea.html"
-    },
-    {
-     "name": "Mediafax",
-     "url": "https://www.mediafax.ro/meteo/cod-galben-de-vant-in-sase-judete-din-romania-rafalele-vor-ajunge-la-60-km-h-cat-este-valabila-avertizarea-anm-23838555"
-    },
-    {
-     "name": "News.ro",
-     "url": "https://www.news.ro/eveniment/cod-galben-de-vant-puternic-pana-la-ora-18-00-in-judetele-botosani-iasi-vaslui-si-zona-joasa-a-judetelor-suceava-neamt-si-bacau-vremea-in-bucuresti-1922404206252026111022952424"
-    },
-    {
-     "name": "B1 TV",
-     "url": "https://www.b1tv.ro/meteo/cod-galben-vant-sase-judete-rafale-60-kmh-anm-1747613.html"
-    },
-    {
-     "name": "Libertatea",
-     "url": "https://www.libertatea.ro/stiri/sase-judete-avertizare-vreme-severa-vineri-anm-cod-galben-vant-rafale-60-km-ora-6-noiembrie-2026-92q0kn9"
     }
    ]
   }
