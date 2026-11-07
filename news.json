@@ -1,6 +1,42 @@
 {
- "lastRun": "2026-11-06T23:48:50Z",
+ "lastRun": "2026-11-07T01:13:48Z",
  "stories": [
+  {
+   "id": "auto-bacf48383269",
+   "title": "Două rachete au lovit o insulă din sudul Iranului. Explozii în zona Strâmtorii Ormuz",
+   "title_ro": "Două rachete au lovit o insulă din sudul Iranului. Explozii în zona Strâmtorii Ormuz",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "security",
+   "region": "world",
+   "place": "Iran",
+   "place_ro": "Iran",
+   "publishedAt": "2026-11-07T00:55:35Z",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/externe/doua-rachete-au-lovit-o-insula-din-sudul-iranului-explozii-in-zona-stramtorii-ormuz-23839080"
+    }
+   ]
+  },
+  {
+   "id": "auto-768b78c956a9",
+   "title": "O înțepătură de țânțar i-a fost fatală. Student francez, ucis de febra dengue",
+   "title_ro": "O înțepătură de țânțar i-a fost fatală. Student francez, ucis de febra dengue",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "world",
+   "region": "world",
+   "place": "World",
+   "place_ro": "Lume",
+   "publishedAt": "2026-11-07T00:01:14Z",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/externe/o-intepatura-de-tantar-i-a-fost-fatala-student-francez-ucis-de-febra-dengue-23839077"
+    }
+   ]
+  },
   {
    "id": "auto-18aad40ad6ef",
    "title": "Bursele americane își revin. Acțiunile companiilor de inteligență artificială cresc din nou",
@@ -2706,6 +2742,24 @@
     {
      "name": "Mediafax",
      "url": "https://www.mediafax.ro/politic/masuri-speciale-pentru-referendumul-din-rasinari-privind-exploatarea-miniera-de-pe-valea-dobra-23838994"
+    }
+   ]
+  },
+  {
+   "id": "auto-847548aa9d90",
+   "title": "Trump anunță un posibil acord major cu Putin, care ar putea implica întreaga Europă. Ce a discutat cu emisarul Kremlinului",
+   "title_ro": "Trump anunță un posibil acord major cu Putin, care ar putea implica întreaga Europă. Ce a discutat cu emisarul Kremlinului",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "economy",
+   "region": "europe",
+   "place": "Russia",
+   "place_ro": "Rusia",
+   "publishedAt": "2026-11-06T18:09:40Z",
+   "sources": [
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/stiri/international/trump-anunta-un-posibil-acord-major-cu-putin-care-ar-putea-implica-intreaga-europa-ce-a-discutat-cu-emisarul-kremlinului.html"
     }
    ]
   },
@@ -13320,72 +13374,6 @@
     {
      "name": "News.ro",
      "url": "https://www.news.ro/entertainment/copilul-noptii-horrorul-nordic-premiat-la-fantasia-ajunge-in-cinematografe-video-1922400106102026111122952386"
-    }
-   ]
-  },
-  {
-   "id": "auto-b466733d646c",
-   "title": "PNL nu susţine modificarea legii partidelor politice în forma prezentată de AEP: Un proiect de lege propus de o instituţie condusă de un reprezentant PSD şi iniţiat de un guvern al PSD va reflecta interesele electorale ale acestui partid",
-   "title_ro": "PNL nu susţine modificarea legii partidelor politice în forma prezentată de AEP: Un proiect de lege propus de o instituţie condusă de un reprezentant PSD şi iniţiat de un guvern al PSD va reflecta interesele electorale ale acestui partid",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "politics",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-06T09:01:00Z",
-   "sources": [
-    {
-     "name": "News.ro",
-     "url": "https://www.news.ro/politic-intern/pnl-sustine-modificarea-legii-partidelor-politice-forma-prezentata-aep-proiect-lege-propus-institutie-condusa-reprezentant-psd-initiat-guvern-psd-reflecta-interesele-electorale-acestui-partid-1922400106002026111122952483"
-    },
-    {
-     "name": "G4Media",
-     "url": "https://www.g4media.ro/pnl-respinge-modificarea-legii-partidelor-de-catre-aep-este-inacceptabil-un-proiect-propus-de-o-institutie-condusa-de-un-reprezentant-psd-si-initiat-de-un-guvern-al-psd-va-reflecta-interesele-electo.html"
-    },
-    {
-     "name": "Mediafax",
-     "url": "https://www.mediafax.ro/politic/pnl-respinge-modificarea-legii-partidelor-politice-propusa-de-aep-va-reflecta-interesele-electorale-ale-psd-23838600"
-    },
-    {
-     "name": "Digi24",
-     "url": "https://www.digi24.ro/stiri/actualitate/politica/replica-aep-la-acuzatiile-pnl-privind-favorizarea-psd-prin-modificarea-legii-partidelor-politice-4025433"
-    }
-   ]
-  },
-  {
-   "id": "auto-44590c5e3382",
-   "title": "Medicul psihiatru Maria Cristache neagă acuzaţiile privind presupuse consultaţii fictive decontate de CJAS Buzău: Toate sunt trecute prin 112/ Ea se află sub control judiciar pentru înşelăciune, fals în înscrisuri oficiale şi instigare la fals informatic",
-   "title_ro": "Medicul psihiatru Maria Cristache neagă acuzaţiile privind presupuse consultaţii fictive decontate de CJAS Buzău: Toate sunt trecute prin 112/ Ea se află sub control judiciar pentru înşelăciune, fals în înscrisuri oficiale şi instigare la fals informatic",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "economy",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-06T09:00:41Z",
-   "sources": [
-    {
-     "name": "News.ro",
-     "url": "https://www.news.ro/social/sanatate/medicul-psihiatru-maria-cristache-neaga-acuzatiile-privind-presupuse-consultatii-fictive-decontate-cjas-buzau-toate-trecute-112-afla-control-judiciar-inselaciune-fals-inscrisuri-oficiale-instigare-1922400006412026111122952503"
-    }
-   ]
-  },
-  {
-   "id": "auto-ac6a4396ffc9",
-   "title": "Jurnal românesc – 06.11.2026",
-   "title_ro": "Jurnal românesc – 06.11.2026",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "economy",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-06T09:00:28Z",
-   "sources": [
-    {
-     "name": "Radio Romania International",
-     "url": "https://www.rri.ro/actualitate/jurnal-romanesc/jurnal-romanesc-06-11-2026-id1080270.html"
     }
    ]
   }
