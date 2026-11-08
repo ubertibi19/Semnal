@@ -1,6 +1,42 @@
 {
- "lastRun": "2026-11-07T23:45:23Z",
+ "lastRun": "2026-11-08T01:18:26Z",
  "stories": [
+  {
+   "id": "auto-99d7fc703dc3",
+   "title": "Cutremur puternic în Japonia. Noi seisme sunt așteptate în zilele următoare",
+   "title_ro": "Cutremur puternic în Japonia. Noi seisme sunt așteptate în zilele următoare",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "world",
+   "region": "world",
+   "place": "Japan",
+   "place_ro": "Japonia",
+   "publishedAt": "2026-11-08T01:06:32Z",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/externe/cutremur-puternic-in-japonia-noi-seisme-sunt-asteptate-in-zilele-urmatoare23839526-23839526"
+    }
+   ]
+  },
+  {
+   "id": "auto-dd370a790311",
+   "title": "Prima lovitură politică pentru Netanyahu. Rivalul său, desemnat să formeze noul guvern al Israelului",
+   "title_ro": "Prima lovitură politică pentru Netanyahu. Rivalul său, desemnat să formeze noul guvern al Israelului",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "politics",
+   "region": "world",
+   "place": "Israel",
+   "place_ro": "Israel",
+   "publishedAt": "2026-11-07T23:47:50Z",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/externe/prima-lovitura-politica-pentru-netanyahu-rivalul-sau-desemnat-sa-formeze-noul-guvern-al-israelului-23839507"
+    }
+   ]
+  },
   {
    "id": "auto-e275df09dc09",
    "title": "Ghinea crede că Buzoianu ar putea fi prima președintă a României: Are alura, nervii, populismul bun, dracii care te apucă atunci când vezi nedreptăți",
@@ -34,6 +70,10 @@
     {
      "name": "Mediafax",
      "url": "https://www.mediafax.ro/externe/atacatorul-din-cracovia-ultranationalist-si-fascinat-de-extrema-dreapta-nu-avea-antecedente-penale-23839517"
+    },
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/breaking-atac-armat-cu-6-morti-si-15-raniti-in-cracovia-care-lupta-pentru-vietile-lor-doliu-in-oras-pana-miercuri-suspectul-un-polonez-de-extrema-dreapta-ultranationalist-m.html"
     }
    ]
   },
@@ -232,6 +272,10 @@
     {
      "name": "Mediafax",
      "url": "https://www.mediafax.ro/sport/real-madrid-a-opta-victorie-consecutiva-madrilenii-au-egalat-barcelona-la-puncte-dupa-3-0-cu-valencia-23839511"
+    },
+    {
+     "name": "Libertatea",
+     "url": "https://www.libertatea.ro/sport/cine-transmite-valencia-real-madrid-la-tv-la-ce-ora-incepe-meciul-5mr5ps1"
     }
    ]
   },
@@ -1558,6 +1602,24 @@
     {
      "name": "Libertatea",
      "url": "https://www.libertatea.ro/stiri/david-filipas-cel-mai-tanar-somelier-de-ulei-de-masline-din-lume-interviu-pentru-libertatea-sfy20es"
+    }
+   ]
+  },
+  {
+   "id": "auto-0c8e178fb68d",
+   "title": "Ilie Bolojan a explicat ruptura dintre PNL și PSD: „Fixezi ora 6, ei nu vin nici la 8, nu sună să anunţe şi afli la televizor”",
+   "title_ro": "Ilie Bolojan a explicat ruptura dintre PNL și PSD: „Fixezi ora 6, ei nu vin nici la 8, nu sună să anunţe şi afli la televizor”",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "politics",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-07T19:11:58Z",
+   "sources": [
+    {
+     "name": "Libertatea",
+     "url": "https://www.libertatea.ro/stiri/ilie-bolojan-a-explicat-ruptura-dintre-pnl-si-psd-fixezi-ora-6-ei-nu-vin-nici-la-8-nu-suna-sa-anunte-si-afli-la-televizor-br360lz"
     }
    ]
   },
@@ -11846,6 +11908,24 @@
    ]
   },
   {
+   "id": "auto-607e1d9f907f",
+   "title": "O măsură „istorică” în Belgia: Poliţia va putea reţine persoanele fără documente direct la domiciliul acestora",
+   "title_ro": "O măsură „istorică” în Belgia: Poliţia va putea reţine persoanele fără documente direct la domiciliul acestora",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "security",
+   "region": "europe",
+   "place": "Belgium",
+   "place_ro": "Belgia",
+   "publishedAt": "2026-11-07T05:51:04Z",
+   "sources": [
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/stiri/international/o-masura-istorica-in-belgia-poli-ia-va-putea-re-ine-persoanele-fara-documente-direct-la-domiciliul-acestora.html"
+    }
+   ]
+  },
+  {
    "id": "auto-595ba3bad284",
    "title": "Un sat de vacanță de 53,6 milioane de lei, cu 15 clădiri inspirate din poveștile lui Ion Creangă, se construiește în România",
    "title_ro": "Un sat de vacanță de 53,6 milioane de lei, cu 15 clădiri inspirate din poveștile lui Ion Creangă, se construiește în România",
@@ -13422,86 +13502,6 @@
     {
      "name": "News.ro",
      "url": "https://www.news.ro/externe/papa-leon-al-xiv-lea-in-forma-la-inceputul-unui-turneu-intens-in-america-de-sud-1922405407162026111122959865"
-    }
-   ]
-  },
-  {
-   "id": "auto-2faf58cf0dec",
-   "title": "Dâmbovița: Parteneriat inițiat de prefectură cu sindicate, patronate și instituții deconcentrate pentru dezvoltarea economică a județului",
-   "title_ro": "Dâmbovița: Parteneriat inițiat de prefectură cu sindicate, patronate și instituții deconcentrate pentru dezvoltarea economică a județului",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "politics",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-06T22:52:20Z",
-   "sources": [
-    {
-     "name": "Agerpres",
-     "url": "https://agerpres.ro/administratie/2026/11/06/dambovita-parteneriat-initiat-de-prefectura-cu-sindicate-patronate-si-institutii-deconcentrate-pentr--1610983"
-    }
-   ]
-  },
-  {
-   "id": "auto-136ef33b3b98",
-   "title": "Trump îl numește pe consilierul său apropiat Stephen Miller în funcția strategică de șef de cabinet",
-   "title_ro": "Trump îl numește pe consilierul său apropiat Stephen Miller în funcția strategică de șef de cabinet",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "security",
-   "region": "world",
-   "place": "US",
-   "place_ro": "SUA",
-   "publishedAt": "2026-11-06T22:52:20Z",
-   "sources": [
-    {
-     "name": "Agerpres",
-     "url": "https://agerpres.ro/politic-extern/2026/11/06/trump-il-numeste-pe-consilierul-sau-apropiat-stephen-miller-in-functia-strategica-de-sef-de-cabinet--1610978"
-    }
-   ]
-  },
-  {
-   "id": "auto-ee0b96d92fb2",
-   "title": "Un model de limbaj AI, antrenat pe baza limbilor indigene din Mexic, se află în faza de test",
-   "title_ro": "Un model de limbaj AI, antrenat pe baza limbilor indigene din Mexic, se află în faza de test",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "tech",
-   "region": "world",
-   "place": "Mexico",
-   "place_ro": "Mexic",
-   "publishedAt": "2026-11-06T22:52:20Z",
-   "sources": [
-    {
-     "name": "Agerpres",
-     "url": "https://agerpres.ro/zigzag/2026/11/06/un-model-de-limbaj-ai-antrenat-pe-baza-limbilor-indigene-din-mexic-se-afla-in-faza-de-test--1610981"
-    }
-   ]
-  },
-  {
-   "id": "auto-7f5a27a8740d",
-   "title": "Olt: O femeie a fost înjunghiată pe stradă, la Caracal; fostul soț, bănuit de agresiune, în custodia polițiștilor",
-   "title_ro": "Olt: O femeie a fost înjunghiată pe stradă, la Caracal; fostul soț, bănuit de agresiune, în custodia polițiștilor",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "security",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-06T22:52:20Z",
-   "sources": [
-    {
-     "name": "Agerpres",
-     "url": "https://agerpres.ro/justitie/2026/11/06/olt-o-femeie-a-fost-injunghiata-pe-strada-la-caracal-fostul-sot-banuit-de-agresiune-in-custodia-poli--1610977"
-    },
-    {
-     "name": "Gândul",
-     "url": "https://www.gandul.ro/actualitate/o-femeie-a-fost-injunghiata-pe-strada-de-fostul-sot-militar-in-caracal-21057614"
-    },
-    {
-     "name": "Digi24",
-     "url": "https://www.digi24.ro/stiri/actualitate/evenimente/femeie-injunghiata-in-plina-zi-de-sot-pe-o-strada-din-caracal-agresorul-este-un-cadru-militar-4026025"
     }
    ]
   }
