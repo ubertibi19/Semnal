@@ -1,6 +1,60 @@
 {
- "lastRun": "2026-11-11T23:01:08Z",
+ "lastRun": "2026-11-11T23:57:42Z",
  "stories": [
+  {
+   "id": "auto-4fc338d7d148",
+   "title": "O clădire s-a prăbușit în Brooklyn. Echipele de intervenție caută supraviețuitori printre ruine",
+   "title_ro": "O clădire s-a prăbușit în Brooklyn. Echipele de intervenție caută supraviețuitori printre ruine",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "economy",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-11T23:31:23Z",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/social/o-cladire-s-a-prabusit-in-brooklyn-echipele-de-interventie-cauta-supravietuitori-printre-ruine-23841776"
+    }
+   ]
+  },
+  {
+   "id": "auto-675fdecb6f75",
+   "title": "Marşul „patriotic” de la Varşovia a adunat peste 250.000 de persoane - VIDEO",
+   "title_ro": "Marşul „patriotic” de la Varşovia a adunat peste 250.000 de persoane - VIDEO",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "world",
+   "region": "world",
+   "place": "World",
+   "place_ro": "Lume",
+   "publishedAt": "2026-11-11T23:23:47Z",
+   "sources": [
+    {
+     "name": "News.ro",
+     "url": "https://www.news.ro/externe/marsul-patriotic-de-la-varsovia-a-adunat-peste-250-000-de-persoane-video-1922402312472026110122982284"
+    }
+   ]
+  },
+  {
+   "id": "auto-d7bda3252a1c",
+   "title": "Visul spulberat al celor 203 „rezidenți permanenți” de pe vasul de croazieră Odyssey",
+   "title_ro": "Visul spulberat al celor 203 „rezidenți permanenți” de pe vasul de croazieră Odyssey",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "economy",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-11T23:21:01Z",
+   "sources": [
+    {
+     "name": "HotNews",
+     "url": "https://hotnews.ro/visul-spulberat-al-celor-203-rezidenti-permanenti-de-pe-vasul-de-croaziera-odyssey-2401861"
+    }
+   ]
+  },
   {
    "id": "auto-5b071a6c1fc4",
    "title": "Reacție extremă la reforma administrativ-teritorială. Un primar PNL amenință cu MaramuEXIT: „Vom face referendum să ne rupem de România”",
@@ -88,6 +142,10 @@
     {
      "name": "Mediafax",
      "url": "https://www.mediafax.ro/politic/inca-o-surpriza-de-proportii-in-alegerile-sua-un-democrat-a-fost-ales-senator-al-statului-mississippi-23841773"
+    },
+    {
+     "name": "News.ro",
+     "url": "https://www.news.ro/externe/surpriza-alegerile-sua-scott-colom-castiga-cursa-stransa-mississippi-sporind-majoritatea-democrata-senat-55-mandate-primul-democrat-ales-senat-statul-mississippi-dupa-bine-patru-decenii-1922404812262026110122982343"
     }
    ]
   },
@@ -344,6 +402,24 @@
     {
      "name": "Ziarul Financiar",
      "url": "https://www.zf.ro/companii/celco-a-finalizat-investitii-de-30-mil-euro-am-trecut-de-la-operarea-unei-singure-capacitati-de-productie-la-o-structura-industriala-cu-doua-fabrici-prin-prefab-calarasi-23279953"
+    }
+   ]
+  },
+  {
+   "id": "auto-a939fa5e12e7",
+   "title": "Bursă. Finanţe personale. Salt Bank debutează oficial ca participant la Bursa de Valori",
+   "title_ro": "Bursă. Finanţe personale. Salt Bank debutează oficial ca participant la Bursa de Valori",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "economy",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-11T22:07:00Z",
+   "sources": [
+    {
+     "name": "Ziarul Financiar",
+     "url": "https://www.zf.ro/burse-fonduri-mutuale/bursa-finante-personale-salt-bank-debuteaza-oficial-ca-participant-la-bursa-de-valori-23279948"
     }
    ]
   },
@@ -7936,6 +8012,24 @@
    ]
   },
   {
+   "id": "auto-909d817b6fa6",
+   "title": "Cum funcționează chirurgia magnetică, utilizată în premieră europeană de Prof. Dr. Cătălin Copăescu, la Ponderas Academic Hospital",
+   "title_ro": "Cum funcționează chirurgia magnetică, utilizată în premieră europeană de Prof. Dr. Cătălin Copăescu, la Ponderas Academic Hospital",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "politics",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-11T13:53:06Z",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/sanatos-acasa/cum-functioneaza-chirurgia-magnetica-utilizata-in-premiera-europeana-de-prof-dr-catalin-copaescu-la-ponderas-academic-hospital-4031145"
+    }
+   ]
+  },
+  {
    "id": "auto-88abc7d762ef",
    "title": "Care sunt cele mai ieftine 30 de produse alimentare de bază găsite pe rafturile Lidl și cât costă ele",
    "title_ro": "Care sunt cele mai ieftine 30 de produse alimentare de bază găsite pe rafturile Lidl și cât costă ele",
@@ -12922,6 +13016,24 @@
    ]
   },
   {
+   "id": "auto-969155748a20",
+   "title": "Ministra Culturii, la teatru: „Abuzul nu trebuie trecut sub tăcere, relativizat sau tratat cu indiferenţă”",
+   "title_ro": "Ministra Culturii, la teatru: „Abuzul nu trebuie trecut sub tăcere, relativizat sau tratat cu indiferenţă”",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "politics",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-11T10:15:45Z",
+   "sources": [
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/cultura/ministra-culturii-la-teatru-abuzul-nu-trebuie-trecut-sub-tacere-relativizat-sau-tratat-cu-indiferen-a.html"
+    }
+   ]
+  },
+  {
    "id": "auto-01f6244a6c6c",
    "title": "Aproape 800 de angajaţi ai STB vor fi concediaţi/ Aceştia vor primi salarii compensatorii între 20.000 şi 40.000 lei, în funcţie de vechime/ Societatea cu datorii de peste 3 miliarde de lei riscă falimentul",
    "title_ro": "Aproape 800 de angajaţi ai STB vor fi concediaţi/ Aceştia vor primi salarii compensatorii între 20.000 şi 40.000 lei, în funcţie de vechime/ Societatea cu datorii de peste 3 miliarde de lei riscă falimentul",
@@ -13330,118 +13442,6 @@
     {
      "name": "Gândul",
      "url": "https://www.gandul.ro/justitie/cum-motiveaza-tribunalul-noua-plasare-in-arest-la-domiciliu-a-lui-calin-georgescu-varsta-de-62-de-ani-si-faptul-ca-nu-a-fugit-de-sub-prima-masura-preventiva-intre-motivele-magistratului-21061221"
-    }
-   ]
-  },
-  {
-   "id": "auto-c2d31b4dcdcc",
-   "title": "Finlanda varsă 380.000.000 de litri de apă într-o fostă carieră pentru a construi cel mai mare sistem de stocare termică din lume",
-   "title_ro": "Finlanda varsă 380.000.000 de litri de apă într-o fostă carieră pentru a construi cel mai mare sistem de stocare termică din lume",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "world",
-   "region": "europe",
-   "place": "Finland",
-   "place_ro": "Finlanda",
-   "publishedAt": "2026-11-11T10:01:42Z",
-   "sources": [
-    {
-     "name": "HotNews",
-     "url": "https://hotnews.ro/finlanda-varsa-380-000-000-de-litri-de-apa-intr-o-fosta-cariera-pentru-a-construi-cel-mai-mare-sistem-de-stocare-termica-din-lume-2401155"
-    },
-    {
-     "name": "Libertatea",
-     "url": "https://www.libertatea.ro/lifestyle/finlanda-construieste-cel-mai-mare-depozit-termic-deschis-apa-energie-tgv8m7q"
-    }
-   ]
-  },
-  {
-   "id": "auto-4789401df54c",
-   "title": "Economistul-șef al BCR: din deficitul de 6,2% din PIB, jumătate sunt cheltuielile cu dobânzile",
-   "title_ro": "Economistul-șef al BCR: din deficitul de 6,2% din PIB, jumătate sunt cheltuielile cu dobânzile",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "economy",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-11T10:01:29Z",
-   "sources": [
-    {
-     "name": "HotNews",
-     "url": "https://hotnews.ro/economistul-sef-al-bcr-din-deficitul-de-62-din-pib-jumatate-sunt-cheltuielile-cu-dobanzile-2401163"
-    }
-   ]
-  },
-  {
-   "id": "auto-061ec399ce1e",
-   "title": "Miruță propune ca 20% din banii recuperați de MApN să fie folosiți pentru actualizarea pensiilor militare: Este o obligație, nu un moft",
-   "title_ro": "Miruță propune ca 20% din banii recuperați de MApN să fie folosiți pentru actualizarea pensiilor militare: Este o obligație, nu un moft",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "security",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-11T10:00:07Z",
-   "sources": [
-    {
-     "name": "Digi24",
-     "url": "https://www.digi24.ro/stiri/economie/miruta-propune-ca-20-din-banii-recuperati-de-mapn-sa-fie-folositi-pentru-actualizarea-pensiilor-militare-este-o-obligatie-nu-un-mof-4031009"
-    }
-   ]
-  },
-  {
-   "id": "auto-a383b2f8b6a1",
-   "title": "De ce nu se acrește varza murată și ce poți face ca să grăbești fermentarea",
-   "title_ro": "De ce nu se acrește varza murată și ce poți face ca să grăbești fermentarea",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "economy",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-11T10:00:06Z",
-   "sources": [
-    {
-     "name": "Libertatea",
-     "url": "https://www.libertatea.ro/lifestyle/de-ce-nu-se-acreste-varza-murata-si-ce-poti-face-ca-sa-grabesti-fermentarea-bp33z9m"
-    }
-   ]
-  },
-  {
-   "id": "auto-faffef916173",
-   "title": "Emisiunea ZF Generaţia Pilon II: Dan Popovici, CIO BT Pensia Noastră: Pilonul II nu poate fi naţionalizat. Fiecare participant are cont individual, iar banii sunt proprietatea lui privată",
-   "title_ro": "Emisiunea ZF Generaţia Pilon II: Dan Popovici, CIO BT Pensia Noastră: Pilonul II nu poate fi naţionalizat. Fiecare participant are cont individual, iar banii sunt proprietatea lui privată",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "economy",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-11T10:00:00Z",
-   "sources": [
-    {
-     "name": "Ziarul Financiar",
-     "url": "https://www.zf.ro/zf-generatia-pilon-ii/emisiunea-zf-generatia-pilon-ii-dan-popovici-cio-bt-pensia-noastra-pilonul-ii-nu-poate-fi-nationalizat-fiecare-participant-are-cont-individual-iar-banii-sunt-proprietatea-lui-privata-23273636"
-    }
-   ]
-  },
-  {
-   "id": "auto-fcf8481277f3",
-   "title": "Cum pot turbulenţele politice să aibă efecte şi pe piaţa valutară şi pe piaţa monetară interbancară? Octombrie a adus secetă pe piaţa interbancară, odată cu intensificarea presiunilor pe cursul valutar, din cauza tensiunilor politice. Sistemul bancar revine pe deficit de lichiditate, după mai mult de un an de excedent.",
-   "title_ro": "Cum pot turbulenţele politice să aibă efecte şi pe piaţa valutară şi pe piaţa monetară interbancară? Octombrie a adus secetă pe piaţa interbancară, odată cu intensificarea presiunilor pe cursul valutar, din cauza tensiunilor politice. Sistemul bancar revine pe deficit de lichiditate, după mai mult de un an de excedent.",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "politics",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-11T10:00:00Z",
-   "sources": [
-    {
-     "name": "Ziarul Financiar",
-     "url": "https://www.zf.ro/banci-si-asigurari/pot-turbulentele-politice-aiba-efecte-piata-valutara-piata-monetara-interbancara-octombrie-adus-seceta-piata-interbancara-odata-intensificarea-presiunilor-cursul-valutar-cauza-tensiunilor-politice-23279067"
     }
    ]
   }
