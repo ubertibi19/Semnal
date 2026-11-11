@@ -1,6 +1,60 @@
 {
- "lastRun": "2026-11-11T01:18:19Z",
+ "lastRun": "2026-11-11T02:59:43Z",
  "stories": [
+  {
+   "id": "auto-e391acf82ef3",
+   "title": "Lupte în Cisiordania. Coloniștii israelieni au lansat un atac de amploare asupra unui sat palestinian",
+   "title_ro": "Lupte în Cisiordania. Coloniștii israelieni au lansat un atac de amploare asupra unui sat palestinian",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "security",
+   "region": "world",
+   "place": "Israel",
+   "place_ro": "Israel",
+   "publishedAt": "2026-11-11T02:34:13Z",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/politic/lupte-in-cisiordania-colonistii-israelieni-au-lansat-un-atac-de-amploare-asupra-unui-sat-palestinian-23841256"
+    }
+   ]
+  },
+  {
+   "id": "auto-8d21e7edfccd",
+   "title": "Şeful Trezoreriei SUA, Scott Bessent, s-a mutat într-o bază militară în urma ameninţărilor iraniene, potrivit NYT",
+   "title_ro": "Şeful Trezoreriei SUA, Scott Bessent, s-a mutat într-o bază militară în urma ameninţărilor iraniene, potrivit NYT",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "security",
+   "region": "world",
+   "place": "US",
+   "place_ro": "SUA",
+   "publishedAt": "2026-11-11T01:50:46Z",
+   "sources": [
+    {
+     "name": "News.ro",
+     "url": "https://www.news.ro/externe/seful-trezoreriei-sua-scott-bessent-s-a-mutat-intr-o-baza-militara-in-urma-amenintarilor-iraniene-potrivit-nyt-1922405011462026110322979984"
+    }
+   ]
+  },
+  {
+   "id": "auto-68e9b708efb3",
+   "title": "Port de la Marea Baltică, atacat de dronele ucrainene",
+   "title_ro": "Port de la Marea Baltică, atacat de dronele ucrainene",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "politics",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-11T01:47:57Z",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/politic/port-de-la-marea-baltica-atacat-de-dronele-ucrainene-23841254"
+    }
+   ]
+  },
   {
    "id": "auto-6d7d7cc8a095",
    "title": "Rusia expulzează un angajat al Ambasadei R. Moldova la Moscova. Ambasadorul Lilian Darii, convocat la MAE rus",
@@ -34,6 +88,10 @@
     {
      "name": "Mediafax",
      "url": "https://www.mediafax.ro/politic/scandalul-arcului-de-triumf-familia-kennedy-in-conflict-cu-donald-trump-23841250"
+    },
+    {
+     "name": "News.ro",
+     "url": "https://www.news.ro/externe/familia-kennedy-se-alatura-procesului-intentat-pentru-a-bloca-construirea-arcului-lui-trump-sustinand-ca-acesta-va-afecta-aspectul-mormantului-lui-j-f-k-1922403311412026110322979964"
     }
    ]
   },
@@ -70,6 +128,24 @@
     {
      "name": "Mediafax",
      "url": "https://www.mediafax.ro/economic/incendiu-pe-o-platforma-din-cel-mai-mare-zacamant-de-gaze-naturale-offshore-din-lume-muncitorii-au-sarit-in-apa-23841247"
+    }
+   ]
+  },
+  {
+   "id": "auto-c65ba127d00b",
+   "title": "Ioana și Ilie Năstase, scandal în fața blocului din Mamaia: „Ăla-i amantul tău! Te-am văzut, am auzit tot!”",
+   "title_ro": "Ioana și Ilie Năstase, scandal în fața blocului din Mamaia: „Ăla-i amantul tău! Te-am văzut, am auzit tot!”",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "economy",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-11T00:06:27Z",
+   "sources": [
+    {
+     "name": "Libertatea",
+     "url": "https://www.libertatea.ro/entertainment/ioana-si-ilie-nastase-scandal-in-fata-blocului-din-mamaia-4990171"
     }
    ]
   },
@@ -12030,6 +12106,24 @@
    ]
   },
   {
+   "id": "auto-89489aa870c3",
+   "title": "Ce avertisment transmite premierul Luca Niculescu, după ultimele atacuri cibernetice din România",
+   "title_ro": "Ce avertisment transmite premierul Luca Niculescu, după ultimele atacuri cibernetice din România",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "politics",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-10T11:20:46Z",
+   "sources": [
+    {
+     "name": "Libertatea",
+     "url": "https://www.libertatea.ro/stiri/ce-avertisment-transmite-luca-niculescu-val-atacuri-cibernetice-romania-7xjb5jg"
+    }
+   ]
+  },
+  {
    "id": "auto-572ad106cee6",
    "title": "Proiectul care prevedea majorarea tarifelor de salubrizare cu peste 50% în Târgu-Mureș, respins de Consiliul Local",
    "title_ro": "Proiectul care prevedea majorarea tarifelor de salubrizare cu peste 50% în Târgu-Mureș, respins de Consiliul Local",
@@ -13136,104 +13230,6 @@
     {
      "name": "Mediafax",
      "url": "https://www.mediafax.ro/life-inedit/johnny-depp-revine-pe-marile-ecrane-si-spune-ca-datoreaza-totul-fanilor-m-au-sustinut-cu-bune-si-rele-23840758"
-    }
-   ]
-  },
-  {
-   "id": "auto-7427ba48e84d",
-   "title": "Emisiile globale de carbon provenite din combustibili fosili ar urma să scadă pentru prima dată după un nivel record. Ce rol au prețurile energiei și războiul din Iran",
-   "title_ro": "Emisiile globale de carbon provenite din combustibili fosili ar urma să scadă pentru prima dată după un nivel record. Ce rol au prețurile energiei și războiul din Iran",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "security",
-   "region": "world",
-   "place": "Iran",
-   "place_ro": "Iran",
-   "publishedAt": "2026-11-10T10:36:01Z",
-   "sources": [
-    {
-     "name": "Mediafax",
-     "url": "https://www.mediafax.ro/economic/emisiile-globale-de-carbon-provenite-din-combustibili-fosili-ar-urma-sa-scada-pentru-prima-data-dupa-un-nivel-record-ce-rol-au-preturile-energiei-si-razboiul-din-iran-23840750"
-    }
-   ]
-  },
-  {
-   "id": "auto-24fcf5214af5",
-   "title": "Barilul de petrol a coborât sub 90 de dolari pe fondul optimismului privind dezescaladarea războiului din Iran",
-   "title_ro": "Barilul de petrol a coborât sub 90 de dolari pe fondul optimismului privind dezescaladarea războiului din Iran",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "security",
-   "region": "world",
-   "place": "Iran",
-   "place_ro": "Iran",
-   "publishedAt": "2026-11-10T10:35:48Z",
-   "sources": [
-    {
-     "name": "Știrile ProTV",
-     "url": "https://stirileprotv.ro/stiri/international/barilul-de-petrol-a-coborat-sub-90-de-dolari-pe-fondul-optimismului-privind-dezescaladarea-razboiului-din-iran.html"
-    },
-    {
-     "name": "G4Media",
-     "url": "https://www.g4media.ro/barilul-de-petrol-a-coborat-sub-90-de-dolari-pe-fondul-optimismului-privind-dezescaladarea-razboiului-din-iran.html"
-    }
-   ]
-  },
-  {
-   "id": "auto-0c25f3cf8629",
-   "title": "Studiu: Fumatul poate crește riscul de Alzheimer și demență vasculară. Avertismentul cercetătorilor",
-   "title_ro": "Studiu: Fumatul poate crește riscul de Alzheimer și demență vasculară. Avertismentul cercetătorilor",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "economy",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-10T10:35:42Z",
-   "sources": [
-    {
-     "name": "Știrile ProTV",
-     "url": "https://stirileprotv.ro/stiri/stiinta/studiu-fumatul-poate-creste-riscul-de-alzheimer-si-dementa-vasculara-avertismentul-cercetatorilor.html"
-    },
-    {
-     "name": "G4Media",
-     "url": "https://www.g4media.ro/studiu-fumatul-asociat-cu-o-crestere-a-riscului-de-dementa.html"
-    }
-   ]
-  },
-  {
-   "id": "auto-c469e8945105",
-   "title": "Analiză Digi24: Orașele cu mai puțini locuitori decât o comună. Colectează puțin din taxe și supraviețuiesc cu bani de la guvern",
-   "title_ro": "Analiză Digi24: Orașele cu mai puțini locuitori decât o comună. Colectează puțin din taxe și supraviețuiesc cu bani de la guvern",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "politics",
-   "region": "europe",
-   "place": "Russia",
-   "place_ro": "Rusia",
-   "publishedAt": "2026-11-10T10:34:58Z",
-   "sources": [
-    {
-     "name": "Digi24",
-     "url": "https://www.digi24.ro/stiri/actualitate/social/analiza-digi24-orasele-cu-mai-putini-locuitori-decat-o-comuna-colecteaza-putin-din-taxe-si-supravietuiesc-cu-bani-de-la-guvern-4029475"
-    }
-   ]
-  },
-  {
-   "id": "auto-549aa23d7979",
-   "title": "Ținute de toamnă inspirate din stilul lui Jennifer Lopez. Cum să combini blugii largi, paltoanele lungi și cizmele cu toc",
-   "title_ro": "Ținute de toamnă inspirate din stilul lui Jennifer Lopez. Cum să combini blugii largi, paltoanele lungi și cizmele cu toc",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "economy",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-10T10:33:54Z",
-   "sources": [
-    {
-     "name": "Libertatea",
-     "url": "https://www.libertatea.ro/entertainment/tinute-de-toamna-inspirate-din-stilul-lui-jennifer-lopez-x4erz50"
     }
    ]
   }
