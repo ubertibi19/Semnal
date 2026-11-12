@@ -1,6 +1,114 @@
 {
- "lastRun": "2026-11-11T23:57:42Z",
+ "lastRun": "2026-11-12T01:26:09Z",
  "stories": [
+  {
+   "id": "auto-ee7a26fe8d37",
+   "title": "Umilitor. SUA ar putea pierde statutul internațional de țară fără rujeolă",
+   "title_ro": "Umilitor. SUA ar putea pierde statutul internațional de țară fără rujeolă",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "world",
+   "region": "world",
+   "place": "US",
+   "place_ro": "SUA",
+   "publishedAt": "2026-11-12T01:21:02Z",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/sanatate/umilitor-sua-ar-putea-pierde-statutul-international-de-tara-fara-rujeola-23841790"
+    }
+   ]
+  },
+  {
+   "id": "auto-87ee18939335",
+   "title": "Influencerii MAGA, zguduiţi de rezultatul alegerilor de la jumătatea mandatului prezidenţial. Laura Loomer îşi suspendă podcastul declarându-se „cu bateriile descărcate”",
+   "title_ro": "Influencerii MAGA, zguduiţi de rezultatul alegerilor de la jumătatea mandatului prezidenţial. Laura Loomer îşi suspendă podcastul declarându-se „cu bateriile descărcate”",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "politics",
+   "region": "world",
+   "place": "World",
+   "place_ro": "Lume",
+   "publishedAt": "2026-11-12T01:07:13Z",
+   "sources": [
+    {
+     "name": "News.ro",
+     "url": "https://www.news.ro/externe/influencerii-maga-zguduiti-de-rezultatul-alegerilor-de-la-jumatatea-mandatului-prezidential-laura-loomer-isi-suspenda-podcastul-declarandu-se-cu-bateriile-descarcate-1922400712132026110322982263"
+    }
+   ]
+  },
+  {
+   "id": "auto-271d2598ecbd",
+   "title": "Armata argentiniană a fost desemnată organizație teroristă",
+   "title_ro": "Armata argentiniană a fost desemnată organizație teroristă",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "politics",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-12T00:58:33Z",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/politic/armata-argentiniana-a-fost-desemnata-organizatie-terorista-23841788"
+    }
+   ]
+  },
+  {
+   "id": "auto-d65270818745",
+   "title": "O clădire s-a prăbuşit în New York: Sunt cel puţin un mort şi 12 răniţi, iar o operaţiune de salvare de amploare este în desfăşurare - VIDEO",
+   "title_ro": "O clădire s-a prăbuşit în New York: Sunt cel puţin un mort şi 12 răniţi, iar o operaţiune de salvare de amploare este în desfăşurare - VIDEO",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "world",
+   "region": "europe",
+   "place": "Russia",
+   "place_ro": "Rusia",
+   "publishedAt": "2026-11-12T00:40:00Z",
+   "sources": [
+    {
+     "name": "News.ro",
+     "url": "https://www.news.ro/externe/o-cladire-s-a-prabusit-in-new-york-sunt-cel-putin-un-mort-si-12-raniti-iar-o-operatiune-de-salvare-de-amploare-este-in-desfasurare-video-1922404012002026110222982424"
+    }
+   ]
+  },
+  {
+   "id": "auto-072029f02445",
+   "title": "Pete Hegseth şi alţi oficiali au fost mustraţi de un soldat de gardă pentru că au râs la Mormântul Soldatului Necunoscut - VIDEO",
+   "title_ro": "Pete Hegseth şi alţi oficiali au fost mustraţi de un soldat de gardă pentru că au râs la Mormântul Soldatului Necunoscut - VIDEO",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "security",
+   "region": "world",
+   "place": "World",
+   "place_ro": "Lume",
+   "publishedAt": "2026-11-12T00:22:26Z",
+   "sources": [
+    {
+     "name": "News.ro",
+     "url": "https://www.news.ro/externe/pete-hegseth-si-alti-oficiali-au-fost-mustrati-de-un-soldat-de-garda-pentru-ca-au-ras-la-mormantul-soldatului-necunoscut-video-1922402212262026110222982383"
+    }
+   ]
+  },
+  {
+   "id": "auto-63efa5fdc271",
+   "title": "Rușii au atacat Kievul cu rachete balistice la câteva ore după încheierea discuțiilor de pace",
+   "title_ro": "Rușii au atacat Kievul cu rachete balistice la câteva ore după încheierea discuțiilor de pace",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "security",
+   "region": "europe",
+   "place": "Ukraine",
+   "place_ro": "Ucraina",
+   "publishedAt": "2026-11-12T00:00:16Z",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/politic/rusii-au-atacat-kievul-cu-rachete-balistice-la-cateva-ore-dupa-incheierea-discutiilor-de-pace-23841779"
+    }
+   ]
+  },
   {
    "id": "auto-4fc338d7d148",
    "title": "O clădire s-a prăbușit în Brooklyn. Echipele de intervenție caută supraviețuitori printre ruine",
@@ -13326,122 +13434,6 @@
     {
      "name": "G4Media",
      "url": "https://www.g4media.ro/patru-rase-de-ciobanesti-romanesti-sunt-in-pericol-de-disparitie-proiect-pentru-includerea-lor-in-patrimoniul-national-si-unesco-daca-i-pierdem-aici-nu-avem-de-unde-sa-i-mai-recuperam.html"
-    }
-   ]
-  },
-  {
-   "id": "auto-de0656739df3",
-   "title": "Organizația neguvernamentală APADOR-CH consideră inacceptabilă decizia președintelui Nicușor Dan de a interzice accesul unui jurnalist la Palatul Cotroceni pe întreaga durată a mandatului său",
-   "title_ro": "Organizația neguvernamentală APADOR-CH consideră inacceptabilă decizia președintelui Nicușor Dan de a interzice accesul unui jurnalist la Palatul Cotroceni pe întreaga durată a mandatului său",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "politics",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-11T10:07:09Z",
-   "sources": [
-    {
-     "name": "G4Media",
-     "url": "https://www.g4media.ro/organizatia-neguvernamentala-apador-ch-considera-inacceptabila-decizia-presedintelui-nicusor-dan-de-a-interzice-accesul-unui-jurnalist-la-palatul-cotroceni-pe-intreaga-durata-a-mandatului-sau.html"
-    },
-    {
-     "name": "Știrile ProTV",
-     "url": "https://stirileprotv.ro/stiri/politic/nicusor-dan-i-a-interzis-unui-jurnalist-accesul-la-cotroceni-ce-spune-legea-despre-accesul-presei-la-institutiile-statului.html"
-    }
-   ]
-  },
-  {
-   "id": "auto-2557b0ae5aee",
-   "title": "Când începe Postul Crăciunului în 2026. În ce zile este dezlegare la pește și cât durează",
-   "title_ro": "Când începe Postul Crăciunului în 2026. În ce zile este dezlegare la pește și cât durează",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "economy",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-11T10:06:28Z",
-   "sources": [
-    {
-     "name": "Știrile ProTV",
-     "url": "https://stirileprotv.ro/divers/cand-incepe-postul-craciunului-in-2026-in-ce-zile-este-dezlegare-la-peste-si-cat-dureaza.html"
-    }
-   ]
-  },
-  {
-   "id": "auto-bda1332b8462",
-   "title": "Președintele Finlandei, Alexander Stubb, după dialogul cu Putin. „Este un interlocutor perspicace și bine pregătit“. „Știe cu siguranță să asculte“. Ce așteptări are șeful de stat de la negocierile de la Abu Dhabi",
-   "title_ro": "Președintele Finlandei, Alexander Stubb, după dialogul cu Putin. „Este un interlocutor perspicace și bine pregătit“. „Știe cu siguranță să asculte“. Ce așteptări are șeful de stat de la negocierile de la Abu Dhabi",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "politics",
-   "region": "europe",
-   "place": "Russia",
-   "place_ro": "Rusia",
-   "publishedAt": "2026-11-11T10:05:55Z",
-   "sources": [
-    {
-     "name": "Gândul",
-     "url": "https://www.gandul.ro/international/alexander-stubb-putin-negocieri-abu-dhabi-21061243"
-    }
-   ]
-  },
-  {
-   "id": "auto-153da8a0c0ef",
-   "title": "Nuclearelectrica: Unitatea 1 de la Cernavodă va fi reconectată miercuri. Al doilea reactor livrează deja aproape 5% din producția de energie României",
-   "title_ro": "Nuclearelectrica: Unitatea 1 de la Cernavodă va fi reconectată miercuri. Al doilea reactor livrează deja aproape 5% din producția de energie României",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "energy",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-11T10:05:40Z",
-   "sources": [
-    {
-     "name": "Mediafax",
-     "url": "https://www.mediafax.ro/economic/nuclearelectrica-unitatea-1-de-la-cernavoda-va-fi-reconectata-miercuri-al-doilea-reactor-livreaza-deja-aproape-5-din-productia-de-energie-romaniei-23841407"
-    },
-    {
-     "name": "Radio Romania International",
-     "url": "https://www.rri.ro/actualitate/alte-stiri/unitatea-2-de-la-cernavoda-a-fost-reconectata-la-sistemul-energetic-id1082542.html"
-    }
-   ]
-  },
-  {
-   "id": "auto-b9694c0e6eb0",
-   "title": "Generalul Gheorghiţă Vlad: Riscurile sunt extrem de mari pentru militarii români. Peste 1.000 se află în teatrele de operaţii",
-   "title_ro": "Generalul Gheorghiţă Vlad: Riscurile sunt extrem de mari pentru militarii români. Peste 1.000 se află în teatrele de operaţii",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "security",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-11T10:05:34Z",
-   "sources": [
-    {
-     "name": "Știrile ProTV",
-     "url": "https://stirileprotv.ro/stiri/actualitate/generalul-gheorghi-a-vlad-riscurile-sunt-extrem-de-mari-pentru-militarii-romani-peste-1-000-se-afla-in-teatrele-de-opera-ii.html"
-    }
-   ]
-  },
-  {
-   "id": "auto-2502321d2be9",
-   "title": "Cum motivează Tribunalul noua plasare în arest la domiciliu a lui Călin Georgescu. Vârsta de 62 de ani și faptul că nu a fugit de sub prima măsură preventivă, între motivele magistratului",
-   "title_ro": "Cum motivează Tribunalul noua plasare în arest la domiciliu a lui Călin Georgescu. Vârsta de 62 de ani și faptul că nu a fugit de sub prima măsură preventivă, între motivele magistratului",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "politics",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-11T10:04:36Z",
-   "sources": [
-    {
-     "name": "Gândul",
-     "url": "https://www.gandul.ro/justitie/cum-motiveaza-tribunalul-noua-plasare-in-arest-la-domiciliu-a-lui-calin-georgescu-varsta-de-62-de-ani-si-faptul-ca-nu-a-fugit-de-sub-prima-masura-preventiva-intre-motivele-magistratului-21061221"
     }
    ]
   }
