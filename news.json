@@ -1,6 +1,60 @@
 {
- "lastRun": "2026-11-14T01:15:48Z",
+ "lastRun": "2026-11-14T02:15:09Z",
  "stories": [
+  {
+   "id": "auto-9ac409d0ac14",
+   "title": "Casa Albă, reacție după blocarea zborurilor din SUA / Vești de ultim moment despre pasagerii și aeronavele afectate",
+   "title_ro": "Casa Albă, reacție după blocarea zborurilor din SUA / Vești de ultim moment despre pasagerii și aeronavele afectate",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "world",
+   "region": "world",
+   "place": "US",
+   "place_ro": "SUA",
+   "publishedAt": "2026-11-14T02:00:15Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/haos-aeroporturi-sua-defectiune-comunicatii_3936657"
+    }
+   ]
+  },
+  {
+   "id": "auto-5bf4754de237",
+   "title": "Aproape 5.000 de zboruri au fost anulate în SUA, dar haosul e departe de a se fi terminat. Până în prezent, autorităţile NU au ajuns la concluzia că ar fi vorba despre un atac cibernetic",
+   "title_ro": "Aproape 5.000 de zboruri au fost anulate în SUA, dar haosul e departe de a se fi terminat. Până în prezent, autorităţile NU au ajuns la concluzia că ar fi vorba despre un atac cibernetic",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "security",
+   "region": "world",
+   "place": "US",
+   "place_ro": "SUA",
+   "publishedAt": "2026-11-14T01:43:37Z",
+   "sources": [
+    {
+     "name": "News.ro",
+     "url": "https://www.news.ro/externe/aproape-5-000-de-zboruri-au-fost-anulate-in-sua-dar-haosul-e-departe-de-a-se-fi-terminat-pana-in-prezent-autoritatile-nu-au-ajuns-la-concluzia-ca-ar-fi-vorba-despre-un-atac-cibernetic-1922404314372026110322986284"
+    }
+   ]
+  },
+  {
+   "id": "auto-449b3dcaaf0e",
+   "title": "Paradoxul post-Brexit: Populația imigrantă din Marea Britanie a crescut masiv, depășind toate statele G7",
+   "title_ro": "Paradoxul post-Brexit: Populația imigrantă din Marea Britanie a crescut masiv, depășind toate statele G7",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "world",
+   "region": "europe",
+   "place": "UK",
+   "place_ro": "Marea Britanie",
+   "publishedAt": "2026-11-14T01:42:28Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/populatia-imigrantatoare-marea-britanie-crescut-ocde_3936655"
+    }
+   ]
+  },
   {
    "id": "auto-5c8c14c9ae8e",
    "title": "Nava spațială Starship a companiei lui Musk a reintrat pe orbită. Racheta-purtătoare a aterizat în apele Golfului Mexic",
@@ -38,6 +92,24 @@
    ]
   },
   {
+   "id": "auto-4944b90ea0fc",
+   "title": "Un fenomen periculos ia amploare: Motivul pentru care tot mai mulți adolescenții sănătoși iau medicamente împotriva cancerului",
+   "title_ro": "Un fenomen periculos ia amploare: Motivul pentru care tot mai mulți adolescenții sănătoși iau medicamente împotriva cancerului",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "economy",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-14T01:00:36Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/adolescenti-medicamente-cancer-inaltime_3936653"
+    }
+   ]
+  },
+  {
    "id": "auto-25efdd9d8137",
    "title": "În ciuda Brexitului, populaţia imigrantă din Marea Britanie a crescut cu 55% din 2015, potrivit unui raport al OCDE",
    "title_ro": "În ciuda Brexitului, populaţia imigrantă din Marea Britanie a crescut cu 55% din 2015, potrivit unui raport al OCDE",
@@ -56,6 +128,24 @@
    ]
   },
   {
+   "id": "auto-8d56c8161f74",
+   "title": "Fizicienii au găsit o posibilă metodă prin care Universul ar putea bloca întoarcerea în trecut. Modelul matematic are însă o problemă majoră",
+   "title_ro": "Fizicienii au găsit o posibilă metodă prin care Universul ar putea bloca întoarcerea în trecut. Modelul matematic are însă o problemă majoră",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "economy",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-14T00:41:12Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/fizicieni-model-gravitatie-calatorie-in-trecut_3936652"
+    }
+   ]
+  },
+  {
    "id": "auto-5f6673308aa5",
    "title": "Fiul unui fost director al CIA, investigat într-un caz de pornografie infantilă",
    "title_ro": "Fiul unui fost director al CIA, investigat într-un caz de pornografie infantilă",
@@ -70,6 +160,24 @@
     {
      "name": "News.ro",
      "url": "https://www.news.ro/externe/fiul-unui-fost-director-al-cia-investigat-intr-un-caz-de-pornografie-infantila-1922402914192026110222986185"
+    }
+   ]
+  },
+  {
+   "id": "auto-f7c31005ba0f",
+   "title": "Situație critică în SUA: Cea mai mare suspendare a zborurilor de la atacurile din 11 septembrie",
+   "title_ro": "Situație critică în SUA: Cea mai mare suspendare a zborurilor de la atacurile din 11 septembrie",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "security",
+   "region": "world",
+   "place": "US",
+   "place_ro": "SUA",
+   "publishedAt": "2026-11-14T00:20:01Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/cea-mai-mare-suspendare-zboruri-sua-11-septembrie-ntsb_3936651"
     }
    ]
   },
@@ -326,6 +434,10 @@
     {
      "name": "Agerpres",
      "url": "https://agerpres.ro/sport-extern/2026/11/14/fotbal-victorie-la-scor-pentru-olanda-in-liga-natiunilor-7-0-cu-grecia--1613251"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/rezultate-liga-natiunilor-tarile-de-jos-grecia-promovari_3936658"
     }
    ]
   },
@@ -438,6 +550,24 @@
    ]
   },
   {
+   "id": "auto-04c72060cd34",
+   "title": "Informații despre starea de sănătate a lui Florin Piersic: ' Nu se mai pune problema să jucăm'",
+   "title_ro": "Informații despre starea de sănătate a lui Florin Piersic: ' Nu se mai pune problema să jucăm'",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "economy",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-13T22:00:13Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/informatii-despre-starea-de-sanatate-a-lui-florin-piersic-nu-se-mai-pune-problema-sa-jucam_3936138"
+    }
+   ]
+  },
+  {
    "id": "auto-7818ac218540",
    "title": "Toate zborurile din SUA au fost suspendate, într-o măsură fără precedent luată doar a doua oară de la 11 septembrie",
    "title_ro": "Toate zborurile din SUA au fost suspendate, într-o măsură fără precedent luată doar a doua oară de la 11 septembrie",
@@ -532,6 +662,24 @@
    ]
   },
   {
+   "id": "auto-58a23ffad352",
+   "title": "Bate vântul pe piața furajelor din UE: Porumbul pierde teren, România își caută locul",
+   "title_ro": "Bate vântul pe piața furajelor din UE: Porumbul pierde teren, România își caută locul",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "economy",
+   "region": "europe",
+   "place": "EU",
+   "place_ro": "UE",
+   "publishedAt": "2026-11-13T21:50:03Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/ue-reduce-consumul-de-porumb-pentru-furaje-si-mizeaza-tot-mai-mult-pe-grau-in-2027-ce-inseamna-schimbarea-pentru-romania-si-exporturile-din-regiunea-marii-negre_3936598"
+    }
+   ]
+  },
+  {
    "id": "auto-014df2d953c4",
    "title": "Polonia oprește plățile pentru înarmarea Ucrainei prin intermediul mecanismului NATO. Ce motive invocă premierul Donald Tusk",
    "title_ro": "Polonia oprește plățile pentru înarmarea Ucrainei prin intermediul mecanismului NATO. Ce motive invocă premierul Donald Tusk",
@@ -546,6 +694,24 @@
     {
      "name": "Gândul",
      "url": "https://www.gandul.ro/international/polonia-suspenda-contributii-program-purl-arme-ucraina-21064203"
+    }
+   ]
+  },
+  {
+   "id": "auto-98ee6acfb080",
+   "title": "Nicolas Jackson, atacantul echipei de fotbal Aston Villa, a fost desemnat jucătorul lunii octombrie în Premier League",
+   "title_ro": "Nicolas Jackson, atacantul echipei de fotbal Aston Villa, a fost desemnat jucătorul lunii octombrie în Premier League",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "sport",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-13T21:40:30Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/nicolas-jackson-atacantul-echipei-de-fotbal-aston-villa-a-fost-desemnat-jucatorul-lunii-octombrie-in-premier-league_3936648"
     }
    ]
   },
@@ -638,6 +804,10 @@
     {
      "name": "Gândul",
      "url": "https://www.gandul.ro/international/toate-zborurile-de-pe-aeroporturile-din-statele-unite-au-fost-suspendate-din-cauza-unor-circumstante-extraordinare-este-a-doua-oara-dupa-11-septembrie-2001-cand-se-intampla-acest-lu-21064204"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/alerta-majora-in-sua-toate-zborurile-de-pe-aeroporturi-au-fost-suspendate-faa-invoca-circumstante-extraordinare_3936647"
     }
    ]
   },
@@ -678,6 +848,24 @@
    ]
   },
   {
+   "id": "auto-8a35be5c608c",
+   "title": "James Heckman, fondator și CEO al Roundtable, avertisment dur la Forum Europa: „Europa nu mai are presă în acest moment”",
+   "title_ro": "James Heckman, fondator și CEO al Roundtable, avertisment dur la Forum Europa: „Europa nu mai are presă în acest moment”",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "economy",
+   "region": "europe",
+   "place": "Europe",
+   "place_ro": "Europa",
+   "publishedAt": "2026-11-13T21:31:03Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/james-heckman-fondator-si-ceo-al-roundtable-avertisment-dur-la-forum-europa-europa-nu-mai-are-presa-in-acest-moment_3936646"
+    }
+   ]
+  },
+  {
    "id": "auto-9dec07882aad",
    "title": "Accident neobișnuit în Cluj-Napoca: Un tânăr a fost lovit de o mașină fără șofer",
    "title_ro": "Accident neobișnuit în Cluj-Napoca: Un tânăr a fost lovit de o mașină fără șofer",
@@ -692,6 +880,24 @@
     {
      "name": "Digi24",
      "url": "https://www.digi24.ro/stiri/actualitate/accident-neobisnuit-in-cluj-napoca-un-tanar-a-fost-lovit-de-o-masina-fara-sofer-4036063"
+    }
+   ]
+  },
+  {
+   "id": "auto-8d3bfd4f1e4f",
+   "title": "Christa Pike, deținuta care a supraviețuit injecției letale, riscă să ajungă pe scaunul electric",
+   "title_ro": "Christa Pike, deținuta care a supraviețuit injecției letale, riscă să ajungă pe scaunul electric",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "energy",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-13T21:30:14Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/christa-pike-detinuta-care-a-supravietuit-injectiei-letale-risca-sa-ajunga-pe-scaunul-electric_3936318"
     }
    ]
   },
@@ -768,6 +974,24 @@
    ]
   },
   {
+   "id": "auto-e1201ba39caf",
+   "title": "Alertă în sistemul medical: Medicamente esențiale pentru bolnavii psihic lipsesc din spitale. „O să ajungem în punctul în care nu prea avem cum să tratăm pacienții”",
+   "title_ro": "Alertă în sistemul medical: Medicamente esențiale pentru bolnavii psihic lipsesc din spitale. „O să ajungem în punctul în care nu prea avem cum să tratăm pacienții”",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "economy",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-13T21:13:33Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/alerta-in-sistemul-medical-medicamente-esentiale-pentru-bolnavii-psihic-lipsesc-din-spitale-o-sa-ajungem-in-punctul-in-care-nu-prea-avem-cum-sa-tratam-pacientii_3936644"
+    }
+   ]
+  },
+  {
    "id": "auto-869571570734",
    "title": "Medicul Ovidiu Alexinschi de la Institutul de Psihiatrie Socola: Dezincriminarea posesiei de droguri în vederea consumului propriu nu înseamnă legalizare",
    "title_ro": "Medicul Ovidiu Alexinschi de la Institutul de Psihiatrie Socola: Dezincriminarea posesiei de droguri în vederea consumului propriu nu înseamnă legalizare",
@@ -786,6 +1010,24 @@
    ]
   },
   {
+   "id": "auto-ed4623d89ffd",
+   "title": "PNL cere guvernului măsuri sporite de securitate la protestul susținut de AUR: Suveraniștii pot transforma România în Franța sau Belgia",
+   "title_ro": "PNL cere guvernului măsuri sporite de securitate la protestul susținut de AUR: Suveraniștii pot transforma România în Franța sau Belgia",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "politics",
+   "region": "europe",
+   "place": "France",
+   "place_ro": "Franța",
+   "publishedAt": "2026-11-13T21:09:35Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/pnl-cere-guvernului-masuri-sporite-de-securitate-la-protestul-aur-suveranistii-pot-transforma-romania-in-franta-sau-belgia_3936482"
+    }
+   ]
+  },
+  {
    "id": "auto-b19e81478115",
    "title": "Prefectura Bihor le impune jurnaliștilor reguli editoriale odată cu acreditarea. Ordinul de prefect care a scandalizat presa locală",
    "title_ro": "Prefectura Bihor le impune jurnaliștilor reguli editoriale odată cu acreditarea. Ordinul de prefect care a scandalizat presa locală",
@@ -800,6 +1042,10 @@
     {
      "name": "Gândul",
      "url": "https://www.gandul.ro/actualitate/regulament-acreditare-presa-prefectura-bihor-scandal-21064156"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/prefectura-bihor-impune-jurnalistilor-reguli-editoriale-odata-cu-acreditarea-ordinul-prefectului-stabileste-cum-sa-verifice-informatiile-si-cum-sa-corecteze-erorile-document_3936617"
     }
    ]
   },
@@ -872,6 +1118,10 @@
     {
      "name": "Agerpres",
      "url": "https://agerpres.ro/sport/2026/11/13/hochei-steaua-a-castigat-la-miercurea-ciuc-in-campionat--1613245"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/hochei-csa-steaua-a-invins-o-pe-sc-miercurea-ciuc-cu-3-2_3936639"
     }
    ]
   },
@@ -890,6 +1140,10 @@
     {
      "name": "Agerpres",
      "url": "https://agerpres.ro/sport/2026/11/13/baschet-masculin-cso-voluntari-a-urcat-pe-primul-loc-in-campionat-dupa-victoria-de-la-sibiu--1613244"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/baschet-masculin-cso-voluntari-a-invins-o-pe-csu-sibiu-cu-81-77_3936635"
     }
    ]
   },
@@ -1042,6 +1296,10 @@
     {
      "name": "Agerpres",
      "url": "https://agerpres.ro/politic-extern/2026/11/13/seful-mossadului-in-vizita-la-washington-pe-fondul-presiunilor-legate-de-un-razboi-cu-iranul-axios--1613233"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/seful-mossadului-vizita-la-washington-pe-fondul-tensiunilor-cu-iranul-netanyahu-face-presiuni-pentru-reluarea-razboiului_3936638"
     }
    ]
   },
@@ -1060,6 +1318,10 @@
     {
      "name": "Agerpres",
      "url": "https://agerpres.ro/sport/2026/11/13/fotbal-jan-urban-polonia---ma-astept-la-o-confruntare-deschisa-cu-romania-noi-ne-dorim-locul-doi-in---1613231"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/selectionerul-echipei-nationale-de-fotbal-a-poloniei-inainte-de-duelul-cu-romania-ma-astept-la-o-confruntare-deschisa-ambele-echipe-sunt-inca-in-joc_3936643"
     }
    ]
   },
@@ -1258,6 +1520,10 @@
     {
      "name": "News.ro",
      "url": "https://www.news.ro/eveniment/ministerul-apararii-tinta-aeriana-detectata-la-sud-est-de-insula-serpilor-in-spatiul-aerian-ucrainean-doua-aeronave-f-16-au-decolat-de-la-baza-86-aeriana-fetesti-1922400113002026112322986040"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/alerta-aeriana-in-apropierea-romaniei-tinta-detectata-langa-insula-serpilor-doua-avioane-f-16-au-decolat-de-la-fetesti_3936642"
     }
    ]
   },
@@ -1324,6 +1590,10 @@
     {
      "name": "Digi24",
      "url": "https://www.digi24.ro/stiri/actualitate/sanatate/alexandru-rogobete-tariful-pentru-hrana-pacientilor-din-spitale-ar-putea-creste-de-anul-viitor-cei-22-de-lei-sunt-depasiti-4036023"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/se-cauta-bani-pentru-hrana-pacientilor-din-spitale-tariful-ar-putea-creste-la-finalul-anului-dupa-patru-ani-de-stagnare_3936637"
     }
    ]
   },
@@ -1350,6 +1620,24 @@
     {
      "name": "HotNews",
      "url": "https://hotnews.ro/drone-neautorizate-detectate-deasupra-unei-baze-aeriene-americane-din-marea-britanie-2403997"
+    }
+   ]
+  },
+  {
+   "id": "auto-3c99ecef0b75",
+   "title": "VIDEO Un șofer român le-a dat bătăi de cap polițiștilor britanici: Bărbatul a făcut o manevră greșită și a blocat tot traficul",
+   "title_ro": "VIDEO Un șofer român le-a dat bătăi de cap polițiștilor britanici: Bărbatul a făcut o manevră greșită și a blocat tot traficul",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "security",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-13T20:50:45Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/video-un-sofer-roman-politisti-britanici-barbatul-a-facut-o-manevra-gresita-si-a-blocat-tot-traficul_3936605"
     }
    ]
   },
@@ -1390,6 +1678,24 @@
    ]
   },
   {
+   "id": "auto-1e6f46fbfcc9",
+   "title": "Microsoft vine cu explicații după pana majoră care i-a afectat serviciile: Nu a fost un atac cibernetic, nici o problemă legată de AI",
+   "title_ro": "Microsoft vine cu explicații după pana majoră care i-a afectat serviciile: Nu a fost un atac cibernetic, nici o problemă legată de AI",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "security",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-13T20:47:29Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/microsoft-vine-cu-explicatii-dupa-pana-majora-care-i-a-afectat-serviciile-nu-a-fost-un-atac-cibernetic-nici-o-problema-legata-de-ai_3936640"
+    }
+   ]
+  },
+  {
    "id": "auto-4361dfeaa3f9",
    "title": "RO-Alert în județul Tulcea, din cauza unei ținte aeriene detectate la sud-est de Insula Șerpilor. Avioane F-16 au decolat de la Fetești",
    "title_ro": "RO-Alert în județul Tulcea, din cauza unei ținte aeriene detectate la sud-est de Insula Șerpilor. Avioane F-16 au decolat de la Fetești",
@@ -1426,6 +1732,24 @@
     {
      "name": "HotNews",
      "url": "https://hotnews.ro/cine-va-reprezenta-europa-la-negocierile-cu-rusia-si-sua-pentru-incheierea-razboiului-din-ucraina-2403876"
+    }
+   ]
+  },
+  {
+   "id": "auto-6c6704bb0e2c",
+   "title": "Cine decide viitorul Europei? Aproximativ 40 de țări cer să participe la negocierile pentru securitatea continentului",
+   "title_ro": "Cine decide viitorul Europei? Aproximativ 40 de țări cer să participe la negocierile pentru securitatea continentului",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "economy",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-13T20:40:00Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/cine-decide-viitorul-europei_3936264"
     }
    ]
   },
@@ -1524,6 +1848,24 @@
    ]
   },
   {
+   "id": "auto-3f30d2e3745f",
+   "title": "„A sosit moment să facem lumină”. Rogobete anunță o schimbare majoră pentru pacienți, de la 1 ianuarie 2027. Vor fi alertați când CNP-ul le este folosit",
+   "title_ro": "„A sosit moment să facem lumină”. Rogobete anunță o schimbare majoră pentru pacienți, de la 1 ianuarie 2027. Vor fi alertați când CNP-ul le este folosit",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "economy",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-13T20:29:42Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/a-sosit-moment-sa-facem-lumina-rogobete-anunta-o-schimbare-majora-pentru-pacienti-de-la-1-ianuarie-2027-vor-fi-alertati-cand-cnp-ul-le-este-folosit_3936629"
+    }
+   ]
+  },
+  {
    "id": "auto-b36a41c50c93",
    "title": "Ministrul Sănătăţii: Căutăm soluţii, astfel încât la finalul anului să putem creşte tariful de hrană / Ultima creştere de tarif pentru alimentaţia pacienţilor, în 2022 / Despre buget: Nu vreau să zic că va fi mai mare, cu siguranţă sper că nu va fi mai mi",
    "title_ro": "Ministrul Sănătăţii: Căutăm soluţii, astfel încât la finalul anului să putem creşte tariful de hrană / Ultima creştere de tarif pentru alimentaţia pacienţilor, în 2022 / Despre buget: Nu vreau să zic că va fi mai mare, cu siguranţă sper că nu va fi mai mi",
@@ -1592,6 +1934,24 @@
     {
      "name": "News.ro",
      "url": "https://www.news.ro/sport/diana-shnaider-a-inlocuit-o-pe-muchova-in-meciul-din-grupele-turneului-campioanelor-cu-andreeva-1922402213072026112222985969"
+    }
+   ]
+  },
+  {
+   "id": "auto-846f07e501a5",
+   "title": "Marea Neagră, blocată până în primăvară? Exporturile de grâu rusesc intră sub presiune, efectele se propagă pe piața cerealelor",
+   "title_ro": "Marea Neagră, blocată până în primăvară? Exporturile de grâu rusesc intră sub presiune, efectele se propagă pe piața cerealelor",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "economy",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-13T20:20:03Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/marea-neagra-blocata-pana-in-primavara-exporturile-de-grau-rusesc-intra-sub-presiune-efectele-se-propaga-pe-piata-cerealelor_3936540"
     }
    ]
   },
@@ -1672,6 +2032,24 @@
     {
      "name": "Mediafax",
      "url": "https://www.mediafax.ro/politic/rogobete-promite-sa-deblocheze-angajarile-din-sanatate-din-2027-sa-putem-debloca-inca-cateva-mii-de-posturi-23842766"
+    }
+   ]
+  },
+  {
+   "id": "auto-2dcabb4d6692",
+   "title": "Europa, îndemnată să își arate forța în fața Rusiei: „Nu trebuie să ne temem, suntem superiori în toate aspecte economice”",
+   "title_ro": "Europa, îndemnată să își arate forța în fața Rusiei: „Nu trebuie să ne temem, suntem superiori în toate aspecte economice”",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "economy",
+   "region": "europe",
+   "place": "Europe",
+   "place_ro": "Europa",
+   "publishedAt": "2026-11-13T20:10:06Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/europa-indemnata-sa-isi-arate-forta-in-fata-rusiei_3936569"
     }
    ]
   },
@@ -1828,6 +2206,42 @@
    ]
   },
   {
+   "id": "auto-8532c8488be8",
+   "title": "Republica Moldova schimbă regulile pentru străini. Cursuri de română, sprijin la angajare și noi drepturi pentru cei cu protecție temporară",
+   "title_ro": "Republica Moldova schimbă regulile pentru străini. Cursuri de română, sprijin la angajare și noi drepturi pentru cei cu protecție temporară",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "world",
+   "region": "europe",
+   "place": "Moldova",
+   "place_ro": "Republica Moldova",
+   "publishedAt": "2026-11-13T19:57:03Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/republica-moldova-schimba-regulile-pentru-straini-cursuri-de-romana-sprijin-la-angajare-si-noi-drepturi-pentru-cei-cu-protectie-temporara_3936632"
+    }
+   ]
+  },
+  {
+   "id": "auto-941c1e6cfd22",
+   "title": "Republica Moldova lansează cu sprijinul României o nouă piață de energie. Curentul va putea fi cumpărat în avans, prin licitații",
+   "title_ro": "Republica Moldova lansează cu sprijinul României o nouă piață de energie. Curentul va putea fi cumpărat în avans, prin licitații",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "energy",
+   "region": "europe",
+   "place": "Moldova",
+   "place_ro": "Republica Moldova",
+   "publishedAt": "2026-11-13T19:55:42Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/republica-moldova-lanseaza-cu-sprijinul-romaniei-o-noua-piata-de-energie-curentul-va-putea-fi-cumparat-in-avans-prin-licitatii_3936631"
+    }
+   ]
+  },
+  {
    "id": "auto-9500b6d05c5b",
    "title": "Reacția Finlandei după ce Rusia ar fi cerut ieșirea țării nordice din NATO: „Nu este deloc un subiect negociabil”",
    "title_ro": "Reacția Finlandei după ce Rusia ar fi cerut ieșirea țării nordice din NATO: „Nu este deloc un subiect negociabil”",
@@ -1900,6 +2314,10 @@
     {
      "name": "Agerpres",
      "url": "https://agerpres.ro/politic-extern/2026/11/13/frontex-trecerile-ilegale-ale-frontierelor-ue-au-scazut-cu-29-in-primele-10-luni-ale-anului--1613229"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/iar-brasov-a-inregistrat-un-profit-net-de-peste-48-milioane-lei-in-primele-9-luni-din-2026_3936608"
     }
    ]
   },
@@ -1962,6 +2380,24 @@
    ]
   },
   {
+   "id": "auto-74e8b462d1c3",
+   "title": "Ce ar însemna pentru România un acord de pace în condițiile Rusiei. Generalul Bălăceanu explică riscurile de la Marea Neagră: „S-ar crea un cap de pod pentru un al doilea război”",
+   "title_ro": "Ce ar însemna pentru România un acord de pace în condițiile Rusiei. Generalul Bălăceanu explică riscurile de la Marea Neagră: „S-ar crea un cap de pod pentru un al doilea război”",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "security",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-13T19:45:56Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/avertisment-pentru-romania-privind-planurile-rusiei-in-ucraina-generalul-balaceanu-s-ar-crea-un-cap-de-pod-pentru-un-al-doilea-razboi_3936618"
+    }
+   ]
+  },
+  {
    "id": "auto-d1cabdc6e064",
    "title": "Rogobete îl acuză pe Bolojan că a dezinformat în privința bugetului Sănătății: Am ajuns la rectificare exact la suma solicitată inițial",
    "title_ro": "Rogobete îl acuză pe Bolojan că a dezinformat în privința bugetului Sănătății: Am ajuns la rectificare exact la suma solicitată inițial",
@@ -1998,6 +2434,24 @@
    ]
   },
   {
+   "id": "auto-1d357221af87",
+   "title": "Creșterea economică a Rusiei a încetinit la 1% în ritm anual în trimestrul al treilea",
+   "title_ro": "Creșterea economică a Rusiei a încetinit la 1% în ritm anual în trimestrul al treilea",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "economy",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-13T19:41:36Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/cresterea-economica-a-rusiei-a-incetinit-la-1-in-ritm-anual-in-trimestrul-al-treilea_3936627"
+    }
+   ]
+  },
+  {
    "id": "auto-5f68ab3a970a",
    "title": "Nicuşor Dan s-a întâlnit cu Peter Magyar, la Dublin: „Există probleme istorice, diplomatice, dar avem deschiderea să discutăm pentru a le închide”",
    "title_ro": "Nicuşor Dan s-a întâlnit cu Peter Magyar, la Dublin: „Există probleme istorice, diplomatice, dar avem deschiderea să discutăm pentru a le închide”",
@@ -2012,6 +2466,10 @@
     {
      "name": "Libertatea",
      "url": "https://www.libertatea.ro/stiri/nicusor-dan-s-a-intalnit-cu-peter-magyar-la-dublin-exista-probleme-istorice-diplomatice-dar-avem-deschiderea-sa-discutam-pentru-a-le-inchide-21fk4vb"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/president-nicusor-dan-meets-peter-magyar-in-dublin_3936645"
     }
    ]
   },
@@ -2052,6 +2510,24 @@
    ]
   },
   {
+   "id": "auto-1e174831d9a2",
+   "title": "S-a decis! Cine sunt reprezentanții Europei la masa negocierilor pentru Ucraina. Putin a vrut doar un reprezentant, dar va primi o echipă extinsă",
+   "title_ro": "S-a decis! Cine sunt reprezentanții Europei la masa negocierilor pentru Ucraina. Putin a vrut doar un reprezentant, dar va primi o echipă extinsă",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "economy",
+   "region": "europe",
+   "place": "Ukraine",
+   "place_ro": "Ucraina",
+   "publishedAt": "2026-11-13T19:38:04Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/cine-sunt-reprezentantii-europei-la-masa-negocierilor-pentru-ucraina_3936626"
+    }
+   ]
+  },
+  {
    "id": "auto-3dd81b1d35a6",
    "title": "Ministrul Sănătăţii: Este o practică veche pe care o cunoaştem - servicii fictive care se decontează pe cardurile de sănătate ale pacienţilor, care nu beneficiază de servicii / Pacienţii vor primi o notificare când CNP-ul lor este utilizat",
    "title_ro": "Ministrul Sănătăţii: Este o practică veche pe care o cunoaştem - servicii fictive care se decontează pe cardurile de sănătate ale pacienţilor, care nu beneficiază de servicii / Pacienţii vor primi o notificare când CNP-ul lor este utilizat",
@@ -2066,6 +2542,24 @@
     {
      "name": "News.ro",
      "url": "https://www.news.ro/social/sanatate/ministrul-sanatatii-practica-veche-cunoastem-servicii-fictive-deconteaza-cardurile-sanatate-pacientilor-beneficiaza-servicii-pacientii-vor-primi-notificare-cnp-ul-utilizat-1922403813002026112122985945"
+    }
+   ]
+  },
+  {
+   "id": "auto-bed74f5f259e",
+   "title": "Ministrul Economiei încearcă să dea o mare lovitură: A plecat pe urmele ”petrodolarilor”",
+   "title_ro": "Ministrul Economiei încearcă să dea o mare lovitură: A plecat pe urmele ”petrodolarilor”",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "politics",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-13T19:31:27Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/ministrul-economiei-incearca-sa-dea-o-mare-lovitura-a-plecat-pe-urmele-petro-dolarilor_3936621"
     }
    ]
   },
@@ -2106,6 +2600,42 @@
    ]
   },
   {
+   "id": "auto-f9164bd7d787",
+   "title": "Nicusor Dan: It was established in principle it is useful for Europe to take part in discussions on war in Ukraine",
+   "title_ro": "Nicusor Dan: It was established in principle it is useful for Europe to take part in discussions on war in Ukraine",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "politics",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-13T19:24:54Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/nicusor-dan-it-was-established-in-principle-it-is-useful-for-europe-to-take-part-in-discussions-on-war-in-ukraine_3936616"
+    }
+   ]
+  },
+  {
+   "id": "auto-fd936fbeff7e",
+   "title": "VIDEO Schitul „Sfântul Ioan Gură de Aur” din Casian și-a sărbătorit hramul. ÎPS Teodosie a săvârșit Sfânta Liturghie",
+   "title_ro": "VIDEO Schitul „Sfântul Ioan Gură de Aur” din Casian și-a sărbătorit hramul. ÎPS Teodosie a săvârșit Sfânta Liturghie",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "politics",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-13T19:24:42Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/video-schitul-sfantul-ioan-gura-de-aur-din-casian-si-a-sarbatorit-hramul-ips-teodosie-a-savarsit-sfanta-liturghie_3936625"
+    }
+   ]
+  },
+  {
    "id": "auto-70c5a22ede17",
    "title": "Dan Dungaciu, la Forumul Europa: O Europă federală impusă riscă să repete greșelile unor foste imperii",
    "title_ro": "Dan Dungaciu, la Forumul Europa: O Europă federală impusă riscă să repete greșelile unor foste imperii",
@@ -2138,6 +2668,28 @@
     {
      "name": "Libertatea",
      "url": "https://www.libertatea.ro/stiri/finlanda-respinge-categoric-cererea-rusiei-ca-sa-iasa-din-nato-4ny6khr"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/finlanda-respinge-categoric-cererea-rusiei-de-a-iesi-din-nato_3936624"
+    }
+   ]
+  },
+  {
+   "id": "auto-1655725ca00b",
+   "title": "FIFA a anunțat prețurile biletelor pentru Cupa Mondială de fotbal feminin din 2027: Intrarea pornește de la cinci dolari",
+   "title_ro": "FIFA a anunțat prețurile biletelor pentru Cupa Mondială de fotbal feminin din 2027: Intrarea pornește de la cinci dolari",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "sport",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-13T19:16:30Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/fifa-a-anuntat-preturile-biletelor-pentru-cupa-mondiala-de-fotbal-feminin-din-2027-intrarea-porneste-de-la-cinci-dolari_3936622"
     }
    ]
   },
@@ -2174,6 +2726,24 @@
     {
      "name": "HotNews",
      "url": "https://hotnews.ro/openai-a-lansat-chatgpt-wallet-un-serviciu-care-permite-agentilor-ai-sa-faca-achizitii-in-numele-utilizatorilor-2403930"
+    }
+   ]
+  },
+  {
+   "id": "auto-c733fced4252",
+   "title": "BNR avertizează că România se confruntă cu stagflație persistentă. Ce urmează pentru economie și inflație în 2027",
+   "title_ro": "BNR avertizează că România se confruntă cu stagflație persistentă. Ce urmează pentru economie și inflație în 2027",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "economy",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-13T19:12:00Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/bnr-avertizeaza-ca-romania-se-confrunta-cu-stagflatie-persistenta-ce-urmeaza-pentru-economie-si-inflatie-in-2027_3936566"
     }
    ]
   },
@@ -2282,6 +2852,10 @@
     {
      "name": "B1 TV",
      "url": "https://www.b1tv.ro/externe/republica-moldova-reactioneaza-dupa-zvonurile-privind-federalizarea-tarii-1749846.html"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/republica-moldova-reactioneaza-la-planul-rusiei-pentru-federalizarea-tarii_3936596"
     }
    ]
   },
@@ -2370,6 +2944,24 @@
     {
      "name": "Mediafax",
      "url": "https://www.mediafax.ro/politic/se-cauta-parteneri-pentru-proiecte-in-qatar-delegatia-ministerului-economiei-in-vizita-la-doha-23842750"
+    }
+   ]
+  },
+  {
+   "id": "auto-6dc198f68c20",
+   "title": "Ministerul Apărării recrutează: Se oferă salarii chiar și pentru instructaj. În 11 săptămâni poți încasa trei salarii",
+   "title_ro": "Ministerul Apărării recrutează: Se oferă salarii chiar și pentru instructaj. În 11 săptămâni poți încasa trei salarii",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "security",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-13T19:04:00Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/ministerul-apararii-recruteaza-se-ofera-salarii-chiar-si-pentru-instructaj-in-11-saptamani-poti-incasa-trei-salarii_3936609"
     }
    ]
   },
@@ -2490,6 +3082,24 @@
    ]
   },
   {
+   "id": "auto-24ac0cd4f429",
+   "title": "Calea ferată din vestul României se pregătește de o nouă transformare: Investiție de peste 4 milioane de lei pe tronsonul Lugoj-Timișoara",
+   "title_ro": "Calea ferată din vestul României se pregătește de o nouă transformare: Investiție de peste 4 milioane de lei pe tronsonul Lugoj-Timișoara",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "economy",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-13T18:54:00Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/calea-ferata-din-vestul-romaniei-se-pregateste-de-o-noua-transformare-investitie-de-peste-4-milioane-de-lei-pe-tronsonul-lugoj-timisoara_3936545"
+    }
+   ]
+  },
+  {
    "id": "auto-9b04f6451b75",
    "title": "Decizie istorică în Germania. Pentru prima dată de la sfârșitul celui de-al Doilea Război Mondial, Parlamentul le oferă serviciilor de informații dreptul de a trece la contraatac",
    "title_ro": "Decizie istorică în Germania. Pentru prima dată de la sfârșitul celui de-al Doilea Război Mondial, Parlamentul le oferă serviciilor de informații dreptul de a trece la contraatac",
@@ -2508,6 +3118,24 @@
    ]
   },
   {
+   "id": "auto-af36d229ee44",
+   "title": "Taylor Fritz îl va înfrunta pe argentinianul Thiago Tirante în finala turneului ATP 250 de la Stockholm",
+   "title_ro": "Taylor Fritz îl va înfrunta pe argentinianul Thiago Tirante în finala turneului ATP 250 de la Stockholm",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "politics",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-13T18:51:56Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/taylor-fritz-il-va-infrunta-pe-argentinianul-thiago-tirante-in-finala-turneului-atp-250-de-la-stockholm_3936615"
+    }
+   ]
+  },
+  {
    "id": "auto-210a323658a5",
    "title": "Avertismentul secretarului general al ONU, la ultimul summit climatic din mandatul său: Nu poți construi pacea pe o planetă în flăcări",
    "title_ro": "Avertismentul secretarului general al ONU, la ultimul summit climatic din mandatul său: Nu poți construi pacea pe o planetă în flăcări",
@@ -2522,6 +3150,24 @@
     {
      "name": "Digi24",
      "url": "https://www.digi24.ro/stiri/externe/mapamond/avertismentul-secretarului-general-al-onu-la-ultimul-summit-climatic-din-mandatul-sau-nu-poti-construi-pacea-pe-o-planeta-in-flacari-4035841"
+    }
+   ]
+  },
+  {
+   "id": "auto-b0f3cddeea75",
+   "title": "VIDEO Găsit în viață într-o pădure din Iași, la aproape o săptămână de la dispariție: Cine l-a descoperit după căutările cu dronă și câini",
+   "title_ro": "VIDEO Găsit în viață într-o pădure din Iași, la aproape o săptămână de la dispariție: Cine l-a descoperit după căutările cu dronă și câini",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "security",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-13T18:46:51Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/video-gasit-in-viata-intr-o-padure-din-iasi-la-aproape-o-saptamana-de-la-disparitie-cine-l-a-descoperit-dupa-cautarile-cu-drona-si-caini_3936601"
     }
    ]
   },
@@ -2598,6 +3244,24 @@
    ]
   },
   {
+   "id": "auto-642d136db64e",
+   "title": "Doi români, repatriați din Yemen prin Egipt. MAE avertizează asupra pericolului extrem: „PĂRĂSIŢI IMEDIAT ŢARA!”",
+   "title_ro": "Doi români, repatriați din Yemen prin Egipt. MAE avertizează asupra pericolului extrem: „PĂRĂSIŢI IMEDIAT ŢARA!”",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "world",
+   "region": "world",
+   "place": "Egypt",
+   "place_ro": "Egipt",
+   "publishedAt": "2026-11-13T18:39:00Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/doi-romani-repatriati-din-yemen-prin-egipt-mae-avertizeaza-asupra-pericolului-extrem-parasiti-imediat-tara_3936604"
+    }
+   ]
+  },
+  {
    "id": "auto-4b48f41505ff",
    "title": "Președintele Poloniei a blocat legea care permitea autorităților să cenzureze conținutul ilegal de pe internet",
    "title_ro": "Președintele Poloniei a blocat legea care permitea autorităților să cenzureze conținutul ilegal de pe internet",
@@ -2666,6 +3330,42 @@
     {
      "name": "Știrile ProTV",
      "url": "https://stirileprotv.ro/stiri/international/de-ce-scandalul-nvidia-poate-afecta-securitatea-sua-si-relatiile-cu-china-explicatiile-analistilor.html"
+    }
+   ]
+  },
+  {
+   "id": "auto-fea04aaf8f44",
+   "title": "Judicial administrator estimates EUR 6 mln annual fuel theft losses at STB",
+   "title_ro": "Judicial administrator estimates EUR 6 mln annual fuel theft losses at STB",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "economy",
+   "region": "bucharest",
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-11-13T18:31:03Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/judicial-administrator-estimates-eur-6-mln-annual-fuel-theft-losses-at-stb_3936611"
+    }
+   ]
+  },
+  {
+   "id": "auto-d41469ab96fc",
+   "title": "O mare companie de IT din România concediază sute de angajați: Alte câteva sute stau de luni bune pe ”bench”",
+   "title_ro": "O mare companie de IT din România concediază sute de angajați: Alte câteva sute stau de luni bune pe ”bench”",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "economy",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-13T18:30:31Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/o-mare-companie-de-it-din-romania-concediaza-sute-de-angajati-alte-cateva-sute-stau-de-luni-bune-pe-bench_3936612"
     }
    ]
   },
@@ -2760,6 +3460,24 @@
     {
      "name": "Digi24",
      "url": "https://www.digi24.ro/stiri/externe/ce-urmareste-cu-adevarat-rusia-in-negocierile-cu-ucraina-axa-mikolaiv-odesa-transnistria-si-semnalul-de-alarma-pentru-romania-4035779"
+    }
+   ]
+  },
+  {
+   "id": "auto-75b8f38e9bbc",
+   "title": "VIDEO FOTO Diana Șoșoacă își petrece ziua de naștere la Moscova: Ce cadou spune că a primit de la Putin: „'Ursul te protejează!'. Mulțumesc, domnule președinte”",
+   "title_ro": "VIDEO FOTO Diana Șoșoacă își petrece ziua de naștere la Moscova: Ce cadou spune că a primit de la Putin: „'Ursul te protejează!'. Mulțumesc, domnule președinte”",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "politics",
+   "region": "europe",
+   "place": "Russia",
+   "place_ro": "Rusia",
+   "publishedAt": "2026-11-13T18:20:41Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/video-foto-diana-sosoaca-isi-petrece-ziua-de-nastere-la-moscova-ce-cadou-spune-ca-a-primit-de-la-putin-ursul-te-protejeaza-multumesc-domnule-presedinte_3936607"
     }
    ]
   },
@@ -3222,6 +3940,24 @@
    ]
   },
   {
+   "id": "auto-8d11b8c34252",
+   "title": "Furtuna Charles lovește România: După o zi cu termperaturi de vară, trecem brusc în pragul iernii/ ANM anunță ploi și ninsori abundente",
+   "title_ro": "Furtuna Charles lovește România: După o zi cu termperaturi de vară, trecem brusc în pragul iernii/ ANM anunță ploi și ninsori abundente",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "economy",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-13T17:50:04Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/furtuna-charles-loveste-romania-anm-anunta-ploi-si-ninsori-abundente_3936590"
+    }
+   ]
+  },
+  {
    "id": "auto-8cd8efd2a87e",
    "title": "Nicușor Dan avertizează, la Dublin, asupra efectelor AI: Unele locuri de muncă vor dispărea, iar educația poate fi afectată",
    "title_ro": "Nicușor Dan avertizează, la Dublin, asupra efectelor AI: Unele locuri de muncă vor dispărea, iar educația poate fi afectată",
@@ -3390,6 +4126,10 @@
     {
      "name": "HotNews",
      "url": "https://hotnews.ro/cine-poate-sa-i-ia-locul-lui-jensen-huang-la-conducerea-nvidia-2403977"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/cine-i-ar-putea-lua-locul-lui-jensen-huang-nvidia-in-discutii-cu-seful-arm-rene-haas_3936619"
     }
    ]
   },
@@ -3452,6 +4192,24 @@
     {
      "name": "Libertatea",
      "url": "https://www.libertatea.ro/stiri/ilie-bolojan-ataca-psd-dupa-publicarea-datelor-ins-sper-sa-nu-si-bata-joc-de-mostenirea-primita-ce-spune-despre-asumarea-guvernarii-f7g4tcr"
+    }
+   ]
+  },
+  {
+   "id": "auto-7c6873236d02",
+   "title": "VIDEO Decizia liderilor Europei, în contextul negocierilor dintre SUA-Rusia și Ucraina",
+   "title_ro": "VIDEO Decizia liderilor Europei, în contextul negocierilor dintre SUA-Rusia și Ucraina",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "economy",
+   "region": "europe",
+   "place": "Ukraine",
+   "place_ro": "Ucraina",
+   "publishedAt": "2026-11-13T17:42:00Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/video-decizia-liderilor-europei-in-contextul-negocierilor-dintre-sua-rusia-si-ucraina_3936599"
     }
    ]
   },
@@ -3548,6 +4306,24 @@
    ]
   },
   {
+   "id": "auto-2fcb19ed2765",
+   "title": "VIDEO La cel mai înalt nivel din Europa se discută foarte serios despre impactul AI-ului/ Nicușor Dan: S-a vorbit despre riscurile pe care le poate crea",
+   "title_ro": "VIDEO La cel mai înalt nivel din Europa se discută foarte serios despre impactul AI-ului/ Nicușor Dan: S-a vorbit despre riscurile pe care le poate crea",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "politics",
+   "region": "europe",
+   "place": "Europe",
+   "place_ro": "Europa",
+   "publishedAt": "2026-11-13T17:35:00Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/video-la-cel-mai-inalt-nivel-din-europa-se-discuta-foarte-serios-despre-impactul-ai-ului-nicusor-dan-s-a-vorbit-despre-riscurile-pe-care-le-poate-crea_3936597"
+    }
+   ]
+  },
+  {
    "id": "auto-cfed5a6401a1",
    "title": "Serviciile germane de informații au primit noi puteri, inclusiv să desfășoare acțiuni clandestine: „De-acum încolo vor fi adevărate servicii secrete”",
    "title_ro": "Serviciile germane de informații au primit noi puteri, inclusiv să desfășoare acțiuni clandestine: „De-acum încolo vor fi adevărate servicii secrete”",
@@ -3580,6 +4356,42 @@
     {
      "name": "Gândul",
      "url": "https://www.gandul.ro/international/zelenski-surprins-intr-o-ipostaza-neobisnuita-langa-ginerele-lui-trump-dupa-negocierile-de-pace-de-la-abu-dhabi-dintre-ucraina-si-rusia-21063903"
+    }
+   ]
+  },
+  {
+   "id": "auto-e188fc42ca37",
+   "title": "Bucharest Stock Exchange closes Friday's session in the green",
+   "title_ro": "Bucharest Stock Exchange closes Friday's session in the green",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "economy",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-13T17:29:15Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/bucharest-stock-exchange-closes-fridays-session-in-the-green-2_3936593"
+    }
+   ]
+  },
+  {
+   "id": "auto-1c49b087e174",
+   "title": "Federația Română de Handbal a anunțat lotul pentru EURO 2026",
+   "title_ro": "Federația Română de Handbal a anunțat lotul pentru EURO 2026",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "sport",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-13T17:28:25Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/federatia-romana-de-handbal-a-anuntat-lotul-pentru-euro-2026_3936595"
     }
    ]
   },
@@ -3620,6 +4432,42 @@
    ]
   },
   {
+   "id": "auto-177cda4b8f21",
+   "title": "VIDEO Un fost consilier al unui politician pro-rus, victima unei explozii la Moscova. Al doilea atac de acest gen în 48 de ore",
+   "title_ro": "VIDEO Un fost consilier al unui politician pro-rus, victima unei explozii la Moscova. Al doilea atac de acest gen în 48 de ore",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "security",
+   "region": "europe",
+   "place": "Russia",
+   "place_ro": "Rusia",
+   "publishedAt": "2026-11-13T17:22:00Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/un-fost-consilier-al-unui-politician-pro-rus-victima-unei-explozii-la-moscova_3936584"
+    }
+   ]
+  },
+  {
+   "id": "auto-886df9b78a9f",
+   "title": "Comisia Europeană investighează cel mai mare furnizor de energie electrică din Grecia",
+   "title_ro": "Comisia Europeană investighează cel mai mare furnizor de energie electrică din Grecia",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "energy",
+   "region": "europe",
+   "place": "Greece",
+   "place_ro": "Grecia",
+   "publishedAt": "2026-11-13T17:20:38Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/comisia-europeana-investigheaza-cel-mai-mare-furnizor-de-energie-electrica-din-grecia_3936594"
+    }
+   ]
+  },
+  {
    "id": "auto-435c9a0d2a92",
    "title": "Robert de Niro a ieșit de mână cu partenera sa mult mai tânără. Tiffany Chen e mama celui mai mic copil al său",
    "title_ro": "Robert de Niro a ieșit de mână cu partenera sa mult mai tânără. Tiffany Chen e mama celui mai mic copil al său",
@@ -3656,6 +4504,24 @@
    ]
   },
   {
+   "id": "auto-ab823fb24aae",
+   "title": "VIDEO Cuplu din Oradea, împușcat mortal în SUA de fostul ginere, chiar de ziua fiicei. Bărbatul s-a împușcat și el apoi; era casa care îi revenise femeii după divorț",
+   "title_ro": "VIDEO Cuplu din Oradea, împușcat mortal în SUA de fostul ginere, chiar de ziua fiicei. Bărbatul s-a împușcat și el apoi; era casa care îi revenise femeii după divorț",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "world",
+   "region": "world",
+   "place": "US",
+   "place_ro": "SUA",
+   "publishedAt": "2026-11-13T17:16:46Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/video-cuplu-din-oradea-impuscati-mortal-in-sua-de-fostul-ginere-chiar-de-ziua-fiicei-lor-barbatul-s-a-impuscat-si-el-apoi-era-casa-care-ii-revenise-femeii-dupa-divort_3936568"
+    }
+   ]
+  },
+  {
    "id": "auto-b9e81754ae99",
    "title": "Rusia lucrează la un proiect de lege care va stabili o ierarhie a „valorilor tradiționale”: „Sunt recunoscute ca fiind esențiale”",
    "title_ro": "Rusia lucrează la un proiect de lege care va stabili o ierarhie a „valorilor tradiționale”: „Sunt recunoscute ca fiind esențiale”",
@@ -3688,6 +4554,10 @@
     {
      "name": "News.ro",
      "url": "https://www.news.ro/economic/openai-lanseaza-chatgpt-wallet-un-serviciu-care-permite-agentilor-ai-sa-faca-achizitii-in-numele-utilizatorilor-1922401413282026111922985764"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/openai-lanseaza-chatgpt-wallet-agentii-ai-vor-putea-efectua-cumparaturi-in-numele-utilizatorilor_3936600"
     }
    ]
   },
@@ -3800,6 +4670,42 @@
    ]
   },
   {
+   "id": "auto-0798026ba413",
+   "title": "Avril Lavigne a devenit mamă pentru prima dată: Artista a născut o fetiță și a publicat primele imagini cu bebelușul",
+   "title_ro": "Avril Lavigne a devenit mamă pentru prima dată: Artista a născut o fetiță și a publicat primele imagini cu bebelușul",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "culture",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-13T17:08:36Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/avril-lavigne-a-devenit-mama-pentru-prima-data-artista-a-nascut-o-fetita-si-a-publicat-primele-imagini-cu-bebelusul_3936591"
+    }
+   ]
+  },
+  {
+   "id": "auto-f5e90d985392",
+   "title": "Italia revizuiește taxa impusă persoanelor înstărite care pleacă din țară",
+   "title_ro": "Italia revizuiește taxa impusă persoanelor înstărite care pleacă din țară",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "world",
+   "region": "europe",
+   "place": "Italy",
+   "place_ro": "Italia",
+   "publishedAt": "2026-11-13T17:08:14Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/italia-revizuieste-taxa-impusa-persoanelor-instarite-care-pleaca-din-tara_3936592"
+    }
+   ]
+  },
+  {
    "id": "auto-6be59f2f88e4",
    "title": "Am învățat să numărăm tancurile și am crezut că măsurăm prosperitatea. Povestea PIB-ului",
    "title_ro": "Am învățat să numărăm tancurile și am crezut că măsurăm prosperitatea. Povestea PIB-ului",
@@ -3814,6 +4720,24 @@
     {
      "name": "HotNews",
      "url": "https://hotnews.ro/am-invatat-sa-numaram-tancurile-si-am-crezut-ca-masuram-prosperitatea-povestea-pib-ului-2402657"
+    }
+   ]
+  },
+  {
+   "id": "auto-596b12b2716a",
+   "title": "President Dan to attend Francophonie Summit in Phnom Penh",
+   "title_ro": "President Dan to attend Francophonie Summit in Phnom Penh",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "economy",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-13T17:07:03Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/president-dan-to-attend-francophonie-summit-in-phnom-penh_3936588"
     }
    ]
   },
@@ -3886,6 +4810,24 @@
     {
      "name": "B1 TV",
      "url": "https://www.b1tv.ro/eveniment/calin-georgescu-microfoane-bodyguard-diicot-mogosoaia-1749722.html"
+    }
+   ]
+  },
+  {
+   "id": "auto-eb2b9e6cd538",
+   "title": "VIDEO S-a deschis celebrul Târg de Crăciun de la Craiova: Noile atracții și tematica noului eveniment",
+   "title_ro": "VIDEO S-a deschis celebrul Târg de Crăciun de la Craiova: Noile atracții și tematica noului eveniment",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "economy",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-13T17:06:00Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/video-s-a-deschis-celebrul-targ-de-craciun-de-la-craiova-noile-atractii-si-tematica-noului-eveniment_3936589"
     }
    ]
   },
@@ -4034,6 +4976,24 @@
    ]
   },
   {
+   "id": "auto-7917890fc45b",
+   "title": "Scandal uriaș la STB: Concedii medicale de 484 de ani într-un singur an și suspiciuni de fraudă de 59 de milioane de lei. Parchetul și CNAS vor fi sesizate",
+   "title_ro": "Scandal uriaș la STB: Concedii medicale de 484 de ani într-un singur an și suspiciuni de fraudă de 59 de milioane de lei. Parchetul și CNAS vor fi sesizate",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "politics",
+   "region": "bucharest",
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-11-13T16:58:07Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/concedii-medicale-de-484-de-ani-la-stb_3936575"
+    }
+   ]
+  },
+  {
    "id": "auto-cd934bd0893b",
    "title": "Ministerul Apărării a lansat în dezbatere publică normele pentru implementarea măsurilor programului Soldat-Gradat Voluntar în Termen",
    "title_ro": "Ministerul Apărării a lansat în dezbatere publică normele pentru implementarea măsurilor programului Soldat-Gradat Voluntar în Termen",
@@ -4074,6 +5034,10 @@
     {
      "name": "Mediafax",
      "url": "https://www.mediafax.ro/externe/le-pen-il-invita-pe-zelenski-la-bruxelles-ce-intentii-are-presedintele-ucrainei-23842748"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/marine-le-pen-se-declara-deschisa-unei-intalniri-cu-zelenski-la-bruxelles_3936602"
     }
    ]
   },
@@ -4114,6 +5078,24 @@
    ]
   },
   {
+   "id": "auto-0e7c77e0aa0c",
+   "title": "Fondul Proprietatea a înregistrat un profit net de peste 334 milioane de lei în primele 9 luni din 2026",
+   "title_ro": "Fondul Proprietatea a înregistrat un profit net de peste 334 milioane de lei în primele 9 luni din 2026",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "economy",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-13T16:53:57Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/fondul-proprietatea-profit_3936587"
+    }
+   ]
+  },
+  {
    "id": "auto-92188a898f51",
    "title": "Bolojan: PSD a vrut puterea, dar pare că nu este capabil să-și asume guvernarea în interesul țării. Le-am lăsat o economie care a reînceput să crească și un buget stabilizat. Sper să nu-și bată joc de moștenirea primită",
    "title_ro": "Bolojan: PSD a vrut puterea, dar pare că nu este capabil să-și asume guvernarea în interesul țării. Le-am lăsat o economie care a reînceput să crească și un buget stabilizat. Sper să nu-și bată joc de moștenirea primită",
@@ -4150,6 +5132,42 @@
     {
      "name": "B1 TV",
      "url": "https://www.b1tv.ro/politica/ilie-bolojan-a-declarat-ca-psd-forteaza-mistificarea-cifrelor-1749834.html"
+    }
+   ]
+  },
+  {
+   "id": "auto-e358e0c0cd5b",
+   "title": "Scăpări de clor la Chimcomplex Râmnicu Vâlcea: Ultimele măsurători indică o concentrație zero în atmosferă, zona rămâne sub monitorizare",
+   "title_ro": "Scăpări de clor la Chimcomplex Râmnicu Vâlcea: Ultimele măsurători indică o concentrație zero în atmosferă, zona rămâne sub monitorizare",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "economy",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-13T16:51:10Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/scapari-de-clor-la-chimcomplex-ramnicu-valcea-ultimele-masuratori-indica-o-concentratie-zero-in-atmosfera-zona-ramane-sub-monitorizare_3936586"
+    }
+   ]
+  },
+  {
+   "id": "auto-d5e8fac88fff",
+   "title": "Reforma pensiilor magistraților riscă să fie răsturnată: CJUE, chemată să decidă dacă noile reguli pot fi aplicate judecătorilor în funcție",
+   "title_ro": "Reforma pensiilor magistraților riscă să fie răsturnată: CJUE, chemată să decidă dacă noile reguli pot fi aplicate judecătorilor în funcție",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "politics",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-13T16:51:00Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/cjue-sesizata-de-un-tribunal-din-romania-cu-privire-la-pensiile-magistratilor-cinci-intrebari-privind-legalitatea-noilor-reguli_3936572"
     }
    ]
   },
@@ -4226,6 +5244,24 @@
    ]
   },
   {
+   "id": "auto-0e5504d66dbf",
+   "title": "Ilie Bolojan lansează un atac dur la adresa PSD: Forțează mistificarea cifrelor. Sper să nu-și bată joc de moștenirea primită!",
+   "title_ro": "Ilie Bolojan lansează un atac dur la adresa PSD: Forțează mistificarea cifrelor. Sper să nu-și bată joc de moștenirea primită!",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "politics",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-13T16:41:00Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/ilie-bolojan-lanseaza-un-atac-dur-la-adresa-psd-forteaza-mistificarea-cifrelor-sper-sa-nu-si-bata-joc-de-mostenirea-primita_3936583"
+    }
+   ]
+  },
+  {
    "id": "auto-cac4f058aa2a",
    "title": "Luptă pentru putere în Israel. Rivalul lui Netanyahu îl acuză că instigă la ură împotriva arabilor",
    "title_ro": "Luptă pentru putere în Israel. Rivalul lui Netanyahu îl acuză că instigă la ură împotriva arabilor",
@@ -4298,6 +5334,42 @@
     {
      "name": "Gândul",
      "url": "https://www.gandul.ro/international/finlanda-respinge-cerere-rusia-iesire-nato-21063958"
+    }
+   ]
+  },
+  {
+   "id": "auto-84ba0af5f2c6",
+   "title": "JD Vance pare că a luat o decizie pentru alegerile prezidențiale din 2028. Atitudinea lui Trump cântărește mult în calculele vicepreședintelui SUA",
+   "title_ro": "JD Vance pare că a luat o decizie pentru alegerile prezidențiale din 2028. Atitudinea lui Trump cântărește mult în calculele vicepreședintelui SUA",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "politics",
+   "region": "world",
+   "place": "US",
+   "place_ro": "SUA",
+   "publishedAt": "2026-11-13T16:30:29Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/jd-vance-pare-ca-a-luat-o-decizie-pentru-alegerile-prezidentiale-din-2028_3936582"
+    }
+   ]
+  },
+  {
+   "id": "auto-de43e5aced65",
+   "title": "BVB a închis în creştere ultima şedinţă de tranzacţionare a săptămânii: Valoarea tranzacțiilor s-a ridicat la peste 64 milioane de lei",
+   "title_ro": "BVB a închis în creştere ultima şedinţă de tranzacţionare a săptămânii: Valoarea tranzacțiilor s-a ridicat la peste 64 milioane de lei",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "economy",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-13T16:30:02Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/bvb-a-inchis-in-crestere-ultima-sedinta-de-tranzactionare-a-saptamanii-valoarea-tranzactiilor-s-a-ridicat-la-peste-64-milioane-de-lei_3936581"
     }
    ]
   },
@@ -4500,6 +5572,10 @@
     {
      "name": "News.ro",
      "url": "https://www.news.ro/sport/sase-membri-ai-echipei-nurmagomedov-condamnati-la-inchisoare-in-urma-unei-batai-la-hotel-cu-persoane-din-tabara-merab-dvalishvili-dana-white-ce-adunatura-de-idioti-1922402313202026111822985703"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/sase-membri-ai-echipei-nurmagomedov-au-ajuns-dupa-gratii-in-urma-unei-incaierari_3936585"
     }
    ]
   },
@@ -4518,6 +5594,60 @@
     {
      "name": "Digi24",
      "url": "https://www.digi24.ro/stiri/externe/ue/premierul-letoniei-cere-europei-sa-adopte-o-pozitie-mai-ferma-fata-de-rusia-nici-macar-nu-este-capabila-sa-infranga-o-tara-mai-mica-4035631"
+    }
+   ]
+  },
+  {
+   "id": "auto-d421813cb57e",
+   "title": "AEP president to Venice Commission delegation: Institution has no powers over records of local elected officials",
+   "title_ro": "AEP president to Venice Commission delegation: Institution has no powers over records of local elected officials",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "economy",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-13T16:20:50Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/aep-president-to-venice-commission-delegation-institution-has-no-powers-over-records-of-local-elected-officials_3936578"
+    }
+   ]
+  },
+  {
+   "id": "auto-50c46edc2809",
+   "title": "SURSE Copil de 4 ani, dus de urgență la spital după ce ar fi fost lovit de un bărbat în Sectorul 4. Martorii au dat alarma",
+   "title_ro": "SURSE Copil de 4 ani, dus de urgență la spital după ce ar fi fost lovit de un bărbat în Sectorul 4. Martorii au dat alarma",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "economy",
+   "region": "bucharest",
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-11-13T16:20:04Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/copil-de-4-ani-dus-de-urgenta-la-spital-dupa-ce-ar-fi-fost-lovit-de-un-barbat-in-sectorul-4-martorii-au-dat-alarma_3936579"
+    }
+   ]
+  },
+  {
+   "id": "auto-8bb2a6891c4b",
+   "title": "Secretarul american al Trezoreriei transmite un mesaj Fed în contextul războiului din Iran: \"Ar trebui să privească în viitor, nu să se uite în urmă\"",
+   "title_ro": "Secretarul american al Trezoreriei transmite un mesaj Fed în contextul războiului din Iran: \"Ar trebui să privească în viitor, nu să se uite în urmă\"",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "security",
+   "region": "world",
+   "place": "Iran",
+   "place_ro": "Iran",
+   "publishedAt": "2026-11-13T16:19:33Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/secretarul-american-al-trezoreriei-transmite-un-mesaj-fed-in-contextul-razboiului-din-iran-ar-trebui-sa-priveasca-in-viitor-nu-sa-se-uite-in-urma_3936580"
     }
    ]
   },
@@ -4554,6 +5684,24 @@
     {
      "name": "Ziarul Financiar",
      "url": "https://www.zf.ro/burse-fonduri-mutuale/transilvania-investments-schimbat-portofoliul-trimestrul-treilea-cumparat-actiuni-digi-banca-transilvania-etf-uri-vandut-brd-omv-petrom-rascumparat-159-mil-actiuni-proprii-23281564"
+    }
+   ]
+  },
+  {
+   "id": "auto-a76b9a1663d7",
+   "title": "Tânăr din Roşia Montană, spitalizat în urma unei explozii",
+   "title_ro": "Tânăr din Roşia Montană, spitalizat în urma unei explozii",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "security",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-13T16:18:42Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/tanar-din-rosia-montana-spitalizat-in-urma-unei-explozii_3936577"
     }
    ]
   },
@@ -4630,6 +5778,24 @@
    ]
   },
   {
+   "id": "auto-d6e42e97fa39",
+   "title": "Europa trebuie să aibă mai mult curaj în fața Rusiei. Apelul premierului Letoniei",
+   "title_ro": "Europa trebuie să aibă mai mult curaj în fața Rusiei. Apelul premierului Letoniei",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "politics",
+   "region": "europe",
+   "place": "Europe",
+   "place_ro": "Europa",
+   "publishedAt": "2026-11-13T16:15:42Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/europa-trebuie-sa-aiba-mai-mult-curaj-in-fata-rusiei-apelul-premierului-letoniei_3936576"
+    }
+   ]
+  },
+  {
    "id": "auto-435a3525e76a",
    "title": "Proprietarii a peste 720.000 de mașini BMW din SUA, îndemnați să parcheze afară din cauza riscului de incendiu",
    "title_ro": "Proprietarii a peste 720.000 de mașini BMW din SUA, îndemnați să parcheze afară din cauza riscului de incendiu",
@@ -4644,6 +5810,10 @@
     {
      "name": "HotNews",
      "url": "https://hotnews.ro/proprietarii-a-peste-720-000-de-masini-bmw-din-sua-indemnati-sa-parcheze-afara-din-cauza-riscului-de-incendiu-2403793"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/peste-720000-de-masini-bmw-rechemate-in-service-din-cauza-riscului-de-incendiu-proprietarii-sunt-sfatuiti-sa-le-parcheze-afara_3936634"
     }
    ]
   },
@@ -4666,6 +5836,24 @@
    ]
   },
   {
+   "id": "auto-f6f2cd44366f",
+   "title": "VIDEO Accident mortal pe DN1, în zona Predeal: O șoferiță nu a avut nicio șansă după impactul frontal cu un autobuz.",
+   "title_ro": "VIDEO Accident mortal pe DN1, în zona Predeal: O șoferiță nu a avut nicio șansă după impactul frontal cu un autobuz.",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "security",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-13T16:11:21Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/video-accident-mortal-pe-dn1-in-zona-predeal-o-soferita-nu-a-avut-nicio-sansa-dupa-impactul-frontal-cu-un-autobuz_3936574"
+    }
+   ]
+  },
+  {
    "id": "auto-c4fb5d5945e4",
    "title": "De ce nu o vor rușii pe Kaja Kallas la masa negocierilor de pace privind Ucraina. Șefa diplomației europene: „Este foarte clar”",
    "title_ro": "De ce nu o vor rușii pe Kaja Kallas la masa negocierilor de pace privind Ucraina. Șefa diplomației europene: „Este foarte clar”",
@@ -4680,6 +5868,46 @@
     {
      "name": "Digi24",
      "url": "https://www.digi24.ro/stiri/externe/ue/de-ce-nu-o-vor-rusii-pe-kaja-kallas-la-masa-negocierilor-de-pace-privind-ucraina-sefa-diplomatiei-europene-este-foarte-clar-4035611"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/cine-va-sta-la-masa-negocierilor-cu-putin-in-numele-ue-kaja-kallas-rusii-nu-ma-vor-dar-nu-depinde-de-ei-sa-decida-cine-ne-reprezinta_3936565"
+    }
+   ]
+  },
+  {
+   "id": "auto-e29aaa432cf6",
+   "title": "UEFA înființează un consiliu pentru drepturile omului dedicat turneului final EURO 2028",
+   "title_ro": "UEFA înființează un consiliu pentru drepturile omului dedicat turneului final EURO 2028",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "sport",
+   "region": "europe",
+   "place": "EU",
+   "place_ro": "UE",
+   "publishedAt": "2026-11-13T16:09:21Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/uefa-infiinteaza-un-consiliu-pentru-drepturile-omului-dedicat-turneului-final-euro-2028_3936573"
+    }
+   ]
+  },
+  {
+   "id": "auto-3679a3574a48",
+   "title": "Liderii UE discută în premieră despre riscurile inteligenței artificiale",
+   "title_ro": "Liderii UE discută în premieră despre riscurile inteligenței artificiale",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "politics",
+   "region": "europe",
+   "place": "EU",
+   "place_ro": "UE",
+   "publishedAt": "2026-11-13T16:08:35Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/liderii-ue-discuta-in-premiera-despre-riscurile-inteligentei-artificiale_3936570"
     }
    ]
   },
@@ -4810,6 +6038,24 @@
    ]
   },
   {
+   "id": "auto-7b734ebc3c98",
+   "title": "Fost șef al Statului Major, despre oferta României de a plăti pentru trupele SUA: 'Dacă este inițiativa noastră, eu nu-i găsesc justificarea'",
+   "title_ro": "Fost șef al Statului Major, despre oferta României de a plăti pentru trupele SUA: 'Dacă este inițiativa noastră, eu nu-i găsesc justificarea'",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "world",
+   "region": "world",
+   "place": "US",
+   "place_ro": "SUA",
+   "publishedAt": "2026-11-13T16:00:04Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/fost-sef-statului-major-trupe-sua_3936562"
+    }
+   ]
+  },
+  {
    "id": "auto-f53046027bca",
    "title": "Cheloo, surprins într-o ipostază complet neașteptată la Asia Express 2026! Mirela Vaida a spus tot ce s-a întâmplat în culise",
    "title_ro": "Cheloo, surprins într-o ipostază complet neașteptată la Asia Express 2026! Mirela Vaida a spus tot ce s-a întâmplat în culise",
@@ -4864,6 +6110,24 @@
     {
      "name": "B1 TV",
      "url": "https://www.b1tv.ro/eveniment/accidente-a4-dn1-camion-rasturnat-sofer-ranit-predeal-1749803.html"
+    }
+   ]
+  },
+  {
+   "id": "auto-44409a68cbc0",
+   "title": "Evoluţii financiar-bancare şi bursiere în lume: Wall Street a deschis ședința de vineri în creștere",
+   "title_ro": "Evoluţii financiar-bancare şi bursiere în lume: Wall Street a deschis ședința de vineri în creștere",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "economy",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-13T15:58:50Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/evolutii-financiar-bancare-si-bursiere-in-lume-wall-street-a-deschis-sedinta-de-vineri-in-crestere_3936571"
     }
    ]
   },
@@ -5034,6 +6298,24 @@
    ]
   },
   {
+   "id": "auto-a224ad2db3a9",
+   "title": "Europa se teme de „capcanele” Moscovei. Participarea la negocierile pentru Ucraina se complică",
+   "title_ro": "Europa se teme de „capcanele” Moscovei. Participarea la negocierile pentru Ucraina se complică",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "economy",
+   "region": "europe",
+   "place": "Ukraine",
+   "place_ro": "Ucraina",
+   "publishedAt": "2026-11-13T15:50:00Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/europa-se-teme-de-capcanele-moscovei-participarea-la-negocierile-pentru-ucraina-se-complica_3936550"
+    }
+   ]
+  },
+  {
    "id": "auto-bccf33adaf03",
    "title": "Un bărbat de 45 de ani din Vâlcea, reținut după ce ar fi violat o minoră de 13 ani",
    "title_ro": "Un bărbat de 45 de ani din Vâlcea, reținut după ce ar fi violat o minoră de 13 ani",
@@ -5088,6 +6370,10 @@
     {
      "name": "News.ro",
      "url": "https://www.news.ro/economic/sua-au-confiscat-criptomonede-de-1-2-miliarde-de-dolari-furate-de-la-binance-de-hackeri-nord-coreeni-1922404613002026111922985796"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/sua-au-confiscat-criptomonede-in-valoare-de-12-miliarde-de-dolari-furate-de-hackerii-nord-coreeni-de-la-binance_3936606"
     }
    ]
   },
@@ -5232,6 +6518,10 @@
     {
      "name": "News.ro",
      "url": "https://www.news.ro/eveniment/iasi-o-persoana-a-fost-surprinsa-sub-placi-de-marmura-cand-descarca-un-camion-victima-este-inconstienta-1922404113002026111722985654"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/accident-grav-in-timpul-descarcarii-unui-camion-o-persoana-a-fost-prinsa-sub-placi-de-marmura-si-este-inconstienta_3936567"
     }
    ]
   },
@@ -5250,6 +6540,24 @@
     {
      "name": "Digi24",
      "url": "https://www.digi24.ro/magazin/timp-liber/showbiz/cine-este-favoritul-pentru-noul-james-bond-lista-scurta-a-pretendentilor-la-rol-este-condusa-de-un-actor-popular-4035545"
+    }
+   ]
+  },
+  {
+   "id": "auto-3d0c137dd164",
+   "title": "VIDEO Un român a fost arestat la ieșirea dintr-un spital din Italia: Procurorii îl acuză că ar fi provocat explozia care a făcut un bloc nelocuibil",
+   "title_ro": "VIDEO Un român a fost arestat la ieșirea dintr-un spital din Italia: Procurorii îl acuză că ar fi provocat explozia care a făcut un bloc nelocuibil",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "politics",
+   "region": "europe",
+   "place": "Italy",
+   "place_ro": "Italia",
+   "publishedAt": "2026-11-13T15:40:12Z",
+   "sources": [
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/un-roman-a-fost-arestat-la-iesirea-dintr-un-spital-din-italia-procurorii-il-acuza-ca-ar-fi-provocat-explozia-care-a-facut-un-bloc-nelocuibil_3936555"
     }
    ]
   },
@@ -5526,6 +6834,10 @@
     {
      "name": "News.ro",
      "url": "https://www.news.ro/sport/liga-natiunilor-ca-omagiu-pentru-ronaldo-jucatorii-portughezi-intra-pe-teren-cu-numarul-7-inaintea-meciului-cu-danemarca-camera-starului-din-cantonamentul-portugaliei-a-ramas-libera-1922402013002026111722985623"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/omagiu-pentru-cristiano-ronaldo-toata-nationala-portugaliei-va-purta-numarul-7-la-meciul-cu-danemarca_3936630"
     }
    ]
   },
@@ -5880,6 +7192,10 @@
     {
      "name": "Mediafax",
      "url": "https://www.mediafax.ro/life-inedit/bonnie-si-clyde-au-sfidat-securitatea-empire-state-building-pentru-o-cerere-in-casatorie-acum-risca-sa-ajunga-dupa-gratii-23842657"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/video-a-cerut-o-de-sotie-pe-empire-state-building-acum-amandoi-risca-sa-ajunga-la-inchisoare_3936564"
     }
    ]
   },
@@ -8256,6 +9572,10 @@
     {
      "name": "News.ro",
      "url": "https://www.news.ro/economic/amenzi-aproape-cinci-milioane-lei-date-comisarii-anpc-ultima-saptamana-au-gasit-nereguli-informarea-privind-promotiile-tip-black-friday-jucarii-nesigure-insecte-blocul-alimentar-produse-expirate-1922404813512026111422985293"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/anpc-a-dat-amenzi-de-cinci-milioane-de-lei-ce-nereguli-s-au-gasit-la-promotiile-de-black-friday_3936514"
     }
    ]
   },
@@ -8950,6 +10270,10 @@
     {
      "name": "Libertatea",
      "url": "https://www.libertatea.ro/stiri/buget-2027-bani-pnrr-alexandru-nazare-ministere-justificare-cheltuieli-964lqwz"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/alexandru-nazare-anunta-ce-institutii-nu-au-respectat-calendarul-pentru-bugetul-pe-2027_3936239"
     }
    ]
   },
@@ -9998,6 +11322,10 @@
     {
      "name": "News.ro",
      "url": "https://www.news.ro/social/ciprian-ciucu-situatia-financiara-stb-acumulata-multi-ani-foarte-foarte-proasta-administratorul-judiciar-incerca-urmatorii-ani-scape-societatea-faliment-transportul-public-afectat-insolventa-1922402113412026111322985152"
+    },
+    {
+     "name": "Știri pe surse",
+     "url": "https://www.stiripesurse.ro/ciprian-ciucu-situatia-financiara-a-stb-acumulata-in-mai-multi-ani-este-foarte-foarte-proasta-administratorul-judiciar-va-incerca-ca-in-urmatorii-ani-sa-scape-societatea-de-faliment-transportul-public-nu-va-fi-afectat-de-insolventa_3936498"
     }
    ]
   },
@@ -11902,1290 +13230,6 @@
     {
      "name": "Știri pe surse",
      "url": "https://www.stiripesurse.ro/mai-putine-nasteri-dar-o-rata-mai-mare-a-prematuritatii-ce-arata-datele-suub_3936459"
-    }
-   ]
-  },
-  {
-   "id": "auto-72efa24d4d29",
-   "title": "Nicuşor Dan: Trebuie să susţinem în continuare Ucraina pentru obţinerea unei păci juste şi durabile, consolidându-ne în acelaşi timp capacitatea colectivă de a contracara ameninţările hibride, interferenţele străine şi manipularea informaţiilor",
-   "title_ro": "Nicuşor Dan: Trebuie să susţinem în continuare Ucraina pentru obţinerea unei păci juste şi durabile, consolidându-ne în acelaşi timp capacitatea colectivă de a contracara ameninţările hibride, interferenţele străine şi manipularea informaţiilor",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "politics",
-   "region": "europe",
-   "place": "Ukraine",
-   "place_ro": "Ucraina",
-   "publishedAt": "2026-11-13T09:55:28Z",
-   "sources": [
-    {
-     "name": "News.ro",
-     "url": "https://www.news.ro/politic-intern/nicusor-dan-sustinem-continuare-ucraina-obtinerea-unei-paci-juste-durabile-consolidandu-ne-acelasi-timp-capacitatea-colectiva-contracara-amenintarile-hibride-interferentele-straine-manipularea-1922405513282026111122984995"
-    }
-   ]
-  },
-  {
-   "id": "auto-5c449c9baafd",
-   "title": "Un primar din Buzău avertizează asupra efectelor comasării comunelor: „Nu facem altceva decât să depopulăm satul românesc”",
-   "title_ro": "Un primar din Buzău avertizează asupra efectelor comasării comunelor: „Nu facem altceva decât să depopulăm satul românesc”",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "politics",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-13T09:54:15Z",
-   "sources": [
-    {
-     "name": "Digi24",
-     "url": "https://www.digi24.ro/stiri/economie/un-primar-din-buzau-avertizeaza-asupra-efectelor-comasarii-comunelor-nu-facem-altceva-decat-sa-depopulam-satul-romanesc-4034757"
-    }
-   ]
-  },
-  {
-   "id": "auto-6475f66aa4cd",
-   "title": "Un profesor pensionar și-a dat în judecată școala unde a predat / Elevii fac prea mare zgomot în curtea școlii, cu care se învecinează / A cerut daune morale de 5.000 de euro / Cazul ajunge la Curtea de Apel",
-   "title_ro": "Un profesor pensionar și-a dat în judecată școala unde a predat / Elevii fac prea mare zgomot în curtea școlii, cu care se învecinează / A cerut daune morale de 5.000 de euro / Cazul ajunge la Curtea de Apel",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "economy",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-13T09:53:46Z",
-   "sources": [
-    {
-     "name": "G4Media",
-     "url": "https://www.g4media.ro/un-profesor-pensionar-si-a-dat-in-judecata-scoala-unde-a-predat-elevii-fac-prea-mare-zgomot-in-curtea-scolii-cu-care-se-invecineaza-a-cerut-daune-morale-de-5-000-de-euro-cazul-ajunge-la-curtea.html"
-    },
-    {
-     "name": "Libertatea",
-     "url": "https://www.libertatea.ro/stiri/fost-profesor-in-proces-cu-scoala-tibana-din-iasi-din-cauza-galagiei-elevilor-ce-au-decis-judecatorii-ys7w1br"
-    }
-   ]
-  },
-  {
-   "id": "auto-b5d1ea694d87",
-   "title": "Mister în jurul unei instalații nucleare din Iran. AIEA nu știe unde se află și dacă aceasta conține material nuclear",
-   "title_ro": "Mister în jurul unei instalații nucleare din Iran. AIEA nu știe unde se află și dacă aceasta conține material nuclear",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "energy",
-   "region": "world",
-   "place": "Iran",
-   "place_ro": "Iran",
-   "publishedAt": "2026-11-13T09:53:32Z",
-   "sources": [
-    {
-     "name": "Mediafax",
-     "url": "https://www.mediafax.ro/externe/mister-in-jurul-unei-instalatii-nucleare-din-iran-aiea-nu-stie-unde-se-afla-si-daca-aceasta-contine-material-nuclear-23842503"
-    }
-   ]
-  },
-  {
-   "id": "auto-2b755d66c833",
-   "title": "Nazare a trimis o adresă urgentă. Ministerele au termen până astăzi să își justifice cheltuielile pentru 2027",
-   "title_ro": "Nazare a trimis o adresă urgentă. Ministerele au termen până astăzi să își justifice cheltuielile pentru 2027",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "economy",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-13T09:51:13Z",
-   "sources": [
-    {
-     "name": "Gândul",
-     "url": "https://www.gandul.ro/actualitate/nazare-a-trimis-o-adresa-urgenta-ministerele-au-termen-pana-pe-13-noiembrie-sa-isi-justifice-cheltuielile-pentru-2027-21063341"
-    }
-   ]
-  },
-  {
-   "id": "auto-53cb34c41349",
-   "title": "Trump, sceptic, înainte să se întâlnească cu Xi la APEC, faţă de o eliberare a magnatului presei Jimmy Lai, încarcerat în China după manifestaţiile în favoarea democraţiei de la Hong Kong. ”I-am eliberat pe alţii. Jimmy Lai e altă poveste”",
-   "title_ro": "Trump, sceptic, înainte să se întâlnească cu Xi la APEC, faţă de o eliberare a magnatului presei Jimmy Lai, încarcerat în China după manifestaţiile în favoarea democraţiei de la Hong Kong. ”I-am eliberat pe alţii. Jimmy Lai e altă poveste”",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "world",
-   "region": "world",
-   "place": "US",
-   "place_ro": "SUA",
-   "publishedAt": "2026-11-13T09:51:00Z",
-   "sources": [
-    {
-     "name": "News.ro",
-     "url": "https://www.news.ro/externe/trump-sceptic-inainte-intalneasca-xi-apec-fata-eliberare-magnatului-presei-jimmy-lai-incarcerat-china-dupa-manifestatiile-favoarea-democratiei-hong-kong-i-eliberat-altii-jimmy-lai-e-poveste-1922405113002026111122984968"
-    }
-   ]
-  },
-  {
-   "id": "auto-39e4e9e053f8",
-   "title": "Cât a costat rochia purtată de Irina Fodor în finala Asia Express 2026. Prezentatoarea a ales un brand românesc",
-   "title_ro": "Cât a costat rochia purtată de Irina Fodor în finala Asia Express 2026. Prezentatoarea a ales un brand românesc",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "economy",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-13T09:50:27Z",
-   "sources": [
-    {
-     "name": "Libertatea",
-     "url": "https://www.libertatea.ro/entertainment/cat-a-costat-rochia-purtata-de-irina-fodor-in-finala-asia-express-2026-d6v4012"
-    },
-    {
-     "name": "B1 TV",
-     "url": "https://www.b1tv.ro/monden/irina-fodor-a-fost-in-centrul-atentiei-in-finala-asia-express-2026-1749903.html"
-    }
-   ]
-  },
-  {
-   "id": "auto-050b4b3f2cbd",
-   "title": "Mihai Daraban spune că nu are legătură cu subiectul Oil Terminal, după ce fratele său a fost reținut în dosarul contrabandei cu petrol",
-   "title_ro": "Mihai Daraban spune că nu are legătură cu subiectul Oil Terminal, după ce fratele său a fost reținut în dosarul contrabandei cu petrol",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "security",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-13T09:50:07Z",
-   "sources": [
-    {
-     "name": "Digi24",
-     "url": "https://www.digi24.ro/stiri/actualitate/mihai-daraban-spune-ca-nu-are-legaura-cu-subiectul-oil-terminal-dupa-ce-fratele-sau-a-fost-retinut-in-dosarul-contrabandei-cu-petrol-4034735"
-    }
-   ]
-  },
-  {
-   "id": "auto-85dc455f69e9",
-   "title": "BREAKING | Gabriel Daraban, ex-Oil Terminal, și omul de afaceri Gheorghe Chealfă, plasați sub control judiciar de DIICOT și reaudiați / Procurorii i-au reținut joi seară apoi au revenit asupra deciziei (surse)",
-   "title_ro": "BREAKING | Gabriel Daraban, ex-Oil Terminal, și omul de afaceri Gheorghe Chealfă, plasați sub control judiciar de DIICOT și reaudiați / Procurorii i-au reținut joi seară apoi au revenit asupra deciziei (surse)",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "politics",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-13T09:49:20Z",
-   "sources": [
-    {
-     "name": "G4Media",
-     "url": "https://www.g4media.ro/breaking-gabriel-daraban-ex-oil-terminal-si-omul-de-afaceri-gheorghe-chealfa-plasati-sub-control-judiciar-de-diicot-si-reaudiati-procurorii-i-au-retinut-joi-seara-apoi-au-revenit-asupra-decizie.html"
-    },
-    {
-     "name": "Mediafax",
-     "url": "https://www.mediafax.ro/justitie/diicot-confirma-ca-fostul-director-oil-terminal-gabriel-daraban-si-omul-de-afaceri-gheorghe-chealfa-au-fost-retinuti-initial-apoi-plasati-sub-control-judiciar-sechestru-pe-111-imobile-in-dosarul-fraud-23842519"
-    }
-   ]
-  },
-  {
-   "id": "auto-3adddb1547e9",
-   "title": "George Simion, mesaj cu o zi înaintea protestului pentru Călin Georgescu. „Mai mult de atât, nu știu ce pot face”",
-   "title_ro": "George Simion, mesaj cu o zi înaintea protestului pentru Călin Georgescu. „Mai mult de atât, nu știu ce pot face”",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "politics",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-13T09:48:54Z",
-   "sources": [
-    {
-     "name": "Știrile ProTV",
-     "url": "https://stirileprotv.ro/stiri/politic/anuntul-facut-de-george-simion-cu-o-zi-inaintea-protestului-pentru-calin-georgescu-mai-mult-de-atat-nu-stiu-ce-pot-face.html"
-    }
-   ]
-  },
-  {
-   "id": "auto-26979cd8d055",
-   "title": "Ce a răspuns George Simion întrebat de Gândul cine ar trebui să transmită un mesaj protestatarilor care sunt în stradă de peste 40 de zile pentru Călin Georgescu și vor veni și mâine la miting",
-   "title_ro": "Ce a răspuns George Simion întrebat de Gândul cine ar trebui să transmită un mesaj protestatarilor care sunt în stradă de peste 40 de zile pentru Călin Georgescu și vor veni și mâine la miting",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "politics",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-13T09:48:52Z",
-   "sources": [
-    {
-     "name": "Gândul",
-     "url": "https://www.gandul.ro/politica/ce-a-raspuns-george-simion-intrebat-de-gandul-cine-ar-trebui-sa-transmita-un-mesaj-protestatarilor-care-sunt-in-strada-de-peste-40-de-zile-pentru-calin-georgescu-si-vor-veni-si-maine-la-miting-21063362"
-    }
-   ]
-  },
-  {
-   "id": "auto-586e1f61ed35",
-   "title": "De ce e bine să pui un bol cu sare la fereastră iarna? Trucul care devenit popular în Spania",
-   "title_ro": "De ce e bine să pui un bol cu sare la fereastră iarna? Trucul care devenit popular în Spania",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "world",
-   "region": "europe",
-   "place": "Spain",
-   "place_ro": "Spania",
-   "publishedAt": "2026-11-13T09:47:37Z",
-   "sources": [
-    {
-     "name": "Mediafax",
-     "url": "https://www.mediafax.ro/stirile-zilei/de-ce-e-bine-sa-pui-un-bol-cu-sare-la-fereastra-iarna-trucul-care-devenit-popular-in-spania-23842486"
-    }
-   ]
-  },
-  {
-   "id": "auto-6b9d5de1d9e9",
-   "title": "Durerile îi afectau tot mai mult mersul. Tratamentul care i-a ameliorat simptomele",
-   "title_ro": "Durerile îi afectau tot mai mult mersul. Tratamentul care i-a ameliorat simptomele",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "economy",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-13T09:46:47Z",
-   "sources": [
-    {
-     "name": "Știri pe surse",
-     "url": "https://www.stiripesurse.ro/durerile-ii-afectau-tot-mai-mult-mersul-tratamentul-care-i-a-ameliorat-simptomele_3936457"
-    }
-   ]
-  },
-  {
-   "id": "auto-96a0bb031660",
-   "title": "Neamţ: Intervenţie a pompierilor după ce a început să iasă fum de la o staţie de aditivi Adblue amplasată într-o benzinărie/ Incendiul a fost stins de angajaţi/ Nu au existat persoane rănite",
-   "title_ro": "Neamţ: Intervenţie a pompierilor după ce a început să iasă fum de la o staţie de aditivi Adblue amplasată într-o benzinărie/ Incendiul a fost stins de angajaţi/ Nu au existat persoane rănite",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "security",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-13T09:45:35Z",
-   "sources": [
-    {
-     "name": "News.ro",
-     "url": "https://www.news.ro/eveniment/neamt-interventie-a-pompierilor-dupa-ce-a-inceput-sa-iasa-fum-de-la-o-statie-de-aditivi-adblue-amplasata-intr-o-benzinarie-incendiul-a-fost-stins-de-angajati-nu-au-existat-persoane-ranite-1922404513352026111122984991"
-    }
-   ]
-  },
-  {
-   "id": "auto-4810a65378e3",
-   "title": "Trump ia în calcul o intervenție militară în Cuba până în 2029: „Vreau să rezolv problema înainte să plec”",
-   "title_ro": "Trump ia în calcul o intervenție militară în Cuba până în 2029: „Vreau să rezolv problema înainte să plec”",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "security",
-   "region": "world",
-   "place": "US",
-   "place_ro": "SUA",
-   "publishedAt": "2026-11-13T09:45:15Z",
-   "sources": [
-    {
-     "name": "Gândul",
-     "url": "https://www.gandul.ro/international/trump-ia-in-calcul-o-interventie-militara-in-cuba-pana-in-2029-vreau-sa-rezolv-problema-inainte-sa-plec-21063288"
-    }
-   ]
-  },
-  {
-   "id": "auto-495da2074a36",
-   "title": "Câți oameni sunt afectați în mod real de pana Microsoft? Compania afirmă că 430 de milioane de persoane folosesc Office 365",
-   "title_ro": "Câți oameni sunt afectați în mod real de pana Microsoft? Compania afirmă că 430 de milioane de persoane folosesc Office 365",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "tech",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-13T09:44:19Z",
-   "sources": [
-    {
-     "name": "HotNews",
-     "url": "https://hotnews.ro/cati-oameni-sunt-afectati-in-mod-real-de-pana-microsoft-compania-afirma-ca-430-de-milioane-de-persoane-folosesc-office-365-2403351"
-    }
-   ]
-  },
-  {
-   "id": "auto-33c843664c2c",
-   "title": "Cum alegi suma de depunere în funcție de venitul tău – recomandările VIPCazino",
-   "title_ro": "Cum alegi suma de depunere în funcție de venitul tău – recomandările VIPCazino",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "economy",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-13T09:43:42Z",
-   "sources": [
-    {
-     "name": "Libertatea",
-     "url": "https://www.libertatea.ro/publicitate-advertorial/cum-alegi-suma-de-depunere-in-functie-de-venitul-tau-recomandarile-vipcazino-6rl1961"
-    }
-   ]
-  },
-  {
-   "id": "auto-a36d08edaba0",
-   "title": "Ministrul Economiei pune sub semnul întrebării subvențiile acordate prin Rabla și Casa Verde: Folosim banii publici ca să ajutăm industria românească sau industria din alte țări?",
-   "title_ro": "Ministrul Economiei pune sub semnul întrebării subvențiile acordate prin Rabla și Casa Verde: Folosim banii publici ca să ajutăm industria românească sau industria din alte țări?",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "politics",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-13T09:42:45Z",
-   "sources": [
-    {
-     "name": "Știri pe surse",
-     "url": "https://www.stiripesurse.ro/ministrul-economiei-pune-sub-semnul-intrebarii-subventiile-acordate-prin-rabla-si-casa-verde-folosim-banii-publici-ca-sa-ajutam-industria-romaneasca-sau-industria-din-alte-tari_3936126"
-    }
-   ]
-  },
-  {
-   "id": "auto-39cf3da99f30",
-   "title": "Un fost oficial ucrainean, grav rănit într-o explozie la Moscova. O bombă ar fi fost amplasată sub mașina lui",
-   "title_ro": "Un fost oficial ucrainean, grav rănit într-o explozie la Moscova. O bombă ar fi fost amplasată sub mașina lui",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "politics",
-   "region": "europe",
-   "place": "Russia",
-   "place_ro": "Rusia",
-   "publishedAt": "2026-11-13T09:41:51Z",
-   "sources": [
-    {
-     "name": "Știrile ProTV",
-     "url": "https://stirileprotv.ro/stiri/international/un-nou-atac-cu-bomba-la-moscova-masina-fostului-purtator-de-cuvant-al-premierului-ucrainean-azarov-a-explodat.html"
-    },
-    {
-     "name": "Digi24",
-     "url": "https://www.digi24.ro/stiri/externe/tentativa-de-asasinat-la-moscova-fost-oficial-ucrainean-propagandist-pro-rus-grav-ranit-4034957"
-    },
-    {
-     "name": "Libertatea",
-     "url": "https://www.libertatea.ro/stiri/atentat-cu-bomba-la-moscova-cine-e-serghei-zavorotnii-fost-consilier-de-vaza-in-ucraina-ranit-grav-intr-un-atac-atribuit-kievului-hywrfnn"
-    }
-   ]
-  },
-  {
-   "id": "auto-7466c1bd38e8",
-   "title": "România, inflaţia continuă să crească",
-   "title_ro": "România, inflaţia continuă să crească",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "economy",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-13T09:40:38Z",
-   "sources": [
-    {
-     "name": "Radio Romania International",
-     "url": "https://www.rri.ro/actualitate/in-actualitate/romania-inflatia-continua-sa-creasca-id1083248.html"
-    }
-   ]
-  },
-  {
-   "id": "auto-4d86e045ee2c",
-   "title": "Dosarul contrabandei cu petrol. Fostul director comercial al Oil Terminal a demisionat cu o zi înainte de descinderile DIICOT",
-   "title_ro": "Dosarul contrabandei cu petrol. Fostul director comercial al Oil Terminal a demisionat cu o zi înainte de descinderile DIICOT",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "politics",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-13T09:39:55Z",
-   "sources": [
-    {
-     "name": "Digi24",
-     "url": "https://www.digi24.ro/stiri/actualitate/justitie/dosarul-contrabandei-cu-petrol-fostul-director-comercial-al-oil-terminal-a-demisionat-cu-o-zi-inainte-de-descinderile-diicot-4034591"
-    },
-    {
-     "name": "Știrile ProTV",
-     "url": "https://stirileprotv.ro/stiri/actualitate/fostul-director-comercial-al-oil-terminal-audiat-de-diicot-dupa-ce-si-a-dat-demisia-cu-o-zi-inainte-de-perchezitii.html"
-    }
-   ]
-  },
-  {
-   "id": "auto-74bd0acc4141",
-   "title": "Valiza zburătoare a devenit realitate. De ce ar putea schimba transportul de urgență",
-   "title_ro": "Valiza zburătoare a devenit realitate. De ce ar putea schimba transportul de urgență",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "tech",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-13T09:39:10Z",
-   "sources": [
-    {
-     "name": "Mediafax",
-     "url": "https://www.mediafax.ro/tehnologie/valiza-zburatoare-a-devenit-realitate-de-ce-ar-putea-schimba-transportul-de-urgenta-23842482"
-    }
-   ]
-  },
-  {
-   "id": "auto-47d59272d34e",
-   "title": "Un bărbat din Italia a fost trimis în judecată după ce a împușcat cocoșul unui vecin, deranjat de zgomotul lui",
-   "title_ro": "Un bărbat din Italia a fost trimis în judecată după ce a împușcat cocoșul unui vecin, deranjat de zgomotul lui",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "world",
-   "region": "europe",
-   "place": "Italy",
-   "place_ro": "Italia",
-   "publishedAt": "2026-11-13T09:39:01Z",
-   "sources": [
-    {
-     "name": "Știrile ProTV",
-     "url": "https://stirileprotv.ro/stiri/international/un-barbat-din-italia-a-fost-trimis-in-judecata-dupa-ce-a-impuscat-cocosul-unui-vecin-deranjat-de-zgomotul-lui.html"
-    }
-   ]
-  },
-  {
-   "id": "auto-15ed3b67c911",
-   "title": "Ghidul Conticazino pentru jucătorii care vor să separe banii de joc de bugetul familiei",
-   "title_ro": "Ghidul Conticazino pentru jucătorii care vor să separe banii de joc de bugetul familiei",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "sport",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-13T09:37:57Z",
-   "sources": [
-    {
-     "name": "Libertatea",
-     "url": "https://www.libertatea.ro/publicitate-advertorial/ghidul-conticazino-pentru-jucatorii-care-vor-sa-separe-banii-de-joc-de-bugetul-familiei-4fvn3vp"
-    }
-   ]
-  },
-  {
-   "id": "auto-b359912bc206",
-   "title": "Zidane, după înfrângerea Franței în fața Italiei: „Face parte din proces”",
-   "title_ro": "Zidane, după înfrângerea Franței în fața Italiei: „Face parte din proces”",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "sport",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-13T09:37:56Z",
-   "sources": [
-    {
-     "name": "Știrile ProTV",
-     "url": "https://stirileprotv.ro/stiri/sport/zidane-dupa-infrangerea-frantei-in-fata-italiei-face-parte-din-proces.html"
-    },
-    {
-     "name": "Știri pe surse",
-     "url": "https://www.stiripesurse.ro/zinedine-zidane-dupa-infrangerea-cu-italia-face-parte-din-procesul-de-invatare_3936406"
-    }
-   ]
-  },
-  {
-   "id": "auto-67c6dbd917cc",
-   "title": "Disputa privind protestul de sâmbătă ajunge în instanță. Anunțul lui George Simion",
-   "title_ro": "Disputa privind protestul de sâmbătă ajunge în instanță. Anunțul lui George Simion",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "politics",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-13T09:36:09Z",
-   "sources": [
-    {
-     "name": "Mediafax",
-     "url": "https://www.mediafax.ro/politic/disputa-privind-protestul-de-sambata-ajunge-in-instanta-anuntul-lui-george-simion-23842466"
-    },
-    {
-     "name": "B1 TV",
-     "url": "https://www.b1tv.ro/politica/george-simion-anunta-ca-nu-renunta-la-protestul-de-sambata-1749712.html"
-    }
-   ]
-  },
-  {
-   "id": "auto-71472ccf0fec",
-   "title": "ZF LIVE: Unde se blochează proiectele de infrastructură publică? Cum se pot face licitaţiile mai repede, astfel încât proiectele publice să se facă mai repede?",
-   "title_ro": "ZF LIVE: Unde se blochează proiectele de infrastructură publică? Cum se pot face licitaţiile mai repede, astfel încât proiectele publice să se facă mai repede?",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "politics",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-13T09:35:43Z",
-   "sources": [
-    {
-     "name": "Ziarul Financiar",
-     "url": "https://www.zf.ro/info/zf-live-unde-se-blocheaza-proiectele-de-infrastructura-publica-cum-se-pot-face-licitatiile-mai-repede-astfel-incat-proiectele-publice-sa-se-faca-mai-repede-23281305"
-    }
-   ]
-  },
-  {
-   "id": "auto-da5f8a6f3228",
-   "title": "ZF LIVE: Ce poţi învăţa de la Ziarul Financiar? Cum îţi deschide ZF lumea atunci când eşti student? Cum se citeşte Ziarul Financiar?",
-   "title_ro": "ZF LIVE: Ce poţi învăţa de la Ziarul Financiar? Cum îţi deschide ZF lumea atunci când eşti student? Cum se citeşte Ziarul Financiar?",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "economy",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-13T09:35:43Z",
-   "sources": [
-    {
-     "name": "Ziarul Financiar",
-     "url": "https://www.zf.ro/info/zf-live-ce-poti-invata-de-la-ziarul-financiar-cum-iti-deschide-zf-lumea-atunci-cand-esti-student-cum-se-citeste-ziarul-financiar-23281305"
-    }
-   ]
-  },
-  {
-   "id": "auto-487423b0713f",
-   "title": "Desprinderea Chișinăului de Moscova, în presa italiană: Cum a scăpat Moldova de șantajul energetic al Rusiei și implicarea României",
-   "title_ro": "Desprinderea Chișinăului de Moscova, în presa italiană: Cum a scăpat Moldova de șantajul energetic al Rusiei și implicarea României",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "world",
-   "region": "europe",
-   "place": "Russia",
-   "place_ro": "Rusia",
-   "publishedAt": "2026-11-13T09:35:05Z",
-   "sources": [
-    {
-     "name": "Știri pe surse",
-     "url": "https://www.stiripesurse.ro/desprinderea-chisinaului-de-moscova-in-presa-italiana-cum-a-scapat-moldova-de-santajul-energetic-al-rusiei-si-implicarea-romaniei_3936455"
-    },
-    {
-     "name": "Mediafax",
-     "url": "https://www.mediafax.ro/externe/cum-a-scapat-moldova-de-santajul-energetic-al-rusiei-legaturile-cu-romania-explicate-de-presa-italiana-23842475"
-    }
-   ]
-  },
-  {
-   "id": "auto-4983e59324f6",
-   "title": "România și Qatar își consolidează relațiile economice. Delegație Invest Qatar la București, la inițiativa omului de afaceri Dragoș Dobrescu",
-   "title_ro": "România și Qatar își consolidează relațiile economice. Delegație Invest Qatar la București, la inițiativa omului de afaceri Dragoș Dobrescu",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "economy",
-   "region": "bucharest",
-   "place": "Bucharest",
-   "place_ro": "București",
-   "publishedAt": "2026-11-13T09:35:03Z",
-   "sources": [
-    {
-     "name": "Mediafax",
-     "url": "https://www.mediafax.ro/economic/romania-si-qatar-isi-consolideaza-relatiile-economice-delegatie-invest-qatar-la-bucuresti-la-initiativa-omului-de-afaceri-dragos-dobrescu-23842484"
-    }
-   ]
-  },
-  {
-   "id": "auto-9a3c19dd0c32",
-   "title": "Andi Moisescu a dezvăluit cum au decurs primele ore alături de Nadia Comăneci, la filmările „Românii au talent”. „Se schimbă total datele problemei”",
-   "title_ro": "Andi Moisescu a dezvăluit cum au decurs primele ore alături de Nadia Comăneci, la filmările „Românii au talent”. „Se schimbă total datele problemei”",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "culture",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-13T09:34:57Z",
-   "sources": [
-    {
-     "name": "Libertatea",
-     "url": "https://www.libertatea.ro/entertainment/andi-moisescu-a-dezvaluit-cum-au-decurs-primele-ore-alaturi-de-nadia-comaneci-la-filmarile-romanii-au-talent-plm29l3"
-    },
-    {
-     "name": "B1 TV",
-     "url": "https://www.b1tv.ro/monden/andi-moisescu-a-povestit-cum-s-a-integrat-nadia-comaneci-la-romanii-au-talent-1749830.html"
-    }
-   ]
-  },
-  {
-   "id": "auto-eca8f554dae0",
-   "title": "Viktor Orban nu va merge să-și viziteze fratele în închisoare. Motivul invocat de fostul premier ungar",
-   "title_ro": "Viktor Orban nu va merge să-și viziteze fratele în închisoare. Motivul invocat de fostul premier ungar",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "politics",
-   "region": "europe",
-   "place": "Hungary",
-   "place_ro": "Ungaria",
-   "publishedAt": "2026-11-13T09:34:09Z",
-   "sources": [
-    {
-     "name": "HotNews",
-     "url": "https://hotnews.ro/viktor-orban-nu-va-merge-sa-si-viziteze-fratele-in-inchisoare-motivul-invocat-de-fostul-premier-ungar-2403357"
-    },
-    {
-     "name": "Digi24",
-     "url": "https://www.digi24.ro/stiri/externe/motivul-pentru-care-fostul-premier-ungar-viktor-orban-nu-si-va-vizita-fratele-in-inchisoare-4034747"
-    }
-   ]
-  },
-  {
-   "id": "auto-aad470d48a22",
-   "title": "Andreea Berecleanu și Constantin Stan au sărbătorit 10 ani de căsnicie. Imagini de la petrecerea de 70 de ani a medicului estetician",
-   "title_ro": "Andreea Berecleanu și Constantin Stan au sărbătorit 10 ani de căsnicie. Imagini de la petrecerea de 70 de ani a medicului estetician",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "economy",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-13T09:34:02Z",
-   "sources": [
-    {
-     "name": "Libertatea",
-     "url": "https://www.libertatea.ro/entertainment/andreea-berecleanu-si-constantin-stan-10-ani-de-casnicie-imagini-de-la-petrecerea-de-70-de-ani-a-medicului-estetician-1x9mvjh"
-    }
-   ]
-  },
-  {
-   "id": "auto-be5cb5594c0b",
-   "title": "Super Mario Galaxia Filmul este disponibil pentru vizionare în exclusivitate pe SkyShowtime în România din 14 noiembrie",
-   "title_ro": "Super Mario Galaxia Filmul este disponibil pentru vizionare în exclusivitate pe SkyShowtime în România din 14 noiembrie",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "culture",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-13T09:33:48Z",
-   "sources": [
-    {
-     "name": "Mediafax",
-     "url": "https://www.mediafax.ro/comunicate/super-mario-galaxia-filmul-este-disponibil-pentru-vizionare-in-exclusivitate-pe-skyshowtime-in-romania-din-14-noiembrie-23842487"
-    }
-   ]
-  },
-  {
-   "id": "auto-f449176b6f13",
-   "title": "O turistă cehă a murit în condiții misterioase, în Thailanda. Trupul femeii a fost găsit în apropierea unei plaje populare",
-   "title_ro": "O turistă cehă a murit în condiții misterioase, în Thailanda. Trupul femeii a fost găsit în apropierea unei plaje populare",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "economy",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-13T09:33:17Z",
-   "sources": [
-    {
-     "name": "Știrile ProTV",
-     "url": "https://stirileprotv.ro/o-turista-ceha-a-murit-in-conditii-misterioase-in-thailanda-trupul-femeii-a-fost-gasit-in-apropierea-unei-plaje-populare.html"
-    }
-   ]
-  },
-  {
-   "id": "auto-77b145f67d22",
-   "title": "Sancțiuni și retragerea licenței centrului coordonat de preotul supranumit „îngerul copiilor”, acuzat că a abuzat sexual minore. Instituțiile au reacționat după ce Context.ro a cerut explicații",
-   "title_ro": "Sancțiuni și retragerea licenței centrului coordonat de preotul supranumit „îngerul copiilor”, acuzat că a abuzat sexual minore. Instituțiile au reacționat după ce Context.ro a cerut explicații",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "economy",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-13T09:31:35Z",
-   "sources": [
-    {
-     "name": "Context",
-     "url": "https://context.ro/sanctiuni-si-retragerea-licentei-centrului-coordonat-de-preotul-supranumit-ingerul-copiilor-acuzat-ca-a-abuzat-sexual-minore-institutiile-au-reactionat-dupa-ce-context-ro-a-cerut-e/"
-    }
-   ]
-  },
-  {
-   "id": "auto-3c15d779ec1a",
-   "title": "De ce a ales Ernest să-și țină familia departe de ochii publicului: „Să nu ne mire că vom ajunge o societate lipsită de bun-simț”",
-   "title_ro": "De ce a ales Ernest să-și țină familia departe de ochii publicului: „Să nu ne mire că vom ajunge o societate lipsită de bun-simț”",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "economy",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-13T09:31:17Z",
-   "sources": [
-    {
-     "name": "Libertatea",
-     "url": "https://www.libertatea.ro/entertainment/ernest-takacs-de-ce-a-ales-sa-si-tina-familia-departe-de-ochii-publicului-exclusiv-hngkk52"
-    }
-   ]
-  },
-  {
-   "id": "auto-4b5548582253",
-   "title": "Cum setezi limite de depunere la cazino pe care să le respecți și în zilele dificile",
-   "title_ro": "Cum setezi limite de depunere la cazino pe care să le respecți și în zilele dificile",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "economy",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-13T09:31:14Z",
-   "sources": [
-    {
-     "name": "Libertatea",
-     "url": "https://www.libertatea.ro/publicitate-advertorial/cum-setezi-limite-de-depunere-la-cazino-pe-care-sa-le-respecti-si-in-zilele-dificile-fhqytv8"
-    }
-   ]
-  },
-  {
-   "id": "auto-430eb0f8f080",
-   "title": "Turbomecanica îşi creşte profitul cu 81% în primele nouă luni, la 7,8 mil. lei, dar raportează venituri totale în scădere, sub cele bugetate. Rezultatul net mai mare vine pe fondul cheltuielilor mai mici: compania a renunţat la 130 de angajaţi în ultimul an",
-   "title_ro": "Turbomecanica îşi creşte profitul cu 81% în primele nouă luni, la 7,8 mil. lei, dar raportează venituri totale în scădere, sub cele bugetate. Rezultatul net mai mare vine pe fondul cheltuielilor mai mici: compania a renunţat la 130 de angajaţi în ultimul an",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "economy",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-13T09:30:25Z",
-   "sources": [
-    {
-     "name": "Ziarul Financiar",
-     "url": "https://www.zf.ro/burse-fonduri-mutuale/turbomecanica-isi-creste-profitul-81-primele-luni-7-8-mil-lei-raporteaza-venituri-totale-scadere-cele-bugetate-rezultatul-net-mare-vine-fondul-cheltuielilor-mici-compania-renuntat-130-angajati-23281301"
-    }
-   ]
-  },
-  {
-   "id": "auto-d81ef99f9157",
-   "title": "România, la Târgul Internaţional de Carte de la Frankfurt - Proiectul va fi coordonat de Ministerul Culturii prin Direcţia Politici Culturale",
-   "title_ro": "România, la Târgul Internaţional de Carte de la Frankfurt - Proiectul va fi coordonat de Ministerul Culturii prin Direcţia Politici Culturale",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "security",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-13T09:29:54Z",
-   "sources": [
-    {
-     "name": "News.ro",
-     "url": "https://www.news.ro/cultura-media/romania-la-targul-international-de-carte-de-la-frankfurt-proiectul-va-fi-coordonat-de-ministerul-culturii-prin-directia-politici-culturale-1922402913542026111122984917"
-    }
-   ]
-  },
-  {
-   "id": "auto-a12ef9f8a0da",
-   "title": "Peste 53.900 de fermieri vor beneficia de sprijinul financiar de urgenţă pentru culturile afectate de secetă",
-   "title_ro": "Peste 53.900 de fermieri vor beneficia de sprijinul financiar de urgenţă pentru culturile afectate de secetă",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "culture",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-13T09:29:19Z",
-   "sources": [
-    {
-     "name": "Știrile ProTV",
-     "url": "https://stirileprotv.ro/stiri/financiar/peste-53-900-de-fermieri-vor-beneficia-de-sprijinul-financiar-de-urgen-a-pentru-culturile-afectate-de-seceta.html"
-    }
-   ]
-  },
-  {
-   "id": "auto-57c3e18e87dd",
-   "title": "Oil Terminal raportează profit record la nouă luni, în plin scandal DIICOT. Fost director, reținut",
-   "title_ro": "Oil Terminal raportează profit record la nouă luni, în plin scandal DIICOT. Fost director, reținut",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "politics",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-13T09:28:55Z",
-   "sources": [
-    {
-     "name": "Știrile ProTV",
-     "url": "https://stirileprotv.ro/stiri/actualitate/oil-terminal-raporteaza-profit-record-la-noua-luni-in-plin-scandal-diicot-fost-director-retinut.html"
-    }
-   ]
-  },
-  {
-   "id": "auto-b174a8185078",
-   "title": "Rusia ar vrea federalizarea Moldovei. Revendicările apărute în presa rusă, în pline negocieri de pace",
-   "title_ro": "Rusia ar vrea federalizarea Moldovei. Revendicările apărute în presa rusă, în pline negocieri de pace",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "security",
-   "region": "europe",
-   "place": "Russia",
-   "place_ro": "Rusia",
-   "publishedAt": "2026-11-13T09:28:29Z",
-   "sources": [
-    {
-     "name": "Mediafax",
-     "url": "https://www.mediafax.ro/politic/rusia-ar-vrea-federalizarea-moldovei-revendicarile-aparute-in-presa-rusa-in-pline-negocieri-de-pace-23842480"
-    }
-   ]
-  },
-  {
-   "id": "auto-158ceb6201e7",
-   "title": "Lionel Messi, finalist pentru al treilea titlu consecutiv de MVP al MLS",
-   "title_ro": "Lionel Messi, finalist pentru al treilea titlu consecutiv de MVP al MLS",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "sport",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-13T09:27:21Z",
-   "sources": [
-    {
-     "name": "News.ro",
-     "url": "https://www.news.ro/sport/lionel-messi-finalist-pentru-al-treilea-titlu-consecutiv-de-mvp-al-mls-1922402713212026111122984943"
-    }
-   ]
-  },
-  {
-   "id": "auto-ca41d7e5114f",
-   "title": "Escaladare după discuții diplomatice: Moscova susține că a doborât aproape 1.200 de drone ucrainene",
-   "title_ro": "Escaladare după discuții diplomatice: Moscova susține că a doborât aproape 1.200 de drone ucrainene",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "security",
-   "region": "europe",
-   "place": "Russia",
-   "place_ro": "Rusia",
-   "publishedAt": "2026-11-13T09:26:11Z",
-   "sources": [
-    {
-     "name": "Mediafax",
-     "url": "https://www.mediafax.ro/stirile-zilei/escaladare-dupa-discutii-diplomatice-moscova-sustine-ca-a-doborat-aproape-1-200-de-drone-ucrainene-23842491"
-    }
-   ]
-  },
-  {
-   "id": "auto-5ba3bf302137",
-   "title": "Probleme la Microsoft: Ce pot face utilizatorii când nu merge Outlook și ce alternative gratuite există",
-   "title_ro": "Probleme la Microsoft: Ce pot face utilizatorii când nu merge Outlook și ce alternative gratuite există",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "politics",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-13T09:26:02Z",
-   "sources": [
-    {
-     "name": "HotNews",
-     "url": "https://hotnews.ro/probleme-microsoft-outlook-alternative-gratuite-email-2403314"
-    }
-   ]
-  },
-  {
-   "id": "auto-db181cd0ec08",
-   "title": "Sanae Takaichi urmează să efectueze pentru prima oară de când este la putere o vizită în China, la summitul APEC de la Shenzhen. Ea urmează să participe mai înainte la o reuniune ASEAN, la Manila, în marja căruia urmează să aibă loc o reuniune Quad",
-   "title_ro": "Sanae Takaichi urmează să efectueze pentru prima oară de când este la putere o vizită în China, la summitul APEC de la Shenzhen. Ea urmează să participe mai înainte la o reuniune ASEAN, la Manila, în marja căruia urmează să aibă loc o reuniune Quad",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "world",
-   "region": "world",
-   "place": "China",
-   "place_ro": "China",
-   "publishedAt": "2026-11-13T09:25:56Z",
-   "sources": [
-    {
-     "name": "News.ro",
-     "url": "https://www.news.ro/externe/sanae-takaichi-urmeaza-efectueze-prima-oara-putere-vizita-china-summitul-apec-shenzhen-urmeaza-participe-inainte-reuniune-asean-manila-marja-caruia-urmeaza-aiba-loc-reuniune-quad-1922402513562026111122984912"
-    }
-   ]
-  },
-  {
-   "id": "auto-a9f87ec180eb",
-   "title": "Aproape 1.200 de drone ucrainene, lansate asupra Rusiei într-o singură noapte. Patru persoane au fost ucise",
-   "title_ro": "Aproape 1.200 de drone ucrainene, lansate asupra Rusiei într-o singură noapte. Patru persoane au fost ucise",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "security",
-   "region": "world",
-   "place": "World",
-   "place_ro": "Lume",
-   "publishedAt": "2026-11-13T09:23:35Z",
-   "sources": [
-    {
-     "name": "Știrile ProTV",
-     "url": "https://stirileprotv.ro/stiri/international/unul-dintre-cele-mai-importante-atacuri-ucrainene-de-la-inceputul-razboiului-1-198-de-drone-doborate-de-moscova.html"
-    }
-   ]
-  },
-  {
-   "id": "auto-d9505bebda61",
-   "title": "Obiceiuri și tradiții de Lăsata secului și vești din lumea culinară, în newsletterul HotNews Food din 14 noiembrie",
-   "title_ro": "Obiceiuri și tradiții de Lăsata secului și vești din lumea culinară, în newsletterul HotNews Food din 14 noiembrie",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "economy",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-13T09:23:15Z",
-   "sources": [
-    {
-     "name": "HotNews",
-     "url": "https://hotnews.ro/obiceiuri-si-traditii-de-lasata-secului-si-vesti-din-lumea-culinara-in-newsletterul-hotnews-food-dine-14-noiembrie-2403327"
-    }
-   ]
-  },
-  {
-   "id": "auto-78124082a695",
-   "title": "„Nașul AI” îi va avertiza pe liderii UE că aceasta ar putea prelua controlul asupra lumii în următorii trei ani și va ucide oameni",
-   "title_ro": "„Nașul AI” îi va avertiza pe liderii UE că aceasta ar putea prelua controlul asupra lumii în următorii trei ani și va ucide oameni",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "tech",
-   "region": "europe",
-   "place": "EU",
-   "place_ro": "UE",
-   "publishedAt": "2026-11-13T09:22:27Z",
-   "sources": [
-    {
-     "name": "Digi24",
-     "url": "https://www.digi24.ro/stiri/externe/nasul-ai-ii-va-avertiza-pe-liderii-ue-ca-aceasta-ar-putea-prelua-controlul-asupra-lumii-in-urmatorii-trei-ani-si-va-ucide-oameni-4034681"
-    },
-    {
-     "name": "Știrile ProTV",
-     "url": "https://stirileprotv.ro/stiri/stiinta/avertismentul-nasului-ia-robotii-ia-ar-putea-prelua-controlul-asupra-oamenilor-in-urmatorii-trei-ani.html"
-    }
-   ]
-  },
-  {
-   "id": "auto-9cb7e36cf551",
-   "title": "Marian Neacșu a descins la structurile MAI și vine cu un mesaj puternic: \"Nu muncim de dragul de a munci. Oamenii trebuie să vadă rezultatele în serviciile pe care le oferim\"",
-   "title_ro": "Marian Neacșu a descins la structurile MAI și vine cu un mesaj puternic: \"Nu muncim de dragul de a munci. Oamenii trebuie să vadă rezultatele în serviciile pe care le oferim\"",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "economy",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-13T09:20:14Z",
-   "sources": [
-    {
-     "name": "Știri pe surse",
-     "url": "https://www.stiripesurse.ro/marian-neacsu-a-descins-la-structurile-mai-si-vine-cu-un-mesaj-puternic-nu-muncim-de-dragul-de-a-munci-oamenii-trebuie-sa-vada-rezultatele-in-serviciile-pe-care-le-oferim_3936418"
-    }
-   ]
-  },
-  {
-   "id": "auto-a6b5392ac08e",
-   "title": "Bursă. Ziarul Financiar a făcut pe baza informaţiilor publice o radiografie a proiectului Neptun Deep, cel mai mare proiect energetic în plină derulare din România, care va dubla din 2027 producţia de gaze a României. Focusul a fost mai ales pe partea de contractare. Ce se ştie în acest moment?",
-   "title_ro": "Bursă. Ziarul Financiar a făcut pe baza informaţiilor publice o radiografie a proiectului Neptun Deep, cel mai mare proiect energetic în plină derulare din România, care va dubla din 2027 producţia de gaze a României. Focusul a fost mai ales pe partea de contractare. Ce se ştie în acest moment?",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "energy",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-13T09:20:00Z",
-   "sources": [
-    {
-     "name": "Ziarul Financiar",
-     "url": "https://www.zf.ro/burse-fonduri-mutuale/bursa-ziarul-financiar-facut-baza-informatiilor-publice-radiografie-proiectului-neptun-deep-cel-mare-proiect-energetic-plina-derulare-romania-dubla-2027-productia-gaze-romaniei-focusul-ales-partea-23280689"
-    }
-   ]
-  },
-  {
-   "id": "auto-2dc848d7016c",
-   "title": "„Fenomenul social global”, cu peste 500 de milioane de exemplare vândute, se întoarce „acasă”, în Ungaria. Ce e „Cubul Magic”",
-   "title_ro": "„Fenomenul social global”, cu peste 500 de milioane de exemplare vândute, se întoarce „acasă”, în Ungaria. Ce e „Cubul Magic”",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "world",
-   "region": "europe",
-   "place": "Hungary",
-   "place_ro": "Ungaria",
-   "publishedAt": "2026-11-13T09:19:41Z",
-   "sources": [
-    {
-     "name": "Știrile ProTV",
-     "url": "https://stirileprotv.ro/divers/fenomenul-social-global-cu-peste-500-de-milioane-de-exemplare-vandute-se-intoarce-acasa-in-ungaria-ce-este-cubul-rubik.html"
-    }
-   ]
-  },
-  {
-   "id": "auto-11b7203f4da6",
-   "title": "UNDERCLOUD 2026 și-a desemnat câștigătorii. Spectacolul Trap, marele câștigător al ediției",
-   "title_ro": "UNDERCLOUD 2026 și-a desemnat câștigătorii. Spectacolul Trap, marele câștigător al ediției",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "economy",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-13T09:19:14Z",
-   "sources": [
-    {
-     "name": "HotNews",
-     "url": "https://hotnews.ro/undercloud-2026-si-a-desemnat-castigatorii-spectacolul-trap-marele-castigator-al-editiei-2403328"
-    }
-   ]
-  },
-  {
-   "id": "auto-0112e10463dc",
-   "title": "Lamine Yamal şi Mikel Oyarzabal revin în lotul Spaniei pentru meciul cu Anglia din Liga Naţiunilor",
-   "title_ro": "Lamine Yamal şi Mikel Oyarzabal revin în lotul Spaniei pentru meciul cu Anglia din Liga Naţiunilor",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "sport",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-13T09:17:07Z",
-   "sources": [
-    {
-     "name": "Știrile ProTV",
-     "url": "https://stirileprotv.ro/lamine-yamal-si-mikel-oyarzabal-revin-in-lotul-spaniei-pentru-meciul-cu-anglia-din-liga-natiunilor.html"
-    }
-   ]
-  },
-  {
-   "id": "auto-6805216a1524",
-   "title": "„Încă nu există o soluție miraculoasă”. Belgia se opune transferului activelor rusești înghețate",
-   "title_ro": "„Încă nu există o soluție miraculoasă”. Belgia se opune transferului activelor rusești înghețate",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "world",
-   "region": "europe",
-   "place": "Belgium",
-   "place_ro": "Belgia",
-   "publishedAt": "2026-11-13T09:16:59Z",
-   "sources": [
-    {
-     "name": "Mediafax",
-     "url": "https://www.mediafax.ro/externe/inca-nu-exista-o-solutie-miraculoasa-belgia-se-opune-transferului-activelor-rusesti-inghetate-23842473"
-    },
-    {
-     "name": "Știri pe surse",
-     "url": "https://www.stiripesurse.ro/belgia-se-opune-transferului-activelor-rusesti-inghetate-inca-nu-exista-o-solutie-miraculoasa_3936451"
-    }
-   ]
-  },
-  {
-   "id": "auto-26b10d6e9e83",
-   "title": "Scaunele ergonomice Synchron vs. Asynchron: Cum funcționează sistemele de basculare care coordonează mișcarea spătarului cu cea a șezutului?",
-   "title_ro": "Scaunele ergonomice Synchron vs. Asynchron: Cum funcționează sistemele de basculare care coordonează mișcarea spătarului cu cea a șezutului?",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "economy",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-13T09:13:52Z",
-   "sources": [
-    {
-     "name": "Libertatea",
-     "url": "https://www.libertatea.ro/publicitate-advertorial/scaunele-ergonomice-synchron-vs-asynchron-cum-functioneaza-sistemele-de-basculare-care-coordoneaza-miscarea-spatarului-cu-cea-a-sezutului-gmqmjd1"
-    }
-   ]
-  },
-  {
-   "id": "auto-6f8486ee195d",
-   "title": "Benzina a scăzut sub 9,60 lei într-un oraș din România. Cât costă un litru de benzină și motorină, vineri, 13 noiembrie, în București, Iași, Cluj-Napoca, Timișoara și Constanța",
-   "title_ro": "Benzina a scăzut sub 9,60 lei într-un oraș din România. Cât costă un litru de benzină și motorină, vineri, 13 noiembrie, în București, Iași, Cluj-Napoca, Timișoara și Constanța",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "energy",
-   "region": "bucharest",
-   "place": "Bucharest",
-   "place_ro": "București",
-   "publishedAt": "2026-11-13T09:13:39Z",
-   "sources": [
-    {
-     "name": "Libertatea",
-     "url": "https://www.libertatea.ro/stiri/pret-benzina-motorina-vineri-13-noiembrie-2026-bucuresti-cluj-iasi-timisoara-constanta-f2t94ll"
-    }
-   ]
-  },
-  {
-   "id": "auto-0ae3c5be7c8f",
-   "title": "Șeful NATO, rezervat în privința păcii din Ucraina. Ce spune Mark Rutte după negocierile de la Abu Dhabi",
-   "title_ro": "Șeful NATO, rezervat în privința păcii din Ucraina. Ce spune Mark Rutte după negocierile de la Abu Dhabi",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "security",
-   "region": "europe",
-   "place": "Ukraine",
-   "place_ro": "Ucraina",
-   "publishedAt": "2026-11-13T09:12:58Z",
-   "sources": [
-    {
-     "name": "Știrile ProTV",
-     "url": "https://stirileprotv.ro/stiri/international/ce-spune-secretarul-general-al-nato-mark-rutte-despre-negocierile-din-emiratele-arabe.html"
-    }
-   ]
-  },
-  {
-   "id": "auto-0e59093bd4d3",
-   "title": "360 de camioane așteaptă la coadă în Vama Siret. Autoritățile ucrainene preiau mai puține automarfare decât pot procesa românii",
-   "title_ro": "360 de camioane așteaptă la coadă în Vama Siret. Autoritățile ucrainene preiau mai puține automarfare decât pot procesa românii",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "politics",
-   "region": "europe",
-   "place": "Russia",
-   "place_ro": "Rusia",
-   "publishedAt": "2026-11-13T09:12:48Z",
-   "sources": [
-    {
-     "name": "Mediafax",
-     "url": "https://www.mediafax.ro/social/360-de-camioane-asteapta-la-coada-in-vama-siret-autoritatile-ucrainene-preiau-mai-putine-automarfare-decat-pot-procesa-romanii-23842474"
-    }
-   ]
-  },
-  {
-   "id": "auto-903f70ce1fde",
-   "title": "De la 27 de grade, direct la lapoviță, ninsoare și ger de -10 grade în doar 48 de ore. Schimbare bruscă de vreme anunțată de ANM",
-   "title_ro": "De la 27 de grade, direct la lapoviță, ninsoare și ger de -10 grade în doar 48 de ore. Schimbare bruscă de vreme anunțată de ANM",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "economy",
-   "region": "bucharest",
-   "place": "Bucharest",
-   "place_ro": "București",
-   "publishedAt": "2026-11-13T09:12:47Z",
-   "sources": [
-    {
-     "name": "Libertatea",
-     "url": "https://www.libertatea.ro/stiri/prognoza-meteo-anm-cod-portocaliu-vant-ninsori-racire-accentuata-bucuresti-xjce76m"
-    }
-   ]
-  },
-  {
-   "id": "auto-27b1adbc07d2",
-   "title": "VIDEO Imagini dramatice: primul gest al Rusiei și Ucrainei după încheierea discuțiilor de la Abu Dhabi",
-   "title_ro": "VIDEO Imagini dramatice: primul gest al Rusiei și Ucrainei după încheierea discuțiilor de la Abu Dhabi",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "economy",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-13T09:12:20Z",
-   "sources": [
-    {
-     "name": "Știri pe surse",
-     "url": "https://www.stiripesurse.ro/primul-gest-al-rusiei-dupa-incheierea-discutiilor-de-la-abu-dhabi_3936422"
-    }
-   ]
-  },
-  {
-   "id": "auto-18598ed23e31",
-   "title": "Părinții și elevii unui liceu de prestigiu, disperați din cauza unuia dintre școlari care a venit cu un cuțit în sala de clasă",
-   "title_ro": "Părinții și elevii unui liceu de prestigiu, disperați din cauza unuia dintre școlari care a venit cu un cuțit în sala de clasă",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "economy",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-13T09:11:35Z",
-   "sources": [
-    {
-     "name": "Gândul",
-     "url": "https://www.gandul.ro/social/parintii-si-elevii-unui-liceu-de-prestigiu-disperati-din-cauza-unuia-dintre-scolari-care-a-venit-cu-un-cutit-in-sala-de-clasa-21063303"
-    }
-   ]
-  },
-  {
-   "id": "auto-59a2036e0e40",
-   "title": "Trucuri de design pentru camerele de tineret de mici dimensiuni",
-   "title_ro": "Trucuri de design pentru camerele de tineret de mici dimensiuni",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "economy",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-13T09:11:17Z",
-   "sources": [
-    {
-     "name": "Libertatea",
-     "url": "https://www.libertatea.ro/publicitate-advertorial/trucuri-de-design-pentru-camerele-de-tineret-de-mici-dimensiuni-spcn17m"
-    }
-   ]
-  },
-  {
-   "id": "auto-9f6eec95c1b4",
-   "title": "Evenimente în București și marile orașe în weekendul 14–15 noiembrie 2026. Târguri de Crăciun, concerte și teatru",
-   "title_ro": "Evenimente în București și marile orașe în weekendul 14–15 noiembrie 2026. Târguri de Crăciun, concerte și teatru",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "culture",
-   "region": "bucharest",
-   "place": "Bucharest",
-   "place_ro": "București",
-   "publishedAt": "2026-11-13T09:10:42Z",
-   "sources": [
-    {
-     "name": "B1 TV",
-     "url": "https://www.b1tv.ro/eveniment/evenimente-in-bucuresti-si-marile-orase-in-weekendul-14-15-noiembrie-2026-targuri-de-craciun-concerte-si-teatru-1749714.html"
-    }
-   ]
-  },
-  {
-   "id": "auto-f6a9cbe68079",
-   "title": "Cinci reguli pentru ca jocurile de cazino să nu îți afecteze niciodată economiile",
-   "title_ro": "Cinci reguli pentru ca jocurile de cazino să nu îți afecteze niciodată economiile",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "economy",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-13T09:10:42Z",
-   "sources": [
-    {
-     "name": "B1 TV",
-     "url": "https://www.b1tv.ro/eveniment/cinci-reguli-pentru-ca-jocurile-de-cazino-sa-nu-iti-afecteze-niciodata-economiile-1749710.html"
-    }
-   ]
-  },
-  {
-   "id": "auto-45d1a0d11ff0",
-   "title": "Criză la Mercedes-Benz: investițiile în Germania, puse pe pauză. Două fabrici riscă să fie închise",
-   "title_ro": "Criză la Mercedes-Benz: investițiile în Germania, puse pe pauză. Două fabrici riscă să fie închise",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "economy",
-   "region": "europe",
-   "place": "Germany",
-   "place_ro": "Germania",
-   "publishedAt": "2026-11-13T09:10:42Z",
-   "sources": [
-    {
-     "name": "B1 TV",
-     "url": "https://www.b1tv.ro/auto/criza-la-mercedes-benz-investitiile-in-germania-puse-pe-pauza-doua-fabrici-risca-sa-fie-inchise-1749704.html"
-    },
-    {
-     "name": "Gândul",
-     "url": "https://www.gandul.ro/actualitate/cutremur-in-industria-auto-germana-mercedes-benz-vrea-sa-inchida-fabrici-din-germania-si-opreste-toate-investitiile-din-tara-mama-mercedes-are-doua-fabrici-in-romania-cu-2-700-de-angajati-21063664"
-    },
-    {
-     "name": "Digi24",
-     "url": "https://www.digi24.ro/stiri/externe/mercedes-opreste-toate-investitiile-suplimentare-in-germania-4034525"
-    }
-   ]
-  },
-  {
-   "id": "auto-195df8db12af",
-   "title": "PIB-ul rămâne pe minus după nouă luni. Datele de ultimă oră de la Institutul Național de Statistică arată dezastrul economic (INFOGRAFICE)",
-   "title_ro": "PIB-ul rămâne pe minus după nouă luni. Datele de ultimă oră de la Institutul Național de Statistică arată dezastrul economic (INFOGRAFICE)",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "economy",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-13T09:10:42Z",
-   "sources": [
-    {
-     "name": "B1 TV",
-     "url": "https://www.b1tv.ro/economic/pib-ul-ramane-pe-minus-dupa-noua-luni-datele-de-ultima-ora-de-la-institutul-national-de-statistica-arata-dezastrul-economic-infografice-1749694.html"
     }
    ]
   }
