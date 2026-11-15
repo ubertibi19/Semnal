@@ -1,6 +1,96 @@
 {
- "lastRun": "2026-11-15T22:50:23Z",
+ "lastRun": "2026-11-15T23:54:52Z",
  "stories": [
+  {
+   "id": "auto-0d3bd164df15",
+   "title": "Călin Georgescu ar putea fi transferat într-un penitenciar. Decizia va fi luată de instanță (SURSE)",
+   "title_ro": "Călin Georgescu ar putea fi transferat într-un penitenciar. Decizia va fi luată de instanță (SURSE)",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "politics",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-15T23:54:52Z",
+   "sources": [
+    {
+     "name": "B1 TV",
+     "url": "https://www.b1tv.ro/eveniment/calin-georgescu-ar-putea-fi-transferat-intr-un-penitenciar-decizia-va-fi-luata-de-instanta-1750028.html"
+    }
+   ]
+  },
+  {
+   "id": "auto-1b56174019f6",
+   "title": "Într-o lume care crede că economia şi oamenii o duc greu, având în vedere creşterea inflaţiei, a preţurilor la energie şi scăderea puterii de cumpărare sunt greu de vândut datele statistice conform cărora în T3 economia şi-a revenit, având cel mai bun trimestru de creştere din ultimii 4 ani. Dar aşa s-a întâmplat.",
+   "title_ro": "Într-o lume care crede că economia şi oamenii o duc greu, având în vedere creşterea inflaţiei, a preţurilor la energie şi scăderea puterii de cumpărare sunt greu de vândut datele statistice conform cărora în T3 economia şi-a revenit, având cel mai bun trimestru de creştere din ultimii 4 ani. Dar aşa s-a întâmplat.",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "energy",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-15T23:19:00Z",
+   "sources": [
+    {
+     "name": "Ziarul Financiar",
+     "url": "https://www.zf.ro/opinii/intr-lume-crede-economia-oamenii-duc-greu-avand-vedere-cresterea-inflatiei-preturilor-energie-scaderea-puterii-cumparare-greu-vandut-datele-statistice-conform-carora-t3-economia-revenit-avand-cel-23282433"
+    }
+   ]
+  },
+  {
+   "id": "auto-5ed6ba027f2c",
+   "title": "De ce ne simțim mai obosiți toamna. Ce se întâmplă cu organismul când zilele devin mai scurte",
+   "title_ro": "De ce ne simțim mai obosiți toamna. Ce se întâmplă cu organismul când zilele devin mai scurte",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "economy",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-15T23:12:46Z",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/life-entertaiment/de-ce-ne-simtim-mai-obositi-toamna-ce-se-intampla-cu-organismul-cand-zilele-devin-mai-scurte-23838786"
+    }
+   ]
+  },
+  {
+   "id": "auto-4939cff5d607",
+   "title": "UPDATE - O rachetă a companiei Boeing-Lockheed s-a defectat în timpul zborului şi a distrus încărcătura de sateliţi Amazon",
+   "title_ro": "UPDATE - O rachetă a companiei Boeing-Lockheed s-a defectat în timpul zborului şi a distrus încărcătura de sateliţi Amazon",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "security",
+   "region": "world",
+   "place": "World",
+   "place_ro": "Lume",
+   "publishedAt": "2026-11-15T23:12:00Z",
+   "sources": [
+    {
+     "name": "News.ro",
+     "url": "https://www.news.ro/externe/update-o-racheta-a-companiei-boeing-lockheed-s-a-defectat-in-timpul-zborului-si-a-distrus-incarcatura-de-sateliti-amazon-1922401216002026110122990543"
+    }
+   ]
+  },
+  {
+   "id": "auto-f52a2e0fdeb1",
+   "title": "Trei avioane de mici dimensiuni au fost confundate cu drone deasupra Chişinăului şi au stârnit panică. Aeronavele au avut probleme în recepţionarea semnalului GPS şi au aterizat în capitala Moldovei",
+   "title_ro": "Trei avioane de mici dimensiuni au fost confundate cu drone deasupra Chişinăului şi au stârnit panică. Aeronavele au avut probleme în recepţionarea semnalului GPS şi au aterizat în capitala Moldovei",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "security",
+   "region": "bucharest",
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-11-15T22:58:34Z",
+   "sources": [
+    {
+     "name": "News.ro",
+     "url": "https://www.news.ro/externe/trei-avioane-de-mici-dimensiuni-au-fost-confundate-cu-drone-deasupra-chisinaului-si-au-starnit-panica-aeronavele-au-avut-probleme-in-receptionarea-semnalului-gps-si-au-aterizat-in-capitala-moldovei-1922405816342026110022990503"
+    }
+   ]
+  },
   {
    "id": "auto-8efd067a2bb0",
    "title": "Bărbat din Argeș, reținut pentru agresiune. Și-a bătut copilul de șase ani. Micuțul a fost internat",
@@ -1740,6 +1830,10 @@
     {
      "name": "B1 TV",
      "url": "https://www.b1tv.ro/monden/nunta-in-familia-bolojan-fiica-cea-mare-a-fostului-premier-se-casatoreste-cu-un-fost-fotbalist-1749989.html"
+    },
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/actualitate/ilie-bolojan-a-devenit-socru-mic-fiica-sa-cea-mare-s-a-casatorit-la-oradea-cine-este-ginerele-fostului-premier-4036645"
     }
    ]
   },
@@ -7984,6 +8078,24 @@
    ]
   },
   {
+   "id": "auto-bf3303dc422a",
+   "title": "S-a deschis târgul de Crăciun din Viena. Bradul de 31 de metri are 2.000 de luminițe",
+   "title_ro": "S-a deschis târgul de Crăciun din Viena. Bradul de 31 de metri are 2.000 de luminițe",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "world",
+   "region": "world",
+   "place": "World",
+   "place_ro": "Lume",
+   "publishedAt": "2026-11-15T08:42:57Z",
+   "sources": [
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/stiri/international/s-a-deschis-targul-de-craciun-din-viena-bradul-de-31-de-metri-are-2-000-de-luminite.html"
+    }
+   ]
+  },
+  {
    "id": "auto-3cc0610a7c15",
    "title": "Corul Madrigal pleacă în turneu la Paris pentru a marca 150 de ani de la nașterea lui Constantin Brâncuși",
    "title_ro": "Corul Madrigal pleacă în turneu la Paris pentru a marca 150 de ani de la nașterea lui Constantin Brâncuși",
@@ -9806,6 +9918,24 @@
     {
      "name": "B1 TV",
      "url": "https://www.b1tv.ro/externe/incident-de-securitate-in-marja-summitului-comunitatii-politice-europene-politia-irlandeza-a-neutralizat-un-dispozitiv-suspect-1749898.html"
+    }
+   ]
+  },
+  {
+   "id": "auto-d737253a4204",
+   "title": "Val de avarii după lucrări de modernizare. Cum a ajuns o stradă să fie coșmar pentru locuitori: „Se poate curenta oricând, oricine”",
+   "title_ro": "Val de avarii după lucrări de modernizare. Cum a ajuns o stradă să fie coșmar pentru locuitori: „Se poate curenta oricând, oricine”",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "energy",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-15T06:00:29Z",
+   "sources": [
+    {
+     "name": "Digi24",
+     "url": "https://www.digi24.ro/stiri/val-de-avarii-dupa-lucrari-de-modernizare-cum-a-ajuns-o-strada-sa-fie-cosmar-pentru-locuitori-se-poate-curenta-oricand-oricine-4036839"
     }
    ]
   },
@@ -13090,6 +13220,24 @@
    ]
   },
   {
+   "id": "auto-83f4c17a31cd",
+   "title": "Netanyahu promite să elimine „odată pentru totdeauna” amenințarea Iranului la adresa Israelului. Ce îi cere marelui său rival",
+   "title_ro": "Netanyahu promite să elimine „odată pentru totdeauna” amenințarea Iranului la adresa Israelului. Ce îi cere marelui său rival",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "world",
+   "region": "world",
+   "place": "Israel",
+   "place_ro": "Israel",
+   "publishedAt": "2026-11-14T19:29:38Z",
+   "sources": [
+    {
+     "name": "Știrile ProTV",
+     "url": "https://stirileprotv.ro/stiri/international/netanyahu-promite-sa-elimine-odata-pentru-totdeauna-amenintarea-iranului-la-adresa-israelului-ce-ii-cere-marelui-sau-rival.html"
+    }
+   ]
+  },
+  {
    "id": "auto-264f19397564",
    "title": "Macron: Cei care vor să raţionalizeze resursele Ucrainei vor, în ultimă instanţă, să o forţeze să accepte o pace nedreaptă. Este reţeta pentru următorul război. Aceasta nu poate fi poziţia Franţei",
    "title_ro": "Macron: Cei care vor să raţionalizeze resursele Ucrainei vor, în ultimă instanţă, să o forţeze să accepte o pace nedreaptă. Este reţeta pentru următorul război. Aceasta nu poate fi poziţia Franţei",
@@ -13266,162 +13414,6 @@
     {
      "name": "Digi24",
      "url": "https://www.digi24.ro/stiri/sport/fotbal/liga-natiunilor-romania-polonia-de-la-ora-2145-tricolorii-cauta-revansa-dupa-umilinta-de-la-varsovia-4036615"
-    }
-   ]
-  },
-  {
-   "id": "auto-03fcb5faecf9",
-   "title": "World Rugby Nations Cup: România pierde acasă, 24-53 cu Statele Unite ale Americii",
-   "title_ro": "World Rugby Nations Cup: România pierde acasă, 24-53 cu Statele Unite ale Americii",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "sport",
-   "region": "world",
-   "place": "US",
-   "place_ro": "SUA",
-   "publishedAt": "2026-11-14T19:02:47Z",
-   "sources": [
-    {
-     "name": "News.ro",
-     "url": "https://www.news.ro/sport/world-rugby-nations-cup-romania-pierde-acasa-24-53-cu-statele-unite-ale-americii-1922400214472026112122988265"
-    },
-    {
-     "name": "Știri pe surse",
-     "url": "https://www.stiripesurse.ro/world-rugby-nations-cup-romania-pierde-acasa-24-53-cu-statele-unite-ale-americii_3936819"
-    }
-   ]
-  },
-  {
-   "id": "auto-826433df345a",
-   "title": "Țara care a amendat cu 887 de milioane de dolari gigantul Meta pentru că a încălcat drepturile utilizatorilor de Android",
-   "title_ro": "Țara care a amendat cu 887 de milioane de dolari gigantul Meta pentru că a încălcat drepturile utilizatorilor de Android",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "tech",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-14T19:01:49Z",
-   "sources": [
-    {
-     "name": "Libertatea",
-     "url": "https://www.libertatea.ro/stiri/tara-amendat-887-milioane-dolari-gigantul-meta-incalcat-drepturile-utilizatorilor-android-rbzz8ph"
-    },
-    {
-     "name": "Digi24",
-     "url": "https://www.digi24.ro/stiri/externe/ue/italia-a-amendat-meta-cu-887-de-milioane-de-dolari-pentru-accesarea-fotografiilor-si-videoclipurilor-utilizatorilor-android-fara-consim-4036761"
-    },
-    {
-     "name": "Știrile ProTV",
-     "url": "https://stirileprotv.ro/stiri/international/italia-a-amendat-meta-cu-887-de-milioane-de-dolari-compania-ar-fi-accesat-fotografiile-utilizatorilor-fara-acord.html"
-    }
-   ]
-  },
-  {
-   "id": "auto-fdbab47a0455",
-   "title": "Motivul pentru care toate zborurile din Statele Unite au fost suspendate timp de patru ore. Un fir de cupru vechi a dat peste cap mii de curse aeriene",
-   "title_ro": "Motivul pentru care toate zborurile din Statele Unite au fost suspendate timp de patru ore. Un fir de cupru vechi a dat peste cap mii de curse aeriene",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "world",
-   "region": "world",
-   "place": "US",
-   "place_ro": "SUA",
-   "publishedAt": "2026-11-14T19:01:14Z",
-   "sources": [
-    {
-     "name": "Gândul",
-     "url": "https://www.gandul.ro/international/suspendare-zboruri-sua-cablu-cupru-21064872"
-    }
-   ]
-  },
-  {
-   "id": "auto-f556a8c0a560",
-   "title": "Lovitură pentru Primăria Sectorului 1: taxa de salubrizare a fost anulată înainte să intre în vigoare",
-   "title_ro": "Lovitură pentru Primăria Sectorului 1: taxa de salubrizare a fost anulată înainte să intre în vigoare",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "politics",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-14T19:01:08Z",
-   "sources": [
-    {
-     "name": "Știri pe surse",
-     "url": "https://www.stiripesurse.ro/primaria-sectorului-1-taxa-de-salubrizare-anulata_3936801"
-    }
-   ]
-  },
-  {
-   "id": "auto-2cf8b2d1662c",
-   "title": "„Petrolul era dreptul nostru din naștere”. Cum a ajuns Donald Trump să revendice bogăția care a definit Venezuela",
-   "title_ro": "„Petrolul era dreptul nostru din naștere”. Cum a ajuns Donald Trump să revendice bogăția care a definit Venezuela",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "energy",
-   "region": "world",
-   "place": "US",
-   "place_ro": "SUA",
-   "publishedAt": "2026-11-14T18:58:25Z",
-   "sources": [
-    {
-     "name": "Digi24",
-     "url": "https://www.digi24.ro/stiri/externe/sua/petrolul-era-dreptul-nostru-din-nastere-cum-a-ajuns-donald-trump-sa-revendice-bogatia-care-a-definit-venezuela-4036901"
-    }
-   ]
-  },
-  {
-   "id": "auto-9f9c1af49605",
-   "title": "Condiția Kremlinului pentru a discuta cu reprezentanții Europei despre pacea din Ucraina. Șefa UE, mesaj ferm pentru Rusia",
-   "title_ro": "Condiția Kremlinului pentru a discuta cu reprezentanții Europei despre pacea din Ucraina. Șefa UE, mesaj ferm pentru Rusia",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "economy",
-   "region": "europe",
-   "place": "Ukraine",
-   "place_ro": "Ucraina",
-   "publishedAt": "2026-11-14T18:57:47Z",
-   "sources": [
-    {
-     "name": "Știrile ProTV",
-     "url": "https://stirileprotv.ro/stiri/international/conditia-kremlinului-pentru-a-discuta-cu-reprezentantii-europei-despre-pacea-din-ucraina-sefa-ue-mesaj-ferm-pentru-rusia.html"
-    }
-   ]
-  },
-  {
-   "id": "auto-5c53323b980c",
-   "title": "Rugby: România, învinsă clar de SUA, în Cupa Națiunilor",
-   "title_ro": "Rugby: România, învinsă clar de SUA, în Cupa Națiunilor",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "sport",
-   "region": "world",
-   "place": "US",
-   "place_ro": "SUA",
-   "publishedAt": "2026-11-14T18:56:23Z",
-   "sources": [
-    {
-     "name": "Agerpres",
-     "url": "https://agerpres.ro/sport/2026/11/14/rugby-romania-invinsa-clar-de-sua-in-cupa-natiunilor--1613382"
-    }
-   ]
-  },
-  {
-   "id": "auto-22acc44bddd5",
-   "title": "Meta a primit o amendă usturătoare în Italia pentru accesarea de către Facebook a fotografiilor fără consimțământ 'specific'",
-   "title_ro": "Meta a primit o amendă usturătoare în Italia pentru accesarea de către Facebook a fotografiilor fără consimțământ 'specific'",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "economy",
-   "region": "europe",
-   "place": "Italy",
-   "place_ro": "Italia",
-   "publishedAt": "2026-11-14T18:56:23Z",
-   "sources": [
-    {
-     "name": "Agerpres",
-     "url": "https://agerpres.ro/economic-extern/2026/11/14/meta-a-primit-o-amenda-usturatoare-in-italia-pentru-accesarea-de-catre-facebook-a-fotografiilor-fara--1613377"
     }
    ]
   }
