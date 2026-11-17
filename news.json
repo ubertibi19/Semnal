@@ -1,6 +1,42 @@
 {
- "lastRun": "2026-11-16T23:53:03Z",
+ "lastRun": "2026-11-17T01:25:51Z",
  "stories": [
+  {
+   "id": "auto-64fff7abb93c",
+   "title": "#Ucraina: Două poduri din Kiev lovite de atacuri rusești (primar)",
+   "title_ro": "#Ucraina: Două poduri din Kiev lovite de atacuri rusești (primar)",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "politics",
+   "region": "europe",
+   "place": "Ukraine",
+   "place_ro": "Ucraina",
+   "publishedAt": "2026-11-17T01:25:51Z",
+   "sources": [
+    {
+     "name": "Agerpres",
+     "url": "https://agerpres.ro/politic-extern/2026/11/17/ucraina-doua-poduri-din-kiev-lovite-de-atacuri-rusesti-primar--1613974"
+    }
+   ]
+  },
+  {
+   "id": "auto-3afd1256adab",
+   "title": "„Barca era tot ce aveam”. Administrația Trump, dată în judecată de 16 pescari care susțin că au fost bombardați cu drone americane în Oceanul Pacific",
+   "title_ro": "„Barca era tot ce aveam”. Administrația Trump, dată în judecată de 16 pescari care susțin că au fost bombardați cu drone americane în Oceanul Pacific",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "security",
+   "region": "world",
+   "place": "US",
+   "place_ro": "SUA",
+   "publishedAt": "2026-11-17T00:23:55Z",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/externe/barca-era-tot-ce-aveam-administratia-trump-data-in-judecata-de-16-pescari-care-sustin-ca-au-fost-bombardati-cu-drone-americane-in-oceanul-pacific-23844287"
+    }
+   ]
+  },
   {
    "id": "auto-9e2dcae23363",
    "title": "VIDEO Al treilea portavion american a sosit în Orientul Mijlociu (armată)",
@@ -4390,6 +4426,24 @@
     {
      "name": "Știrile ProTV",
      "url": "https://stirileprotv.ro/stiri/financiar/taieri-de-posturi-si-reorganizari-in-companiile-de-stat-ce-institutii-ar-putea-fi-vizate-de-propunerea-psd.html"
+    }
+   ]
+  },
+  {
+   "id": "auto-9a8674236586",
+   "title": "Putin „dă înapoi” în război. Într-un anunț-surpriză înainte de summitul istoric din China, Trump mai spune și că „Ucraina pierde Ucraina”",
+   "title_ro": "Putin „dă înapoi” în război. Într-un anunț-surpriză înainte de summitul istoric din China, Trump mai spune și că „Ucraina pierde Ucraina”",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "security",
+   "region": "europe",
+   "place": "Ukraine",
+   "place_ro": "Ucraina",
+   "publishedAt": "2026-11-16T17:16:11Z",
+   "sources": [
+    {
+     "name": "HotNews",
+     "url": "https://hotnews.ro/putin-da-inapoi-in-razboi-intr-un-anunt-surpriza-inainte-de-summitul-istoric-din-china-trump-mai-spune-si-ca-ucraina-pierde-ucraina-2405937"
     }
    ]
   },
@@ -13248,64 +13302,6 @@
     {
      "name": "Agerpres",
      "url": "https://agerpres.ro/social/2026/11/16/gorj-amenzi-de-aproximativ-un-milion-de-lei-aplicate-in-octombrie-pentru-munca-la-negru--1613640"
-    }
-   ]
-  },
-  {
-   "id": "auto-037f5f7d8124",
-   "title": "Sommetul Francofoniei/ Alegerile pentru noul secretar general au fost amânate cu un an din lipsă de consens",
-   "title_ro": "Sommetul Francofoniei/ Alegerile pentru noul secretar general au fost amânate cu un an din lipsă de consens",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "politics",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-16T09:50:29Z",
-   "sources": [
-    {
-     "name": "Agerpres",
-     "url": "https://agerpres.ro/romania-in-lume/2026/11/16/sommetul-francofoniei-alegerile-pentru-noul-secretar-general-au-fost-amanate-cu-un-an-din-lipsa-de-c--1613635"
-    },
-    {
-     "name": "HotNews",
-     "url": "https://hotnews.ro/rasturnare-de-situatie-alegerile-pentru-noul-secretar-general-al-francofoniei-amanate-cu-un-an-dacian-ciolos-era-printre-candidati-2405321"
-    }
-   ]
-  },
-  {
-   "id": "auto-d17b06ae326b",
-   "title": "Burnete: Sistemul Energetic Național a rezistat în luna august în ciuda unor presiuni imense",
-   "title_ro": "Burnete: Sistemul Energetic Național a rezistat în luna august în ciuda unor presiuni imense",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "economy",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-16T09:50:29Z",
-   "sources": [
-    {
-     "name": "Agerpres",
-     "url": "https://agerpres.ro/economic/2026/11/16/burnete-sistemul-energetic-national-a-rezistat-in-luna-august-in-ciuda-unor-presiuni-imense--1613649"
-    }
-   ]
-  },
-  {
-   "id": "auto-4ffdaa4936fb",
-   "title": "Report de peste două milioane de lei la Joker, la categoria I, pentru tragerea de joi",
-   "title_ro": "Report de peste două milioane de lei la Joker, la categoria I, pentru tragerea de joi",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "economy",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-16T09:50:29Z",
-   "sources": [
-    {
-     "name": "Agerpres",
-     "url": "https://agerpres.ro/economic/2026/11/16/report-de-peste-doua-milioane-de-lei-la-joker-la-categoria-i-pentru-tragerea-de-joi--1613634"
     }
    ]
   }
