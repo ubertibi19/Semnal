@@ -1,6 +1,42 @@
 {
- "lastRun": "2026-11-18T23:59:10Z",
+ "lastRun": "2026-11-19T01:27:08Z",
  "stories": [
+  {
+   "id": "auto-38d675ce729e",
+   "title": "Un rus, acuzat de spionaj în Silicon Valley | Ar fi urmărit angajații unei companii care furnizează echipamente și tehnologie Ucrainei",
+   "title_ro": "Un rus, acuzat de spionaj în Silicon Valley | Ar fi urmărit angajații unei companii care furnizează echipamente și tehnologie Ucrainei",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "security",
+   "region": "world",
+   "place": "World",
+   "place_ro": "Lume",
+   "publishedAt": "2026-11-19T00:03:23Z",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/externe/un-rus-acuzat-de-spionaj-in-silicon-valley-ar-fi-urmarit-angajatii-unei-companii-care-furnizeaza-echipamente-si-tehnologie-ucrainei-23845699"
+    }
+   ]
+  },
+  {
+   "id": "auto-c65ba127d00b",
+   "title": "Ioana și Ilie Năstase, scandal în fața blocului din Mamaia: „Ăla-i amantul tău! Te-am văzut, am auzit tot!”",
+   "title_ro": "Ioana și Ilie Năstase, scandal în fața blocului din Mamaia: „Ăla-i amantul tău! Te-am văzut, am auzit tot!”",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "economy",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-19T00:01:22Z",
+   "sources": [
+    {
+     "name": "Libertatea",
+     "url": "https://www.libertatea.ro/entertainment/ioana-si-ilie-nastase-scandal-in-fata-blocului-din-mamaia-4990171"
+    }
+   ]
+  },
   {
    "id": "auto-1a260a0a13d3",
    "title": "Vladimir Putin are un ginere pe care-l cheamă Zelensky | Cine este și cu ce se ocupă",
@@ -124,6 +160,24 @@
     {
      "name": "HotNews",
      "url": "https://hotnews.ro/cristian-tudor-popescu-dupa-mutarea-cu-zece-ministere-delegate-lui-marian-neacsu-psd-a-vrut-cu-tot-dinadinsul-umilirea-publica-a-lui-niculescu-2407958"
+    }
+   ]
+  },
+  {
+   "id": "auto-a7db33c31515",
+   "title": "Membrii unui trib izolat din pădurea amazoniană a Braziliei au stabilit primul contact cu lumea și au cerut hrană",
+   "title_ro": "Membrii unui trib izolat din pădurea amazoniană a Braziliei au stabilit primul contact cu lumea și au cerut hrană",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "economy",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-18T22:08:41Z",
+   "sources": [
+    {
+     "name": "Libertatea",
+     "url": "https://www.libertatea.ro/stiri/tribul-izolat-awa-din-brazilia-a-luat-contact-cu-lumea-exterioara-pentru-prima-data-si-a-cerut-mancare-3r8fypx"
     }
    ]
   },
@@ -708,6 +762,24 @@
    ]
   },
   {
+   "id": "auto-96395d337fb5",
+   "title": "Un misterios binefăcător a lăsat bancnote de 50 de euro în cutiile poștale ale unui bloc din Olanda",
+   "title_ro": "Un misterios binefăcător a lăsat bancnote de 50 de euro în cutiile poștale ale unui bloc din Olanda",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "security",
+   "region": "europe",
+   "place": "Netherlands",
+   "place_ro": "Olanda",
+   "publishedAt": "2026-11-18T21:28:25Z",
+   "sources": [
+    {
+     "name": "Libertatea",
+     "url": "https://www.libertatea.ro/stiri/bancnote-50-euro-cutii-postale-bloc-olanda-schiedam-politie-74524kj"
+    }
+   ]
+  },
+  {
    "id": "auto-2a47525bab83",
    "title": "Gigantul american SpaceX analizează crearea unui hub de comunicaţii în Bulgaria",
    "title_ro": "Gigantul american SpaceX analizează crearea unui hub de comunicaţii în Bulgaria",
@@ -830,6 +902,10 @@
     {
      "name": "Știri pe surse",
      "url": "https://www.stiripesurse.ro/cristian-tudor-popescu-comentarii-acide-la-adresa-psd-compara-planul-de-comasare-a-localitatilor-cu-a-doua-colectivizare-vrea-sa-fie-aidoma-stramosului-sau-pcr-dar-nu-poate_3937990"
+    },
+    {
+     "name": "Libertatea",
+     "url": "https://www.libertatea.ro/stiri/cristian-tudor-popescu-compara-planul-psd-cu-a-doua-colectivizare-cs2ptgy"
     }
    ]
   },
@@ -1742,6 +1818,10 @@
     {
      "name": "Știri pe surse",
      "url": "https://www.stiripesurse.ro/guvernul-german-acuza-rusia-ca-duce-un-razboi-impotriva-bisericilor-si-a-credinciosilor-din-ucraina_3937980"
+    },
+    {
+     "name": "Libertatea",
+     "url": "https://www.libertatea.ro/stiri/rusia-bombardeaza-biserici-si-tortureaza-preoti-acuza-guvernul-german-1zxjdlx"
     }
    ]
   },
@@ -2702,6 +2782,10 @@
     {
      "name": "Știri pe surse",
      "url": "https://www.stiripesurse.ro/raed-arafat-explica-de-ce-romanii-au-aflat-de-cutremur-de-la-google-si-nu-prin-ro-alert-pentru-ca-inducem-panica-intr-un-timp-foarte-scurt_3937969"
+    },
+    {
+     "name": "Libertatea",
+     "url": "https://www.libertatea.ro/stiri/raed-arafat-a-explicat-de-ce-romanii-nu-au-primit-ro-alert-la-cutremurul-de-miercuri-18-noiembrie-resimtit-si-in-bucuresti-rmt3r3j"
     }
    ]
   },
@@ -3046,6 +3130,24 @@
     {
      "name": "Știri pe surse",
      "url": "https://www.stiripesurse.ro/6-decembrie-tragerea-la-sorti-a-preliminariilor-euro-2028-romania-va-fi-in-urna-a-treia_3937961"
+    }
+   ]
+  },
+  {
+   "id": "auto-be1f230df0fa",
+   "title": "Președintele Nicușor Dan și premierul Luca Niculescu vor participa la Bucharest Forum 2026, alături de conducerea Parlamentului și membri ai Guvernului",
+   "title_ro": "Președintele Nicușor Dan și premierul Luca Niculescu vor participa la Bucharest Forum 2026, alături de conducerea Parlamentului și membri ai Guvernului",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "politics",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-18T18:44:31Z",
+   "sources": [
+    {
+     "name": "G4Media",
+     "url": "https://www.g4media.ro/presedintele-nicusor-dan-si-premierul-luca-niculescu-vor-participa-la-bucharest-forum-2026-alaturi-de-conducerea-parlamentului-si-membri-ai-guvernului.html"
     }
    ]
   },
@@ -3472,6 +3574,10 @@
     {
      "name": "Gândul",
      "url": "https://www.gandul.ro/international/sua-venezuela-acord-cooperare-militara-pete-hegseth-21068735"
+    },
+    {
+     "name": "Libertatea",
+     "url": "https://www.libertatea.ro/stiri/seful-pentagonului-s-a-dus-la-caracas-si-a-semnat-un-acord-militar-istoric-intre-sua-si-venezuela-l090d19"
     }
    ]
   },
@@ -4750,6 +4856,10 @@
     {
      "name": "Știrile ProTV",
      "url": "https://stirileprotv.ro/divers/cand-va-fi-difuzat-singur-acasa-la-pro-tv-in-decembrie-2026-calendarul-complet-al-difuzarilor.html"
+    },
+    {
+     "name": "Libertatea",
+     "url": "https://www.libertatea.ro/entertainment/singur-acasa-pro-tv-decembrie-2026-cand-se-difuzeaza-program-complet-plgtszp"
     }
    ]
   },
@@ -6004,6 +6114,24 @@
    ]
   },
   {
+   "id": "auto-c9c694f724b6",
+   "title": "Au început pregătirile pentru Parada Militară de 1 Decembrie: Peste 2.000 de militari și 45 de aeronave vor defila la Arcul de Triumf",
+   "title_ro": "Au început pregătirile pentru Parada Militară de 1 Decembrie: Peste 2.000 de militari și 45 de aeronave vor defila la Arcul de Triumf",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "security",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-18T16:02:27Z",
+   "sources": [
+    {
+     "name": "Libertatea",
+     "url": "https://www.libertatea.ro/stiri/parada-militara-1-decembrie-peste-2000-militari-130-de-mijloace-tehnice-45-aeronave-pregatite-defilare-arcul-de-triumf-s06ss8b"
+    }
+   ]
+  },
+  {
    "id": "auto-947adba0b19d",
    "title": "Cel puțin patru persoane au murit și alte nouă au fost rănite în urma atacurilor rusești din centrul orașului Odesa",
    "title_ro": "Cel puțin patru persoane au murit și alte nouă au fost rănite în urma atacurilor rusești din centrul orașului Odesa",
@@ -6474,6 +6602,10 @@
     {
      "name": "News.ro",
      "url": "https://www.news.ro/social/directoratul-national-de-securitate-cibernetica-atrage-atentia-asupra-unor-tentative-de-frauda-in-care-este-folosita-identitatea-operatorilor-de-telefonie-mobila-si-cea-a-dnsc-1922404218172026111922996714"
+    },
+    {
+     "name": "Libertatea",
+     "url": "https://www.libertatea.ro/stiri/tentative-frauda-identitate-operatori-telefonie-mobila-dnsc-cum-functioneaza-v57prys"
     }
    ]
   },
@@ -13310,122 +13442,6 @@
     {
      "name": "Gândul",
      "url": "https://www.gandul.ro/diverse/doliu-in-invatamant-a-murit-vasile-miftode-profesor-emerit-al-universitatii-alexandru-ioan-cuza-din-iasi-21068115"
-    }
-   ]
-  },
-  {
-   "id": "auto-66d017687bb7",
-   "title": "Luca Niculescu, mesaj pentru noul prim-ministru al Letoniei, la scurt timp după ce noul Guvern a fost validat de Parlament. Ce i-a transmis premierul României omologului său",
-   "title_ro": "Luca Niculescu, mesaj pentru noul prim-ministru al Letoniei, la scurt timp după ce noul Guvern a fost validat de Parlament. Ce i-a transmis premierul României omologului său",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "politics",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-18T11:28:38Z",
-   "sources": [
-    {
-     "name": "Gândul",
-     "url": "https://www.gandul.ro/actualitate/mesaj-luca-niculescu-premier-letonia-andris-kulbergs-21068097"
-    }
-   ]
-  },
-  {
-   "id": "auto-ffb72224e29b",
-   "title": "Organizarea comisiei de anchetă privind mașina SPP folosită de Bolojan la nunta fiicei merge la vot în plenul Parlamentului. Biroul Permanent al Camerei Deputaților a luat act de propunere",
-   "title_ro": "Organizarea comisiei de anchetă privind mașina SPP folosită de Bolojan la nunta fiicei merge la vot în plenul Parlamentului. Biroul Permanent al Camerei Deputaților a luat act de propunere",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "politics",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-18T11:28:35Z",
-   "sources": [
-    {
-     "name": "Mediafax",
-     "url": "https://www.mediafax.ro/politic/organizarea-comisiei-de-ancheta-privind-masina-spp-folosita-de-bolojan-la-nunta-fiicei-merge-la-vot-in-plenul-parlamentului-biroul-permanent-al-camerei-deputatilor-a-luat-act-de-propunere-23845290"
-    },
-    {
-     "name": "Știrile ProTV",
-     "url": "https://stirileprotv.ro/stiri/politic/bolojan-respinge-acuzatiile-privind-masina-spp-folosita-la-nunta-fiicei-sale-am-respectat-toate-prevederile-legale.html"
-    }
-   ]
-  },
-  {
-   "id": "auto-72b9dba59f6a",
-   "title": "Universitatea Babeș-Bolyai, cea mai bine clasată universitate din România într-un nou ranking internațional. Pe ce loc se află Universitatea din București",
-   "title_ro": "Universitatea Babeș-Bolyai, cea mai bine clasată universitate din România într-un nou ranking internațional. Pe ce loc se află Universitatea din București",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "economy",
-   "region": "bucharest",
-   "place": "Bucharest",
-   "place_ro": "București",
-   "publishedAt": "2026-11-18T11:28:15Z",
-   "sources": [
-    {
-     "name": "Libertatea",
-     "url": "https://www.libertatea.ro/educatie/universitatea-babes-bolyai-prima-universitate-din-romania-in-clasamentul-qs-sustainability-2027-n1g9nr8"
-    }
-   ]
-  },
-  {
-   "id": "auto-31e044ac4e46",
-   "title": "ANRE: Numărul prosumatorilor racordaţi la reţelele electrice, la finalul lunii septembrie, era de 394.868, cu 9.077 în plus faţă de august/ Interes în creştere pentru instalaţiile de stocare/Ilfov şi Timiş, judeţele cu cele mai multe instalaţii de prosuma",
-   "title_ro": "ANRE: Numărul prosumatorilor racordaţi la reţelele electrice, la finalul lunii septembrie, era de 394.868, cu 9.077 în plus faţă de august/ Interes în creştere pentru instalaţiile de stocare/Ilfov şi Timiş, judeţele cu cele mai multe instalaţii de prosuma",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "energy",
-   "region": "bucharest",
-   "place": "Bucharest",
-   "place_ro": "București",
-   "publishedAt": "2026-11-18T11:28:09Z",
-   "sources": [
-    {
-     "name": "News.ro",
-     "url": "https://www.news.ro/economic/anre-numarul-prosumatorilor-racordati-retelele-electrice-finalul-lunii-septembrie-era-394-868-9-077-plus-fata-august-interes-crestere-instalatiile-stocare-ilfov-timis-judetele-cele-multe-instalatii-1922402818092026111322996048"
-    }
-   ]
-  },
-  {
-   "id": "auto-7b9710818b0a",
-   "title": "Dragoș Dobrescu announces the exit from Vitalitas four years after the founding of the largest residential centre for seniors in Europe",
-   "title_ro": "Dragoș Dobrescu announces the exit from Vitalitas four years after the founding of the largest residential centre for seniors in Europe",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "economy",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-18T11:27:27Z",
-   "sources": [
-    {
-     "name": "Mediafax",
-     "url": "https://www.mediafax.ro/comunicate/dragos-dobrescu-announces-the-exit-from-vitalitas-four-years-after-the-founding-of-the-largest-residential-centre-for-seniors-in-europe-23845329"
-    },
-    {
-     "name": "Gândul",
-     "url": "https://www.gandul.ro/english/dragos-dobrescu-announces-the-exit-from-vitalitas-four-years-after-the-founding-of-the-largest-residential-centre-for-seniors-in-europe-21068526"
-    }
-   ]
-  },
-  {
-   "id": "auto-3d4d6276042c",
-   "title": "Edward Iordănescu, mesaj pentru selecționerul Hagi: „Să nu transformăm posesia în obsesie”",
-   "title_ro": "Edward Iordănescu, mesaj pentru selecționerul Hagi: „Să nu transformăm posesia în obsesie”",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "economy",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-18T11:26:19Z",
-   "sources": [
-    {
-     "name": "G4Media",
-     "url": "https://www.g4media.ro/edward-iordanescu-mesaj-pentru-selectionerul-hagi-sa-nu-transformam-posesia-in-obsesie.html"
     }
    ]
   }
