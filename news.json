@@ -1,6 +1,186 @@
 {
- "lastRun": "2026-11-22T02:59:45Z",
+ "lastRun": "2026-11-22T04:05:29Z",
  "stories": [
+  {
+   "id": "auto-fa6115923d41",
+   "title": "Danemarca va expulza un diplomat rus pe fondul unui presupus complot de asasinare a unui rapper americano-ucrainean",
+   "title_ro": "Danemarca va expulza un diplomat rus pe fondul unui presupus complot de asasinare a unui rapper americano-ucrainean",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "world",
+   "region": "europe",
+   "place": "Denmark",
+   "place_ro": "Danemarca",
+   "publishedAt": "2026-11-22T04:02:04Z",
+   "sources": [
+    {
+     "name": "News.ro",
+     "url": "https://www.news.ro/externe/danemarca-va-expulza-un-diplomat-rus-pe-fondul-unui-presupus-complot-de-asasinare-a-unui-rapper-americano-ucrainean-1922400222042026110623003204"
+    }
+   ]
+  },
+  {
+   "id": "auto-c6b68b9db838",
+   "title": "Irlanda ar putea deveni un furnizor important de culturi bogate în proteine pentru Europa. Ce arată un studiu despre viitorul agriculturii până în 2080",
+   "title_ro": "Irlanda ar putea deveni un furnizor important de culturi bogate în proteine pentru Europa. Ce arată un studiu despre viitorul agriculturii până în 2080",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "economy",
+   "region": "europe",
+   "place": "Ireland",
+   "place_ro": "Irlanda",
+   "publishedAt": "2026-11-22T04:00:57Z",
+   "sources": [
+    {
+     "name": "Gândul",
+     "url": "https://www.gandul.ro/actualitate/irlanda-producator-proteine-europa-agricultura-2080-21069966"
+    }
+   ]
+  },
+  {
+   "id": "auto-7fd407bef277",
+   "title": "Nici ceaiul de tei nu mai poate domoli inflația. Estimările optimiste ale lui Mugur Isărescu s-au lovit de realitate. România rămâne campioana inflației în Uniunea Europeană, iar 2027 ar putea veni cu noi scumpiri",
+   "title_ro": "Nici ceaiul de tei nu mai poate domoli inflația. Estimările optimiste ale lui Mugur Isărescu s-au lovit de realitate. România rămâne campioana inflației în Uniunea Europeană, iar 2027 ar putea veni cu noi scumpiri",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "economy",
+   "region": "europe",
+   "place": "EU",
+   "place_ro": "UE",
+   "publishedAt": "2026-11-22T04:00:40Z",
+   "sources": [
+    {
+     "name": "Gândul",
+     "url": "https://www.gandul.ro/actualitate/nu-mai-merge-cu-ceaiul-de-tei-mugur-isarescu-greseste-din-nou-rata-inflatiei-iar-2027-va-veni-cu-noi-scumpiri-si-noi-cresteri-de-taxe-si-accize-21068245"
+    }
+   ]
+  },
+  {
+   "id": "auto-172e9991a190",
+   "title": "Cât de rău ești cu chatbotul tău AI și de ce contează? / Claude poate, chiar, pune capăt conversației",
+   "title_ro": "Cât de rău ești cu chatbotul tău AI și de ce contează? / Claude poate, chiar, pune capăt conversației",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "tech",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-22T03:50:20Z",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/tehnologie/cat-de-rau-esti-cu-chatbotul-tau-ai-si-de-ce-conteaza-claude-poate-chiar-pune-capat-conversatiei-23847403"
+    }
+   ]
+  },
+  {
+   "id": "auto-89512eb10a60",
+   "title": "Justiţia americană a aprobat un acord de 7,25 miliarde de dolari al Bayer pentru despăgubirea utilizatorilor erbicidului Roundup",
+   "title_ro": "Justiţia americană a aprobat un acord de 7,25 miliarde de dolari al Bayer pentru despăgubirea utilizatorilor erbicidului Roundup",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "economy",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-22T03:35:00Z",
+   "sources": [
+    {
+     "name": "News.ro",
+     "url": "https://www.news.ro/economic/justitia-americana-a-aprobat-un-acord-de-7-25-miliarde-de-dolari-al-bayer-pentru-despagubirea-utilizatorilor-erbicidului-roundup-1922403522002026110523002306"
+    }
+   ]
+  },
+  {
+   "id": "auto-a1ef948c7d67",
+   "title": "Scene „tulburătoare” la aeroportul din Seattle, unde ofiţerii ICE au efectuat arestări - VIDEO",
+   "title_ro": "Scene „tulburătoare” la aeroportul din Seattle, unde ofiţerii ICE au efectuat arestări - VIDEO",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "world",
+   "region": "world",
+   "place": "World",
+   "place_ro": "Lume",
+   "publishedAt": "2026-11-22T03:32:00Z",
+   "sources": [
+    {
+     "name": "News.ro",
+     "url": "https://www.news.ro/externe/scene-tulburatoare-la-aeroportul-din-seattle-unde-ofiterii-ice-au-efectuat-arestari-video-1922403222002026110523003183"
+    }
+   ]
+  },
+  {
+   "id": "auto-e62f9333322b",
+   "title": "Două sonde spațiale au intrat pe orbita lui Mercur / Prima vizită la cea mai mică planetă din ultimul deceniu",
+   "title_ro": "Două sonde spațiale au intrat pe orbita lui Mercur / Prima vizită la cea mai mică planetă din ultimul deceniu",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "economy",
+   "region": "romania",
+   "place": "Romania",
+   "place_ro": "România",
+   "publishedAt": "2026-11-22T03:16:31Z",
+   "sources": [
+    {
+     "name": "Mediafax",
+     "url": "https://www.mediafax.ro/life-inedit/doua-sonde-spatiale-au-intrat-pe-orbita-lui-mercur-prima-vizita-la-cea-mai-mica-planeta-din-ultimul-deceniu-23847399"
+    }
+   ]
+  },
+  {
+   "id": "auto-ae5f858d18de",
+   "title": "Indonezia: 39 de persoane sunt date dispărute în urma unui incendiu într-o fabrică de dulciuri",
+   "title_ro": "Indonezia: 39 de persoane sunt date dispărute în urma unui incendiu într-o fabrică de dulciuri",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "security",
+   "region": "world",
+   "place": "Indonesia",
+   "place_ro": "Indonezia",
+   "publishedAt": "2026-11-22T03:11:33Z",
+   "sources": [
+    {
+     "name": "News.ro",
+     "url": "https://www.news.ro/externe/indonezia-39-de-persoane-sunt-date-disparute-in-urma-unui-incendiu-intr-o-fabrica-de-dulciuri-1922401122332026110523003163"
+    }
+   ]
+  },
+  {
+   "id": "auto-b610653588ef",
+   "title": "O instanţă din Olanda interzice vânzarea în UE a unui SUV chinezesc BYD, considerat prea asemănător cu Land Rover Defender",
+   "title_ro": "O instanţă din Olanda interzice vânzarea în UE a unui SUV chinezesc BYD, considerat prea asemănător cu Land Rover Defender",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "economy",
+   "region": "europe",
+   "place": "Netherlands",
+   "place_ro": "Olanda",
+   "publishedAt": "2026-11-22T03:03:00Z",
+   "sources": [
+    {
+     "name": "News.ro",
+     "url": "https://www.news.ro/economic/o-instanta-din-olanda-interzice-vanzarea-in-ue-a-unui-suv-chinezesc-byd-considerat-prea-asemanator-cu-land-rover-defender-1922400322002026110523002329"
+    }
+   ]
+  },
+  {
+   "id": "auto-e6d90369d51e",
+   "title": "Un student de la Politehnică a fost prins cum plănuia să-și asasineze un coleg. Tânărul a atacat până și un profesor, chiar pe holurile facultății",
+   "title_ro": "Un student de la Politehnică a fost prins cum plănuia să-și asasineze un coleg. Tânărul a atacat până și un profesor, chiar pe holurile facultății",
+   "summary": "",
+   "summary_ro": "",
+   "topic": "security",
+   "region": "bucharest",
+   "place": "Bucharest",
+   "place_ro": "București",
+   "publishedAt": "2026-11-22T03:00:29Z",
+   "sources": [
+    {
+     "name": "Gândul",
+     "url": "https://www.gandul.ro/exclusiv/plan-de-asasinat-la-politehnica-descoperirea-socanta-facuta-de-anchetatori-in-casa-unui-student-din-bucuresti-21070120"
+    }
+   ]
+  },
   {
    "id": "auto-52a2e42a4ea8",
    "title": "Dronă posibil rusească a intrat în spațiul aerian al Moldovei, a ieșit, apoi a intrat din nou",
@@ -13370,194 +13550,6 @@
     {
      "name": "Libertatea",
      "url": "https://www.libertatea.ro/stiri/dieta-stricta-a-lui-nikola-tesla-savantul-manca-doar-de-doua-ori-pe-zi-evita-carnea-si-adora-telina-gatita-cu-ceapa-v2vqr5h"
-    }
-   ]
-  },
-  {
-   "id": "auto-8962f3d45329",
-   "title": "Ministrul Neculăescu:Atacuri în Marea Neagră, rachete deasupra Poloniei şi o tentativă de asasinat în Danemarca-apropie şi mai mult aliaţii NATO",
-   "title_ro": "Ministrul Neculăescu:Atacuri în Marea Neagră, rachete deasupra Poloniei şi o tentativă de asasinat în Danemarca-apropie şi mai mult aliaţii NATO",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "politics",
-   "region": "europe",
-   "place": "Denmark",
-   "place_ro": "Danemarca",
-   "publishedAt": "2026-11-20T21:18:20Z",
-   "sources": [
-    {
-     "name": "G4Media",
-     "url": "https://www.g4media.ro/ministrul-neculaescuatacuri-in-marea-neagra-rachete-deasupra-poloniei-si-o-tentativa-de-asasinat-in-danemarca-apropie-si-mai-mult-aliatii-nato.html"
-    },
-    {
-     "name": "Agerpres",
-     "url": "https://agerpres.ro/politic/2026/11/20/neculaescu-atacuri-in-marea-neagra-rachete-deasupra-poloniei-si-o-tentativa-de-asasinat-in-danemarca--1615515"
-    }
-   ]
-  },
-  {
-   "id": "auto-bd3b2bc48688",
-   "title": "Actorul și fostul jucător în MLB Lance Broadway a fost găsit mort în casa scării unui complex de apartamente. Avea 43 de ani",
-   "title_ro": "Actorul și fostul jucător în MLB Lance Broadway a fost găsit mort în casa scării unui complex de apartamente. Avea 43 de ani",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "sport",
-   "region": "world",
-   "place": "World",
-   "place_ro": "Lume",
-   "publishedAt": "2026-11-20T21:18:19Z",
-   "sources": [
-    {
-     "name": "Digi24",
-     "url": "https://www.digi24.ro/stiri/externe/actorul-si-fostul-jucator-in-mlb-lance-broadway-a-fost-gasit-mort-in-casa-scarii-unui-complex-de-apartamente-avea-43-de-ani-4046715"
-    }
-   ]
-  },
-  {
-   "id": "auto-a8cdface3107",
-   "title": "Meciul FC Botoşani-FC Voluntari: Valeriu Iftime despre Croitoru – Va trebui să-l schimbăm acum, nu cred că mai pot să-l ţin",
-   "title_ro": "Meciul FC Botoşani-FC Voluntari: Valeriu Iftime despre Croitoru – Va trebui să-l schimbăm acum, nu cred că mai pot să-l ţin",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "sport",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-20T21:15:56Z",
-   "sources": [
-    {
-     "name": "News.ro",
-     "url": "https://www.news.ro/sport/meciul-fc-botosani-fc-voluntari-valeriu-iftime-despre-croitoru-va-trebui-sa-l-schimbam-acum-nu-cred-ca-mai-pot-sa-l-tin-1922401520562026112323001284"
-    },
-    {
-     "name": "Știri pe surse",
-     "url": "https://www.stiripesurse.ro/valeriu-iftime-s-a-saturat-il-da-afara-pe-marius-croitoru-anuntul-facut-dupa-meciul-cu-fc-voluntari_3938581"
-    }
-   ]
-  },
-  {
-   "id": "auto-426deff7d324",
-   "title": "Cristela Georgescu le-a vorbit italienilor despre momentele grele prin care trece soțul ei, Călin. Invitată la o emisiune TV, a povestit că familia ei duce o luptă pentru democrație",
-   "title_ro": "Cristela Georgescu le-a vorbit italienilor despre momentele grele prin care trece soțul ei, Călin. Invitată la o emisiune TV, a povestit că familia ei duce o luptă pentru democrație",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "politics",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-20T21:14:28Z",
-   "sources": [
-    {
-     "name": "Gândul",
-     "url": "https://www.gandul.ro/actualitate/cristela-georgescu-calin-georgescu-italie-arest-alegeri-anulate-ccr-21070634"
-    }
-   ]
-  },
-  {
-   "id": "auto-9b440116f060",
-   "title": "Încă un judecător american a blocat planul lui Trump de a construi un arc de triumf",
-   "title_ro": "Încă un judecător american a blocat planul lui Trump de a construi un arc de triumf",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "world",
-   "region": "world",
-   "place": "US",
-   "place_ro": "SUA",
-   "publishedAt": "2026-11-20T21:14:24Z",
-   "sources": [
-    {
-     "name": "News.ro",
-     "url": "https://www.news.ro/externe/inca-un-judecator-american-a-blocat-planul-lui-trump-de-a-construi-un-arc-de-triumf-1922401420242026112323001283"
-    }
-   ]
-  },
-  {
-   "id": "auto-e20bae1e612a",
-   "title": "Cum funcționează Greyshark, drona submarină germană cu coadă în X comandată de state europene",
-   "title_ro": "Cum funcționează Greyshark, drona submarină germană cu coadă în X comandată de state europene",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "politics",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-20T21:14:15Z",
-   "sources": [
-    {
-     "name": "Libertatea",
-     "url": "https://www.libertatea.ro/stiri/drona-submarina-greyshark-productie-serie-germania-primele-livrari-guverne-europene-2026-pb3jrfp"
-    }
-   ]
-  },
-  {
-   "id": "auto-baec99806858",
-   "title": "După 16 ani de Viktor Orban, Ungaria începe să recupereze miliardele blocate de Bruxelles: Peter Magyar obține un succes de etapă",
-   "title_ro": "După 16 ani de Viktor Orban, Ungaria începe să recupereze miliardele blocate de Bruxelles: Peter Magyar obține un succes de etapă",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "world",
-   "region": "europe",
-   "place": "Hungary",
-   "place_ro": "Ungaria",
-   "publishedAt": "2026-11-20T21:13:30Z",
-   "sources": [
-    {
-     "name": "Știri pe surse",
-     "url": "https://www.stiripesurse.ro/dupa-16-ani-de-viktor-orban-ungaria-incepe-sa-recupereze-miliardele-blocate-de-bruxelles-peter-magyar-obtine-un-succes-de-etapa_3938513"
-    }
-   ]
-  },
-  {
-   "id": "auto-54aa0b154750",
-   "title": "Cele două cauze ale morții actorului Patrick Stewart, starul din „Star Trek”",
-   "title_ro": "Cele două cauze ale morții actorului Patrick Stewart, starul din „Star Trek”",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "security",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-20T21:10:09Z",
-   "sources": [
-    {
-     "name": "HotNews",
-     "url": "https://hotnews.ro/cele-doua-cauze-ale-mortii-actorului-patrick-stewart-starul-din-star-trek-2410208"
-    }
-   ]
-  },
-  {
-   "id": "auto-d1931cda22ba",
-   "title": "Primarul Belgradului este acuzat că i-a dat un pumn în față unei consiliere din administrația publică. Ce pedeapsă riscă Aleksandar Sapic",
-   "title_ro": "Primarul Belgradului este acuzat că i-a dat un pumn în față unei consiliere din administrația publică. Ce pedeapsă riscă Aleksandar Sapic",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "politics",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-20T21:07:50Z",
-   "sources": [
-    {
-     "name": "Libertatea",
-     "url": "https://www.libertatea.ro/stiri/primarul-belgradului-este-acuzat-ca-i-a-dat-un-pumn-in-fata-unei-consiliere-din-administratia-publica-ce-pedeapsa-risca-aleksandar-sapic-zq4ezmt"
-    }
-   ]
-  },
-  {
-   "id": "auto-2218d6fafe73",
-   "title": "Superliga. Rezultatele şi clasament. Etapa a 16-a",
-   "title_ro": "Superliga. Rezultatele şi clasament. Etapa a 16-a",
-   "summary": "",
-   "summary_ro": "",
-   "topic": "sport",
-   "region": "romania",
-   "place": "Romania",
-   "place_ro": "România",
-   "publishedAt": "2026-11-20T21:07:16Z",
-   "sources": [
-    {
-     "name": "Știri pe surse",
-     "url": "https://www.stiripesurse.ro/superliga-rezultatele-si-clasament-etapa-a-16-a_3938583"
     }
    ]
   }
